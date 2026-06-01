@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-06-01T16:07:43.718Z",
+  "updatedAt": "2026-06-01T17:40:11.950Z",
   "news": {
     "corumsporhaber": [
+      {
+        "title": "Çorum FK için düğünde eller semaya açıldı! İsmail Şanal'ın duası büyük alkış aldı",
+        "summary": "Çorum FK için düğünde eller semaya açıldı! İsmail Şanal'ın duası büyük alkış aldı Yayla Haber",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcEVhQnlsb2RtMDdvY2ZrckRVeE9YWUo4LTd2T0sxRGlmRGJwV3oxX2xua0lQQTBnQWJqeDZqdmwtTnNWY1JTeE55OUxUelBSWFBNNHMwUFFEUWdJVDlZUG1RMmhzLS1maFVTaVBIc1h4MjliV09fbzNvVG1UZE50ZEJlSlpkSm1MdUU4U0F6NmNLNW12RTByaGcxS2FZa0lQSFFFaU42Z3I2bXJ6NkHSAbMBQVVfeXFMTjdmckpIZFZsQ29NMHpNcUJ3YS00Y3ZPWmdnMWgxdWVsUEhhTmh1MUJGRkJXbHZWQU4xWWFyMTA0bnk0aXJvQnV4clRlNWNBUnFtVEZoZldLV1duNi1PSVpaNGhESlRoQkpsZjktLURpZndkQUxSalFBcnRRbTlSRGxoYk5zUE1Lb0NSVm1idERtaW84N2ZxQldTWlVUeG1qRlZOa1VVTWk5WnI5eWtKOEZ4YlU?oc=5",
+        "date": "Mon, 01 Jun 2026 16:27:00 GMT",
+        "source": "Yayla Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
       {
         "title": "İsmail Hoca’nın duası kabul oldu",
         "summary": "İsmail Hoca’nın duası kabul oldu habercim19.com",
@@ -12,7 +24,19 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK’li Üç Oyuncu Aliağa Yolunda",
+        "summary": "Çorum FK’li Üç Oyuncu Aliağa Yolunda Kesin Karar",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2d0dnY1b2dRcHpzMFJNY2FZY3hjREZ5RW82VWF5SVB6Q25LejBqLUE2dXdyZ1JpTDE0Ny1tUl92WHhVX0dIRUFuR1dPSEJtZ3hpeTAyckJuN1gxdm1Mbk9hZ0JPQktFZVllQkVmREFQMWpZTENJb0NKLVdsdGtmOVB3UVbSAYQBQVVfeXFMTzNndHZ2NW9nUXB6czBSTWNhWWN4Y0RGeUVvNlVheUlQekNuS3owai1BNnV3cmdSaUwxNDctbVJfdlh4VV9HSEVBbkdXT0hCbWd4aXkwMnJCbjdYMXZtTG5PYWdCT0JLRWVZZUJFZkRBUDFqWUxDSW9DSi1XbHRrZjlQd1FW?oc=5",
+        "date": "Mon, 01 Jun 2026 13:30:00 GMT",
+        "source": "Kesin Karar",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Çorum FK Başkanı Savaş Balçık: Çorum'un adını daha büyük platformlarda duyurmaya devam edeceğiz",
@@ -24,19 +48,31 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Aliağa FK, Çorum FK'nin üç oyuncusuna talip",
-        "summary": "Aliağa FK, Çorum FK'nin üç oyuncusuna talip Habertürk",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1dQanJwcllwVTZnSDBucTJldW5WY2t6SkdBYXRqOUdLVGJ1SjJNYnJ1Nzk1eTg1bXNLNE8wTmlzeV9zQUZlWWRXU185VmdjaUdwSnZKQ3RVQzB0NlZtV25uQkVhTnp5WnRDTzRvcTUzSGVmZWhBckpfcjhGSmlTYTQ3b3hZVFJVanVEV0d3VXgxZHN6UXFPT0ZUcWlpY1NDV2RXY2ViQmgzSzVk?oc=5",
-        "date": "Mon, 01 Jun 2026 09:27:00 GMT",
-        "source": "Habertürk",
+        "title": "Aliağa FK, Çorum FK’nin üç oyuncusuna talip",
+        "summary": "Aliağa FK, Çorum FK’nin üç oyuncusuna talip Çorum Haber Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBISXZWUFV6SFphcWdwV2NwdWpmMlR5TWJwVXV3NHNkT1Z5SFZUZlgzSGtEVmF0b0hXaUNTRno1UlByVF9wVWRZR2RHeFJ6bVhKS1Vhd3o1bFNxWVdXdklmZFVmclkwUGtvQWtJdUlOS3EtOUY0b2Zn0gF8QVVfeXFMT2g4ZklZV2JrNkc2TzNmOUZYeTJDeWdDdW1rWktDSU9jdExKQ19ueWlBYTlQd25XTjBRVlFaYnhCSzI0bkVvVUp3SHZXeE1OSDE4R2lZc0JFd2VyemltUUl0d0NhZGhlLVJzVmd0TjR1clppdGUwNTI2TS1sRA?oc=5",
+        "date": "Mon, 01 Jun 2026 11:35:00 GMT",
+        "source": "Çorum Haber Gazetesi",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Uğur Uçar’ın Çorum FK karnesi",
+        "summary": "Uğur Uçar’ın Çorum FK karnesi Çorum Hakimiyet",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YVENWRHZMZEx3aGNZV3RHRk4xb0c3MndhZkpTZEprd2tXNWljX2JJMURVX2prR09SR0MxaHNROGJqbU9wQ2wxR0RiTzZKVjk0d2llOUVOcXhHSGF3X3pENnJvWWF1YURueVlz0gFwQVVfeXFMT21UTldyTzdRZWQtaDN6Rmdlb1lKWU1FUUVvRjlRLUJGS0l5OXI5UVN4ZVQ0azhjV1VDTVZTaGlnY1RNZ1R2QmhGcUxOSXBXcXB6RXl2cXMtX0FTbG5GVVR2Z2FRRHRPTVVXdTN0c1pfcg?oc=5",
+        "date": "Mon, 01 Jun 2026 11:15:00 GMT",
+        "source": "Çorum Hakimiyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "İzmir Aliağa FK, Çorum FK’nin Üç Futbolcusunu Transfer Listesine Aldı",
@@ -48,7 +84,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Arca Çorum FK - Eminevim Ümraniyespor Maç Özeti (Video)",
@@ -60,7 +96,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Ajeti’ye Çorum FK kancası",
@@ -72,31 +108,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-      },
-      {
-        "title": "Arda Hilmi Şengül zirvede",
-        "summary": "Arda Hilmi Şengül zirvede Çorum Hakimiyet",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Cb1IxYlRkSTRJNlI1Z09ScFBuRTJlT0d5c1JqaHJLRWo4STJqUXZUdDhlcEFhTlVfYkJMTm5kb3Qtc1lIVGtzNElTalB5YVp2TjBXOGhXamhoSUQ2UnBJQzJmbnJad2_SAWxBVV95cUxNbDlmdFA5M2dRVkZGTXhxWXNxLTJkeWs0WktEaVZhOWY3dUNnM2ZmeG1PRTJBeHkzSTB3VnBkaUpPY2kxajFKak81VDAydkZaakpMZXV2S0tMUjA5dlNrZERESjFESUp4Nzd0TXg?oc=5",
-        "date": "Mon, 01 Jun 2026 03:00:00 GMT",
-        "source": "Çorum Hakimiyet",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-      },
-      {
-        "title": "Kaleye Brezilyalı hamle",
-        "summary": "Kaleye Brezilyalı hamle Çorum Haber Gazetesi",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QSlppV0JDM2dEeldRUEM5NUFxd0JyWEE2a0FuVGVOa04zd2V3WU9TODlQM3pwY2YweFlTSFR1NGxET3hUTDBsOEhFUk8teUtEb3pDNkxZSVUyVS00MkRJ0gFkQVVfeXFMUE5leE03TG5sT2dua0FCb2RnUk4zVUJOc3dIalNmbXNfS0Fjb2w5OGptRUpSSWFKRnA0bWMtQi1EUkZONTRia1pETHBnLXpVUXRMdG12aUE0NXpHbVc3TlQ5cF84RA?oc=5",
-        "date": "Sun, 31 May 2026 21:04:00 GMT",
-        "source": "Çorum Haber Gazetesi",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://www.thesportsdb.com/images/media/player/cutout/dqgwri1777912791.png"
       },
       {
         "title": "Çorum FK aradığı kaleciyi Süper Lig’de buldu!",
@@ -108,7 +120,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Abi-kardeş şampiyon!",
@@ -120,19 +132,31 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK'nın kalesine kim geçecek? Listede iki flaş aday var",
-        "summary": "Çorum FK'nın kalesine kim geçecek? Listede iki flaş aday var yaylahaber.com.tr",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGlUUnViclFzRnBGdm01SE9mamxaWDR3TTVXbHpwVkJtYkt3eS1kUWlEcFVoY2JIVFlvMUhZTlRTel9pd0VRejE4NzNHRURHNGNFaDF3SEc3YTE3RzFNZG1Ba21wek94OGVZX0NCVGhpYmwwZ1ZUS1ZndElJQ05Sd0t6MmRaWkJzMlVyaG1SYzUtUdIBlwFBVV95cUxOUHBzbEN4dXhEcGtkZHl5Sm1IV2VqeFBtenhQaHJ3cHE4Tzg1OVRMWktKRFVRSEJUS2VNT1lsZHp2N3RnYXd0VVM1LTZYbGtoVVdtWnBUUWhVRUVDOTRDLTlza0YzRk9wWGtrVXVkSDFGQnNrblEyNm8tM2J3dHRtTm1JZkw3VV9DN05aNjhEWXp2dDFObU9r?oc=5",
-        "date": "Sun, 31 May 2026 11:49:00 GMT",
-        "source": "yaylahaber.com.tr",
+        "title": "Çorumlu futbolcu Sarıyer’de kaldı",
+        "summary": "Çorumlu futbolcu Sarıyer’de kaldı Çorum Haber Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EVDdOcE43cnZIcXE5UWhZVmJQM0xmbnN3RFFfWTBDVm50WHdjb2pKX0RjRXBQUE9xVkJDVnVObzB3TUJVQ1NiWkxUbTVITUhId21oYTNqN1M0eHdpSGN4TTYxZEdDcW1RQThr0gFwQVVfeXFMTml2WGJUY3VTZUI1WGZveDl1TGE5NEFXcGNyaWZfTWpUVy10aWFfNm4wNGo5V3VBNjUwYnBmRXdEVURUbWhqRjlrOHpQYm9QNEhVNjBUbDhveDU5NWl0ZnpYZndNbWt3SHZPb2xmVlJxcA?oc=5",
+        "date": "Sun, 31 May 2026 13:15:00 GMT",
+        "source": "Çorum Haber Gazetesi",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK taraftarı dönüş yolunda ölümden döndü",
+        "summary": "Çorum FK taraftarı dönüş yolunda ölümden döndü Yayla Haber",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdi1pSlQxQzItY2wxQm1uX05wbWdTcVh1b09Ldzl2dTQ0MDdUWXNTNkczWVBCVWtEa1Z2RTBYQmtBbmJjdlY0aDlCbmVVY1o3TlRscndSY01sR1llVnZZeGxZZFRTaU5YNnpqQmJONW43RzdyZ3ZRTHIwZ25USG83eTVn0gGHAUFVX3lxTE1nR2xyOTlvMU9rM1NaTUl3bDV3ekwwcV9RcVhVZ0JaX193MHVfamliajFsYUk5UDU3dzBkTHJWRXRMSHk3X09aUmFnNmh1WDJleWNoOTBJcHpwRlo1aTJYQ2dWekF2TDc2bFN6eldfY0dCY0NKT3lpMWpLWXI2TU9iRmxPRmc0Yw?oc=5",
+        "date": "Sun, 31 May 2026 11:25:00 GMT",
+        "source": "Yayla Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Bilal Bayazit Kayserispor'dan ayrıldı, Süper Lig'in yeni ekibi peşine düştü",
@@ -144,7 +168,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "ARCA ÇORUM FK",
@@ -156,7 +180,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Süper Lig'e çıkan Çorum FK ilk transferini eski rakibinden yapacak",
@@ -168,7 +192,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Erokspor'u yenerek Süper Lig'e çıkan Çorum FK'ya kötü haber: TFF duyurdu",
@@ -180,19 +204,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-      },
-      {
-        "title": "Oğuzhan Yalçın’ı öyle bir yazdı ki…",
-        "summary": "Oğuzhan Yalçın’ı öyle bir yazdı ki… habercim19.com",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJQ0JzeV9EaGFITzJIS2paVV92Z25mQjhRVk4xbWxlWk1VOW9KRHQ3X190SVA3WEZNdW1VM0pabUVxckRuYmVUNFJvdVlLbmRNdm5kTlljVU5RNzYyY1dCVmFsa09LQWJFSHNpbVkwdTNfdklQcHpudHdRaw?oc=5",
-        "date": "Tue, 26 May 2026 16:59:00 GMT",
-        "source": "habercim19.com",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Çorumspor Süper Lig’de",
@@ -204,7 +216,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Hoş geldin Çorumspor",
@@ -216,7 +228,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Esenler Erokspor",
@@ -228,19 +240,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
-      },
-      {
-        "title": "(ÖZET) Çorum FK finalde Erokspor'u mağlup etti! Süper Lig'e yükselen son takım oldu | Esenler Erokspor - Çorum FK maç sonucu: 0-2",
-        "summary": "(ÖZET) Çorum FK finalde Erokspor'u mağlup etti! Süper Lig'e yükselen son takım oldu | Esenler Erokspor - Çorum FK maç sonucu: 0-2 Fanatik",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSEl0aEpiVmVPaEtHTU5sbkdDQkJEVGdJTjRuOGpjbk1Pa2NRZExJZE9YNjFRX3hYYXFONkpITUF2bHpNNVM0dmhmTHZsODhpNTB2Q1AwOXRVZG9sTFhNZnZ4MHJzWVNBQjRiVGxnRFFHVzJZcUJ5cXh5SGg1d2lHMUdqY1pTcUxWRm92cm4tMk93MW1aTm1BczRwaThDdDU4R21mX1ZqNkwxTGZfS3RTejJNLW5zWFdKQVdkYXlOQWNOUnBUSkFROXRHTGFfY0w3djJUR2hPUHplR3dSdEE?oc=5",
-        "date": "Sun, 24 May 2026 19:09:50 GMT",
-        "source": "Fanatik",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Esenler Erokspor 0-2 Çorum FK (Süper Lig'e yükselen son takım Çorum FK oldu)",
@@ -252,7 +252,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Cumhurbaşkanı Erdoğan, Süper Lig'e yükselen Çorum FK'yı tebrik etti",
@@ -264,7 +264,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Süper Lig’e çıkan son takım Çorum FK oldu! İlk kez yükseldiler",
@@ -276,7 +276,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Esenler Erokspor'u yenen Çorum FK Süper Lig'e yükselen son takım oldu!",
@@ -288,7 +288,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Esenler Erokspor - Çorum FK maçı hangi kanalda, saat kaçta?",
@@ -300,7 +300,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Esenler Erokspor'u 2 golle geçen Çorum FK Süper Lig'de! - Ülke TV",
@@ -312,7 +312,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "ESENLER EROKSPOR - ARCA ÇORUMSPOR CANLI İZLE! Esenler Erokspor - Çorum FK maçı saat kaçta, hangi kanalda?",
@@ -324,7 +324,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Erokspor-Çorum FK maçı saat kaçta, hangi kanalda ve şifresiz mi yayınlanacak? 79. Süper Lig ekibi belli oluyor",
@@ -336,7 +336,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Trendyol Süper Lig'e Yükselen Arca Çorum FK, Kupasını Aldı",
@@ -348,7 +348,7 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
         "title": "Çorum FK, Süper Lig’e yükseldi",
@@ -360,10 +360,23 @@
         "lang": "tr",
         "category": "corumsporhaber",
         "feedImage": null,
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       }
     ],
     "milli": [
+      {
+        "title": "A Milli Takım Teknik Direktörü Vincenzo Montella: Kadro tesliminde zorlandım!",
+        "summary": "A Milli Takımımız, Dünya Kupası hazırlıkları kapsamında Chobani Stadyumu'nda Kuzey Makedonya'yı konuk ediyor. Karşılaşma öncesinde teknik direktör Vincenzo Montella açıklamalarda bulundu. İşte o sözler...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/video-haber/videoizle/a-milli-takim-teknik-direktoru-vincenzo-montella-kadro-tesliminde-zorlandim",
+        "date": "Mon, 01 Jun 2026 19:41:13 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/880bc5/1200/675/0/0/1920/1080?u=https://iftm.tmgrup.com.tr/2026/06/01/a-milli-takim-teknik-direktoru-vincenzo-montella-kadro-tesliminde-zorlandim-1780332047516.jpeg",
+        "category": "milli",
+        "image": "https://iaftm.tmgrup.com.tr/880bc5/1200/675/0/0/1920/1080?u=https://iftm.tmgrup.com.tr/2026/06/01/a-milli-takim-teknik-direktoru-vincenzo-montella-kadro-tesliminde-zorlandim-1780332047516.jpeg"
+      },
       {
         "title": "A Milli Takım'ın rakibi Paraguay'ın Dünya Kupası kadrosu açıklandı",
         "summary": "A Milli Futbol Takımı'nın 2026 Dünya Kupası D Grubu'ndaki rakiplerinden olan Paraguay'ın 26 kişilik turnuva kadrosu açıklandı.Devamı için tıklayınız",
@@ -379,7 +392,7 @@
       },
       {
         "title": "ATV CANLI İZLE | Türkiye - Kuzey Makedonya maçı! A Milli Futbol Takımı, 2026 Dünya Kupası öncesi sahada",
-        "summary": "A Milli Futbol Takımı, 2026 Dünya Kupası öncesi hazırlık maçında Kuzey Makedonya ile karşı karşıya gelecek. Müsabaka ATV ekranlarından naklen ve şifresiz yayınlanacak. Maçın canlı yayınını ve anlatımını...Devamı için tıklayınız",
+        "summary": "A Milli Futbol Takımı, 2026 Dünya Kupası öncesi hazırlık maçında Kuzey Makedonya ile karşı karşıya geliyor. Müsabaka ATV ekranlarından naklen ve şifresiz yayınlanıyor. Maçın canlı yayınını ve anlatımını...Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/atv-canli-izle-turkiye-kuzey-makedonya-maci-a-milli-futbol-takimi-2026-dunya-kupasi-oncesi-sahada",
         "date": "Mon, 01 Jun 2026 16:49:19 +0300",
         "source": "Sabah Spor",
@@ -428,22 +441,22 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d690f724fc2d42785a17e.jpg",
         "category": "milli",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d690f724fc2d42785a17e.jpg"
-      },
-      {
-        "title": "A Milli Takımımız sahaya iniyor! İşte Montella'nın Kuzey Makedonya maçı 11'i",
-        "summary": "A Milli Takımımız, FIFA 2026 Dünya Kupası öncesi hazırlıklarına hız kesmeden devam ediyor. Milliler ilk hazırlık provasında bugün Kuzey Makedonya ile kozlarını paylaşacak. Bu mücadele öncesi tüm önemli...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/millitakim/2026/06/01/a-milli-takimimiz-sahaya-iniyor-iste-montellanin-kuzey-makedonya-maci-11i",
-        "date": "Mon, 01 Jun 2026 10:40:34 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/42a84c/1200/675/0/72/800/522?u=https://iftm.tmgrup.com.tr/2026/06/01/a-milli-takimimiz-sahaya-iniyor-iste-montellanin-kuzey-makedonya-maci-11i-1780299581452.jpeg",
-        "category": "milli",
-        "image": "https://iaftm.tmgrup.com.tr/42a84c/1200/675/0/72/800/522?u=https://iftm.tmgrup.com.tr/2026/06/01/a-milli-takimimiz-sahaya-iniyor-iste-montellanin-kuzey-makedonya-maci-11i-1780299581452.jpeg"
       }
     ],
     "superlig": [
+      {
+        "title": "SON DAKİKA BALIKESİR HABERİ: Yolcu otobüsünün önünü kesen 3 kişi gözaltında",
+        "summary": "Olay, gece yarısı Güre ile Akçay mahalleleri mevkisi E-87 kara yolunda meydana geldi. İddiaya göre, M.O.'nun kullandığı 34 KS 418 plakalı şehirler arası yolcu otobüsü seyir halindeyken, arkasından gelen R.M.Ö. idaresindeki 17 ZB 46 plakalı otomobil tarafından uzun süre takip edildi. Otomobil sürücünün Güre Mahallesi yakınlarında otobüsün önüne kırarak aracı durdurdu. Otomobilden inen R.M.Ö. ile F.K. ve suça sürüklenen çocuk A.K.K. otobüsün sileceklerine zarar verdi. Olayın ardından otobüs şoförü kapıları kapatarak yoluna devam etti. O anlar yolcular tarafından cep telefonu kamerasıyla kaydedildi. Şüpheliler, otobüsü Akçay Otogarı’na kadar takip ederek tacize devam etti. İhbar üzerine harekete geçen Edremit İlçe Emniyet Müdürlüğü Akçay Polis Merkezi Amirliği ekipleri, şüphelileri Akçay Otogarı’nda gözaltına aldı. 657 BiN TL CEZA Yapılan kontrolde sürücü R.M.Ö.’nün 4.11 promil alkollü olduğu tespit edildi. Sürücü ve araçta bulunan kişilere, trafikte saldırı amaçlı ısrarlı takip ve araçtan inme, sürücü belgesini yanında bulundurmadan araç kullanma ve alkollü araç kullanma suçlarından toplam 657 bin 719 TL idari para cezası uygulandı. Ayrıca sürücünün ehliyetine 8 ay süreyle el konulurken, otomobil 60 gün trafikten menedildi. Gözaltına alınan R.M.Ö., F.K. ve A.K.K.’nin polisteki işlemleri sürüyor. Cumhurbaşkanı Erdoğan: Ana muhalefet içindeki tartışma bizi ilgilendirmiyor Süper Lig maçlarını korsan yayınlayan Selçuksports'un sahibi Denizli'de yakalandı!",
+        "link": "",
+        "date": "Mon, 01 Jun 2026 17:31:47  Z",
+        "source": "Milliyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": null,
+        "category": "superlig",
+        "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1200&q=85"
+      },
       {
         "title": "Göztepe'de kaptan belirsiz!",
         "summary": "Süper Lig'de yeni sezon öncesi iç transferde 3 oyuncuyla yollarını resmi olarak ayıran Göztepe'de tecrübeli takım kaptanı İsmail Köybaşı'nın kariyeriyle ilgili kararı bekleniyor.Devamı için tıklayınız",
@@ -456,19 +469,6 @@
         "feedImage": "https://iasbh.tmgrup.com.tr/b5c3c3/1200/675/0/0/1500/843?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/goztepede-kaptan-belirsiz-1780328843102.jpeg",
         "category": "superlig",
         "image": "https://iasbh.tmgrup.com.tr/b5c3c3/1200/675/0/0/1500/843?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/goztepede-kaptan-belirsiz-1780328843102.jpeg"
-      },
-      {
-        "title": "Süper Lig maçlarını korsan yayınlayan Selçuksports'un sahibi Denizli'de yakalandı!",
-        "summary": "Süper Lig maçlarını kaçak yayınladığı ve kullanıcıları yasa dışı bahis sitelerine yönlendirdiği öne sürülen 'Selçuksports' isimli internet sitesinin yöneticisi olduğu belirlenen şüpheli, Denizli’de yakalanarak İstanbul’a sevk edildi. Al Jazeera: Erdoğan durumu tersine çevirdi! Avrupa'nın Türkiye'ye neden ihtiyacı var? 'SELÇUKSPORTS’UN YÖNETİCİSİ YAKALANDI' İstanbul Cumhuriyet Başsavcılığı, Siber Suçlarla Mücadele Şube Müdürlüğü ve MİT Bölge Başkanlığı’nın koordineli çalışmaları sonucunda, Türkiye Süper Ligi karşılaşmalarını kaçak olarak yayınladığı belirlenen internet sitesine yönelik operasyon düzenlendi. Yapılan çalışmalarda, kullanıcıların ücret ve abonelik karşılığında izleyebildiği Süper Lig maçlarını izinsiz şekilde yayınladığı tespit edilen \"Selçuksports\" isimli internet sitesine giriş yapan kişilerin aynı zamanda yasa dışı bahis sitelerine yönlendirildiği belirlendi. Yürütülen araştırmalar sonucunda sitenin yöneticisinin Selçuk Y. olduğu tespit edildi. Şüpheli, Denizli’nin Pamukkale ilçesinde düzenlenen operasyonla yakalanarak gözaltına alındı. Şüphelinin İstanbul’a sevk edilmesinin ardından adli işlemlerinin İstanbul Cumhuriyet Başsavcılığı tarafından yürütüleceği öğrenildi. Özgür Özel cephesinden ilk resmi hamle! Kurultay için harekete geçti: İmzalar toplanıyor",
-        "link": "",
-        "date": "Mon, 01 Jun 2026 13:56:37  Z",
-        "source": "Milliyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": null,
-        "category": "superlig",
-        "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=1200&q=85"
       },
       {
         "title": "Trabzonspor, Sidny Cabral transferinde mutlu sona ulaştı! İşte anlaşma detayları",
@@ -495,19 +495,6 @@
         "feedImage": "https://iaftm.tmgrup.com.tr/dd2785/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/06/01/galatasarayda-yildiz-ismin-20-milyon-euronun-altina-satilmasi-yasak-1780315279205.jpeg",
         "category": "superlig",
         "image": "https://iaftm.tmgrup.com.tr/dd2785/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/06/01/galatasarayda-yildiz-ismin-20-milyon-euronun-altina-satilmasi-yasak-1780315279205.jpeg"
-      },
-      {
-        "title": "Fenerbahçe'de flaş Mert Hakan Yandaş gelişmesi! 15 gün içerisinde...",
-        "summary": "Süper Lig devlerinden Fenerbahçe'de geleceği merak konusu haline gelen Mert Hakan Yandaş ile ilgili sıcak gelişmeler yaşanıyor. Son olarak sarı-lacivertlilerde futbolcu hakkında dikkat çeken o gerçek gün...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/01/fenerbahcede-flas-mert-hakan-yandas-gelismesi-15-gun-icerisinde",
-        "date": "Mon, 01 Jun 2026 09:32:04 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/f7a329/1200/675/0/108/800/558?u=https://iftm.tmgrup.com.tr/2026/06/01/fenerbahcede-flas-mert-hakan-yandas-gelismesi-15-gun-icerisinde-1780295452103.jpeg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/f7a329/1200/675/0/108/800/558?u=https://iftm.tmgrup.com.tr/2026/06/01/fenerbahcede-flas-mert-hakan-yandas-gelismesi-15-gun-icerisinde-1780295452103.jpeg"
       }
     ],
     "transfer": [
@@ -523,6 +510,19 @@
         "feedImage": "https://iaftm.tmgrup.com.tr/c21bc4/1200/675/0/0/1197/674?u=https://iftm.tmgrup.com.tr/2026/06/01/muriqi-transferinde-son-dakika-gelismesi-menajeri-mallorcaya-geldi-ve-1780326837995.jpeg",
         "category": "transfer",
         "image": "https://iaftm.tmgrup.com.tr/c21bc4/1200/675/0/0/1197/674?u=https://iftm.tmgrup.com.tr/2026/06/01/muriqi-transferinde-son-dakika-gelismesi-menajeri-mallorcaya-geldi-ve-1780326837995.jpeg"
+      },
+      {
+        "title": "Transfer dönemi önizlemesi: Avrupa'nın büyük kulübü ne yapıyor?",
+        "summary": "Transfer dönemi Avrupa genelinde Haziran ve Temmuz aylarında açılacak, peki önde gelen kulüpler ne planlıyor? Kim gelir? Kim gidecek?",
+        "link": "https://www.espn.com/soccer/story/_/id/48833479/transfer-window-preview-do-europes-big-clubs-need",
+        "date": "Mon, 1 Jun 2026 08:50:55 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "transfer",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0521%2Fr1661406_1296x729_16%2D9.jpg"
       },
       {
         "title": "Borussia Dortmund'dan sürpriz Guirassy açıklaması! Fenerbahçe'ye transferi gündemdeydi...",
@@ -603,6 +603,19 @@
         "image": "https://iaftm.tmgrup.com.tr/ed1150/1200/675/0/222/1500/1065?u=https://iftm.tmgrup.com.tr/2026/06/01/galatasaraydan-transferde-orta-sahaya-40-milyon-euroluk-yildiz-1780302814303.jpeg"
       },
       {
+        "title": "İskoçya Premier Ligi'nin giriş ve çıkışları - şu ana kadar onaylanan anlaşmalar...",
+        "summary": "Yaz transfer dönemi 15 Haziran'da açılıyor ve 1 Eylül'de İngiltere saatiyle 23:00'te kapanıyor. İskoçya Premiership'te kimin hareket halinde olduğunu öğrenin.",
+        "link": "https://www.skysports.com/football/news/12040/13548430/transfer-news-summer-transfer-window-2026-scottish-premiership-deals-ins-and-outs",
+        "date": "Mon, 01 Jun 2026 12:00:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "transfer",
+        "image": "https://e0.365dm.com/26/05/1600x900/skysports-scottish-premiership_7259556.jpg?20260527152650"
+      },
+      {
         "title": "Galatasaraylıları heyecanlandıran haber! Mertens geri mi dönüyor?",
         "summary": "Galatasaray'da çok önemli başarılara imza atan ve sarı-kırmızılı taraftarların büyük sevgisini kazanan Dries Mertens ile ilgili önemli gelişmeler yaşanıyor. Son olarak Belçikalı yıldızın sarı-kırmızılılara...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/galatasaray/2026/06/01/galatasaraylilari-heyecanlandiran-haber-mertens-geri-mi-donuyor",
@@ -627,22 +640,100 @@
         "feedImage": "https://iaftm.tmgrup.com.tr/b8ae3a/1200/675/0/0/573/323?u=https://iftm.tmgrup.com.tr/2026/06/01/torinodan-istanbula-uzanan-transfer-hatti-fenerbahce-galatasaray-ve-juventus-1780300252698.png",
         "category": "transfer",
         "image": "https://iaftm.tmgrup.com.tr/b8ae3a/1200/675/0/0/573/323?u=https://iftm.tmgrup.com.tr/2026/06/01/torinodan-istanbula-uzanan-transfer-hatti-fenerbahce-galatasaray-ve-juventus-1780300252698.png"
+      }
+    ],
+    "worldcup": [
+      {
+        "title": "Kaynaklar: Fransız Saliba'nın Dünya Kupası'na katılması şüpheli",
+        "summary": "ESPN'e konuşan kaynaklar, Arsenal ve Fransız defans oyuncusu William Saliba'nın birkaç hafta önce sırtını sakatladıktan sonra Dünya Kupası'na katılma konusunda oldukça şüpheli olduğunu söyledi.",
+        "link": "https://www.espn.com/soccer/story/_/id/48938049/france-william-saliba-doubtful-world-cup-sources",
+        "date": "Mon, 1 Jun 2026 13:35:58 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0601%2Fr1666600_1296x729_16%2D9.jpg"
       },
       {
-        "title": "İskoçya Premier Ligi'nin giriş ve çıkışları - şu ana kadar onaylanan anlaşmalar...",
-        "summary": "Yaz transfer dönemi 15 Haziran'da açılıyor ve 1 Eylül'de İngiltere saatiyle 23:00'te kapanıyor. İskoçya Premiership'te kimin hareket halinde olduğunu öğrenin.",
-        "link": "https://www.skysports.com/football/news/12040/13548430/transfer-news-summer-transfer-window-2026-scottish-premiership-deals-ins-and-outs",
-        "date": "Mon, 01 Jun 2026 12:00:00 BST",
-        "source": "Sky Sports",
+        "title": "Rodri: Geleceğimi Dünya Kupası'ndan sonra tartışacağım",
+        "summary": "Manchester City'nin orta saha oyuncusu Rodri, yaz aylarında Real Madrid'e transfer olmasıyla bağlantılı olarak geleceğini tartışmadan önce \"Dünya Kupası'nın bitmesini bekleyeceğini\" söyledi.",
+        "link": "https://www.espn.com/soccer/story/_/id/48938327/rodri-wait-world-cup-discuss-future",
+        "date": "Mon, 1 Jun 2026 13:35:58 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0601%2Fr1666621_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "Neves: Jota'nın hatırası Portekiz'i güçlü tutacak",
+        "summary": "Portekiz, bu yaz Dünya Kupası'nda oynayacağı maçta Diogo Jota'nın anısından güç alacak.",
+        "link": "https://www.espn.com/soccer/story/_/id/48939481/portugal-draw-memory-diogo-jota-strength-world-cup-neves",
+        "date": "Mon, 1 Jun 2026 13:35:58 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0919%2Fr1547841_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "✅ Şu ana kadar açıklanan tüm 2026 Dünya Kupası kadroları",
+        "summary": "İşte 1 Haziran'daki son tarihten önce açıklanan Dünya Kupası kadro listesi.",
+        "link": "https://www.espn.com/soccer/story/_/id/48757621/2026-world-cup-squad-lists-players-announced-all-48-teams",
+        "date": "Mon, 1 Jun 2026 13:35:58 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0320%2Fr1630980_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "Rodri, Dünya Kupası sonrasında Manchester City'nin geleceğini belirleyecek",
+        "summary": "Manchester City'nin orta saha oyuncusu Rodri, Real Madrid bağlantısı nedeniyle kulüpteki geleceğini belirlemek için Dünya Kupası sonrasına kadar bekleyeceğini söyledi.",
+        "link": "https://www.bbc.com/sport/football/articles/c8e8z4k4d97o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 01 Jun 2026 17:04:09 GMT",
+        "source": "BBC Sport",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "lang": "en",
         "cat": "en",
         "feedImage": null,
-        "category": "transfer",
-        "image": "https://e0.365dm.com/26/05/1600x900/skysports-scottish-premiership_7259556.jpg?20260527152650"
-      }
-    ],
-    "worldcup": [
+        "category": "worldcup",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7dd5/live/a2ef8a90-5dd9-11f1-a574-05510226f57f.jpg"
+      },
+      {
+        "title": "Türkiye - Kuzey Makedonya maçı CANLI İZLE | Milli Maç CANLI",
+        "summary": "A Millî Futbol Takımımız, Dünya Kupası öncesi ilk hazırlık maçında Kuzey Makedonya ile karşı karşıya geliyor. İstanbul Chobani Stadyumu (Fenerbahçe Şükrü Saracoğlu Spor Kompleksi) ev sahipliğinde oynanan...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/millitakim/2026/06/01/milli-mac-ne-zaman-turkiye-kuzey-makedonya-canli-yayin-1780330866",
+        "date": "Mon, 01 Jun 2026 19:06:09 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/ecfd5d/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2026/06/01/milli-mac-ne-zaman-turkiye-kuzey-makedonya-canli-yayin-1780334345397.jpeg",
+        "category": "worldcup",
+        "image": "https://iaftm.tmgrup.com.tr/ecfd5d/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2026/06/01/milli-mac-ne-zaman-turkiye-kuzey-makedonya-canli-yayin-1780334345397.jpeg"
+      },
+      {
+        "title": "USMNT, Senegal'i yenerek Dünya Kupası'na ivme kazandırdı",
+        "summary": "Mauricio Pochettino'nun bu takımla ilgili planları netleşmeye başlıyor.",
+        "link": "https://www.espn.com/soccer/story/_/id/48931409/usmnt-builds-world-cup-momentum-beating-senegal-questions-remain",
+        "date": "Mon, 1 Jun 2026 10:25:26 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0531%2Fr1666427_1296x729_16%2D9.jpg"
+      },
       {
         "title": "Curaçao Dünya Kupası 2026 takım rehberi",
         "summary": "Dünya Kupası'na ulaşan en küçük ulus, Dick Advocaat'ın en yaşlı koçu tarafından yönlendirilecek. Bu makale, kalifiye olan 48 ülkeden en iyi medya kuruluşlarından bazılarının işbirliğiyle oluşturulan Guardian'ın 2026 Dünya Kupası Uzmanları Ağı'nın bir parçasıdır. theguardian.com, 11 Haziran'da başlayacak turnuva öncesinde her gün üç ülkeden önizlemeler yayınlıyor. Okumaya devam edin...",
@@ -707,102 +798,24 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d57ca724fc2d42785a108.jpg",
         "category": "worldcup",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d57ca724fc2d42785a108.jpg"
-      },
-      {
-        "title": "2026 FIFA Dünya Kupası'nda A Grubu: Çekya",
-        "summary": "Çekya, daha önce 9 defa katıldığı Dünya Kupası'nda üçüncü kez yeni bir isimle mücadele edecek.",
-        "link": "https://www.hurriyet.com.tr/sporarena/2026-fifa-dunya-kupasinda-a-grubu-cekya-43189587",
-        "date": "Mon, 01 Jun 2026 09:48:18 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d5548724fc2d42785a0f6.jpg",
-        "category": "worldcup",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d5548724fc2d42785a0f6.jpg"
-      },
-      {
-        "title": "Fildişi Sahili 2026 Dünya Kupası takım rehberi",
-        "summary": "12 yıl sonra dünya sahnesine geri dönen 2023 Afrika şampiyonu hırslı ve hücumda birçok seçeneğe sahip Bu makale, kalifiye olan 48 ülkeden en iyi medya kuruluşlarından bazılarının işbirliğiyle oluşturulan Guardian'ın 2026 Dünya Kupası Uzmanları Ağı'nın bir parçası. theguardian.com, 11 Haziran'da başlayacak turnuva öncesinde her gün üç ülkeden önizlemeler yayınlıyor. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jun/01/cote-divoire-world-cup-2026-team-guide",
-        "date": "Mon, 01 Jun 2026 07:00:10 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/c0a7153025c2209099ffba38d4ee0e86f59f6eb0/723_699_2412_1930/master/2412.jpg?width=140&quality=85&auto=format&fit=max&s=fdf6a4ac0dce0e8523a8ca27ee97c0b1",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/c0a7153025c2209099ffba38d4ee0e86f59f6eb0/723_699_2412_1930/master/2412.jpg?width=140&quality=85&auto=format&fit=max&s=fdf6a4ac0dce0e8523a8ca27ee97c0b1"
-      },
-      {
-        "title": "Direncin üstesinden gelmek - Ancelotti'nin Brezilya'yı canlandırma girişimi",
-        "summary": "Carlo Ancelotti, ülkeyi Dünya Kupası zaferine döndürmek için Brezilya halkının desteğini kazanmak ve kaosu sakinleştirmek zorundaydı.",
-        "link": "https://www.bbc.com/sport/football/articles/cp8pxyknglgo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 05:49:39 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c19b/live/1071fe90-5b55-11f1-a62b-2f41c7c3a318.jpg"
-      },
-      {
-        "title": "En harika Dünya Kupası formaları ve onları ikonik yapan şey",
-        "summary": "Şimdiye kadarki en iyi Dünya Kupası formaları nelerdir ve onları ikonik yapan şey nedir? BBC Sport burada tüm zamanların en iyi 10'u arasında yer alıyor.",
-        "link": "https://www.bbc.com/sport/football/articles/cdxp7gy2ljro?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 05:16:37 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e942/live/7695aa30-5d9b-11f1-b199-9da46582c1b0.jpg"
-      },
-      {
-        "title": "Tuchel: İngiltere'nin Dünya Kupası'nı kazanabileceğine inancım tam",
-        "summary": "Thomas Tuchel, kendisinin ve İngiliz oyuncularının Dünya Kupası'nı kazanabileceklerine \"tam olarak inandıklarını\" söyledi.",
-        "link": "https://www.skysports.com/football/news/12040/13549709/world-cup-2026-england-boss-thomas-tuchel-has-full-belief-his-side-can-mount-serious-challenge-to-win-tournament",
-        "date": "Mon, 01 Jun 2026 08:00:00 BST",
-        "source": "Sky Sports",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://e0.365dm.com/26/06/1600x900/skysports-harry-kane-declan-rice_7262687.jpg?20260601084147"
-      },
-      {
-        "title": "2026 Dünya Kupası: Ev sahibi ülkelerin üçlüsünün stadyumlarını gösteren görsel bir rehber",
-        "summary": "ABD, Meksika ve Kanada'daki 16 ev sahibi stadyum hakkında bilmeniz gereken her şey 2026 Dünya Kupası şimdiye kadarki en büyük turnuvadır ve bu nedenle her zamankinden daha fazla ülkede daha fazla stadyumu kapsamaktadır. Bu yazın büyük maçlarına toplam 16 mekan ev sahipliği yapacak ve her birinin kendi şehrinde sporun dünü, bugünü ve geleceği hakkında anlatacak bir hikayesi var. Yönetim kurulunun temiz mekan kurallarına aykırı olan sponsorlu isimler yerine Fifa onaylı isimleri kullandığımız için stadyum isimleri tanıdık gelmeyebilir. Avustralya v Türkiye, 13 Haziran Kanada v Katar, 18 Haziran Yeni Zelanda v Mısır, 21 Haziran İsviçre v Kanada, 24 Haziran Yeni Zelanda v Belçika, 26 Haziran 32. Tur, 2 Temmuz (1B v 3EFGIJ) 16. Tur, 7 Temmuz (W85 v W87) Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jun/01/world-cup-2026-stadium-guide",
-        "date": "Mon, 01 Jun 2026 05:00:09 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/fe96a9015f9fc77e253fcfdf3b81818d8eb17eb1/0_0_2500_2000/master/2500.png?width=140&quality=85&auto=format&fit=max&s=a58ca9dc950b77f8641891ddb05f786b",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/fe96a9015f9fc77e253fcfdf3b81818d8eb17eb1/0_0_2500_2000/master/2500.png?width=140&quality=85&auto=format&fit=max&s=a58ca9dc950b77f8641891ddb05f786b"
-      },
-      {
-        "title": "Avustralya Dünya Kupası 2026 takım rehberi",
-        "summary": "Tony Popovic, Socceroos'un bir Dünya Kupası'nda ilk nakavt galibiyetini hedeflemesi nedeniyle disiplin ve yapı getirdi. Bu makale, kalifiye olan 48 ülkeden en iyi medya kuruluşlarından bazılarının işbirliğiyle oluşturulan Guardian'ın 2026 Dünya Kupası Uzmanları Ağı'nın bir parçasıdır. theguardian.com, 11 Haziran'da başlayacak turnuva öncesinde her gün üç ülkeden önizlemeler yayınlıyor. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jun/01/australia-world-cup-2026-team-guide",
-        "date": "Sun, 31 May 2026 23:01:00 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/d53b727ddc8f99a9b9bf7f430a5201e389a29f92/495_0_4743_3795/master/4743.jpg?width=140&quality=85&auto=format&fit=max&s=36c9778440e3b080710f438470eda3df",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/d53b727ddc8f99a9b9bf7f430a5201e389a29f92/495_0_4743_3795/master/4743.jpg?width=140&quality=85&auto=format&fit=max&s=36c9778440e3b080710f438470eda3df"
       }
     ],
     "magazine": [
       {
-        "title": "'Sen efsanesin. Yönetici bunu sevdi' - Southampton'ın Spygate WhatsApps'ı ortaya çıktı",
+        "title": "Rekor sahibi Milner, 24 PL sezonunun ardından emekli oluyor",
+        "summary": "James Milner profesyonel futbolu bıraktığını duyurdu.",
+        "link": "https://www.espn.com/soccer/story/_/id/48936909/james-milner-retires-24-premier-league-seasons",
+        "date": "Mon, 1 Jun 2026 13:35:58 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "magazine",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0226%2Fr1620477_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "'Sen efsanesin. Yönetici bunu sevdi' - Southampton'ın Spygate WhatsApp'ları ortaya çıktı",
         "summary": "Yeni WhatsApp mesajları, Southampton'ın Şampiyonluktaki rakiplerine karşı nasıl bir casusluk kampanyası düzenlediğini ortaya çıkardı.",
         "link": "https://www.bbc.com/sport/football/articles/cd7pqgxvy0po?at_medium=RSS&at_campaign=rss",
         "date": "Mon, 01 Jun 2026 15:31:42 GMT",
@@ -815,7 +828,7 @@
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/adaf/live/4092e8f0-5dcb-11f1-8f26-6789fbd8337d.jpg"
       },
       {
-        "title": "Rekor sahibi Milner 24 yıllık kariyerinin ardından emekli oluyor",
+        "title": "Rekortmen Milner 24 yıllık kariyerinin ardından emekli oluyor",
         "summary": "Eski İngiltere milli takımı oyuncusu James Milner, 24 yıllık Premier Lig kariyerinin ardından emekli olduğunu duyurdu.",
         "link": "https://www.bbc.com/sport/football/articles/clyp4jmyym0o?at_medium=RSS&at_campaign=rss",
         "date": "Mon, 01 Jun 2026 08:14:00 GMT",
@@ -838,10 +851,75 @@
         "cat": "en",
         "feedImage": null,
         "category": "magazine",
-        "image": "https://e0.365dm.com/26/02/1600x900/skysports-james-milner-brighton_7170959.jpg?20260601123752"
+        "image": "https://e0.365dm.com/26/06/1600x900/skysports-james-milner-brighton_7263128.jpg?20260601171537"
       }
     ],
     "general": [
+      {
+        "title": "Fernandes: 'Man U'da daha fazlasını kazanmak istedim'",
+        "summary": "Bruno Fernandes, Manchester United'da geçirdiği süre boyunca daha fazla kupa kazanmayı beklediğini ancak kulübün Michael Carrick yönetimindeki geleceği konusunda iyimser olduğunu ifade etti.",
+        "link": "https://www.espn.com/soccer/story/_/id/48937702/bruno-fernandes-wanted-won-more-man-united",
+        "date": "Mon, 1 Jun 2026 13:35:58 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0601%2Fr1666585_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "Madrid başkanının rakibi: Pérez 'çizgiyi aştı'",
+        "summary": "Real Madrid başkan adayı Enrique Riquelme, Florentino Pérez'in kulübün yüzde 5'ini bir yatırımcıya satma teklifiyle \"kırmızı çizgiyi aştığını\" söyledi.",
+        "link": "https://www.espn.com/soccer/story/_/id/48937276/florentino-perez-crossed-line-real-madrid-president-candidate-enrique-riquelme",
+        "date": "Mon, 1 Jun 2026 13:35:58 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0601%2Fr1666568_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "Rice'tan Arsenal'i eleştirenlere: 'Her yerde kıskançlık'",
+        "summary": "Declan Rice ve Noni Madueke, Şampiyonlar Ligi finalindeki yenilgilerinin ardından Arsenal'i eleştirenlere yanıt verdi.",
+        "link": "https://www.espn.com/soccer/story/_/id/48937473/declan-rice-blasts-jealously-everywhere-arsenal-detractors",
+        "date": "Mon, 1 Jun 2026 13:35:58 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0601%2Fr1666572_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "Keegan dördüncü aşama kanser teşhisini açıkladı",
+        "summary": "Eski İngiltere kaptanı ve menajeri Kevin Keegan dördüncü evre kansere yakalandığını açıkladı.",
+        "link": "https://www.bbc.com/sport/football/articles/cx21zjnjd2go?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 01 Jun 2026 16:49:26 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9d4a/live/08046f70-5d19-11f1-b92d-7b8c872d5807.jpg"
+      },
+      {
+        "title": "BBC Sport uygulamasında Kısa Videolarla tanışın",
+        "summary": "Çarpıcı gollerden şok edici röportajlara ve unutulmaz kutlamalara kadar bazı spor anları sadece okunmak için değil, izlenmek için de yapılıyor; BBC Sport'un kısa videoları başlatmasının nedeni de bu.",
+        "link": "https://www.bbc.com/sport/articles/cwy27j59rwdo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 01 Jun 2026 16:45:30 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9074/live/7f6ce520-5ddb-11f1-a574-05510226f57f.jpg"
+      },
       {
         "title": "Aziz Yıldırım, Anıtkabir'i ziyaret etti!",
         "summary": "Fenerbahçe Başkan Adayı Aziz Yıldırım ve yönetim kurulu üyeleri Anıtkabir’i ziyaret etti.Devamı için tıklayınız",
@@ -857,7 +935,7 @@
       },
       {
         "title": "Arsenal - PSG, ücretsiz yayınlanmadığı için İngiltere'de 16,2 milyon yasa dışı yayın görüntüsü aldı",
-        "summary": "Analistler, yasadışı görüntülemelerin izini Birleşik Krallık Şampiyonlar Ligi finalinde 7 milyondan fazla kişi tarafından yasal olarak izlenen 3,7 milyon IP adresine kadar uzanıyor Arsenal'in Şampiyonlar Ligi finalinde Paris Saint Germain'e yenilmesi, ücretsiz olarak yayınlanmadığı için Birleşik Krallık'taki yasa dışı yayınlarda 16,2 milyondan fazla görüntüleme aldı. Teknoloji analisti Gaming Compliance International (GCI) tarafından Guardian için gerçekleştirilen analiz, 3,7 milyon benzersiz IP adresine kadar takip edilen, 90 saniyeden uzun 16,2 milyon yasa dışı yayın izlemenin gerçekleştiğini gösteriyor. Final, TNT Sports ve HBO Max'te yasal olarak 7 milyondan fazla kişi tarafından izlendi. Okumaya devam edin...",
+        "summary": "Analistler, yasal olarak 7 milyondan fazla kişi tarafından izlenen Birleşik Krallık Şampiyonlar Ligi finalindeki 3,7 milyon IP adresine kadar yasa dışı görüntülemelerin izini sürüyor Arsenal'in Şampiyonlar Ligi finalinde Paris Saint-Germain'e yenilmesi, ücretsiz yayınlanmamasının ardından Birleşik Krallık'taki yasa dışı yayınlarda 16,2 milyondan fazla görüntüleme çekti. Teknoloji analisti Gaming Compliance International (GCI) tarafından Guardian için gerçekleştirilen analiz, 3,7 milyon benzersiz IP adresine kadar takip edilen, 90 saniyeden uzun 16,2 milyon yasa dışı yayın izlemenin gerçekleştiğini gösteriyor. Final, TNT Sports ve HBO Max'te yasal olarak 7 milyondan fazla kişi tarafından izlendi. Okumaya devam edin...",
         "link": "https://www.theguardian.com/football/2026/jun/01/arsenal-psg-illegal-stream-views-tnt-champions-league-final",
         "date": "Mon, 01 Jun 2026 15:40:48 GMT",
         "source": "The Guardian",
@@ -867,6 +945,32 @@
         "feedImage": "https://i.guim.co.uk/img/media/20b463f24a57f722e928cb0e651f6f5d4e8df579/552_150_4063_3250/master/4063.jpg?width=140&quality=85&auto=format&fit=max&s=fd15d64c2de3a6acbae2cd45070f8aaa",
         "category": "general",
         "image": "https://i.guim.co.uk/img/media/20b463f24a57f722e928cb0e651f6f5d4e8df579/552_150_4063_3250/master/4063.jpg?width=140&quality=85&auto=format&fit=max&s=fd15d64c2de3a6acbae2cd45070f8aaa"
+      },
+      {
+        "title": "Arsenal'in 63 maçlık devasa sezonunda: Premier Lig zaferi, UCL'de kalp kırıklığı",
+        "summary": "Arsenal'in Premier Lig şampiyonluğunu kazanması yıllar süren bir süreç oldu. ESPN ilk kez onları zirveye taşıyan stratejiyi ortaya çıkarabildi.",
+        "link": "https://www.espn.com/soccer/story/_/id/48936926/inside-arsenal-mammoth-63game-season-premier-league-glory-ucl-heartbreak",
+        "date": "Mon, 1 Jun 2026 10:39:11 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0507%2Fr1654660_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "'Bu bir başlangıç ​​noktası': ABD Futbolunun yeni evi...",
+        "summary": "ABD Futbolu hiçbir zaman oyuncuları için kalıcı bir yuvaya sahip olmadı. Artık öyle ve geleceğin yıldızlarının ve antrenörlerinin oyunu öğrenme şeklini değiştirecek gibi görünüyor.",
+        "link": "https://www.espn.com/soccer/story/_/id/48903308/this-starting-point-us-soccer-new-home-help-grow-game",
+        "date": "Mon, 1 Jun 2026 10:25:26 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0531%2Fr1666238_2_1296x729_16%2D9.jpg"
       },
       {
         "title": "SWPL kazananı Hearts, Thomson'ı baş antrenör olarak atadı",
@@ -921,19 +1025,6 @@
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d8dc3a1511859b7aed876.jpg"
       },
       {
-        "title": "Galatasaray yönetiminde görev dağılımı yapıldı",
-        "summary": "Galatasaray’ın 93’üncü Dönem Yönetim Kurulu’nda görev dağılımı belli oldu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/galatasaray-yonetiminde-gorev-dagilimi-yapildi",
-        "date": "Mon, 01 Jun 2026 16:28:26 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/72af98/1200/675/0/0/2048/1152?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/galatasaray-yonetiminde-gorev-dagilimi-yapildi-1780320481126.jpg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/72af98/1200/675/0/0/2048/1152?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/galatasaray-yonetiminde-gorev-dagilimi-yapildi-1780320481126.jpg"
-      },
-      {
         "title": "Arsenal zafer yürüyüşünde altı kişi bıçaklandı",
         "summary": "Metropolitan Polisi, Pazar günü geçit töreni güzergahı boyunca veya yakınında 24 kişinin tutuklandığını söyledi.",
         "link": "https://www.bbc.com/news/articles/c78qpe866pxo?at_medium=RSS&at_campaign=rss",
@@ -961,7 +1052,7 @@
       },
       {
         "title": "Liverpool neden Iraola'yı istiyor ve Anfield'a neler getirebilir?",
-        "summary": "Liverpool neden Andoni Iraola'nın Kırmızılar'ı yeniden Avrupa'nın en iyi kulüplerinden biri haline getirecek adam olduğuna inanıyor?",
+        "summary": "Liverpool neden Andoni Iraola'nın Reds'i Avrupa'nın en iyi kulüplerinden biri olarak yeniden kuracak adam olduğuna inanıyor?",
         "link": "https://www.bbc.com/sport/football/articles/cy823pj9v93o?at_medium=RSS&at_campaign=rss",
         "date": "Mon, 01 Jun 2026 12:45:05 GMT",
         "source": "BBC Sport",
@@ -971,84 +1062,6 @@
         "feedImage": null,
         "category": "general",
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe96/live/f3062b40-5da9-11f1-8132-9508271dd882.jpg"
-      },
-      {
-        "title": "Stockport patronu Challinor, League One kulübünden ayrıldı",
-        "summary": "Stockport County yöneticisi Dave Challinor, neredeyse beş yıl görev yaptıktan sonra karşılıklı rıza ile kulüpten ayrıldı.",
-        "link": "https://www.bbc.com/sport/football/articles/ce3prl257ywo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 12:41:08 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b220/live/9063b2c0-5db6-11f1-8b6d-5b89cbb85786.jpg"
-      },
-      {
-        "title": "Fenerbahçe'den ayrılacak mı? Diego Carlos için resmi açıklama!",
-        "summary": "Fenerbahçe'den sezon başında İtalya'nın Como takımına kiralanan Diego Carlos'un geleceği netleşmeye başladı. Como Sportif Direktörü Carlalberto Ludi, Brezilyalı savunmacının durumu hakkında açıklamalarda...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/01/fenerbahceden-ayrilacak-mi-diego-carlos-icin-resmi-aciklama",
-        "date": "Mon, 01 Jun 2026 15:31:58 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/c320fa/1200/675/0/0/1230/692?u=https://iftm.tmgrup.com.tr/2026/06/01/fenerbahceden-ayrilacak-mi-diego-carlosun-icin-resmi-aciklama-1780317053905.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/c320fa/1200/675/0/0/1230/692?u=https://iftm.tmgrup.com.tr/2026/06/01/fenerbahceden-ayrilacak-mi-diego-carlosun-icin-resmi-aciklama-1780317053905.jpeg"
-      },
-      {
-        "title": "Keegan dördüncü aşama kanser teşhisini açıkladı",
-        "summary": "Eski İngiltere kaptanı ve menajeri Kevin Keegan dördüncü evre kansere yakalandığını açıkladı.",
-        "link": "https://www.bbc.com/sport/football/articles/cx21zjnjd2go?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 12:04:34 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9d4a/live/08046f70-5d19-11f1-b92d-7b8c872d5807.jpg"
-      },
-      {
-        "title": "Andoni Iraola, Liverpool'un havasını geri kazanmasına yardımcı olacak doğru teknik direktör gibi görünüyor | Ben Fisher",
-        "summary": "Bask, Bournemouth'unu muhteşem bir şekilde izlenebilir hale getirdi; bu, Arne Slot'un uysal şampiyonluk savunması Bravery'den sonra Kırmızıların ihtiyaç duyduğu şeydi. Andoni Iraola ile yakın çevrede çalışmış olanlarla yapılan sohbetlerde yinelenen tema ve onlara göre onu diğerlerinden ayıran şey bu. Bournemouth takımının Premier Lig'i aydınlatma tarzından da bu açıkça görülüyordu. Liverpool'un sportif direktörü Richard Hughes daha önce de buradaydı. Ancak bu sefer, Iraola'dan Gary O'Neil'in yerine geçmesini ve güvenli bir şekilde mücadele eden bir takımı devralmasını istemek yerine, gezegendeki en büyük kulüplerden birini yenilemek ve onları şampiyon yapan havayı yeniden keşfetmelerine yardımcı olmak gerekiyor. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jun/01/andoni-iraola-liverpool-arne-slot-premier-league-bournemouth",
-        "date": "Mon, 01 Jun 2026 11:30:15 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/61bffc552d61edef87311ce1c97f4f3ddae9958c/682_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=7693f9e6b39136c5b3bf7765ee8433b8",
-        "category": "general",
-        "image": "https://i.guim.co.uk/img/media/61bffc552d61edef87311ce1c97f4f3ddae9958c/682_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=7693f9e6b39136c5b3bf7765ee8433b8"
-      },
-      {
-        "title": "Büyük kalabalık, Kuzey Londra'daki Arsenal kupa geçit törenini fotoğraflarla izliyor",
-        "summary": "Taraftarlar, önceki gece Şampiyonlar Ligi finalini PSG'ye kaptırarak 22 yıl aradan sonra ilk Premier Lig şampiyonluğunu kutladılar. Okumaya devam et...",
-        "link": "https://www.theguardian.com/sport/gallery/2026/jun/01/arsenal-trophy-parade-north-london-in-pictures",
-        "date": "Mon, 01 Jun 2026 10:00:14 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/afe2c85c9c4ee063d7f7d4c8239cea6b1fd7d1c2/896_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=113aa6f404ecb1e644c59fc747e0665b",
-        "category": "general",
-        "image": "https://i.guim.co.uk/img/media/afe2c85c9c4ee063d7f7d4c8239cea6b1fd7d1c2/896_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=113aa6f404ecb1e644c59fc747e0665b"
-      },
-      {
-        "title": "Fenerbahçe başkan adayı Hakan Safi'den bir kez daha Conte hamlesi!",
-        "summary": "Fenerbahçe başkan adayı Hakan Safi'den flaş hamleler gelmeye devam ediyor. Safi'nin son olarak teknik direktör için gündemine aldığı Antonio Conte ile bir kez daha görüşeceği öğrenildi.Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/01/fenerbahce-baskan-adayi-hakan-safiden-bir-kez-daha-conte-hamlesi",
-        "date": "Mon, 01 Jun 2026 12:09:01 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/663ad5/1200/675/0/0/1500/844?u=https://iftm.tmgrup.com.tr/2026/06/01/fenerbahce-baskan-adayi-hakan-safiden-bir-kez-daha-conte-hamlesi-1780305693811.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/663ad5/1200/675/0/0/1500/844?u=https://iftm.tmgrup.com.tr/2026/06/01/fenerbahce-baskan-adayi-hakan-safiden-bir-kez-daha-conte-hamlesi-1780305693811.jpeg"
       }
     ]
   },
@@ -3070,7 +3083,7 @@
           "homeCrest": "https://crests.football-data.org/787.svg",
           "awayCrest": "https://crests.football-data.org/791.svg",
           "date": "2026-06-14T23:00:00Z",
-          "status": "TIMED",
+          "status": "SCHEDULED",
           "timeframe": "upcoming",
           "score": null,
           "halfTime": null,
