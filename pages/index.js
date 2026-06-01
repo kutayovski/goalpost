@@ -34,6 +34,25 @@ export default function Home({ data }) {
   const [activeMatch, setActiveMatch]     = useState(null);
   const [activeCountry, setActiveCountry] = useState(null);
 
+  // ── Canlı tarih/saat — sadece client tarafında (hydration crash önlenir) ──
+  const [today, setToday]         = useState("");
+  const [liveTime, setLiveTime]   = useState("");
+  const [mounted, setMounted]     = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+    const tick = () => {
+      const now = new Date();
+      setToday(now.toLocaleDateString("tr-TR", {
+        weekday: "long", year: "numeric", month: "long", day: "numeric",
+      }));
+      setLiveTime(now.toLocaleTimeString("tr-TR", { hour: "2-digit", minute: "2-digit", second: "2-digit" }));
+    };
+    tick();
+    const t = setInterval(tick, 1000);
+    return () => clearInterval(t);
+  }, []);
+
   const news = data?.news || {};
   const rawMatches = data?.matches;
   const matches = (rawMatches && !Array.isArray(rawMatches))
@@ -52,10 +71,6 @@ export default function Home({ data }) {
     "🔴⚫ Çorum FK Süper Lig'de!",
   ];
 
-  const today = new Date().toLocaleDateString("tr-TR", {
-    weekday: "long", year: "numeric", month: "long", day: "numeric",
-  });
-
   const fixtureList = matches[fixTab] || [];
 
   // Gündem = general + magazine birleşimi
@@ -70,9 +85,20 @@ export default function Home({ data }) {
       <header style={{ background: "#0a0a0a", borderBottom: "3px solid var(--yellow)", position: "sticky", top: 0, zIndex: 100 }}>
         <div style={{ maxWidth: "1120px", margin: "0 auto", padding: "0 20px" }}>
           <div style={{ display: "flex", justifyContent: "space-between", padding: "7px 0", borderBottom: "1px solid #181818" }}>
-            <span style={{ color: "#333", fontSize: "11px", fontFamily: "var(--font-mono)" }}>{today.toUpperCase()}</span>
+            {/* Canlı tarih — sadece mounted sonrası (hydration mismatch yok) */}
+            <span style={{ color: "#444", fontSize: "11px", fontFamily: "var(--font-mono)" }}>
+              {mounted ? today.toUpperCase() : ""}
+            </span>
             <div style={{ display: "flex", gap: "16px", alignItems: "center" }}>
-              <span style={{ color: "#333", fontSize: "11px", fontFamily: "var(--font-mono)" }}>🟢 {updatedAt}</span>
+              {/* Canlı saat */}
+              {mounted && (
+                <span style={{ color: "var(--yellow)", fontSize: "12px", fontFamily: "var(--font-mono)", fontWeight: "700", letterSpacing: "1px" }}>
+                  🕐 {liveTime}
+                </span>
+              )}
+              <span style={{ color: "#333", fontSize: "11px", fontFamily: "var(--font-mono)" }}>
+                🟢 {mounted ? updatedAt : ""}
+              </span>
               <a href="/admin" style={{ color: "var(--yellow)", fontSize: "10px", fontFamily: "var(--font-mono)", letterSpacing: "1px" }}>
                 🐦 TWEET PANELİ
               </a>

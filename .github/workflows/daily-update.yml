@@ -1,8 +1,6 @@
 # .github/workflows/daily-update.yml
 # GOALPOST — günde 4 kez otomatik veri güncellemesi.
 # TAMAMEN ÜCRETSİZ: GitHub Actions ücretsiz tier (aylık 2000 dk) fazlasıyla yeterli.
-# Hiçbir ödemeli servis / Claude API kullanılmaz — tahminler lib/analysis.js ile
-# football-data.org'un ücretsiz verisinden istatistiksel olarak üretilir.
 
 name: Daily Football Data Update
 
@@ -13,10 +11,10 @@ on:
   workflow_dispatch:   # Actions sekmesinden manuel tetikleme
 
 permissions:
-  contents: write       # football.json commit/push için gerekli
+  contents: write
 
 jobs:
-  fetch-and-commit:
+  fetch-and-deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
@@ -33,7 +31,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fetch football data (RSS + football-data.org + ücretsiz analiz)
+      - name: Fetch football data
         env:
           FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
         run: node lib/fetchData.js
@@ -44,8 +42,21 @@ jobs:
           git config --global user.email "bot@goalpost.app"
           git add public/data/football.json
           if git diff --staged --quiet; then
-            echo "Değişiklik yok, commit atlanıyor."
+            echo "Veri değişmedi, commit atlanıyor."
           else
             git commit -m "🤖 Otomatik veri güncellemesi $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
+            echo "✅ Veri güncellendi ve push edildi"
           fi
+
+      # Vercel Deploy Hook — push olmasa bile Vercel'i yeniden build etmeye zorlar.
+      # Kurulum: Vercel Dashboard → Settings → Git → Deploy Hooks → "github-actions" hook oluştur
+      # Oluşan URL'yi GitHub → Settings → Secrets → VERCEL_DEPLOY_HOOK_URL olarak kaydet.
+      - name: Trigger Vercel redeploy
+        if: ${{ secrets.VERCEL_DEPLOY_HOOK_URL != '' }}
+        run: |
+          curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}" \
+            -H "Content-Type: application/json" \
+            -d '{"reason":"Scheduled data update"}' \
+            && echo "✅ Vercel redeploy tetiklendi" \
+            || echo "⚠️  Vercel hook başarısız (devam ediliyor)"
