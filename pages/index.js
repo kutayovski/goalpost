@@ -107,9 +107,54 @@ export default function Home({ data }) {
   };
 
   const rawMatches = data?.matches;
-  const matches = (rawMatches && !Array.isArray(rawMatches))
+  const staticMatches = (rawMatches && !Array.isArray(rawMatches))
     ? rawMatches
     : { live: [], upcoming: [], past: Array.isArray(rawMatches) ? rawMatches : STATIC_MATCHES };
+
+  // Canlı maç state — /api/live-matches her 60 sn'de poll edilir
+  const [liveFixtures, setLiveFixtures] = useState(null);
+  const matchPollRef = useRef(null);
+
+  useEffect(() => {
+    const fetchLive = async () => {
+      try {
+        const r = await fetch("/api/live-matches");
+        if (!r.ok) return;
+        const d = await r.json();
+        if (d.matches) setLiveFixtures(d.matches);
+      } catch (e) { /* sessizce geç */ }
+    };
+    fetchLive();
+    matchPollRef.current = setInterval(fetchLive, 60_000);
+    return () => clearInterval(matchPollRef.current);
+  }, []);
+
+  // Canlı API (skor/durum güncel) + statik veri (form/analiz zengin) MERGE:
+  // ID bazlı: statik temel, canlı API üstüne yazar
+  const mergeMatchArrays = (fresh, static_, sortFn) => {
+    const map = new Map();
+    for (const m of (static_ || [])) map.set(m.id, m);
+    for (const m of (fresh   || [])) map.set(m.id, { ...(map.get(m.id) || {}), ...m });
+    return [...map.values()].sort(sortFn);
+  };
+
+  const liveIds = new Set((liveFixtures?.live || []).map(m => m.id));
+
+  const matches = {
+    live: liveFixtures
+      ? liveFixtures.live.map(lm => ({ ...(staticMatches.upcoming?.find(s => s.id === lm.id) || {}), ...lm }))
+      : staticMatches.live || [],
+    upcoming: mergeMatchArrays(
+      liveFixtures?.upcoming,
+      (staticMatches.upcoming || []).filter(m => !liveIds.has(m.id)),
+      (a, b) => new Date(a.date) - new Date(b.date)
+    ),
+    past: mergeMatchArrays(
+      liveFixtures?.past?.slice(0, 40),
+      staticMatches.past,
+      (a, b) => new Date(b.date) - new Date(a.date)
+    ),
+  };
 
   const updatedAt = data?.updatedAt
     ? new Date(data.updatedAt).toLocaleString("tr-TR")
@@ -270,7 +315,29 @@ export default function Home({ data }) {
         {/* FİKSTÜR */}
         {tab === "fikstur" && (
           <div style={{ animation: "fadeUp 0.3s ease both" }}>
-            <SectionHeader title="Fikstürler & Sonuçlar" subtitle="Maça tıkla — ücretsiz istatistiksel analiz & tahmin" />
+            <SectionHeader
+              title="Fikstürler & Sonuçlar"
+              subtitle={
+                liveFixtures
+                  ? `Gerçek zamanlı · ${new Date(liveFixtures.fetchedAt || Date.now()).toLocaleTimeString("tr-TR", { hour: "2-digit", minute: "2-digit" })} itibarıyla · Maça tıkla → istatistiksel analiz`
+                  : "Maça tıkla — istatistiksel analiz & tahmin"
+              }
+            />
+
+            {/* Canlı maç varsa uyarı bandı */}
+            {matches.live.length > 0 && (
+              <div style={{
+                background: "#1a0000", border: "1px solid #500",
+                borderLeft: "4px solid #c0392b",
+                padding: "10px 16px", marginBottom: "2px",
+                fontFamily: "var(--font-mono)", fontSize: "11px", color: "#e55",
+                display: "flex", alignItems: "center", gap: "10px",
+              }}>
+                <span style={{ animation: "pulse 1.5s ease-in-out infinite" }}>🔴</span>
+                <span>{matches.live.length} maç şu anda oynuyor — her 60 saniyede güncelleniyor</span>
+              </div>
+            )}
+
             <div style={{ display: "flex", gap: "2px", marginBottom: "2px" }}>
               {FIXTURE_TABS.map(t => {
                 const count = (matches[t.id] || []).length;
@@ -281,8 +348,16 @@ export default function Home({ data }) {
                       color: fixTab === t.id ? "#0a0a0a" : "var(--muted)", border: "1px solid var(--border)",
                       padding: "11px 8px", fontFamily: "var(--font-mono)", fontSize: "11px",
                       fontWeight: "700", cursor: "pointer",
+                      position: "relative",
                     }}>
                     {t.label} ({count})
+                    {t.id === "live" && count > 0 && (
+                      <span style={{
+                        position: "absolute", top: "4px", right: "4px",
+                        width: "6px", height: "6px", borderRadius: "50%",
+                        background: "#c0392b",
+                      }} />
+                    )}
                   </button>
                 );
               })}
@@ -290,12 +365,22 @@ export default function Home({ data }) {
             <div style={{ background: "var(--card)", border: "1px solid var(--border)" }}>
               {fixtureList.length === 0 ? (
                 <div style={{ padding: "40px", textAlign: "center", fontFamily: "var(--font-mono)", fontSize: "12px", color: "var(--muted)" }}>
-                  {fixTab === "live" ? "Şu anda canlı maç yok." : "Bu kategoride maç bulunamadı."}
+                  {fixTab === "live"
+                    ? liveFixtures
+                      ? "Şu anda takip edilen liglerde canlı maç yok."
+                      : "Canlı maçlar yükleniyor..."
+                    : "Bu kategoride maç bulunamadı."}
                 </div>
               ) : (
                 fixtureList.map((m, i) => <FixtureRow key={m.id || i} match={m} onOpenDetail={() => setActiveMatch(m)} />)
               )}
             </div>
+
+            {fixTab === "live" && liveFixtures && (
+              <div style={{ textAlign: "right", padding: "6px 4px 0", fontFamily: "var(--font-mono)", fontSize: "9px", color: "#2a2a2a" }}>
+                Son güncelleme: {new Date(liveFixtures.fetchedAt).toLocaleTimeString("tr-TR")} · PL · LaLiga · Bundesliga · SerieA · Ligue1 · CL
+              </div>
+            )}
           </div>
         )}
 
