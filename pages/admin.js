@@ -24,29 +24,183 @@ const CAT_PREFIX = {
   magazine:       "⭐ MAGAZİN",
 };
 
-// Tweet metni (başlık + kısa özet) — URL ayrı eklenir (Twitter t.co = 23 kar)
-// Toplam tweet = text (max 250) + boşluk + url (23) = 273 < 280
-function buildTweetText(item, catId) {
-  const prefix   = CAT_PREFIX[catId] || "⚽ FUTBOL";
-  const title    = (item.title || "").trim();
-  const hashtags = (CATEGORIES.find(c => c.id === catId)?.hashtags || ["Futbol"])
-    .map(h => `#${h}`).join(" ");
+// ─── Viral Tweet Motoru ──────────────────────────────────────────────────────
+// Kural tabanlı (AI yok), başlık + özetten çarpıcı X paylaşımı üretir.
+// Format: HOOK → Ana Mesaj → Merak/CTA → Hashtag
 
-  // Özeti 120 karaktere kısalt, cümle sınırında kes
-  const rawSummary = (item.summary || "").replace(/\s+/g, " ").trim();
-  let shortSummary = rawSummary;
-  if (shortSummary.length > 120) {
-    const cut = shortSummary.slice(0, 120);
-    shortSummary = (cut.lastIndexOf(" ") > 80 ? cut.slice(0, cut.lastIndexOf(" ")) : cut) + "…";
+// Haber türü tespiti
+const STORY_SIGNALS = {
+  transfer_bomb: ["bomba","imzala","anlaşt","transfer etti","resmen","bonservis","sözleşme imzal","transferi tamam","kesinleşti","açıkladı","anlaşma sağland"],
+  transfer_rumor: ["talip","istiyor","peşinde","gündemde","görüşme","teklif","listede","ilgileniyor","transfer görüşme"],
+  match_win:    ["galip","kazandı","mağlup etti","3 puan","galibiyet","yendi"],
+  match_draw:   ["berabere","puan paylaştı","golsüz","draw"],
+  match_loss:   ["mağlup","kaybetti","yenildi","fark yedi"],
+  goal_hero:    ["hat-trick","gol attı","harika gol","muhteşem gol","vuruş"],
+  injury:       ["sakatlık","sakatlandı","ameliyat","kadro dışı","uzak kalacak","kaybetti"],
+  squad_out:    ["ayrıldı","veda","yollar ayrıldı","sözleşmesi feshedildi","kadrodan çıkarıldı","gönderildi"],
+  press_conf:   ["açıkladı","konuştu","dedi ki","söyledi","açıklamasında","basın toplantısı"],
+  record:       ["rekor","tarihe geçti","ilk kez","tarihinde ilk","efsane","eşsiz"],
+  controversy:  ["tartışma","tepki","kırmızı kart","hakem","skandal","şikaye","ceza"],
+  ranking:      ["zirve","lider","düştü","yükseldi","puan tablosu","sıralama"],
+};
+
+function detectStory(text) {
+  const t = text.toLowerCase();
+  for (const [type, signals] of Object.entries(STORY_SIGNALS)) {
+    if (signals.some(s => t.includes(s))) return type;
+  }
+  return "general";
+}
+
+// Özetten en güçlü cümleyi seç (sayı, tırnak içereni tercih et)
+// Eğer özet başlığı tekrar ediyorsa boş döner (gereksiz yineleme engeli)
+function extractKeySentence(summary, title, maxLen = 100) {
+  if (!summary) return "";
+
+  // Özet = başlık + kaynak adı kalıbını temizle (Google News)
+  const cleanSummary = summary
+    .replace(/\s+/g, " ")
+    .replace(new RegExp(title.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").slice(0, 30), "i"), "")
+    .trim();
+
+  // Çok kısa veya sadece kaynak adı kaldıysa atla
+  if (cleanSummary.length < 25) return "";
+
+  const sents = cleanSummary
+    .split(/(?<=[.!?])\s+/)
+    .map(s => s.trim())
+    .filter(s => s.length > 20 && s.length < 180);
+
+  if (!sents.length) {
+    // Tek paragraf: kısalt
+    const t = cleanSummary.slice(0, maxLen);
+    return cleanSummary.length > maxLen ? t.slice(0, t.lastIndexOf(" ") || maxLen) + "…" : t;
   }
 
-  // Format: Prefix | Başlık \n\n Özet \n\n #Hashtags
-  // URL ayrıca &url= param ile eklenir
-  const body = shortSummary
-    ? `${prefix}\n\n${title}\n\n${shortSummary}\n\n${hashtags}`
-    : `${prefix}\n\n${title}\n\n${hashtags}`;
+  // Tırnak (alıntı) içereni önce al — en viral format
+  const quoted = sents.find(s => /["«»'"]/.test(s));
+  if (quoted) {
+    const c = quoted.slice(0, maxLen);
+    return quoted.length > maxLen ? c.slice(0, c.lastIndexOf(" ") || maxLen) + "…" : c;
+  }
+  // Sayı içereni tercih et (istatistik, para, skor)
+  const numeric = sents.find(s => /\d/.test(s));
+  const chosen  = numeric || sents[0];
+  const c = chosen.slice(0, maxLen);
+  return chosen.length > maxLen ? c.slice(0, c.lastIndexOf(" ") || maxLen) + "…" : c;
+}
 
-  return body.slice(0, 250);
+// Kategori + hikaye tipine göre hook seç
+function pickHook(storyType, catId, title) {
+  const t = title.toLowerCase();
+  const hooks = {
+    transfer_bomb: ["💣 BOMBA TRANSFER!", "🚨 TRANSFER TAMAM!", "⚡ RESMEN AÇIKLANDI!", "🔥 SON DAKİKA TRANSFER!"],
+    transfer_rumor: ["👀 TRANSFER GÜNDEMDE!", "🔍 YAKLAŞIYOR...", "💬 KULİS BİLGİSİ:", "🤔 KİM OLACAK?"],
+    match_win:    ["⚽ BÜYÜK GALİBİYET!", "🏆 3 PUAN TAMAM!", "💪 KESİN ÜSTÜNLÜK!"],
+    match_draw:   ["🤝 PUANLAR PAYLAŞILDI", "📊 BERABERLİK SONUCU..."],
+    match_loss:   ["😔 AĞIR YENILGI", "📉 KÖTÜ GECİ..."],
+    goal_hero:    ["⚽ MUHTEŞEM GOL!", "🌟 YILDIZ PARADI!", "🎯 HAT-TRİCK!"],
+    injury:       ["🚑 SAKАТLIK HABERI", "❌ KADRO DIŞI!"],
+    squad_out:    ["👋 VEDA VAKTİ", "🔄 YOLLAR AYRILIYOR..."],
+    press_conf:   ["🎤 RESMİ AÇIKLAMA:", "📢 DUYURULDU:"],
+    record:       ["📈 TARİHİ REKOR!", "🏅 TARİHE GEÇTİ!"],
+    controversy:  ["🔥 TARTIŞMA YARATTI!", "😡 BÜYÜK TEPKİ!", "⚠️ SKANDAL!"],
+    ranking:      ["📊 PUAN TABLOSU", "📈 ZİRVE HAREKETİ!"],
+    general:      ["📰 SON DAKİKA", "⚡ GELİŞME", "🎯 DİKKAT", "🔔 DUYURU"],
+  };
+
+  // Çorum FK için özel hooklar (daha enerjik, ünlem)
+  if (catId === "corumsporhaber") {
+    const corumHooks = {
+      transfer_bomb: ["🚨 ÇORUM FK'DA TRANSFER TAMAM!", "💣 BOMBA! ÇORUM FK RESMEN AÇIKLADI!", "🔴⚫ ÇORUM FK'DAN BÜYÜK HAMLE!"],
+      transfer_rumor: ["👀 ÇORUM FK HAREKETLENİYOR!", "🔍 ÇORUM FK'NIN YENİ HEDEFİ...", "⚡ ÇORUM FK PEŞINDE!"],
+      match_win:    ["💪 ÇORUM FK 3 PUANI ALDI!", "🔴⚫ ÇORUM FK KAZANDI!", "⚽ ÇORUM FK'DAN BÜYÜK GALİBİYET!"],
+      match_draw:   ["🤝 ÇORUM FK PUAN PAYLAŞTI"],
+      match_loss:   ["😤 ÇORUM FK YENİLDİ — NEDEN?"],
+      press_conf:   ["🎤 ÇORUM FK'DAN RESMİ AÇIKLAMA!", "📢 ÇORUM FK YÖNETİMİ KONUŞTU!"],
+      squad_out:    ["👋 ÇORUM FK'DA BÜYÜK VEDA!", "🔄 ÇORUM FK'DAN AYRILIK!"],
+      injury:       ["🚑 ÇORUM FK'DA SAKАТLIK HABERI!"],
+      record:       ["📈 TARİHİ BAŞARI! ÇORUM FK"],
+      controversy:  ["🔥 ÇORUM FK'DA BÜYÜK TARTIŞMA!"],
+      general:      ["🔴⚫ ÇORUM FK", "⚡ ÇORUM FK'DAN SON DAKİKA!", "📌 ÇORUM FK"],
+    };
+    const catHooks = corumHooks[storyType] || corumHooks.general;
+    return catHooks[Math.floor(Date.now() / 10000) % catHooks.length];
+  }
+
+  const typeHooks = hooks[storyType] || hooks.general;
+  return typeHooks[Math.floor(Date.now() / 10000) % typeHooks.length];
+}
+
+// Merak uyandıran CTA (Call-to-Action)
+function pickCTA(storyType) {
+  const ctas = {
+    transfer_bomb: ["Detayları okumak için ↓", "Kim, kaça, nereye? ↓"],
+    transfer_rumor: ["Son gelişmeler için ↓", "Peki gerçekleşecek mi? 👇"],
+    match_win: ["Maç özeti için ↓", "Gol anları için ↓"],
+    goal_hero: ["İzlemek için ↓", "Gol anı için ↓"],
+    injury: ["Son durum için ↓", "Açıklama için ↓"],
+    squad_out: ["Ayrılık detayları ↓"],
+    press_conf: ["Tüm açıklama için ↓"],
+    controversy: ["Ne düşünüyorsunuz? 👇", "Siz ne diyorsunuz? 🗣️"],
+    record: ["Tarihi başarı için ↓"],
+    general: ["👇", "Devamı için ↓", "Detaylar için ↓"],
+  };
+  const list = ctas[storyType] || ctas.general;
+  return list[Math.floor(Date.now() / 8000) % list.length];
+}
+
+// ─── Ana viral tweet builder ──────────────────────────────────────────────────
+function buildTweetText(item, catId) {
+  const title     = (item.title || "").trim();
+  const summary   = (item.summary || "").replace(/\s+/g, " ").trim();
+  const combined  = title + " " + summary;
+  const hashtags  = (CATEGORIES.find(c => c.id === catId)?.hashtags || ["Futbol"])
+    .map(h => `#${h}`).join(" ");
+
+  const storyType  = detectStory(combined);
+  const hook       = pickHook(storyType, catId, title);
+  const keySent    = extractKeySentence(summary, title);
+  const cta        = pickCTA(storyType);
+
+  // Başlığı kısalt + merak uyandıracak şekilde düzenle
+  let shortTitle = title
+    .replace(/\s*[-–—]\s*\w+\.(?:com|net|org|tr)\S*/gi, "") // kaynak adını sil
+    .replace(/\s*\|\s*\w+\.(?:com|net|org|tr)\S*/gi, "")     // | kaynak sil
+    .trim();
+
+  // Başlık soru değilse ve merak uyandırabiliyorsa soru işareti/ünlem ekle
+  if (shortTitle.length > 0 && !/[!?…]$/.test(shortTitle)) {
+    if (["transfer","talip","görüşme","peşinde","istiyor"].some(k => shortTitle.toLowerCase().includes(k))) {
+      shortTitle += "!";
+    }
+  }
+
+  if (shortTitle.length > 90) {
+    const cut = shortTitle.slice(0, 90);
+    shortTitle = (cut.lastIndexOf(" ") > 60 ? cut.slice(0, cut.lastIndexOf(" ")) : cut) + "…";
+  }
+
+  // Tweet yapısı:
+  // HOOK
+  //
+  // Başlık (kısa)
+  // → Anahtar cümle (varsa)
+  //
+  // CTA
+  //
+  // #Hashtaglar
+  let lines = [hook, "", shortTitle];
+  if (keySent && keySent !== shortTitle) lines.push("→ " + keySent);
+  lines.push("", cta, "", hashtags);
+
+  const text = lines.join("\n");
+  // 250 char limiti — fazlası keySent'i kısalt
+  if (text.length > 250) {
+    let shorter = [hook, "", shortTitle, "", cta, "", hashtags].join("\n");
+    return shorter.slice(0, 250);
+  }
+  return text;
 }
 
 function openTweet(text, url) {
