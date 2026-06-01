@@ -1,5 +1,5 @@
 // pages/index.js
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import fs from "fs";
 import path from "path";
 import NewsCard from "../components/NewsCard";
@@ -34,26 +34,78 @@ export default function Home({ data }) {
   const [activeMatch, setActiveMatch]     = useState(null);
   const [activeCountry, setActiveCountry] = useState(null);
 
-  // ── Canlı tarih/saat — sadece client tarafında (hydration crash önlenir) ──
-  const [today, setToday]         = useState("");
-  const [liveTime, setLiveTime]   = useState("");
-  const [mounted, setMounted]     = useState(false);
+  // ── Canlı tarih/saat ─────────────────────────────────────────────────────
+  const [today, setToday]       = useState("");
+  const [liveTime, setLiveTime] = useState("");
+  const [mounted, setMounted]   = useState(false);
+
+  // ── Canlı haber polling (her 5 dakikada bir) ─────────────────────────────
+  const [liveNews, setLiveNews]     = useState({});
+  const [liveUpdated, setLiveUpdated] = useState("");
+  const pollRef = useRef(null);
 
   useEffect(() => {
+    // Saat
     setMounted(true);
     const tick = () => {
       const now = new Date();
       setToday(now.toLocaleDateString("tr-TR", {
         weekday: "long", year: "numeric", month: "long", day: "numeric",
       }));
-      setLiveTime(now.toLocaleTimeString("tr-TR", { hour: "2-digit", minute: "2-digit", second: "2-digit" }));
+      setLiveTime(now.toLocaleTimeString("tr-TR", {
+        hour: "2-digit", minute: "2-digit", second: "2-digit",
+      }));
     };
     tick();
-    const t = setInterval(tick, 1000);
-    return () => clearInterval(t);
+    const clockT = setInterval(tick, 1000);
+
+    // Canlı haber çek
+    const fetchLive = async () => {
+      try {
+        const r = await fetch("/api/live-news");
+        if (!r.ok) return;
+        const d = await r.json();
+        if (!d.items?.length) return;
+        // Kategorilere göre grupla
+        const grouped = {};
+        for (const item of d.items) {
+          if (!grouped[item.cat]) grouped[item.cat] = [];
+          grouped[item.cat].push(item);
+        }
+        setLiveNews(grouped);
+        setLiveUpdated(new Date().toLocaleTimeString("tr-TR", { hour: "2-digit", minute: "2-digit" }));
+      } catch (e) { /* sessizce geç */ }
+    };
+    fetchLive(); // ilk yükleme
+    pollRef.current = setInterval(fetchLive, 5 * 60 * 1000); // her 5 dk
+
+    return () => {
+      clearInterval(clockT);
+      clearInterval(pollRef.current);
+    };
   }, []);
 
-  const news = data?.news || {};
+  const staticNews = data?.news || {};
+
+  // Canlı + statik haber birleştirme: canlı haberler önce, tekrarlar eleniyor
+  const mergeNews = (cat) => {
+    const live   = (liveNews[cat] || []);
+    const static_ = (staticNews[cat] || []);
+    const seen   = new Set(live.map(n => n.title.slice(0, 30).toLowerCase()));
+    const deduped = static_.filter(n => !seen.has(n.title.slice(0, 30).toLowerCase()));
+    return [...live, ...deduped];
+  };
+
+  const news = {
+    corumsporhaber: mergeNews("corumsporhaber"),
+    milli:          mergeNews("milli"),
+    superlig:       mergeNews("superlig"),
+    transfer:       mergeNews("transfer"),
+    worldcup:       mergeNews("worldcup"),
+    general:        mergeNews("general"),
+    magazine:       staticNews.magazine || [],
+  };
+
   const rawMatches = data?.matches;
   const matches = (rawMatches && !Array.isArray(rawMatches))
     ? rawMatches
@@ -96,9 +148,15 @@ export default function Home({ data }) {
                   🕐 {liveTime}
                 </span>
               )}
-              <span style={{ color: "#333", fontSize: "11px", fontFamily: "var(--font-mono)" }}>
-                🟢 {mounted ? updatedAt : ""}
-              </span>
+              {liveUpdated ? (
+                <span style={{ color: "#2a9d4a", fontSize: "11px", fontFamily: "var(--font-mono)", fontWeight: "700" }}>
+                  🟢 CANLI · {liveUpdated}
+                </span>
+              ) : (
+                <span style={{ color: "#333", fontSize: "11px", fontFamily: "var(--font-mono)" }}>
+                  🟢 {mounted ? updatedAt : ""}
+                </span>
+              )}
               <a href="/admin" style={{ color: "var(--yellow)", fontSize: "10px", fontFamily: "var(--font-mono)", letterSpacing: "1px" }}>
                 🐦 TWEET PANELİ
               </a>
