@@ -1,0 +1,51 @@
+# .github/workflows/daily-update.yml
+# GOALPOST — günde 4 kez otomatik veri güncellemesi.
+# TAMAMEN ÜCRETSİZ: GitHub Actions ücretsiz tier (aylık 2000 dk) fazlasıyla yeterli.
+# Hiçbir ödemeli servis / Claude API kullanılmaz — tahminler lib/analysis.js ile
+# football-data.org'un ücretsiz verisinden istatistiksel olarak üretilir.
+
+name: Daily Football Data Update
+
+on:
+  schedule:
+    # Türkiye saatiyle 08:00, 14:00, 20:00, 02:00 (UTC: 05,11,17,23)
+    - cron: "0 5,11,17,23 * * *"
+  workflow_dispatch:   # Actions sekmesinden manuel tetikleme
+
+permissions:
+  contents: write       # football.json commit/push için gerekli
+
+jobs:
+  fetch-and-commit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch football data (RSS + football-data.org + ücretsiz analiz)
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+        run: node lib/fetchData.js
+
+      - name: Commit updated data
+        run: |
+          git config --global user.name "GoalPost Bot"
+          git config --global user.email "bot@goalpost.app"
+          git add public/data/football.json
+          if git diff --staged --quiet; then
+            echo "Değişiklik yok, commit atlanıyor."
+          else
+            git commit -m "🤖 Otomatik veri güncellemesi $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

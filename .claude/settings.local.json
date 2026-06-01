@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "WebFetch(domain:www.thesportsdb.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "Bash(node -e ' *)",
+      "Bash(node -e \"const fs=require\\('fs'\\);fetch\\('https://www.thesportsdb.com/api/v1/json/3/searchplayers.php?p=Jude%20Bellingham'\\).then\\(r=>r.json\\(\\)\\).then\\(d=>fs.writeFileSync\\('_t2.txt', JSON.stringify\\(d\\).slice\\(0,300\\)\\)\\).catch\\(e=>fs.writeFileSync\\('_t2.txt','ERR '+e.message\\)\\)\")",
+      "Bash(npm install *)",
+      "Bash(node -e \"const d=require\\('./public/data/football.json'\\);process.stdout.write\\('TEAMS='+d.worldCup.teams.length+' MATCHES='+d.worldCup.matches.length+' LIG='+d.matches.length+'\\\\n'\\)\")",
+      "Bash(type _tr.txt)",
+      "Bash(type _rss2.txt)",
+      "Bash(node _probe.js)",
+      "Bash(node _probe2.js)",
+      "Bash(node _probe3.js)",
+      "Bash(node -e \"const {calculateWinProbability,generateTextAnalysis,getFavorite}=require\\('./lib/analysis'\\);const s={home:{form:['W','W','W','D','W'],gf:11,ga:3,played:5,rank:2},away:{form:['L','L','D','L','W'],gf:4,ga:9,played:5,rank:15}};const p=calculateWinProbability\\('Ev','Dep',s\\);process.stdout.write\\('RESULT '+JSON.stringify\\(p\\)+' sum='+\\(p.home+p.draw+p.away\\)+' fav='+getFavorite\\(p\\)+'\\\\n'+generateTextAnalysis\\('Ev','Dep',p,s\\)+'\\\\n'\\);\")",
+      "Bash(node -e \"console.log\\('hello test'\\)\")",
+      "PowerShell(node -e \"console.log\\(2+2\\)\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(echo \"EXIT=$?\")"
+    ]
+  }
+}
