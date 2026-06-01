@@ -14,9 +14,20 @@ export default function NewsCard({ title, summary, source, flag, date, link, ima
     return `${Math.floor(hrs / 24)}g önce`;
   };
 
+  // Kart tıklaması: modal açar (özet görmek için)
+  // "Devamını oku" ise direkt orijinal siteye gider
+  const handleCardClick = () => {
+    if (onOpen) onOpen();
+  };
+
+  const handleReadMore = (e) => {
+    e.stopPropagation();
+    if (link) window.open(link, "_blank", "noopener,noreferrer");
+  };
+
   return (
     <div
-      onClick={onOpen}
+      onClick={handleCardClick}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
       className="fade-up"
@@ -29,61 +40,39 @@ export default function NewsCard({ title, summary, source, flag, date, link, ima
         boxShadow: hovered ? "0 8px 32px rgba(0,0,0,0.5)" : "none",
         cursor: "pointer",
         overflow: "hidden",
-        textDecoration: "none",
       }}
     >
-      {/* Image */}
+      {/* Görsel */}
       {image && (
         <div style={{ position: "relative", width: "100%", height: isMain ? "200px" : "140px", overflow: "hidden" }}>
           <img
             src={image}
             alt={title}
             style={{
-              width: "100%",
-              height: "100%",
-              objectFit: "cover",
+              width: "100%", height: "100%", objectFit: "cover",
               transition: "transform 0.4s",
               transform: hovered ? "scale(1.04)" : "scale(1)",
             }}
-            onError={(e) => {
-              e.target.style.display = "none";
-            }}
+            onError={(e) => { e.target.style.display = "none"; }}
           />
           <div style={{
-            position: "absolute",
-            inset: 0,
+            position: "absolute", inset: 0,
             background: "linear-gradient(to top, rgba(8,8,8,0.85) 0%, transparent 60%)",
           }} />
         </div>
       )}
 
-      {/* Content */}
+      {/* İçerik */}
       <div style={{ padding: isMain ? "20px 22px 22px" : "14px 18px 18px" }}>
-        <div style={{
-          display: "flex",
-          justifyContent: "space-between",
-          alignItems: "center",
-          marginBottom: "10px",
-          gap: "8px",
-        }}>
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "10px", gap: "8px" }}>
           <span style={{
-            background: "var(--yellow)",
-            color: "#0a0a0a",
-            fontSize: "10px",
-            fontWeight: "800",
-            padding: "2px 8px",
-            fontFamily: "var(--font-mono)",
-            letterSpacing: "0.8px",
-            flexShrink: 0,
+            background: "var(--yellow)", color: "#0a0a0a", fontSize: "10px",
+            fontWeight: "800", padding: "2px 8px", fontFamily: "var(--font-mono)",
+            letterSpacing: "0.8px", flexShrink: 0,
           }}>
             {flag} {source}
           </span>
-          <span style={{
-            color: "var(--muted)",
-            fontSize: "10px",
-            fontFamily: "var(--font-mono)",
-            flexShrink: 0,
-          }}>
+          <span style={{ color: "var(--muted)", fontSize: "10px", fontFamily: "var(--font-mono)", flexShrink: 0 }}>
             {relativeTime(date)}
           </span>
         </div>
@@ -92,8 +81,7 @@ export default function NewsCard({ title, summary, source, flag, date, link, ima
           color: hovered ? "var(--yellow)" : "#f0f0f0",
           fontFamily: "var(--font-head)",
           fontSize: isMain ? "19px" : "14px",
-          fontWeight: "700",
-          lineHeight: "1.35",
+          fontWeight: "700", lineHeight: "1.35",
           marginBottom: summary ? "10px" : 0,
           transition: "color 0.18s",
         }}>
@@ -102,27 +90,40 @@ export default function NewsCard({ title, summary, source, flag, date, link, ima
 
         {summary && (
           <p style={{
-            color: "var(--subtext)",
-            fontSize: "13px",
-            lineHeight: "1.6",
+            color: "var(--subtext)", fontSize: "13px", lineHeight: "1.6",
             fontFamily: "var(--font-body)",
-            display: "-webkit-box",
-            WebkitLineClamp: 3,
-            WebkitBoxOrient: "vertical",
-            overflow: "hidden",
+            display: "-webkit-box", WebkitLineClamp: 3,
+            WebkitBoxOrient: "vertical", overflow: "hidden",
           }}>
-            {summary}
+            {summary.split(/\n/)[0]}
           </p>
         )}
 
-        <div style={{
-          marginTop: "12px",
-          fontSize: "11px",
-          fontFamily: "var(--font-mono)",
-          color: hovered ? "var(--yellow)" : "var(--muted)",
-          transition: "color 0.18s",
-        }}>
-          Detay →
+        {/* Alt butonlar */}
+        <div style={{ marginTop: "14px", display: "flex", gap: "10px", alignItems: "center" }}>
+          {/* Özeti gör — modal açar */}
+          <span style={{
+            fontSize: "11px", fontFamily: "var(--font-mono)",
+            color: hovered ? "var(--yellow)" : "var(--muted)",
+            transition: "color 0.18s",
+          }}>
+            Özet →
+          </span>
+
+          {/* Devamını oku — orijinal siteye gider */}
+          {link && (
+            <span
+              onClick={handleReadMore}
+              style={{
+                fontSize: "11px", fontFamily: "var(--font-mono)",
+                color: "#1da1f2", cursor: "pointer",
+                borderLeft: "1px solid var(--border)", paddingLeft: "10px",
+                textDecoration: "underline",
+              }}
+            >
+              Devamını oku ↗
+            </span>
+          )}
         </div>
       </div>
     </div>

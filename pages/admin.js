@@ -57,14 +57,22 @@ function openTweet(text, url) {
 }
 
 function NewsItem({ item, catId }) {
-  const [expanded, setExpanded]   = useState(false);
-  const [editing, setEditing]     = useState(false);
-  const [tweetText, setTweetText] = useState("");
-  const [copied, setCopied]       = useState(false);
+  const [expanded, setExpanded]       = useState(false);
+  const [editing, setEditing]         = useState(false);
+  const [tweetText, setTweetText]     = useState("");
+  const [copied, setCopied]           = useState(false);
+  const [customImage, setCustomImage] = useState(item.image || "");
+  const [editingImg, setEditingImg]   = useState(false);
+  const [imgInput, setImgInput]       = useState(item.image || "");
 
   useEffect(() => {
     setTweetText(buildTweetText(item, catId));
   }, [item.title, catId]);
+
+  const applyImage = () => {
+    setCustomImage(imgInput);
+    setEditingImg(false);
+  };
 
   // Twitter karakter sayısı: text + " " + url (23 char)
   const urlLen      = item.link ? 24 : 0;
@@ -97,9 +105,65 @@ function NewsItem({ item, catId }) {
     }}>
       {/* Haber özeti satırı */}
       <div style={{ display: "flex", gap: "12px", padding: "14px 14px 10px" }}>
-        {item.image && (
-          <img src={item.image} alt="" style={{ width: "100px", height: "70px", objectFit: "cover", flexShrink: 0, borderRadius: "2px" }}
-            onError={e => { e.target.style.display = "none"; }} />
+        {/* Fotoğraf — tıklanabilir, düzenlenebilir */}
+        <div style={{ flexShrink: 0, position: "relative" }}>
+          {customImage ? (
+            <img
+              src={customImage} alt=""
+              style={{ width: "100px", height: "70px", objectFit: "cover", borderRadius: "2px", display: "block" }}
+              onError={e => { e.target.style.display = "none"; }}
+            />
+          ) : (
+            <div style={{ width: "100px", height: "70px", background: "#1a1a1a", borderRadius: "2px",
+              display: "flex", alignItems: "center", justifyContent: "center", fontSize: "20px" }}>📷</div>
+          )}
+          {/* Fotoğraf değiştir butonu — görselin üzerinde */}
+          <button
+            onClick={() => setEditingImg(v => !v)}
+            title="Fotoğrafı değiştir"
+            style={{
+              position: "absolute", bottom: "2px", right: "2px",
+              background: "rgba(0,0,0,0.75)", border: "none", color: "var(--yellow)",
+              fontSize: "10px", padding: "2px 5px", cursor: "pointer", borderRadius: "2px",
+              fontFamily: "var(--font-mono)",
+            }}>
+            ✏️
+          </button>
+        </div>
+
+        {/* Fotoğraf URL girişi */}
+        {editingImg && (
+          <div style={{
+            position: "absolute", zIndex: 10, background: "#0e0e0e",
+            border: "1px solid var(--yellow)", padding: "10px", width: "300px",
+            boxShadow: "0 4px 20px rgba(0,0,0,0.8)", marginLeft: "110px",
+          }}>
+            <p style={{ fontFamily: "var(--font-mono)", fontSize: "10px", color: "var(--yellow)", marginBottom: "6px" }}>
+              📷 FOTOĞRAF URL'İ
+            </p>
+            <input
+              value={imgInput}
+              onChange={e => setImgInput(e.target.value)}
+              placeholder="https://... (resim URL'si yapıştır)"
+              style={{
+                width: "100%", background: "#111", border: "1px solid #333", color: "#eee",
+                padding: "7px 8px", fontFamily: "var(--font-mono)", fontSize: "10px",
+                boxSizing: "border-box", marginBottom: "6px",
+              }}
+            />
+            <div style={{ display: "flex", gap: "6px" }}>
+              <button onClick={applyImage}
+                style={{ flex: 1, background: "var(--yellow)", color: "#000", border: "none",
+                  padding: "6px", fontFamily: "var(--font-mono)", fontSize: "10px", cursor: "pointer", fontWeight: "700" }}>
+                UYGULA
+              </button>
+              <button onClick={() => setEditingImg(false)}
+                style={{ background: "transparent", border: "1px solid #333", color: "var(--muted)",
+                  padding: "6px 10px", fontFamily: "var(--font-mono)", fontSize: "10px", cursor: "pointer" }}>
+                İPTAL
+              </button>
+            </div>
+          </div>
         )}
         <div style={{ flex: 1, minWidth: 0 }}>
           <div style={{ display: "flex", gap: "8px", alignItems: "center", marginBottom: "5px", flexWrap: "wrap" }}>
