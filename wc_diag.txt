@@ -1,0 +1,2 @@
+WC upcoming=104 past=0
+ilk WC upcoming: Mexico vs South Africa | 2026-06-11T19:00:00Z | homeId=769

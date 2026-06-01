@@ -18,7 +18,25 @@
       "PowerShell(node -e \"console.log\\(2+2\\)\")",
       "Bash(git add *)",
       "Bash(git commit -m ' *)",
-      "Bash(echo \"EXIT=$?\")"
+      "Bash(echo \"EXIT=$?\")",
+      "Bash(rm -f public/data/_run.log)",
+      "Bash(node lib/fetchData.js)",
+      "Bash(tail -3 _fetch.log)",
+      "Bash(grep -c '\"winProbability\"' public/data/football.json)",
+      "Bash(del wc_diag.txt)",
+      "Bash(node -c lib/fetchData.js)",
+      "Bash(node -c lib/analysis.js)",
+      "Bash(netstat -ano)",
+      "PowerShell($conns = Get-NetTCPConnection -State Listen -ErrorAction SilentlyContinue | Where-Object { $_.LocalPort -ge 3000 -and $_.LocalPort -le 3010 }; if \\($conns\\) { $conns | Select-Object LocalPort, OwningProcess | Format-Table -AutoSize | Out-String } else { Write-Output \"NO_DEV_SERVER\" })",
+      "Bash(rm -f public/data/_diag.txt)",
+      "Bash(npm run *)",
+      "Bash(rm -f _build.log _fetch.log)",
+      "Bash(grep -q \"Ready\\\\|started server\\\\|Local:\" _dev.log)",
+      "Bash(break)",
+      "Bash(curl -s http://localhost:3000 -o _page.html)",
+      "Bash(grep -oE \"Arsenal[^<\\\\\"]{0,40}\" _page.html)",
+      "PowerShell(Set-Location \"C:\\\\Users\\\\Kutay Erdem\\\\Desktop\\\\goalpost\"; $html = Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing; $c = $html.Content; Write-Output \\(\"SIZE=\" + $c.Length\\); Write-Output \\(\"HAS_LOGO=\" + \\($c -match 'GOL'\\)\\); Write-Output \\(\"HAS_GUNDEM=\" + \\($c -match 'GÜNDEM'\\)\\); Write-Output \\(\"HAS_WC=\" + \\($c -match 'Dünya Kupası'\\)\\); Write-Output \\(\"HAS_ANALYSIS=\" + \\($c -match 'winProbability'\\)\\); Write-Output \\(\"HAS_FAVORI=\" + \\($c -match 'FAVORİ' -or $c -match 'favorite'\\)\\); Write-Output \\(\"HAS_FIKSTUR=\" + \\($c -match 'FİKSTÜR'\\)\\))",
+      "Bash(rm -f _verify.txt _page.html _dev.log _build.log _fetch.log public/data/_diag.txt public/data/_run.log)"
     ]
   }
 }

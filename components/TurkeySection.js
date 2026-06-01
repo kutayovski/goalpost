@@ -29,6 +29,30 @@ function StarCard({ star }) {
   );
 }
 
+// Kadrodaki her oyuncu için küçük fotoğraflı kart (Wikipedia'dan canlı foto)
+function PlayerCard({ name }) {
+  const [photo, setPhoto] = useState(null);
+  useEffect(() => {
+    let active = true;
+    getPlayerPhoto(name).then((p) => active && setPhoto(p));
+    return () => { active = false; };
+  }, [name]);
+
+  return (
+    <div style={{ width: "84px", textAlign: "center" }}>
+      <div style={{ width: "72px", height: "72px", margin: "0 auto 6px", borderRadius: "50%", overflow: "hidden",
+        background: "#0a0a0a", border: "1px solid var(--border)", display: "flex", alignItems: "center", justifyContent: "center" }}>
+        {photo ? (
+          <img src={photo} alt={name} style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "top" }} />
+        ) : (
+          <span style={{ fontSize: "24px" }}>👤</span>
+        )}
+      </div>
+      <div style={{ fontFamily: "var(--font-mono)", fontSize: "9px", color: "#ccc", lineHeight: 1.25 }}>{name}</div>
+    </div>
+  );
+}
+
 export default function TurkeySection() {
   const [coachPhoto, setCoachPhoto] = useState(null);
   useEffect(() => {
@@ -125,17 +149,14 @@ export default function TurkeySection() {
         </div>
       </div>
 
-      {/* Tam kadro */}
+      {/* Tam kadro — her oyuncu fotoğrafıyla */}
       <div style={{ marginTop: "16px", background: "var(--card)", border: "1px solid var(--border)", padding: "18px 20px 22px" }}>
-        <div style={{ fontFamily: "var(--font-mono)", fontSize: "11px", color: "var(--yellow)", letterSpacing: "2px", marginBottom: "14px" }}>👥 KADRO</div>
+        <div style={{ fontFamily: "var(--font-mono)", fontSize: "11px", color: "var(--yellow)", letterSpacing: "2px", marginBottom: "14px" }}>👥 TAM KADRO</div>
         {Object.entries(TURKEY.squad).map(([pos, players]) => (
-          <div key={pos} style={{ marginBottom: "12px" }}>
-            <div style={{ fontFamily: "var(--font-mono)", fontSize: "10px", color: "var(--muted)", letterSpacing: "1px", marginBottom: "6px" }}>{pos.toUpperCase()}</div>
-            <div style={{ display: "flex", flexWrap: "wrap", gap: "6px" }}>
-              {players.map((p) => (
-                <span key={p} style={{ fontFamily: "var(--font-mono)", fontSize: "11px", color: "#ccc",
-                  background: "#161616", border: "1px solid var(--border)", padding: "4px 9px" }}>{p}</span>
-              ))}
+          <div key={pos} style={{ marginBottom: "18px" }}>
+            <div style={{ fontFamily: "var(--font-mono)", fontSize: "10px", color: "#e30a17", letterSpacing: "1px", marginBottom: "12px", borderBottom: "1px solid var(--border)", paddingBottom: "6px" }}>{pos.toUpperCase()}</div>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: "12px" }}>
+              {players.map((p) => <PlayerCard key={p} name={p} />)}
             </div>
           </div>
         ))}
