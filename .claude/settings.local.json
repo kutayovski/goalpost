@@ -37,7 +37,10 @@
       "Bash(grep -oE \"Arsenal[^<\\\\\"]{0,40}\" _page.html)",
       "PowerShell(Set-Location \"C:\\\\Users\\\\Kutay Erdem\\\\Desktop\\\\goalpost\"; $html = Invoke-WebRequest -Uri \"http://localhost:3000\" -UseBasicParsing; $c = $html.Content; Write-Output \\(\"SIZE=\" + $c.Length\\); Write-Output \\(\"HAS_LOGO=\" + \\($c -match 'GOL'\\)\\); Write-Output \\(\"HAS_GUNDEM=\" + \\($c -match 'GÜNDEM'\\)\\); Write-Output \\(\"HAS_WC=\" + \\($c -match 'Dünya Kupası'\\)\\); Write-Output \\(\"HAS_ANALYSIS=\" + \\($c -match 'winProbability'\\)\\); Write-Output \\(\"HAS_FAVORI=\" + \\($c -match 'FAVORİ' -or $c -match 'favorite'\\)\\); Write-Output \\(\"HAS_FIKSTUR=\" + \\($c -match 'FİKSTÜR'\\)\\))",
       "Bash(rm -f _verify.txt _page.html _dev.log _build.log _fetch.log public/data/_diag.txt public/data/_run.log)",
-      "Bash(rm -f public/data/football.json.bak)"
+      "Bash(rm -f public/data/football.json.bak)",
+      "Bash(git rm *)",
+      "Bash(rm -f wc_diag.txt _fetchlog.txt)",
+      "Bash(git commit -q -m ' *)"
     ]
   }
 }

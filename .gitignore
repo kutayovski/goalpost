@@ -1,5 +1,12 @@
 node_modules/
 .next/
+out/
 .env
 .env.local
 .vercel
+
+# build & geçici loglar
+*.log
+_*.txt
+public/data/_*.txt
+public/data/_*.log
