@@ -1,7 +1,9 @@
 // components/NewsCard.js
 import { useState } from "react";
 
-export default function NewsCard({ title, summary, source, flag, date, link, image, isMain, onOpen }) {
+const CORUM_BADGE = "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png";
+
+export default function NewsCard({ title, summary, source, flag, date, link, image, isMain, onOpen, category }) {
   const [hovered, setHovered] = useState(false);
 
   const relativeTime = (dateStr) => {
@@ -53,7 +55,17 @@ export default function NewsCard({ title, summary, source, flag, date, link, ima
               transition: "transform 0.4s",
               transform: hovered ? "scale(1.04)" : "scale(1)",
             }}
-            onError={(e) => { e.target.style.display = "none"; }}
+            onError={(e) => {
+              if (category === "corumsporhaber" && e.target.src !== CORUM_BADGE) {
+                e.target.src = CORUM_BADGE;
+                e.target.style.objectFit = "contain";
+                e.target.style.padding = "16px";
+                e.target.style.background = "#111";
+                e.target.style.transform = "none";
+              } else {
+                e.target.style.display = "none";
+              }
+            }}
           />
           <div style={{
             position: "absolute", inset: 0,

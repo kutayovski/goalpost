@@ -1,8 +1,7 @@
 // pages/admin.js — GOALPOST Tweet Paneli
-// Erişim: http://localhost:3000/admin (veya canlı: goalpost.vercel.app/admin)
-// Twitter Web Intent ile tek tıkla tweet — ücretsiz, API gerekmez.
-
 import { useState, useEffect } from "react";
+
+const CORUM_BADGE = "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png";
 
 const CATEGORIES = [
   { id: "corumsporhaber", label: "🔴⚫ Çorum FK",    hashtags: ["ÇorumFK", "SüperLig", "Futbol"] },
@@ -215,6 +214,7 @@ function openTweet(text, url) {
 }
 
 function NewsItem({ item, catId }) {
+  const isCorumCat = catId === "corumsporhaber";
   const [expanded, setExpanded]       = useState(false);
   const [editing, setEditing]         = useState(false);
   const [tweetText, setTweetText]     = useState("");
@@ -269,7 +269,16 @@ function NewsItem({ item, catId }) {
             <img
               src={customImage} alt=""
               style={{ width: "100px", height: "70px", objectFit: "cover", borderRadius: "2px", display: "block" }}
-              onError={e => { e.target.style.display = "none"; }}
+              onError={e => {
+                if (isCorumCat && e.target.src !== CORUM_BADGE) {
+                  e.target.src = CORUM_BADGE;
+                  e.target.style.objectFit = "contain";
+                  e.target.style.padding = "6px";
+                  e.target.style.background = "#111";
+                } else {
+                  e.target.style.display = "none";
+                }
+              }}
             />
           ) : (
             <div style={{ width: "100px", height: "70px", background: "#1a1a1a", borderRadius: "2px",
@@ -430,13 +439,15 @@ function NewsItem({ item, catId }) {
 }
 
 export default function AdminPage() {
-  const [data, setData]       = useState(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError]     = useState("");
+  const [data, setData]         = useState(null);
+  const [liveNews, setLiveNews] = useState({});
+  const [loading, setLoading]   = useState(true);
+  const [error, setError]       = useState("");
   const [activeCat, setActiveCat] = useState("corumsporhaber");
-  const [search, setSearch]   = useState("");
+  const [search, setSearch]     = useState("");
 
   useEffect(() => {
+    // Statik veri
     fetch("/data/football.json")
       .then(r => r.json())
       .then(d => { setData(d); setLoading(false); })
@@ -444,9 +455,42 @@ export default function AdminPage() {
         setError("football.json yüklenemedi. Önce 'node lib/fetchData.js' çalıştır.");
         setLoading(false);
       });
+
+    // Canlı haberler — site ile aynı kaynak
+    fetch("/api/live-news")
+      .then(r => r.json())
+      .then(d => {
+        if (!d.items?.length) return;
+        const grouped = {};
+        for (const item of d.items) {
+          const c = item.cat || item.category || "general";
+          if (!grouped[c]) grouped[c] = [];
+          grouped[c].push(item);
+        }
+        setLiveNews(grouped);
+      })
+      .catch(() => {});
   }, []);
 
-  const news = data?.news || {};
+  // Site ile aynı merge mantığı: canlı öne, tekrar elenmiş
+  const staticNews = data?.news || {};
+  const mergeNews = (cat) => {
+    const live    = liveNews[cat]    || [];
+    const static_ = staticNews[cat]  || [];
+    const seen = new Set(live.map(n => n.title.slice(0, 30).toLowerCase()));
+    return [...live, ...static_.filter(n => !seen.has(n.title.slice(0, 30).toLowerCase()))];
+  };
+
+  const news = {
+    corumsporhaber: mergeNews("corumsporhaber"),
+    milli:          mergeNews("milli"),
+    superlig:       mergeNews("superlig"),
+    transfer:       mergeNews("transfer"),
+    worldcup:       mergeNews("worldcup"),
+    general:        mergeNews("general"),
+    magazine:       staticNews.magazine || [],
+  };
+
   const updatedAt = data?.updatedAt
     ? new Date(data.updatedAt).toLocaleString("tr-TR")
     : "—";

@@ -10,17 +10,17 @@ const parser = new Parser({ timeout: 8000 });
 const LIVE_FEEDS = [
   // Çorum FK — her çağrıda taze sonuçlar
   { url: 'https://news.google.com/rss/search?q=%C3%87orum+FK&hl=tr&gl=TR&ceid=TR:tr',
-    source: 'Google News', flag: '🔴⚫', cat: 'corumsporhaber', limit: 15 },
+    source: 'Google News', flag: '🔴⚫', forceCat: 'corumsporhaber', limit: 15 },
   { url: 'https://news.google.com/rss/search?q=%C3%87orum+FK+transfer&hl=tr&gl=TR&ceid=TR:tr',
-    source: 'Transfer', flag: '🔴⚫', cat: 'corumsporhaber', limit: 10 },
-  // Türkçe futbol
+    source: 'Transfer', flag: '🔴⚫', forceCat: 'corumsporhaber', limit: 10 },
+  // Türkçe futbol — kategori başlıktan dinamik tespit edilir
   { url: 'https://www.fotomac.com.tr/rss/anasayfa.xml',
-    source: 'Fotomaç', flag: '🇹🇷', cat: 'superlig', limit: 8 },
+    source: 'Fotomaç', flag: '🇹🇷', limit: 10 },
   { url: 'https://www.hurriyet.com.tr/rss/spor',
-    source: 'Hürriyet', flag: '🇹🇷', cat: 'superlig', limit: 8 },
+    source: 'Hürriyet', flag: '🇹🇷', limit: 10 },
   // Dünya futbolu
   { url: 'https://feeds.bbci.co.uk/sport/football/rss.xml',
-    source: 'BBC Sport', flag: '🏴󠁧󠁢󠁥󠁮󠁧󠁿', cat: 'general', limit: 8 },
+    source: 'BBC Sport', flag: '🏴󠁧󠁢󠁥󠁮󠁧󠁿', limit: 8 },
 ];
 
 const BLOCK_KW = ["women's","lionesses","wsl","nwsl","cricket","rugby","tenis","nba","boks","formula","f1","volleyball"];
@@ -30,6 +30,23 @@ function isFootball(t) {
   const text = (t || '').toLowerCase();
   if (BLOCK_KW.some(k => text.includes(k))) return false;
   return FOOTBALL_KW.some(k => text.includes(k));
+}
+
+// Başlıktan kategori tespiti — fetchData.js'deki mantıkla aynı
+const _CORUM_KW    = ["çorum","corum fk","corumspor","çorumspor"];
+const _MILLI_KW    = ["milli tak","a milli","türkiye milli","montella","national team turkey","milli maç","milli kadro","milli oyuncu"];
+const _WC_KW       = ["dünya kupası","world cup","fifa 2026","wc 2026"];
+const _SUPERLIG_KW = ["süper lig","superlig","tff","trendyol süper","3. lig","tff 1","tff 2"];
+const _TRANSFER_KW = ["transfer","imza","bonservis","sözleşme","kiralık","anlaştı","satın","bedel"];
+
+function detectLiveCat(text) {
+  const t = (text || '').toLowerCase();
+  if (_CORUM_KW.some(k => t.includes(k)))    return 'corumsporhaber';
+  if (_MILLI_KW.some(k => t.includes(k)))    return 'milli';
+  if (_WC_KW.some(k => t.includes(k)))       return 'worldcup';
+  if (_TRANSFER_KW.some(k => t.includes(k))) return 'transfer';
+  if (_SUPERLIG_KW.some(k => t.includes(k))) return 'superlig';
+  return 'general';
 }
 
 // Server-side in-memory cache (serverless cold starts reset it, ama yine de hız kazanır)
@@ -77,15 +94,19 @@ export default async function handler(req, res) {
       if (seen.has(key)) continue;
       seen.add(key);
 
+      // forceCat varsa onu kullan, yoksa başlıktan dinamik tespit et
+      const cat = feed.forceCat || detectLiveCat(cleanTitle);
+
       items.push({
         title: cleanTitle,
         link: item.link || '',
         date: item.pubDate || item.isoDate || new Date().toISOString(),
         source: feed.source,
         flag: feed.flag,
-        cat: feed.cat,
+        cat,
+        category: cat, // NewsCard + admin için
         summary: (item.contentSnippet || '').replace(/\s+/g, ' ').slice(0, 250),
-        isLive: true, // Canlı kaynaktan geldiğini belirt
+        isLive: true,
       });
     }
   }
