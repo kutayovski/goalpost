@@ -72,7 +72,12 @@ export default async function handler(req, res) {
   const FOOTBALL_API_KEY = process.env.FOOTBALL_DATA_API_KEY;
 
   if (!FOOTBALL_API_KEY) {
-    return res.status(200).json({ matches: null, error: "API key missing" });
+    // null yerine boş matches: frontend stale static veriyi göstermez
+    return res.status(200).json({
+      fetchedAt: new Date().toISOString(),
+      matches: { live: [], upcoming: [], past: [] },
+      error: "API key missing",
+    });
   }
 
   // In-memory cache

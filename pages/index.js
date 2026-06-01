@@ -87,13 +87,30 @@ export default function Home({ data }) {
 
   const staticNews = data?.news || {};
 
-  // Canlı + statik haber birleştirme: canlı haberler önce, tekrarlar eleniyor
+  // Canlı + statik haber birleştirme:
+  // Live haberler önde (taze), static haberlerden görsel + özet miras alınır.
+  // Live ile aynı başlığa sahip static haber elenirken görseli live'a aktarılır.
   const mergeNews = (cat) => {
-    const live   = (liveNews[cat] || []);
-    const static_ = (staticNews[cat] || []);
-    const seen   = new Set(live.map(n => n.title.slice(0, 30).toLowerCase()));
-    const deduped = static_.filter(n => !seen.has(n.title.slice(0, 30).toLowerCase()));
-    return [...live, ...deduped];
+    const live    = liveNews[cat]   || [];
+    const static_ = staticNews[cat] || [];
+    // Static haberleri başlık prefix ile ara
+    const staticMap = new Map(
+      static_.map(n => [n.title.slice(0, 30).toLowerCase(), n])
+    );
+    // Live haberlere eşleşen static'in görseli + özetini ver
+    const enriched = live.map(n => {
+      const key   = n.title.slice(0, 30).toLowerCase();
+      const match = staticMap.get(key);
+      if (!match) return n;
+      return {
+        ...match,          // static: görsel, özet, link vb.
+        ...n,              // live: date, source, flag üste yazar
+        image:   n.image   || match.image,   // görsel: live yoksa static'ten al
+        summary: n.summary || match.summary, // özet: live yoksa static'ten al
+      };
+    });
+    const seen = new Set(enriched.map(n => n.title.slice(0, 30).toLowerCase()));
+    return [...enriched, ...static_.filter(n => !seen.has(n.title.slice(0, 30).toLowerCase()))];
   };
 
   const news = {
@@ -121,7 +138,8 @@ export default function Home({ data }) {
         const r = await fetch("/api/live-matches");
         if (!r.ok) return;
         const d = await r.json();
-        if (d.matches) setLiveFixtures(d.matches);
+        // d.matches null bile olsa (API key yok) boş set ile liveFixtures'ı başlat
+        setLiveFixtures(d.matches || { live: [], upcoming: [], past: [] });
       } catch (e) { /* sessizce geç */ }
     };
     fetchLive();
@@ -140,10 +158,21 @@ export default function Home({ data }) {
 
   const liveIds = new Set((liveFixtures?.live || []).map(m => m.id));
 
+  // Stale IN_PLAY filtresi: API gelmeden (veya API key yoksa) static live kullanılırken
+  // 3.5 saatten eski "canlı" maçları gösterme
+  const filterStaleLive = (arr) => (arr || []).filter(m => {
+    if (m.status !== "IN_PLAY" && m.status !== "PAUSED") return false;
+    return Date.now() - new Date(m.date).getTime() < 3.5 * 3600_000;
+  });
+
   const matches = {
     live: liveFixtures
-      ? liveFixtures.live.map(lm => ({ ...(staticMatches.upcoming?.find(s => s.id === lm.id) || {}), ...lm }))
-      : staticMatches.live || [],
+      ? liveFixtures.live.map(lm => {
+          const s = staticMatches.upcoming?.find(u => u.id === lm.id)
+                 || staticMatches.past?.find(p => p.id === lm.id);
+          return s ? { ...s, ...lm } : lm;
+        })
+      : filterStaleLive(staticMatches.live),
     upcoming: mergeMatchArrays(
       liveFixtures?.upcoming,
       (staticMatches.upcoming || []).filter(m => !liveIds.has(m.id)),

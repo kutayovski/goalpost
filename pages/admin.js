@@ -472,13 +472,19 @@ export default function AdminPage() {
       .catch(() => {});
   }, []);
 
-  // Site ile aynı merge mantığı: canlı öne, tekrar elenmiş
+  // index.js ile identik merge: live öne, static görsel + özet korunur
   const staticNews = data?.news || {};
   const mergeNews = (cat) => {
-    const live    = liveNews[cat]    || [];
-    const static_ = staticNews[cat]  || [];
-    const seen = new Set(live.map(n => n.title.slice(0, 30).toLowerCase()));
-    return [...live, ...static_.filter(n => !seen.has(n.title.slice(0, 30).toLowerCase()))];
+    const live    = liveNews[cat]   || [];
+    const static_ = staticNews[cat] || [];
+    const staticMap = new Map(static_.map(n => [n.title.slice(0, 30).toLowerCase(), n]));
+    const enriched = live.map(n => {
+      const match = staticMap.get(n.title.slice(0, 30).toLowerCase());
+      if (!match) return n;
+      return { ...match, ...n, image: n.image || match.image, summary: n.summary || match.summary };
+    });
+    const seen = new Set(enriched.map(n => n.title.slice(0, 30).toLowerCase()));
+    return [...enriched, ...static_.filter(n => !seen.has(n.title.slice(0, 30).toLowerCase()))];
   };
 
   const news = {
