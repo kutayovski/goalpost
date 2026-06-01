@@ -11,29 +11,30 @@ import CountryModal from "../components/CountryModal";
 import { STATIC_NEWS, STATIC_MATCHES } from "../lib/staticData";
 
 const SECTIONS = [
-  { id: "gundem", label: "Gündem", icon: "📰" },
-  { id: "fikstur", label: "Fikstürler", icon: "📅" },
-  { id: "transfer", label: "Transfer", icon: "🔄" },
-  { id: "magazin", label: "Magazin", icon: "⭐" },
-  { id: "dunya-kupasi", label: "Dünya Kupası", icon: "🌍" },
+  { id: "corumsporhaber", label: "Çorum FK", icon: "🔴⚫" },
+  { id: "gundem",         label: "Gündem",   icon: "📰" },
+  { id: "milli",          label: "Milli Takım", icon: "🇹🇷" },
+  { id: "superlig",       label: "Süper Lig", icon: "🏟️" },
+  { id: "fikstur",        label: "Fikstürler", icon: "📅" },
+  { id: "transfer",       label: "Transfer",  icon: "🔄" },
+  { id: "dunya-kupasi",   label: "Dünya Kupası", icon: "🌍" },
 ];
 
 const FIXTURE_TABS = [
-  { id: "live", label: "🔴 Canlı" },
+  { id: "live",     label: "🔴 Canlı" },
   { id: "upcoming", label: "📆 Gelecek Maçlar" },
-  { id: "past", label: "✓ Oynanan Maçlar" },
+  { id: "past",     label: "✓ Oynanan Maçlar" },
 ];
 
 export default function Home({ data }) {
-  const [tab, setTab] = useState("gundem");
+  const [tab, setTab]           = useState("gundem");
   const [navHover, setNavHover] = useState(null);
-  const [fixTab, setFixTab] = useState("upcoming");
-  const [activeNews, setActiveNews] = useState(null);
-  const [activeMatch, setActiveMatch] = useState(null);
+  const [fixTab, setFixTab]     = useState("upcoming");
+  const [activeNews, setActiveNews]       = useState(null);
+  const [activeMatch, setActiveMatch]     = useState(null);
   const [activeCountry, setActiveCountry] = useState(null);
 
-  const news = data?.news || STATIC_NEWS;
-  // matches: yeni yapı { live, upcoming, past }. Eski/statik fallback dizi olabilir.
+  const news = data?.news || {};
   const rawMatches = data?.matches;
   const matches = (rawMatches && !Array.isArray(rawMatches))
     ? rawMatches
@@ -44,10 +45,11 @@ export default function Home({ data }) {
     : "Örnek veriler";
 
   const tickerItems = [
-    ...(news.general?.slice(0, 3).map((n) => n.title) || []),
-    ...(news.transfer?.slice(0, 2).map((n) => n.title) || []),
+    ...(news.corumsporhaber?.slice(0, 2).map(n => n.title) || []),
+    ...(news.general?.slice(0, 2).map(n => n.title) || []),
+    ...(news.milli?.slice(0, 1).map(n => n.title) || []),
     "🌍 Dünya Kupası 11 Haziran'da başlıyor!",
-    "🇹🇷 Türkiye, Grup D'de ABD, Avustralya ve Paraguay ile karşılaşacak",
+    "🔴⚫ Çorum FK Süper Lig'de!",
   ];
 
   const today = new Date().toLocaleDateString("tr-TR", {
@@ -56,55 +58,49 @@ export default function Home({ data }) {
 
   const fixtureList = matches[fixTab] || [];
 
+  // Gündem = general + magazine birleşimi
+  const gundemItems = [
+    ...(news.general || STATIC_NEWS.general || []),
+    ...(news.magazine || []),
+  ].sort((a, b) => new Date(b.date) - new Date(a.date));
+
   return (
     <>
-      <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Space+Mono:wght@400;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap');
-        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-        :root {
-          --yellow: #f0e614; --dark: #080808; --card: #0e0e0e;
-          --border: #1c1c1c; --muted: #555; --text: #e8e8e8;
-          --subtext: #888; --green: #2a9d4a; --red: #c0392b;
-          --font-head: 'Playfair Display', serif;
-          --font-mono: 'Space Mono', monospace; --font-body: 'Crimson Pro', Georgia, serif;
-        }
-        body { background: var(--dark); color: var(--text); font-family: var(--font-body); -webkit-font-smoothing: antialiased; }
-        a { color: inherit; text-decoration: none; }
-        ::-webkit-scrollbar { width: 4px; } ::-webkit-scrollbar-thumb { background: var(--yellow); }
-        @keyframes ticker { from{transform:translateX(0)} to{transform:translateX(-50%)} }
-        @keyframes fadeUp { from{opacity:0;transform:translateY(10px)} to{opacity:1;transform:translateY(0)} }
-        @keyframes expand { from{opacity:0;max-height:0} to{opacity:1;max-height:400px} }
-      `}</style>
-
       {/* Header */}
       <header style={{ background: "#0a0a0a", borderBottom: "3px solid var(--yellow)", position: "sticky", top: 0, zIndex: 100 }}>
         <div style={{ maxWidth: "1120px", margin: "0 auto", padding: "0 20px" }}>
           <div style={{ display: "flex", justifyContent: "space-between", padding: "7px 0", borderBottom: "1px solid #181818" }}>
             <span style={{ color: "#333", fontSize: "11px", fontFamily: "var(--font-mono)" }}>{today.toUpperCase()}</span>
-            <span style={{ color: "#333", fontSize: "11px", fontFamily: "var(--font-mono)" }}>🟢 {updatedAt}</span>
+            <div style={{ display: "flex", gap: "16px", alignItems: "center" }}>
+              <span style={{ color: "#333", fontSize: "11px", fontFamily: "var(--font-mono)" }}>🟢 {updatedAt}</span>
+              <a href="/admin" style={{ color: "var(--yellow)", fontSize: "10px", fontFamily: "var(--font-mono)", letterSpacing: "1px" }}>
+                🐦 TWEET PANELİ
+              </a>
+            </div>
           </div>
           <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", padding: "14px 0 8px" }}>
             <div>
-              <h1 style={{ fontFamily: "var(--font-head)", fontSize: "clamp(30px, 5vw, 54px)", fontWeight: "900", color: "#fff", letterSpacing: "-1px", lineHeight: 1 }}>
+              <h1 style={{ fontFamily: "var(--font-head)", fontSize: "clamp(28px, 5vw, 52px)", fontWeight: "900", color: "#fff", letterSpacing: "-1px", lineHeight: 1 }}>
                 GOL<span style={{ color: "var(--yellow)" }}>POST</span>
               </h1>
               <p style={{ color: "#2a2a2a", fontSize: "9px", marginTop: "4px", fontFamily: "var(--font-mono)", letterSpacing: "2.5px" }}>
                 DÜNYA FUTBOL MAGAZİNİ
               </p>
             </div>
-            <div style={{ display: "flex", gap: "5px", fontSize: "20px" }}>
-              {["🏆","🏴󠁧󠁢󠁥󠁮󠁧󠁿","🇪🇸","🇩🇪","🇮🇹","🇫🇷","🇹🇷","🌍"].map((f, i) => <span key={i}>{f}</span>)}
+            <div style={{ display: "flex", gap: "5px", fontSize: "18px" }}>
+              {["🔴⚫","🏆","🏴󠁧󠁢󠁥󠁮󠁧󠁿","🇪🇸","🇩🇪","🇮🇹","🇹🇷","🌍"].map((f, i) => <span key={i}>{f}</span>)}
             </div>
           </div>
           <nav style={{ display: "flex", borderTop: "1px solid #181818", overflowX: "auto" }}>
-            {SECTIONS.map((s) => (
+            {SECTIONS.map(s => (
               <button key={s.id} onClick={() => setTab(s.id)}
                 onMouseEnter={() => setNavHover(s.id)} onMouseLeave={() => setNavHover(null)}
                 style={{
-                  background: tab === s.id ? "var(--yellow)" : "transparent",
-                  color: tab === s.id ? "#0a0a0a" : navHover === s.id ? "#fff" : "var(--muted)",
-                  border: "none", padding: "11px 20px", fontFamily: "var(--font-mono)", fontSize: "11px",
-                  fontWeight: "700", cursor: "pointer", letterSpacing: "1px", transition: "all 0.15s", whiteSpace: "nowrap", flexShrink: 0,
+                  background: tab === s.id ? (s.id === "corumsporhaber" ? "#e30a17" : "var(--yellow)") : "transparent",
+                  color: tab === s.id ? "#fff" : navHover === s.id ? "#fff" : "var(--muted)",
+                  border: "none", padding: "11px 16px", fontFamily: "var(--font-mono)", fontSize: "10px",
+                  fontWeight: "700", cursor: "pointer", letterSpacing: "0.8px", transition: "all 0.15s",
+                  whiteSpace: "nowrap", flexShrink: 0,
                 }}>
                 {s.icon} {s.label.toUpperCase()}
               </button>
@@ -126,15 +122,64 @@ export default function Home({ data }) {
 
       {/* Main */}
       <main style={{ maxWidth: "1120px", margin: "0 auto", padding: "24px 20px 48px" }}>
+
+        {/* ÇORUM FK */}
+        {tab === "corumsporhaber" && (
+          <div style={{ animation: "fadeUp 0.3s ease both" }}>
+            <SectionHeader
+              title="🔴⚫ Çorum FK"
+              subtitle="Trendyol Süper Lig · Çorum Futbol Kulübü haberleri"
+              accent="#e30a17"
+            />
+            {(news.corumsporhaber || []).length === 0 ? (
+              <EmptyState cat="Çorum FK" />
+            ) : (
+              <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(300px, 1fr))", gap: "2px" }}>
+                {(news.corumsporhaber || []).map((item, i) => (
+                  <NewsCard key={i} {...item} isMain={i === 0} onOpen={() => setActiveNews(item)} />
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+
         {/* GÜNDEM */}
         {tab === "gundem" && (
           <div style={{ animation: "fadeUp 0.3s ease both" }}>
             <SectionHeader title="Gündem" subtitle="Dünyadan en güncel futbol haberleri" />
             <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(300px, 1fr))", gap: "2px" }}>
-              {(news.general || []).map((item, i) => (
+              {gundemItems.map((item, i) => (
                 <NewsCard key={i} {...item} isMain={i === 0} onOpen={() => setActiveNews(item)} />
               ))}
             </div>
+          </div>
+        )}
+
+        {/* MİLLİ TAKIM */}
+        {tab === "milli" && (
+          <div style={{ animation: "fadeUp 0.3s ease both" }}>
+            <SectionHeader title="🇹🇷 Milli Takım" subtitle="Türkiye A Milli Futbol Takımı haberleri" accent="#e30a17" />
+            {(news.milli || []).length === 0 ? <EmptyState cat="Milli Takım" /> : (
+              <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(300px, 1fr))", gap: "2px" }}>
+                {(news.milli || []).map((item, i) => (
+                  <NewsCard key={i} {...item} isMain={i === 0} onOpen={() => setActiveNews(item)} />
+                ))}
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* SÜPER LİG */}
+        {tab === "superlig" && (
+          <div style={{ animation: "fadeUp 0.3s ease both" }}>
+            <SectionHeader title="🏟️ Süper Lig" subtitle="Trendyol Süper Lig haberleri" />
+            {(news.superlig || []).length === 0 ? <EmptyState cat="Süper Lig" /> : (
+              <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(300px, 1fr))", gap: "2px" }}>
+                {(news.superlig || []).map((item, i) => (
+                  <NewsCard key={i} {...item} isMain={i === 0} onOpen={() => setActiveNews(item)} />
+                ))}
+              </div>
+            )}
           </div>
         )}
 
@@ -142,17 +187,16 @@ export default function Home({ data }) {
         {tab === "fikstur" && (
           <div style={{ animation: "fadeUp 0.3s ease both" }}>
             <SectionHeader title="Fikstürler & Sonuçlar" subtitle="Maça tıkla — ücretsiz istatistiksel analiz & tahmin" />
-            {/* alt sekmeler */}
             <div style={{ display: "flex", gap: "2px", marginBottom: "2px" }}>
-              {FIXTURE_TABS.map((t) => {
+              {FIXTURE_TABS.map(t => {
                 const count = (matches[t.id] || []).length;
                 return (
                   <button key={t.id} onClick={() => setFixTab(t.id)}
                     style={{
                       flex: 1, background: fixTab === t.id ? "var(--yellow)" : "var(--card)",
                       color: fixTab === t.id ? "#0a0a0a" : "var(--muted)", border: "1px solid var(--border)",
-                      padding: "11px 8px", fontFamily: "var(--font-mono)", fontSize: "11px", fontWeight: "700",
-                      cursor: "pointer", letterSpacing: "0.5px",
+                      padding: "11px 8px", fontFamily: "var(--font-mono)", fontSize: "11px",
+                      fontWeight: "700", cursor: "pointer",
                     }}>
                     {t.label} ({count})
                   </button>
@@ -176,19 +220,7 @@ export default function Home({ data }) {
           <div style={{ animation: "fadeUp 0.3s ease both" }}>
             <SectionHeader title="Transfer Haberleri" subtitle="Transfer dünyasından son gelişmeler" />
             <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(300px, 1fr))", gap: "2px" }}>
-              {(news.transfer?.length ? news.transfer : STATIC_NEWS.transfer).map((item, i) => (
-                <NewsCard key={i} {...item} isMain={i === 0} onOpen={() => setActiveNews(item)} />
-              ))}
-            </div>
-          </div>
-        )}
-
-        {/* MAGAZİN */}
-        {tab === "magazin" && (
-          <div style={{ animation: "fadeUp 0.3s ease both" }}>
-            <SectionHeader title="Magazin" subtitle="Futbol dünyasından ilginç haberler" />
-            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(300px, 1fr))", gap: "2px" }}>
-              {(news.magazine?.length ? news.magazine : STATIC_NEWS.magazine).map((item, i) => (
+              {(news.transfer?.length ? news.transfer : STATIC_NEWS.transfer || []).map((item, i) => (
                 <NewsCard key={i} {...item} isMain={i === 0} onOpen={() => setActiveNews(item)} />
               ))}
             </div>
@@ -211,22 +243,34 @@ export default function Home({ data }) {
       </main>
 
       {/* Modallar */}
-      {activeNews && <NewsModal item={activeNews} onClose={() => setActiveNews(null)} />}
-      {activeMatch && <MatchModal match={activeMatch} onClose={() => setActiveMatch(null)} />}
+      {activeNews    && <NewsModal    item={activeNews}       onClose={() => setActiveNews(null)} />}
+      {activeMatch   && <MatchModal   match={activeMatch}     onClose={() => setActiveMatch(null)} />}
       {activeCountry && <CountryModal country={activeCountry} onClose={() => setActiveCountry(null)} />}
 
       <footer style={{ borderTop: "1px solid var(--border)", padding: "20px", textAlign: "center", color: "#222", fontFamily: "var(--font-mono)", fontSize: "10px", letterSpacing: "1.5px" }}>
-        GOALPOST © 2026 — TAMAMEN ÜCRETSİZ · BBC · SKY · GUARDIAN · ESPN · FOOTBALL-DATA.ORG
+        GOALPOST © 2026 — TAMAMEN ÜCRETSİZ · BBC · SKY · GUARDIAN · ESPN · FOTOMAÇ · FOOTBALL-DATA.ORG
       </footer>
     </>
   );
 }
 
-function SectionHeader({ title, subtitle }) {
+function SectionHeader({ title, subtitle, accent }) {
   return (
-    <div style={{ marginBottom: "16px", paddingBottom: "12px", borderBottom: "1px solid var(--border)" }}>
+    <div style={{ marginBottom: "16px", paddingBottom: "12px", borderBottom: `2px solid ${accent || "var(--yellow)"}` }}>
       <h2 style={{ fontFamily: "var(--font-head)", fontSize: "28px", color: "#fff", marginBottom: "4px" }}>{title}</h2>
       <p style={{ fontFamily: "var(--font-mono)", fontSize: "11px", color: "var(--muted)", letterSpacing: "1px" }}>{subtitle}</p>
+    </div>
+  );
+}
+
+function EmptyState({ cat }) {
+  return (
+    <div style={{ background: "var(--card)", border: "1px solid var(--border)", padding: "40px", textAlign: "center",
+      fontFamily: "var(--font-mono)", fontSize: "12px", color: "var(--muted)", letterSpacing: "1px" }}>
+      {cat} haberleri için veri güncellenmesi bekleniyor.<br />
+      <span style={{ fontSize: "10px", marginTop: "8px", display: "block", color: "#333" }}>
+        GitHub Actions her gün 4 kez otomatik günceller.
+      </span>
     </div>
   );
 }
@@ -235,12 +279,12 @@ export async function getStaticProps() {
   try {
     const filePath = path.join(process.cwd(), "public/data/football.json");
     if (fs.existsSync(filePath)) {
-      const raw = fs.readFileSync(filePath, "utf-8");
+      const raw  = fs.readFileSync(filePath, "utf-8");
       const data = JSON.parse(raw);
       return { props: { data }, revalidate: 3600 };
     }
   } catch (e) {
-    console.warn("football.json okunamadı, statik veri kullanılıyor:", e.message);
+    console.warn("football.json okunamadı:", e.message);
   }
   return { props: { data: null }, revalidate: 3600 };
 }
