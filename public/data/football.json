@@ -1,11 +1,372 @@
 {
-  "updatedAt": "2026-06-01T14:52:04.667Z",
+  "updatedAt": "2026-06-01T15:07:34.170Z",
   "news": {
-    "corumsporhaber": [],
+    "corumsporhaber": [
+      {
+        "title": "Çorum FK Başkanı Savaş Balçık: Çorum'un adını daha büyük platformlarda duyurmaya devam edeceğiz",
+        "summary": "Çorum FK Başkanı Savaş Balçık: Çorum'un adını daha büyük platformlarda duyurmaya devam edeceğiz T24",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ18xcWYzbE9rbXM0bVgwc1ZwS0pLcm0tdWl5UHNFMV9BQkRMVnFpcVJxTUVyYUp6Qzhud0lIN1hhZEYwVkJpMWZzMWdPMkxVSnRETkNIZi1LV3BVVl9BZ1pqZ1JzWEVGT3JtaGhzYlFFQ25DOE96QjZ3YlJyZ3l5WVNxaEpLV29Hb0hUYzJMSFB2X2Q0TGp5R01YU2hrSUwySVpXLVhhUl9mdTZ5TG5FQzVvSEx0TDdmZ3Z3VC1EYzlzLTA?oc=5",
+        "date": "Mon, 01 Jun 2026 11:50:00 GMT",
+        "source": "T24",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Aliağa FK, Çorum FK'nin üç oyuncusuna talip",
+        "summary": "Aliağa FK, Çorum FK'nin üç oyuncusuna talip Habertürk",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1dQanJwcllwVTZnSDBucTJldW5WY2t6SkdBYXRqOUdLVGJ1SjJNYnJ1Nzk1eTg1bXNLNE8wTmlzeV9zQUZlWWRXU185VmdjaUdwSnZKQ3RVQzB0NlZtV25uQkVhTnp5WnRDTzRvcTUzSGVmZWhBckpfcjhGSmlTYTQ3b3hZVFJVanVEV0d3VXgxZHN6UXFPT0ZUcWlpY1NDV2RXY2ViQmgzSzVk?oc=5",
+        "date": "Mon, 01 Jun 2026 09:27:00 GMT",
+        "source": "Habertürk",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "İzmir Aliağa FK, Çorum FK’nin Üç Futbolcusunu Transfer Listesine Aldı",
+        "summary": "İzmir Aliağa FK, Çorum FK’nin Üç Futbolcusunu Transfer Listesine Aldı Mersin Haber",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1VOY254SFRsU2NvLWdBODFPQUFfUWlBS0FlM1c0YUphWktwNlEzdXR5QTZTY3BlbEgzTjRRa2tkT3pxcEdNOTluOXhTUEpCSWlKTFlfRTJvcktxd0JvSXNHVFg1eDhqVklGSndRVFp5N3BnTm84U09RRnJUMnNZaFEwS05EQTQ5a2ZvbVZLMTF2Y0d3dEhsdVUyS2RlZDdPRGp6Rml0TWhXVVVx0gFXQVVfeXFMUFJnTUVSTkE3WUxlRDZDQzJybGpIOTdsdXl1MUZyV0QtU0NEX2pFZ3dHRXdaam5EcDQ4VFMwLXV0azA0ZElUbUVFdVRyc1BLUWY0SXVHb1dB?oc=5",
+        "date": "Mon, 01 Jun 2026 09:27:00 GMT",
+        "source": "Mersin Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Ajeti’ye Çorum FK kancası",
+        "summary": "Ajeti’ye Çorum FK kancası FOTOMAÇ",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xX2V2MHB1ZUZhNFZtSU1wbFpnbW9kY05ZN0tsbmxGWnJtTG1Ma1h1b0prNUs2S0hibjlVQVhvT1djWmR5N3dzNEhtVU9qNjVrUmlqS1JSblg1UWRYSkpuSFYzYU1UazB4SUdyak1tZkFMZlZCOFN1SmIzRdIBgAFBVV95cUxOSE15NHJ6NGdCcTlKZ1J0OXlDN01EeDFnQ3pWbXRuTWpnSkU1WS02NlN4LUxYbXFwYzYxOXpuVDFLMXVCSEhvd2ZsOW1nR2E5Q2RCNmJzVEwzQVFmU1NCSV9USHVzVXFGOS0tM19xNUJXZWRIaDVsTENNQUV3VFp0WQ?oc=5",
+        "date": "Mon, 01 Jun 2026 03:50:10 GMT",
+        "source": "FOTOMAÇ",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Arda Hilmi Şengül zirvede",
+        "summary": "Arda Hilmi Şengül zirvede Çorum Hakimiyet",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Cb1IxYlRkSTRJNlI1Z09ScFBuRTJlT0d5c1JqaHJLRWo4STJqUXZUdDhlcEFhTlVfYkJMTm5kb3Qtc1lIVGtzNElTalB5YVp2TjBXOGhXamhoSUQ2UnBJQzJmbnJad2_SAWxBVV95cUxNbDlmdFA5M2dRVkZGTXhxWXNxLTJkeWs0WktEaVZhOWY3dUNnM2ZmeG1PRTJBeHkzSTB3VnBkaUpPY2kxajFKak81VDAydkZaakpMZXV2S0tMUjA5dlNrZERESjFESUp4Nzd0TXg?oc=5",
+        "date": "Mon, 01 Jun 2026 03:00:00 GMT",
+        "source": "Çorum Hakimiyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Kaleye Brezilyalı hamle",
+        "summary": "Kaleye Brezilyalı hamle Çorum Haber Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QSlppV0JDM2dEeldRUEM5NUFxd0JyWEE2a0FuVGVOa04zd2V3WU9TODlQM3pwY2YweFlTSFR1NGxET3hUTDBsOEhFUk8teUtEb3pDNkxZSVUyVS00MkRJ0gFkQVVfeXFMUE5leE03TG5sT2dua0FCb2RnUk4zVUJOc3dIalNmbXNfS0Fjb2w5OGptRUpSSWFKRnA0bWMtQi1EUkZONTRia1pETHBnLXpVUXRMdG12aUE0NXpHbVc3TlQ5cF84RA?oc=5",
+        "date": "Sun, 31 May 2026 21:04:00 GMT",
+        "source": "Çorum Haber Gazetesi",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Çorum FK aradığı kaleciyi Süper Lig’de buldu!",
+        "summary": "Çorum FK aradığı kaleciyi Süper Lig’de buldu! Ajansspor",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTROMHFyc3M4MkxRUHdzeE1xd2w4eWVfaU5ta1pHeDBzTF9PcGp6dDlGd2FQbXRaYzYzbldlYzdLSGpzSDM2ejlDcDFORG1sVHZRa1Y3NTAyQzRrTnh4M0FsQThiM0l5WjdwaXFPcHV0SkswTnlJRDNsMFE4TjJORzFubkE?oc=5",
+        "date": "Sun, 31 May 2026 20:03:55 GMT",
+        "source": "Ajansspor",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Abi-kardeş şampiyon!",
+        "summary": "Abi-kardeş şampiyon! Çorum Haber Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xMV9qTjBsWnk2RGNGeGJfQUZvSDIyMm1nSFZfVnBnQkFqRFYyc1gyNXpXMVJRbUM4TjJOZVJ0a3FiSmt2WUdiRjBDWk51T3U3VHFkcXU5V2ZOZ9IBX0FVX3lxTFB2S0hGNHBpVkc1eVY5UzhvbXZPdks3UVRES2NnVktSVTVkUllSRGhmTEY0OVU1VjdEbEtnSnpHS240WlppaU1CaWlUS1ZpSFFaSWp1bFhVcWFDOU5IcW9V?oc=5",
+        "date": "Sun, 31 May 2026 13:16:00 GMT",
+        "source": "Çorum Haber Gazetesi",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Çorum FK'nın kalesine kim geçecek? Listede iki flaş aday var",
+        "summary": "Çorum FK'nın kalesine kim geçecek? Listede iki flaş aday var Yayla Haber",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSGlUUnViclFzRnBGdm01SE9mamxaWDR3TTVXbHpwVkJtYkt3eS1kUWlEcFVoY2JIVFlvMUhZTlRTel9pd0VRejE4NzNHRURHNGNFaDF3SEc3YTE3RzFNZG1Ba21wek94OGVZX0NCVGhpYmwwZ1ZUS1ZndElJQ05Sd0t6MmRaWkJzMlVyaG1SYzUtUdIBlwFBVV95cUxOUHBzbEN4dXhEcGtkZHl5Sm1IV2VqeFBtenhQaHJ3cHE4Tzg1OVRMWktKRFVRSEJUS2VNT1lsZHp2N3RnYXd0VVM1LTZYbGtoVVdtWnBUUWhVRUVDOTRDLTlza0YzRk9wWGtrVXVkSDFGQnNrblEyNm8tM2J3dHRtTm1JZkw3VV9DN05aNjhEWXp2dDFObU9r?oc=5",
+        "date": "Sun, 31 May 2026 11:49:00 GMT",
+        "source": "Yayla Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Bilal Bayazit Kayserispor'dan ayrıldı, Süper Lig'in yeni ekibi peşine düştü",
+        "summary": "Bilal Bayazit Kayserispor'dan ayrıldı, Süper Lig'in yeni ekibi peşine düştü Kayseri Anadolu Haber",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWFJZzBHWWZjMjVjUExBN2RoZ2xjdjVXbFJmLV9IZllhNjRZX2FEYmJjU0x1QUY2TnRObkJWWFdiem1ZTF90NXZwMTVBenctei1lWC1iWDh4TzR1dUVqZlE5akRqLUxzY0ZTQ1l4ZDRfY04wRm1RdWp6NFcyQzNNdlF6a19EdVVPb0xidFVZQWdENV9uWTBMVG9fVFFMVWh3WUQ4U21naHBxYTlKZkl3VHhrSWZKbG1SaVplZjlB?oc=5",
+        "date": "Sat, 30 May 2026 17:43:47 GMT",
+        "source": "Kayseri Anadolu Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "ARCA ÇORUM FK",
+        "summary": "ARCA ÇORUM FK Sporx.com",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90VTlwMExZZDU5aExFWUp5NXpHcEFwZjkwMjhnYUwwU1U1M0Fzd1paUnV0YUQ3b0NoZjYzMDg2Zkk4Vkxfd05vZTZ6WFg4Vmx3SzN4MnF4UWkwWkpwVklKZG04QTJsanc?oc=5",
+        "date": "Sat, 30 May 2026 06:21:54 GMT",
+        "source": "Sporx.com",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Süper Lig'e çıkan Çorum FK ilk transferini eski rakibinden yapacak",
+        "summary": "Süper Lig'e çıkan Çorum FK ilk transferini eski rakibinden yapacak Halk TV",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWjdjTHhMTk92TG9Ib0ZEbEtBTU00dkZVR3p3ZU5ULWhuTDlNZnpRVXI3eWpjYjZGaEkxTHRRRFgzNmtaWlJuQVF0blRzWFc3VjN4RzJKWDlnUU1vaHhaR3hqOTdQT3o4Qm1Pa1dCYUtONVdFMVdIc0xwRWRRT2NTS1dsTWVLMzFSNFpoVlZSUEk4NmtROWxncnVzMnhLZUl6QkRJ?oc=5",
+        "date": "Wed, 27 May 2026 15:17:47 GMT",
+        "source": "Halk TV",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Erokspor'u yenerek Süper Lig'e çıkan Çorum FK'ya kötü haber: TFF duyurdu",
+        "summary": "Erokspor'u yenerek Süper Lig'e çıkan Çorum FK'ya kötü haber: TFF duyurdu Halk TV",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmpodGY2dVRreXU0NVp6Ym9uRm1ibHhTOHVEbDNaZTNyWFNTeTFYNXRfZk81NEpDNWZhZ1M4X09hNi1sMWhzR2duTFBmNFFiRVc3dzB2Tl9UZ0xlTTdBdmZjbWJ4cTFUR214V2dEM0JhdHB5U1p2SnJ4MWlZa19SU0RKQjRBamJyQU1TVWNmM21sa05CWUJ1ZFBRVzBXeEtyTHRFc3dFZw?oc=5",
+        "date": "Wed, 27 May 2026 07:58:05 GMT",
+        "source": "Halk TV",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Çorumspor Süper Lig’de",
+        "summary": "Çorumspor Süper Lig’de Gündem11",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41X2lERTVFV19ibVVISVBlSXB2cHhldFhFNVNMVWVIa0w2QVlodXhGVjhiTUx0dzZoZkJUOEpGS0oxN2lmRGgxNnlzVUlfaHhLNnRqMEdR?oc=5",
+        "date": "Mon, 25 May 2026 12:36:41 GMT",
+        "source": "Gündem11",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Hoş geldin Çorumspor",
+        "summary": "Hoş geldin Çorumspor A SPOR",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVGxnbEtyemJadFZ5U1Q1YTFGRE9ycHJFVXVQeXY5cVVScnA4RHB5eklqZGk3YTFUR0h6U1FEdDNnUVB0MEVoNEhoTlRxa0F5dVl1TDBKaGNSLU1JdERiUWhRbFFRbkxyaWc0eGlOMjRjdng2LUxEaTN0MjlCaGV3dVg1U3FHQQ?oc=5",
+        "date": "Mon, 25 May 2026 03:57:52 GMT",
+        "source": "A SPOR",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Esenler Erokspor",
+        "summary": "Esenler Erokspor beinsports.com.tr",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONV9jRl9aOUNBcVdqZHIyMGxsU0FYdXQyNnpvcW5Ra1dqeXd6M1ZwMHQ3SVdQOVdNM0hRcUFqZlJqcWVkYk92UDYyU3VtZC1uc1hwNXhGbkVMRHdBTnB5eVo4Y0FUcks4RVk3WDJVbEdJaHZObi1ZOWp3Y3FLYi1HNFVTNTN6MElrM3JRX1MzOFFJbU90TUZMQmEwRkNlQzdrVXpVaE9nVHlqZmNDbE1QZWZIR18?oc=5",
+        "date": "Sun, 24 May 2026 21:29:12 GMT",
+        "source": "beinsports.com.tr",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "(ÖZET) Çorum FK finalde Erokspor'u mağlup etti! Süper Lig'e yükselen son takım oldu | Esenler Erokspor - Çorum FK maç sonucu: 0-2",
+        "summary": "(ÖZET) Çorum FK finalde Erokspor'u mağlup etti! Süper Lig'e yükselen son takım oldu | Esenler Erokspor - Çorum FK maç sonucu: 0-2 Fanatik",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSEl0aEpiVmVPaEtHTU5sbkdDQkJEVGdJTjRuOGpjbk1Pa2NRZExJZE9YNjFRX3hYYXFONkpITUF2bHpNNVM0dmhmTHZsODhpNTB2Q1AwOXRVZG9sTFhNZnZ4MHJzWVNBQjRiVGxnRFFHVzJZcUJ5cXh5SGg1d2lHMUdqY1pTcUxWRm92cm4tMk93MW1aTm1BczRwaThDdDU4R21mX1ZqNkwxTGZfS3RTejJNLW5zWFdKQVdkYXlOQWNOUnBUSkFROXRHTGFfY0w3djJUR2hPUHplR3dSdEE?oc=5",
+        "date": "Sun, 24 May 2026 19:09:50 GMT",
+        "source": "Fanatik",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Esenler Erokspor 0-2 Çorum FK (Süper Lig'e yükselen son takım Çorum FK oldu)",
+        "summary": "Esenler Erokspor 0-2 Çorum FK (Süper Lig'e yükselen son takım Çorum FK oldu) Hürriyet",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTDd5eWhlcFNPbDBzMHZab2dra1NHYVA0TmxxZFpzaWJLT2t2RzNRUjB0M2VycXdVQ1dhcFAxRVFoTVlkalhqY3NMZF9QR1RORHUwZGVydVZuR2NsX3F5U3ZQTlF1c0ZPNzBud1JsRzNhbW5sS3g0elpmbF9FV29WNWxMNXIxS1ktMFlqZC1DVEtocDFiOV9CN1RMMzN1T01GZUxwZ202UU9fQUYzWGtZVlpFekdkRTRSb09MSA?oc=5",
+        "date": "Sun, 24 May 2026 18:51:26 GMT",
+        "source": "Hürriyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "ÇORUMSPOR SÜPER LİG'DE!",
+        "summary": "ÇORUMSPOR SÜPER LİG'DE! Karadeniz Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTVB1bWtOR0hXZFdFc2ljLTd1QTNmRzBaMzJHNTY3eDI4WUNCZkJkeVpNV3FGWF9kZ1FEb1lkUUYyd0FtTGx6a1J2YUJjMXdIVlQteXMwS1pod05pYVNHQ1RWbFZWUVpmSE5sa2lBWHNJa0tEWmNKV1B1SmJoS215WWVPSzNWc3ZyN0J6NjFPMkMtcFlxWmdpN21QZVVHVFUyaWhuNk8zMzRMSjhwVE5EaXR0MlJnRUV4bFZKNVVtbw?oc=5",
+        "date": "Sun, 24 May 2026 18:04:00 GMT",
+        "source": "Karadeniz Gazetesi",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan, Süper Lig'e yükselen Çorum FK'yı tebrik etti",
+        "summary": "Cumhurbaşkanı Erdoğan, Süper Lig'e yükselen Çorum FK'yı tebrik etti TRT Haber",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORlR6OW9HS25kVmk5WFk5UDdhcWFJek13MUpMSElveGRvMlF5QWtpV0ttc0w2VjNTQmlZb3BtR0NndzNPU1NzckliS1UxWmhzUGtUVnhsTDZuMFN0aHNJcDZtc01yaDhQSlJNMzZnOFEwSFpQSWpCeGo3eFNXTUo3TURIWldfemVhcUVaekRrcXloWjhUVXJIN1U5ZTZMaTZoVzRITll5V0tqYWtCMmY0RWZ0UUo?oc=5",
+        "date": "Sun, 24 May 2026 18:01:00 GMT",
+        "source": "TRT Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Süper Lig’e çıkan son takım Çorum FK oldu! İlk kez yükseldiler",
+        "summary": "Süper Lig’e çıkan son takım Çorum FK oldu! İlk kez yükseldiler Sözcü Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMG9qUEZUVnNHWGpaX2huUlJJWXlvYXNtLV84bHRNdVUxUmNVcEx6UFlQbVp2Q3FBN1F3UzNIbE4wSTZuS0t5VEdCUGpCbzVaZVVCbGg0b3NFT184czA1dlluZnVLOE5tcGF1YU42Wll6NWdiMkVRMXVKZFMyUTFoZlA3RDE3WXV6dDloNjBKYm0yd25UQ1p2Tzl6eUR3T1g4VktaMzctTmpsdw?oc=5",
+        "date": "Sun, 24 May 2026 17:56:00 GMT",
+        "source": "Sözcü Gazetesi",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Esenler Erokspor'u yenen Çorum FK Süper Lig'e yükselen son takım oldu!",
+        "summary": "Esenler Erokspor'u yenen Çorum FK Süper Lig'e yükselen son takım oldu! FOTOMAÇ",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlRidjJPY3ZiQ0Z4bGx3eVhUcEQ0M1Y0Y1VkQUJhUEI4b0YxZTd5eE82d3pXa2RLM05XLWNMOTFMVml2MXRQd3hRVXJ0NlE3WUZSZ2IwZXB4Tmw5U2Ztc0RTV0ZJZWdid05fcWh4X2NRZXY4VXNJa0hUcFdBd085cm90aXpvU0toYkR3cUZOa3JPMnExZ2fSAZsBQVVfeXFMTkNkekhlTU5rdUtzUVEwNGIxdFpwMHpVM2JCOFBRNUFKZkpudnRKd2RqTVNkbnk3WXpkMVgwYVhCcmZPUTRXeG83MGRsNG96ZEFJZEpDa1V2SzBNZUdoLTVCekZraEliNWFNeVgxOXdrZ2tmV0JiUVRlVUpYcnRZa01mMGR6b3hqbl95S1dKTVR1X3MtNUlMSUN0aVU?oc=5",
+        "date": "Sun, 24 May 2026 15:52:37 GMT",
+        "source": "FOTOMAÇ",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Esenler Erokspor - Çorum FK maçı hangi kanalda, saat kaçta?",
+        "summary": "Esenler Erokspor - Çorum FK maçı hangi kanalda, saat kaçta? Yeni Şafak",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFJJZFJVaER6Tzc0bkJQN3hBcnJFMkdwTGIyR09NY0hyTzBfNG5PTFprbWpqODNYd1JUOWNIYXNqVk1kaWtKX2FoNW5GRXF5RkxOOThVRkJRY3pxc1NJTnktZzE5enR0czJQakpyWjB2OVN0YzdmWXlJdFNVcGEtNG1pcWhoWDB2NktGU1FBa2JpTlZiZEU2SldXN3owZkhGUlJEbm9lb0xfaFU?oc=5",
+        "date": "Sun, 24 May 2026 15:14:41 GMT",
+        "source": "Yeni Şafak",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Esenler Erokspor'u 2 golle geçen Çorum FK Süper Lig'de! - Ülke TV",
+        "summary": "Esenler Erokspor'u 2 golle geçen Çorum FK Süper Lig'de! Ülke TV - Haber",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZzNiZktkTnMtVmpaYUVsNjdTREk0czJWdTZWbGdMOXJSY28xanFQZUozNjJLN3luMXdxV3AySG0zaHhYcm9XUUNtcktDMm5FdVg3VGdsRmdjLTVNSWpUUHQ1QVVmMEx5R3RRd3dUT0pSV0p0ZG5oMFN3LUUwQy1xYll3WdIBiAFBVV95cUxPN3RMOERzaG9Nd05MdVFzU19uaXEzc2RZS2F3OG9JUEtFM1dlRWNxNHJ0MW5JVGdBNTZyYVBIU3Q5ZTB6RUZHY1VLdzcyeHQyWFZGNzNxdjBoclJQUUs3NHE1VmZuZ0FWaDZEVjlGZXo0ZjQ3SURHUTE2cXpXT2FUZlVZZ2dZalFF?oc=5",
+        "date": "Sun, 24 May 2026 14:06:58 GMT",
+        "source": "Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "ESENLER EROKSPOR - ARCA ÇORUMSPOR CANLI İZLE! Esenler Erokspor - Çorum FK maçı saat kaçta, hangi kanalda?",
+        "summary": "ESENLER EROKSPOR - ARCA ÇORUMSPOR CANLI İZLE! Esenler Erokspor - Çorum FK maçı saat kaçta, hangi kanalda? FOTOMAÇ",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2RQdkdNVzFlZ3V5TGYzZmhjY1ZBUm9aRXV4WnRQMG1IWEJGUDVGS0ZNaTFybzVzV3F2bUtfZlBEUFQtNmZVeTdRbnZTc1ByaTVwSWxmdDJyM1ZXZXQtY0w2NUExOGpWQTFjY1UxUExYMnd0VC1xcGlPRTlMR2FNSGJqaU1oOFNxVEM0Tkp2M1pQT0JCWk5JT2FkbHg1QTNFUWFBUi1kZUg5eDFIQjJF0gG0AUFVX3lxTFBYYi1aQkVXcTVkVFY5VTR4ZlVLeHdhaldMcVljOEV4UlduZllhZ1JXUHlSSk1jSGV1TFl2VlZQd3dPMkEtMTRvb3R1eWJCLXJZWFJiTm9TMHNwdERjZ1cyMHd2cVprdjA4dVJvMXcwTHpBYmF4TG9qWERMcDlCeEt2UHBIZXlNTlRVNXFwNnRJS25ZOHBjd0NiY3U2RGY3OWRxcW1rbThfd0dPRkh6dGxucnlfaQ?oc=5",
+        "date": "Sun, 24 May 2026 11:17:12 GMT",
+        "source": "FOTOMAÇ",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "CANLI İZLE | Esenler Erokspor - Çorum FK maçı canlı yayınını şifresiz izle",
+        "summary": "CANLI İZLE | Esenler Erokspor - Çorum FK maçı canlı yayınını şifresiz izle NTVSpor",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbjdfVGJuV3hyRWdNS3dvZkR1Q1JIeUhTeVR4c082YXVSeXZUaTI2Y0tRU0RxQVNZQ1JkZC1wZDNpSzBUMGlnQ25ZZnphSUlIYktGNXFiM3pZX1RWUGlkamFRTjNYSFlIQnpRZkRZN0szS0VLQ0lNcm1yVkNZNFc4VkZaRW1SRDFBelMxMW1TakV4c3gxVVZxdmFVTkUzd2xLeGxfRFdqcEt0a1I1dEM2Nkc3SdIBuAFBVV95cUxOazdpTl9PSWU1WFp4YWlkY0tHTGluZjNlY3R6NmU4a1Q3SUJKamRteF9GNjNaaTA3am04ZEtXamNmTm01eTlhNWpEMzFXSnAwX0I0SHJjUWQ0SlBPUW5DdlRlVU9NYThGOGdHSEJ1MjhNYnRIbEluTm1WRGF3a05VbGl2dzJTWFNJeE9WZXRjRUdFVDJBMFJRZlI3OFJpVDdsWllhUlZZQWxTU0p4bnYwdmtlNXZaakNw?oc=5",
+        "date": "Sun, 24 May 2026 10:15:31 GMT",
+        "source": "NTVSpor",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Erokspor-Çorum FK maçı saat kaçta, hangi kanalda ve şifresiz mi yayınlanacak? 79. Süper Lig ekibi belli oluyor",
+        "summary": "Erokspor-Çorum FK maçı saat kaçta, hangi kanalda ve şifresiz mi yayınlanacak? 79. Süper Lig ekibi belli oluyor NTV Haber",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOEFka2lSRXJud0doeXVQSGJISzdZRmhzc2NIcHNLUXdNeVFlUFZoeDNaTGdLYzc3bkZfY1dFUnprSWFaY21pbl9qZmx0SmVaWnFYWTdla21RZ1N0Ulh6djJVNlEyb3B6LXNYNXRiX3pGVDBxeXZtTEQ3M3o3c0tHWE5Ja2NIQUd0UkxRMXZWWlJpdnN4ck9oV3dPNzRrTUtEQ1AxeHFCUG0tclhIUXNkd2FEM2o5UWhoU2lQN2YwMV9LbmN1OURsZGRNXzcya29vOUZvUFA5ZGhJT1V1Z3RxQkp3VVlTem4zc0E?oc=5",
+        "date": "Sun, 24 May 2026 09:13:45 GMT",
+        "source": "NTV Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Trendyol Süper Lig'e Yükselen Arca Çorum FK, Kupasını Aldı",
+        "summary": "Trendyol Süper Lig'e Yükselen Arca Çorum FK, Kupasını Aldı TFF",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90Y3NRTzNqZUlZZDFsYjUwVFpURDlDbk9UTzEyUThWczY3NkRXN1QzZlFnd3dfMzNlNV9qakdiR1Q1SkxJVmlYc0RMeW9yNmFtY0tXcl9FNFN3LTBqbm1wOExHNmxaS2M?oc=5",
+        "date": "Sun, 24 May 2026 07:00:00 GMT",
+        "source": "TFF",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "Çorum FK, Süper Lig’e yükseldi",
+        "summary": "Çorum FK, Süper Lig’e yükseldi TRT Haber",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcHhNbWRMRmlULTFLaEREUnVCNTY5d0JCM3NLX00xUEpkRzZlcjFVMkI2OFVZLUNjWnE4c0duTW4xbktFWkxqemlJaFE3ZE8wdzVMUk1pdXBISjQ1XzV1d1JtMVBmcXN0UHAzNENvZkFHRWhOWHpWMDhXMFMyOW1LcGFB?oc=5",
+        "date": "Sun, 24 May 2026 07:00:00 GMT",
+        "source": "TRT Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      },
+      {
+        "title": "ÖZET | Arca Çorum FK, Trendyol Süper Lig'e yükselen son takım oldu!",
+        "summary": "ÖZET | Arca Çorum FK, Trendyol Süper Lig'e yükselen son takım oldu! beinsports.com.tr",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNaTM1SDNPcV84VXBjVENHZ2F4T18tR2ktTXlyS3o4UlVLRm53aGRvNk0zWGRpMGM3TU5WWThscmt2WDRnZU9hei1Tb2c3UTNUWTBoU0ZhV0lvNFgyTFRVOFJkdEJLOXI0VmFNMUVrQQ?oc=5",
+        "date": "Sun, 24 May 2026 07:00:00 GMT",
+        "source": "beinsports.com.tr",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300"
+      }
+    ],
     "milli": [
       {
         "title": "ATV CANLI İZLE | Türkiye - Kuzey Makedonya maçı! A Milli Futbol Takımı, 2026 Dünya Kupası öncesi sahada",
-        "summary": "A Milli Futbol Takımı, 2026 Dünya Kupası öncesi hazırlık maçında Kuzey Makedonya ile karşı karşıya gelecek. Müsabaka ATV ekranlarından naklen ve şifresiz yayınlanacak. Maçın canlı yayınını ve anlatımını... Devamı için tıklayınız",
+        "summary": "A Milli Futbol Takımı, 2026 Dünya Kupası öncesi hazırlık maçında Kuzey Makedonya ile karşı karşıya gelecek. Müsabaka ATV ekranlarından naklen ve şifresiz yayınlanacak. Maçın canlı yayınını ve anlatımını...Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/atv-canli-izle-turkiye-kuzey-makedonya-maci-a-milli-futbol-takimi-2026-dunya-kupasi-oncesi-sahada",
         "date": "Mon, 01 Jun 2026 16:49:19 +0300",
         "source": "Sabah Spor",
@@ -18,7 +379,7 @@
       },
       {
         "title": "Kuzey Makedonya maçına gelemeyen gurbetçi vatandaşımızdan A Milli Takım'a şiir!",
-        "summary": "A Milli Takım'ın, Kuzey Makedonya ile karşılaşacağı hazırlık maçı öncesi dikkat çeken haberler gelmeye devam ediyor. Son olarak Hollanda'dan gelen gurbetçi bir vatandaşımız bu mücadeleye fabrikada çalıştığı... Devamı için tıklayınız",
+        "summary": "A Milli Takım'ın, Kuzey Makedonya ile karşılaşacağı hazırlık maçı öncesi dikkat çeken haberler gelmeye devam ediyor. Son olarak Hollanda'dan gelen gurbetçi bir vatandaşımız bu mücadeleye fabrikada çalıştığı...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/video-haber/videoizle/kuzey-makedonya-macina-gelemeyen-gurbetci-vatandasimizdan-a-milli-takima-siir",
         "date": "Mon, 01 Jun 2026 16:43:02 +0300",
         "source": "Fotomaç",
@@ -57,7 +418,7 @@
       },
       {
         "title": "A Milli Takımımız sahaya iniyor! İşte Montella'nın Kuzey Makedonya maçı 11'i",
-        "summary": "A Milli Takımımız, FIFA 2026 Dünya Kupası öncesi hazırlıklarına hız kesmeden devam ediyor. Milliler ilk hazırlık provasında bugün Kuzey Makedonya ile kozlarını paylaşacak. Bu mücadele öncesi tüm önemli... Devamı için tıklayınız",
+        "summary": "A Milli Takımımız, FIFA 2026 Dünya Kupası öncesi hazırlıklarına hız kesmeden devam ediyor. Milliler ilk hazırlık provasında bugün Kuzey Makedonya ile kozlarını paylaşacak. Bu mücadele öncesi tüm önemli...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/millitakim/2026/06/01/a-milli-takimimiz-sahaya-iniyor-iste-montellanin-kuzey-makedonya-maci-11i",
         "date": "Mon, 01 Jun 2026 10:40:34 +0300",
         "source": "Fotomaç",
@@ -98,7 +459,7 @@
       },
       {
         "title": "Galatasaray'da yıldız ismin 20 milyon Euro'nun altına satılması yasak!",
-        "summary": "Süper Lig devlerinden Galatasaray'da yaz transfer döneminde sıcak gelişmeler yaşanmaya devam ediyor. Sarı-kırmızılılarda son olarak pek çok taliplisi olan o futbolcu için yönetimden radikal karar geldi.... Devamı için tıklayınız",
+        "summary": "Süper Lig devlerinden Galatasaray'da yaz transfer döneminde sıcak gelişmeler yaşanmaya devam ediyor. Sarı-kırmızılılarda son olarak pek çok taliplisi olan o futbolcu için yönetimden radikal karar geldi....Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/galatasaray/2026/06/01/galatasarayda-yildiz-ismin-20-milyon-euronun-altina-satilmasi-yasak",
         "date": "Mon, 01 Jun 2026 15:02:09 +0300",
         "source": "Fotomaç",
@@ -111,7 +472,7 @@
       },
       {
         "title": "Fenerbahçe'de flaş Mert Hakan Yandaş gelişmesi! 15 gün içerisinde...",
-        "summary": "Süper Lig devlerinden Fenerbahçe'de geleceği merak konusu haline gelen Mert Hakan Yandaş ile ilgili sıcak gelişmeler yaşanıyor. Son olarak sarı-lacivertlilerde futbolcu hakkında dikkat çeken o gerçek gün... Devamı için tıklayınız",
+        "summary": "Süper Lig devlerinden Fenerbahçe'de geleceği merak konusu haline gelen Mert Hakan Yandaş ile ilgili sıcak gelişmeler yaşanıyor. Son olarak sarı-lacivertlilerde futbolcu hakkında dikkat çeken o gerçek gün...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/01/fenerbahcede-flas-mert-hakan-yandas-gelismesi-15-gun-icerisinde",
         "date": "Mon, 01 Jun 2026 09:32:04 +0300",
         "source": "Fotomaç",
@@ -126,7 +487,7 @@
     "transfer": [
       {
         "title": "Borussia Dortmund'dan sürpriz Guirassy açıklaması! Fenerbahçe'ye transferi gündemdeydi...",
-        "summary": "Fenerbahçe başkan adayları Hakan Safi ve Aziz Yıldırım'ın talip olduğu Serhou Guirassy için kulübü Borussia Dortmund'dan dikkat çeken bir açıklama geldi. Devamı için tıklayınız",
+        "summary": "Fenerbahçe başkan adayları Hakan Safi ve Aziz Yıldırım'ın talip olduğu Serhou Guirassy için kulübü Borussia Dortmund'dan dikkat çeken bir açıklama geldi.Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/borussia-dortmunddan-surpriz-guirassy-aciklamasi-fenerbahceye-transferi-gundemdeydi",
         "date": "Mon, 01 Jun 2026 16:23:52 +0300",
         "source": "Sabah Spor",
@@ -152,7 +513,7 @@
       },
       {
         "title": "Fenerbahçe Kerem Aktürkoğlu transferinden ceza alacak mı? Hakan Safi açıkladı",
-        "summary": "Fenerbahçe Başkan Adaylarından Hakan Safi, katıldığı bir programda Kerem Aktürkoğlu transferi hakkında açıklamalar yaptı. Devamı için tıklayınız",
+        "summary": "Fenerbahçe Başkan Adaylarından Hakan Safi, katıldığı bir programda Kerem Aktürkoğlu transferi hakkında açıklamalar yaptı.Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/01/fenerbahce-kerem-akturkoglu-transferinden-ceza-alacak-mi-hakan-safi-acikladi",
         "date": "Mon, 01 Jun 2026 12:45:38 +0300",
         "source": "Fotomaç",
@@ -165,7 +526,7 @@
       },
       {
         "title": "Aziz Yıldırım'ın stoper transferindeki listesi açıklandı!",
-        "summary": "Fenerbahçe'de başkan adayı Aziz Yıldırım'ın transfer planları netleşmeye başladı. Savunma hattını güçlendirmeyi hedefleyen Yıldırım'ın stoper listesindeki isimler belli oldu. Devamı için tıklayınız",
+        "summary": "Fenerbahçe'de başkan adayı Aziz Yıldırım'ın transfer planları netleşmeye başladı. Savunma hattını güçlendirmeyi hedefleyen Yıldırım'ın stoper listesindeki isimler belli oldu.Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/01/aziz-yildirimin-stoper-transferindeki-listesi-aciklandi",
         "date": "Mon, 01 Jun 2026 12:16:59 +0300",
         "source": "Fotomaç",
@@ -178,7 +539,7 @@
       },
       {
         "title": "Galatasaray'dan transferde orta sahaya 40 milyon euro'luk yıldız!",
-        "summary": "Galatasaray, yeni sezon öncesi orta saha hattına dünya çapında bir yıldız kazandırmak için çalışmalarını sürdürüyor. Bruno Fernandes transferinden sonuç alamayan sarı-kırmızılılar, İspanyol yıldıza yöneldi... Devamı için tıklayınız",
+        "summary": "Galatasaray, yeni sezon öncesi orta saha hattına dünya çapında bir yıldız kazandırmak için çalışmalarını sürdürüyor. Bruno Fernandes transferinden sonuç alamayan sarı-kırmızılılar, İspanyol yıldıza yöneldi...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/galatasaray/2026/06/01/galatasaraydan-transferde-orta-sahaya-40-milyon-euroluk-yildiz",
         "date": "Mon, 01 Jun 2026 11:38:11 +0300",
         "source": "Fotomaç",
@@ -191,7 +552,7 @@
       },
       {
         "title": "Galatasaraylıları heyecanlandıran haber! Mertens geri mi dönüyor?",
-        "summary": "Galatasaray'da çok önemli başarılara imza atan ve sarı-kırmızılı taraftarların büyük sevgisini kazanan Dries Mertens ile ilgili önemli gelişmeler yaşanıyor. Son olarak Belçikalı yıldızın sarı-kırmızılılara... Devamı için tıklayınız",
+        "summary": "Galatasaray'da çok önemli başarılara imza atan ve sarı-kırmızılı taraftarların büyük sevgisini kazanan Dries Mertens ile ilgili önemli gelişmeler yaşanıyor. Son olarak Belçikalı yıldızın sarı-kırmızılılara...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/galatasaray/2026/06/01/galatasaraylilari-heyecanlandiran-haber-mertens-geri-mi-donuyor",
         "date": "Mon, 01 Jun 2026 09:50:54 +0300",
         "source": "Fotomaç",
@@ -204,7 +565,7 @@
       },
       {
         "title": "Torino'dan İstanbul'a uzanan transfer hattı! Fenerbahçe, Galatasaray ve Juventus...",
-        "summary": "Juventus, Dusan Vlahovic ile yollarını ayırma ihtimaline karşı forvet hattı için düğmeye bastı. İtalyan basını, Fenerbahçe ve Galatasaray'ın içinde bulunduğu ilginç transfer halkasını duyurdu. İşte detaylar... Devamı için tıklayınız",
+        "summary": "Juventus, Dusan Vlahovic ile yollarını ayırma ihtimaline karşı forvet hattı için düğmeye bastı. İtalyan basını, Fenerbahçe ve Galatasaray'ın içinde bulunduğu ilginç transfer halkasını duyurdu. İşte detaylar...Devamı için tıklayınız",
         "link": "https://www.aspor.com.tr/futbol/2026/06/01/torinodan-istanbula-uzanan-transfer-hatti-fenerbahce-galatasaray-ve-juventus",
         "date": "Mon, 01 Jun 2026 06:50:10 +0300",
         "source": "Fotomaç",
@@ -242,19 +603,6 @@
         "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0521%2Fr1661406_1296x729_16%2D9.jpg"
       },
       {
-        "title": "WSL transfer dönemi önizlemesi: Chelsea yeni bir sözleşme imzalayacak",
-        "summary": "WSL için transfer dönemi 18 Haziran'da açık ama büyük takımlar arasında neler olabilir?",
-        "link": "https://www.espn.com/soccer/story/_/id/48891022/wsl-transfer-window-preview-chelsea-sign-striker-shaw-snub",
-        "date": "Mon, 1 Jun 2026 08:50:55 EST",
-        "source": "ESPN FC",
-        "flag": "⚽",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "transfer",
-        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0516%2Fr1658966_1296x729_16%2D9.jpg"
-      },
-      {
         "title": "Premier Lig'in görünüm rekortmeni James Milner, 40 yaşında emekli oldu",
         "summary": "Premier Lig'de geçirdiği 24 sezonun sonunu Brighton'da geçirdi. James Milner'ın nihayet seçkin, rekor kıran ve sıra dışı bir oyunculuk kariyerinin perdesini araladığını \"Bu yolculuğu asla hayal edemezdim\" diyor. Bu, 40 yaşındaki son derece çok yönlü orta saha oyuncusunun Premier Lig'de 24 sezon geçirmesini ve Newcastle, Aston Villa, Manchester City ve Liverpool duraklarıyla Leeds'ten Brighton'a kadar uzanan yolda 61 İngiltere forması kazanmasıyla ilgiliydi. Şubat ayında Swindon'da kısa süreliğine kiralık olarak kalan Milner, Brighton'da Brentford'a karşı oynarken Premier Lig'de forma giyme rekorunu kırdı. Kariyerini altı kulüpte 658 üst düzey maçta oynayarak ve dört büyük turnuvada İngiltere'yi temsil ederek noktaladı. Okumaya devam edin...",
         "link": "https://www.theguardian.com/football/2026/jun/01/james-milner-retires-premier-league-record-appearance-holder",
@@ -269,7 +617,7 @@
       },
       {
         "title": "Asensio'ya La Liga'dan üçlü kıskaç! Fenerbahçe'nin transfer kararı...",
-        "summary": "Fenerbahçe'nin yıldız ismi Marco Asensio hakkında dikkat çeken transfer iddiaları gündeme geliyor. Son olarak Asensio ile La Liga'dan 3 takımın ilgilendiği öğrenilirken Fenerbahçe'nin transfer kararı ise... Devamı için tıklayınız",
+        "summary": "Fenerbahçe'nin yıldız ismi Marco Asensio hakkında dikkat çeken transfer iddiaları gündeme geliyor. Son olarak Asensio ile La Liga'dan 3 takımın ilgilendiği öğrenilirken Fenerbahçe'nin transfer kararı ise...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/01/asensioya-la-ligadan-uclu-kiskac-fenerbahcenin-transfer-karari",
         "date": "Mon, 01 Jun 2026 06:50:10 +0300",
         "source": "Fotomaç",
@@ -284,7 +632,7 @@
     "worldcup": [
       {
         "title": "İran Milli Futbol Takımı'nın 2026 FIFA Dünya Kupası nihai kadrosu belli oldu",
-        "summary": "Antalya'da 2026 FIFA Dünya Kupası hazırlıklarını sürdüren İran Milli Futbol Takımı'nın 26 kişilik nihai kadrosu belli oldu. Devamı için tıklayınız",
+        "summary": "Antalya'da 2026 FIFA Dünya Kupası hazırlıklarını sürdüren İran Milli Futbol Takımı'nın 26 kişilik nihai kadrosu belli oldu.Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/iran-milli-futbol-takiminin-2026-fifa-dunya-kupasi-nihai-kadrosu-belli-oldu",
         "date": "Mon, 01 Jun 2026 16:29:40 +0300",
         "source": "Sabah Spor",
@@ -307,19 +655,6 @@
         "feedImage": null,
         "category": "worldcup",
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a9a4/live/c8102b90-5db6-11f1-8b6d-5b89cbb85786.jpg"
-      },
-      {
-        "title": "Williamson, İspanya'ya karşı Dünya Kupası elemelerini kaçıracak",
-        "summary": "İngiltere kaptanı Leah Williamson, İspanya ve Ukrayna ile oynanacak Kadınlar Dünya Kupası ön eleme maçlarında yer almayacak.",
-        "link": "https://www.bbc.com/sport/football/articles/cq6pngp7g53o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 11:00:08 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/87ae/live/cf11b560-5da4-11f1-baa9-1f66f2ed2a5f.jpg"
       },
       {
         "title": "Dünya Kupası tarihinin en çok kart gören futbolcusu Mascherano",
@@ -437,6 +772,19 @@
         "feedImage": null,
         "category": "worldcup",
         "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0531%2Fr1666427_1296x729_16%2D9.jpg"
+      },
+      {
+        "title": "Kaynaklar: Fransız Saliba'nın Dünya Kupası'na katılması şüpheli",
+        "summary": "ESPN'e konuşan kaynaklar, Arsenal ve Fransız defans oyuncusu William Saliba'nın birkaç hafta önce sırtını sakatladıktan sonra Dünya Kupası'na katılma konusunda oldukça şüpheli olduğunu söyledi.",
+        "link": "https://www.espn.com/soccer/story/_/id/48938049/france-william-saliba-doubtful-world-cup-sources",
+        "date": "Mon, 1 Jun 2026 10:21:22 EST",
+        "source": "ESPN FC",
+        "flag": "⚽",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0601%2Fr1666600_1296x729_16%2D9.jpg"
       }
     ],
     "magazine": [
@@ -482,21 +830,8 @@
     ],
     "general": [
       {
-        "title": "Earps & Leon, London City Lionesses'e katılmaya hazırlanıyor",
-        "summary": "Eski İngiltere kalecisi Mary Earps ve İspanyol savunma oyuncusu Mapi Leon, bu yaz London City Lionesses'e katılmanın eşiğinde.",
-        "link": "https://www.bbc.com/sport/football/articles/ce9pl0e4p4jo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 14:22:42 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3936/live/60d992b0-5dc8-11f1-89a3-d1f559421220.png"
-      },
-      {
         "title": "Cengiz Ünder, yetiştiği kulüpte gençlerle buluştu",
-        "summary": "Milli futbolcu Cengiz Ünder, Balıkesir'in Sındırgı ilçesinde futbola başladığı kulübü ziyarette bulundu. Devamı için tıklayınız",
+        "summary": "Milli futbolcu Cengiz Ünder, Balıkesir'in Sındırgı ilçesinde futbola başladığı kulübü ziyarette bulundu.Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/cengiz-under-yetistigi-kulupte-genclerle-bulustu",
         "date": "Mon, 01 Jun 2026 17:16:36 +0300",
         "source": "Sabah Spor",
@@ -509,7 +844,7 @@
       },
       {
         "title": "Galatasaray'ın satın alma opsiyonunu kullanmadığı Noa Lang'a İspanya'dan talip!",
-        "summary": "Galatasaray'ın sezon sonunda opsiyonunu kullanmayarak Napoli'ye geri gönderdiği Noa Lang'ın talipleri artıyor. Hollandalı kanat oyuncusu için LaLiga ekibi devreye girdi. İşte detaylar... Devamı için tıklayınız",
+        "summary": "Galatasaray'ın sezon sonunda opsiyonunu kullanmayarak Napoli'ye geri gönderdiği Noa Lang'ın talipleri artıyor. Hollandalı kanat oyuncusu için LaLiga ekibi devreye girdi. İşte detaylar...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/galatasaray/2026/06/01/galatasarayin-satin-alma-opsiyonunu-kullanmadigi-noa-langa-ispanyadan-talip",
         "date": "Mon, 01 Jun 2026 17:00:09 +0300",
         "source": "Fotomaç",
@@ -535,7 +870,7 @@
       },
       {
         "title": "James Milner kramponlarını astı!",
-        "summary": "40 yaşındaki İngiliz futbolcu James Milner, futbol kariyerine nokta koyduğunu açıkladı. Devamı için tıklayınız",
+        "summary": "40 yaşındaki İngiliz futbolcu James Milner, futbol kariyerine nokta koyduğunu açıkladı.Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/james-milner-kramponlarini-asti",
         "date": "Mon, 01 Jun 2026 16:35:24 +0300",
         "source": "Sabah Spor",
@@ -548,7 +883,7 @@
       },
       {
         "title": "Galatasaray yönetiminde görev dağılımı yapıldı",
-        "summary": "Galatasaray’ın 93’üncü Dönem Yönetim Kurulu’nda görev dağılımı belli oldu. Devamı için tıklayınız",
+        "summary": "Galatasaray’ın 93’üncü Dönem Yönetim Kurulu’nda görev dağılımı belli oldu.Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/galatasaray-yonetiminde-gorev-dagilimi-yapildi",
         "date": "Mon, 01 Jun 2026 16:28:26 +0300",
         "source": "Sabah Spor",
@@ -587,7 +922,7 @@
       },
       {
         "title": "Fenerbahçe'den ayrılacak mı? Diego Carlos için resmi açıklama!",
-        "summary": "Fenerbahçe'den sezon başında İtalya'nın Como takımına kiralanan Diego Carlos'un geleceği netleşmeye başladı. Como Sportif Direktörü Carlalberto Ludi, Brezilyalı savunmacının durumu hakkında açıklamalarda... Devamı için tıklayınız",
+        "summary": "Fenerbahçe'den sezon başında İtalya'nın Como takımına kiralanan Diego Carlos'un geleceği netleşmeye başladı. Como Sportif Direktörü Carlalberto Ludi, Brezilyalı savunmacının durumu hakkında açıklamalarda...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/01/fenerbahceden-ayrilacak-mi-diego-carlos-icin-resmi-aciklama",
         "date": "Mon, 01 Jun 2026 15:31:58 +0300",
         "source": "Fotomaç",
@@ -600,7 +935,7 @@
       },
       {
         "title": "Como'dan Diego Carlos açıklaması! \"Durumunu takip ediyoruz\"",
-        "summary": "Fenerbahçe'nin sezon başında Como'ya kiraladığı Diego Carlos'un geleceğine dair İtalyan ekibinden flaş bir açıklama geldi. Devamı için tıklayınız",
+        "summary": "Fenerbahçe'nin sezon başında Como'ya kiraladığı Diego Carlos'un geleceğine dair İtalyan ekibinden flaş bir açıklama geldi.Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/comodan-diego-carlos-aciklamasi-durumunu-takip-ediyoruz",
         "date": "Mon, 01 Jun 2026 15:11:27 +0300",
         "source": "Sabah Spor",
@@ -626,7 +961,7 @@
       },
       {
         "title": "Fenerbahçe başkan adayı Hakan Safi'den bir kez daha Conte hamlesi!",
-        "summary": "Fenerbahçe başkan adayı Hakan Safi'den flaş hamleler gelmeye devam ediyor. Safi'nin son olarak teknik direktör için gündemine aldığı Antonio Conte ile bir kez daha görüşeceği öğrenildi. Devamı için tıklayınız",
+        "summary": "Fenerbahçe başkan adayı Hakan Safi'den flaş hamleler gelmeye devam ediyor. Safi'nin son olarak teknik direktör için gündemine aldığı Antonio Conte ile bir kez daha görüşeceği öğrenildi.Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/01/fenerbahce-baskan-adayi-hakan-safiden-bir-kez-daha-conte-hamlesi",
         "date": "Mon, 01 Jun 2026 12:09:01 +0300",
         "source": "Fotomaç",
@@ -665,7 +1000,7 @@
       },
       {
         "title": "Vallejo, kadın hakem hakkındaki 'kabul edilemez' yorumları nedeniyle büyük para cezasına çarptırıldı",
-        "summary": "Adolfo Daniel Vallejo, Fransa Açık maçında bir kadının hakemlik yapmaması gerektiğini söylediği için yaklaşık 50.000 dolar para cezasına çarptırıldı.",
+        "summary": "Adolfo Daniel Vallejo, Fransa Açık maçında bir kadının hakemlik yapmaması gerektiğini söylediği için yaklaşık 50.000 £ para cezasına çarptırıldı.",
         "link": "https://www.skysports.com/tennis/news/12040/13549813/adolfo-daniel-vallejo-paraguayan-player-fined-nearly-50000-at-french-open-for-unacceptable-comments-about-female-umpire",
         "date": "Mon, 01 Jun 2026 13:55:00 BST",
         "source": "Sky Sports",
@@ -688,6 +1023,19 @@
         "feedImage": null,
         "category": "general",
         "image": "https://e0.365dm.com/26/06/1600x900/skysports-rugby-league-johnkear_7262708.png?20260601093850"
+      },
+      {
+        "title": "10 oyuncuya geri mi dönelim? Kraliyet Rumble'ı mı? - Premier Lig formatı değişmeli mi?",
+        "summary": "\"Bu alanı izleyin...\"",
+        "link": "https://www.skysports.com/darts/news/12040/13548806/premier-league-darts-luke-littler-luke-humphries-and-gerwyn-price-on-how-they-would-change-format-with-royal-rumble-suggested",
+        "date": "Mon, 01 Jun 2026 12:00:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://e0.365dm.com/26/05/1600x900/skysports-darts-premier-league-darts_7258791.jpg?20260526113421"
       }
     ]
   },
@@ -2709,7 +3057,7 @@
           "homeCrest": "https://crests.football-data.org/787.svg",
           "awayCrest": "https://crests.football-data.org/791.svg",
           "date": "2026-06-14T23:00:00Z",
-          "status": "SCHEDULED",
+          "status": "TIMED",
           "timeframe": "upcoming",
           "score": null,
           "halfTime": null,
