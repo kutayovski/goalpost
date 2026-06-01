@@ -85,32 +85,54 @@ export default function Home({ data }) {
     };
   }, []);
 
-  const staticNews = data?.news || {};
+  const CORUM_BADGE_URL = "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png";
+  // Ham statik veri: Çorum FK'da Unsplash görselleri logoyla değiştir
+  const rawStaticNews = data?.news || {};
+  const staticNews = {
+    ...rawStaticNews,
+    corumsporhaber: (rawStaticNews.corumsporhaber || []).map(n => ({
+      ...n,
+      image: n.image?.includes("unsplash") ? CORUM_BADGE_URL : n.image,
+    })),
+  };
 
-  // Canlı + statik haber birleştirme:
-  // Live haberler önde (taze), static haberlerden görsel + özet miras alınır.
-  // Live ile aynı başlığa sahip static haber elenirken görseli live'a aktarılır.
+  // ── Haber birleştirme: static(görsel) + live(taze) ──────────────────────────
+  // Kural:
+  //   1. Static haberler 30 günden eskiyse gösterilmez (eski transfer/superlig haberleri)
+  //   2. Live haberlerin kendi görseli varsa kullanılır; yoksa static eşleşmesinden alınır
+  //   3. Tümü tarihe göre sıralanır (en yeni önce)
+  const STATIC_MAX_AGE_MS = 30 * 24 * 3600_000; // 30 gün
   const mergeNews = (cat) => {
     const live    = liveNews[cat]   || [];
     const static_ = staticNews[cat] || [];
-    // Static haberleri başlık prefix ile ara
-    const staticMap = new Map(
-      static_.map(n => [n.title.slice(0, 30).toLowerCase(), n])
-    );
-    // Live haberlere eşleşen static'in görseli + özetini ver
-    const enriched = live.map(n => {
+
+    // 30 günden eski static haberler filtrele (en az 3 bırak)
+    const cutoff = Date.now() - STATIC_MAX_AGE_MS;
+    let freshStatic = static_.filter(n => !n.date || new Date(n.date).getTime() > cutoff);
+    if (freshStatic.length < 3 && static_.length > 0) {
+      freshStatic = [...static_].sort((a, b) => new Date(b.date||0) - new Date(a.date||0)).slice(0, 3);
+    }
+
+    // Static'i başlık prefix ile hızlı ara
+    const staticByKey = new Map(freshStatic.map(n => [n.title.slice(0, 30).toLowerCase(), n]));
+
+    // Live haberler: görsel yoksa eşleşen static'ten al
+    const processedLive = live.map(n => {
       const key   = n.title.slice(0, 30).toLowerCase();
-      const match = staticMap.get(key);
-      if (!match) return n;
-      return {
-        ...match,          // static: görsel, özet, link vb.
-        ...n,              // live: date, source, flag üste yazar
-        image:   n.image   || match.image,   // görsel: live yoksa static'ten al
-        summary: n.summary || match.summary, // özet: live yoksa static'ten al
-      };
+      const match = staticByKey.get(key);
+      const image = n.image || (match ? match.image : null);
+      const summary = n.summary || (match ? match.summary : '');
+      return { ...(match || {}), ...n, image, summary };
     });
-    const seen = new Set(enriched.map(n => n.title.slice(0, 30).toLowerCase()));
-    return [...enriched, ...static_.filter(n => !seen.has(n.title.slice(0, 30).toLowerCase()))];
+
+    // Deduplicate: live'da var olan static'leri çıkar
+    const liveKeys = new Set(processedLive.map(n => n.title.slice(0, 30).toLowerCase()));
+    const remainingStatic = freshStatic.filter(n => !liveKeys.has(n.title.slice(0, 30).toLowerCase()));
+
+    // Birleştir ve tarihle sırala
+    const all = [...processedLive, ...remainingStatic];
+    all.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+    return all;
   };
 
   const news = {

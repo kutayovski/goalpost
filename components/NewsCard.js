@@ -3,6 +3,17 @@ import { useState } from "react";
 
 const CORUM_BADGE = "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png";
 
+// Görsel yoksa kategori renginde gradient arka plan + emoji göster
+const CAT_STYLE = {
+  corumsporhaber: { bg: "linear-gradient(135deg,#1a0000,#2a0000)", emoji: null, logo: CORUM_BADGE },
+  milli:          { bg: "linear-gradient(135deg,#0a0a1a,#1a0a0a)", emoji: "🇹🇷" },
+  superlig:       { bg: "linear-gradient(135deg,#0a0a0a,#111)",    emoji: "🏟️" },
+  transfer:       { bg: "linear-gradient(135deg,#0a1a0a,#0a0a0a)", emoji: "🔄" },
+  worldcup:       { bg: "linear-gradient(135deg,#0a1a0a,#0d1a0d)", emoji: "🏆" },
+  general:        { bg: "linear-gradient(135deg,#0a0a0a,#111)",    emoji: "⚽" },
+  magazine:       { bg: "linear-gradient(135deg,#0a0a0a,#111)",    emoji: "⭐" },
+};
+
 export default function NewsCard({ title, summary, source, flag, date, link, image, isMain, onOpen, category }) {
   const [hovered, setHovered] = useState(false);
 
@@ -45,34 +56,72 @@ export default function NewsCard({ title, summary, source, flag, date, link, ima
       }}
     >
       {/* Görsel */}
-      {image && (
-        <div style={{ position: "relative", width: "100%", height: isMain ? "200px" : "140px", overflow: "hidden" }}>
-          <img
-            src={image}
-            alt={title}
-            style={{
-              width: "100%", height: "100%", objectFit: "cover",
-              transition: "transform 0.4s",
-              transform: hovered ? "scale(1.04)" : "scale(1)",
-            }}
-            onError={(e) => {
-              if (category === "corumsporhaber" && e.target.src !== CORUM_BADGE) {
-                e.target.src = CORUM_BADGE;
-                e.target.style.objectFit = "contain";
-                e.target.style.padding = "16px";
-                e.target.style.background = "#111";
-                e.target.style.transform = "none";
-              } else {
-                e.target.style.display = "none";
-              }
-            }}
-          />
-          <div style={{
-            position: "absolute", inset: 0,
-            background: "linear-gradient(to top, rgba(8,8,8,0.85) 0%, transparent 60%)",
-          }} />
-        </div>
-      )}
+      {(() => {
+        const h = isMain ? "200px" : "140px";
+        const catStyle = CAT_STYLE[category] || CAT_STYLE.general;
+
+        if (image) {
+          return (
+            <div style={{ position: "relative", width: "100%", height: h, overflow: "hidden" }}>
+              <img
+                src={image}
+                alt={title}
+                style={{
+                  width: "100%", height: "100%", objectFit: "cover",
+                  transition: "transform 0.4s",
+                  transform: hovered ? "scale(1.04)" : "scale(1)",
+                }}
+                onError={(e) => {
+                  if (category === "corumsporhaber" && e.target.src !== CORUM_BADGE) {
+                    // Çorum FK: bozuk görsel → logo
+                    e.target.src = CORUM_BADGE;
+                    e.target.style.objectFit = "contain";
+                    e.target.style.padding = "20px";
+                    e.target.style.background = "#111";
+                    e.target.style.transform = "none";
+                  } else {
+                    // Diğer kategoriler: bozuk görsel → emoji placeholder
+                    e.target.style.display = "none";
+                    const parent = e.target.parentElement;
+                    if (parent) {
+                      parent.style.background = catStyle.bg;
+                      parent.style.display = "flex";
+                      parent.style.alignItems = "center";
+                      parent.style.justifyContent = "center";
+                      parent.innerHTML = `<span style="font-size:40px;opacity:0.4">${catStyle.emoji || "⚽"}</span>`;
+                    }
+                  }
+                }}
+              />
+              <div style={{
+                position: "absolute", inset: 0,
+                background: "linear-gradient(to top, rgba(8,8,8,0.85) 0%, transparent 60%)",
+              }} />
+            </div>
+          );
+        }
+
+        // Görsel yok: Çorum FK → logo, diğerleri → kategori placeholder
+        if (category === "corumsporhaber") {
+          return (
+            <div style={{ position: "relative", width: "100%", height: h, background: "#111", overflow: "hidden",
+              display: "flex", alignItems: "center", justifyContent: "center" }}>
+              <img src={CORUM_BADGE} alt="Çorum FK"
+                style={{ width: "80px", height: "80px", objectFit: "contain", opacity: 0.85 }} />
+              <div style={{ position: "absolute", inset: 0,
+                background: "linear-gradient(to top, rgba(8,8,8,0.7) 0%, transparent 60%)" }} />
+            </div>
+          );
+        }
+
+        // Görsel olmayan diğer kategoriler: emoji placeholder
+        return (
+          <div style={{ width: "100%", height: h, background: catStyle.bg,
+            display: "flex", alignItems: "center", justifyContent: "center", overflow: "hidden" }}>
+            <span style={{ fontSize: "40px", opacity: 0.25 }}>{catStyle.emoji || "⚽"}</span>
+          </div>
+        );
+      })()}
 
       {/* İçerik */}
       <div style={{ padding: isMain ? "20px 22px 22px" : "14px 18px 18px" }}>

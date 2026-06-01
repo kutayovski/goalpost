@@ -472,19 +472,33 @@ export default function AdminPage() {
       .catch(() => {});
   }, []);
 
-  // index.js ile identik merge: live öne, static görsel + özet korunur
-  const staticNews = data?.news || {};
+  const CORUM_BADGE_URL = "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png";
+  const rawStaticNews = data?.news || {};
+  // Çorum FK Unsplash → logo
+  const staticNews = {
+    ...rawStaticNews,
+    corumsporhaber: (rawStaticNews.corumsporhaber || []).map(n => ({
+      ...n,
+      image: n.image?.includes("unsplash") ? CORUM_BADGE_URL : n.image,
+    })),
+  };
+  const STATIC_MAX_AGE_MS = 30 * 24 * 3600_000;
   const mergeNews = (cat) => {
     const live    = liveNews[cat]   || [];
     const static_ = staticNews[cat] || [];
-    const staticMap = new Map(static_.map(n => [n.title.slice(0, 30).toLowerCase(), n]));
-    const enriched = live.map(n => {
-      const match = staticMap.get(n.title.slice(0, 30).toLowerCase());
-      if (!match) return n;
-      return { ...match, ...n, image: n.image || match.image, summary: n.summary || match.summary };
+    const cutoff  = Date.now() - STATIC_MAX_AGE_MS;
+    let freshStatic = static_.filter(n => !n.date || new Date(n.date).getTime() > cutoff);
+    if (freshStatic.length < 3 && static_.length > 0)
+      freshStatic = [...static_].sort((a,b) => new Date(b.date||0)-new Date(a.date||0)).slice(0,3);
+    const staticByKey = new Map(freshStatic.map(n => [n.title.slice(0,30).toLowerCase(), n]));
+    const processedLive = live.map(n => {
+      const key   = n.title.slice(0,30).toLowerCase();
+      const match = staticByKey.get(key);
+      return { ...(match||{}), ...n, image: n.image||(match?.image)||null, summary: n.summary||(match?.summary)||'' };
     });
-    const seen = new Set(enriched.map(n => n.title.slice(0, 30).toLowerCase()));
-    return [...enriched, ...static_.filter(n => !seen.has(n.title.slice(0, 30).toLowerCase()))];
+    const liveKeys = new Set(processedLive.map(n => n.title.slice(0,30).toLowerCase()));
+    const remaining = freshStatic.filter(n => !liveKeys.has(n.title.slice(0,30).toLowerCase()));
+    return [...processedLive, ...remaining].sort((a,b) => new Date(b.date||0)-new Date(a.date||0));
   };
 
   const news = {
