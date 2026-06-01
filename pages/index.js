@@ -85,36 +85,19 @@ export default function Home({ data }) {
     };
   }, []);
 
-  const CORUM_BADGE_URL = "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png";
-  // Ham statik veri: Çorum FK'da Unsplash görselleri logoyla değiştir
-  const rawStaticNews = data?.news || {};
-  const staticNews = {
-    ...rawStaticNews,
-    corumsporhaber: (rawStaticNews.corumsporhaber || []).map(n => ({
-      ...n,
-      image: n.image?.includes("unsplash") ? CORUM_BADGE_URL : n.image,
-    })),
-  };
+  // Static haber: getStaticProps'ta zaten filtrelenmiş + Çorum logosu uygulanmış
+  const staticNews = data?.news || {};
 
   // ── Haber birleştirme: static(görsel) + live(taze) ──────────────────────────
-  // Kural:
-  //   1. Static haberler 30 günden eskiyse gösterilmez (eski transfer/superlig haberleri)
-  //   2. Live haberlerin kendi görseli varsa kullanılır; yoksa static eşleşmesinden alınır
-  //   3. Tümü tarihe göre sıralanır (en yeni önce)
-  const STATIC_MAX_AGE_MS = 30 * 24 * 3600_000; // 30 gün
+  // Live haberlerin görseli varsa kullanılır; yoksa static eşleşmesinden alınır.
+  // Tümü tarihe göre sıralanır (en yeni önce).
+  // NOT: Yaş filtresi getStaticProps'ta yapılıyor — burada Date.now() YOK (hydration-safe).
   const mergeNews = (cat) => {
     const live    = liveNews[cat]   || [];
     const static_ = staticNews[cat] || [];
 
-    // 30 günden eski static haberler filtrele (en az 3 bırak)
-    const cutoff = Date.now() - STATIC_MAX_AGE_MS;
-    let freshStatic = static_.filter(n => !n.date || new Date(n.date).getTime() > cutoff);
-    if (freshStatic.length < 3 && static_.length > 0) {
-      freshStatic = [...static_].sort((a, b) => new Date(b.date||0) - new Date(a.date||0)).slice(0, 3);
-    }
-
     // Static'i başlık prefix ile hızlı ara
-    const staticByKey = new Map(freshStatic.map(n => [n.title.slice(0, 30).toLowerCase(), n]));
+    const staticByKey = new Map(static_.map(n => [n.title.slice(0, 30).toLowerCase(), n]));
 
     // Live haberler: görsel yoksa eşleşen static'ten al
     const processedLive = live.map(n => {
@@ -127,12 +110,11 @@ export default function Home({ data }) {
 
     // Deduplicate: live'da var olan static'leri çıkar
     const liveKeys = new Set(processedLive.map(n => n.title.slice(0, 30).toLowerCase()));
-    const remainingStatic = freshStatic.filter(n => !liveKeys.has(n.title.slice(0, 30).toLowerCase()));
+    const remainingStatic = static_.filter(n => !liveKeys.has(n.title.slice(0, 30).toLowerCase()));
 
     // Birleştir ve tarihle sırala
-    const all = [...processedLive, ...remainingStatic];
-    all.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
-    return all;
+    return [...processedLive, ...remainingStatic]
+      .sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
   };
 
   const news = {
@@ -501,6 +483,28 @@ export async function getStaticProps() {
     if (fs.existsSync(filePath)) {
       const raw  = fs.readFileSync(filePath, "utf-8");
       const data = JSON.parse(raw);
+
+      // 30 günden eski haberleri server-side filtrele (hydration-safe — render'da Date.now() yok)
+      const CORUM_BADGE = "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png";
+      const cutoff = Date.now() - 30 * 24 * 3600_000;
+      if (data.news) {
+        Object.keys(data.news).forEach(cat => {
+          const items = data.news[cat] || [];
+          // Çorum FK görselleri: Unsplash → logo
+          const processed = items.map(n => ({
+            ...n,
+            image: (cat === "corumsporhaber" && n.image?.includes("unsplash")) ? CORUM_BADGE : n.image,
+          }));
+          // Eski haber filtresi (Çorum FK hariç — hepsini tut)
+          if (cat !== "corumsporhaber") {
+            const fresh = processed.filter(n => !n.date || new Date(n.date).getTime() > cutoff);
+            data.news[cat] = fresh.length >= 3 ? fresh : processed.slice(0, 3);
+          } else {
+            data.news[cat] = processed;
+          }
+        });
+      }
+
       return { props: { data }, revalidate: 3600 };
     }
   } catch (e) {

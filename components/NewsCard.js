@@ -1,5 +1,5 @@
-// components/NewsCard.js
-import { useState } from "react";
+// components/NewsCard.js — hydration-safe
+import { useState, useEffect } from "react";
 
 const CORUM_BADGE = "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png";
 
@@ -17,15 +17,19 @@ const CAT_STYLE = {
 export default function NewsCard({ title, summary, source, flag, date, link, image, isMain, onOpen, category }) {
   const [hovered, setHovered] = useState(false);
 
-  const relativeTime = (dateStr) => {
-    if (!dateStr) return "";
-    const diff = Date.now() - new Date(dateStr).getTime();
+  // SSR/Client hydration hatası önlemi:
+  // displayTime state'i SSR'da "" olarak başlar, client'ta mount sonrası dolar.
+  // Server ve client ilk render'ı AYNI (boş string) → mismatch yok.
+  const [displayTime, setDisplayTime] = useState("");
+  useEffect(() => {
+    if (!date) return;
+    const diff = Date.now() - new Date(date).getTime();
     const mins = Math.floor(diff / 60000);
-    if (mins < 60) return `${mins}dk önce`;
+    if (mins < 60) { setDisplayTime(`${mins}dk önce`); return; }
     const hrs = Math.floor(mins / 60);
-    if (hrs < 24) return `${hrs}sa önce`;
-    return `${Math.floor(hrs / 24)}g önce`;
-  };
+    if (hrs < 24) { setDisplayTime(`${hrs}sa önce`); return; }
+    setDisplayTime(`${Math.floor(hrs / 24)}g önce`);
+  }, [date]);
 
   // Kart tıklaması: modal açar (özet görmek için)
   // "Devamını oku" ise direkt orijinal siteye gider
@@ -134,7 +138,7 @@ export default function NewsCard({ title, summary, source, flag, date, link, ima
             {flag} {source}
           </span>
           <span style={{ color: "var(--muted)", fontSize: "10px", fontFamily: "var(--font-mono)", flexShrink: 0 }}>
-            {relativeTime(date)}
+            {displayTime}
           </span>
         </div>
 

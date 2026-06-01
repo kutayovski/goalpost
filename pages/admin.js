@@ -337,7 +337,7 @@ function NewsItem({ item, catId }) {
             <span style={{ fontSize: "10px", fontFamily: "var(--font-mono)", background: "#1a1a1a", color: "var(--yellow)", padding: "2px 7px" }}>
               {item.flag} {item.source}
             </span>
-            <span style={{ fontSize: "10px", fontFamily: "var(--font-mono)", color: "var(--muted)" }}>
+            <span suppressHydrationWarning style={{ fontSize: "10px", fontFamily: "var(--font-mono)", color: "var(--muted)" }}>
               {relTime(item.date)}
             </span>
             {item.link && (
@@ -483,10 +483,11 @@ export default function AdminPage() {
     })),
   };
   const STATIC_MAX_AGE_MS = 30 * 24 * 3600_000;
+  const [cutoffTs] = useState(() => Date.now() - STATIC_MAX_AGE_MS);
   const mergeNews = (cat) => {
     const live    = liveNews[cat]   || [];
     const static_ = staticNews[cat] || [];
-    const cutoff  = Date.now() - STATIC_MAX_AGE_MS;
+    const cutoff  = cutoffTs;
     let freshStatic = static_.filter(n => !n.date || new Date(n.date).getTime() > cutoff);
     if (freshStatic.length < 3 && static_.length > 0)
       freshStatic = [...static_].sort((a,b) => new Date(b.date||0)-new Date(a.date||0)).slice(0,3);
