@@ -1,6 +1,7 @@
 # .github/workflows/daily-update.yml
-# GOALPOST — günde 4 kez otomatik veri güncellemesi.
-# TAMAMEN ÜCRETSİZ: GitHub Actions ücretsiz tier (aylık 2000 dk) fazlasıyla yeterli.
+# GOALPOST — günde 4 kez maç verisi + derin analiz güncellemesi.
+# NOT: Haberler artık /api/live-news ile sürekli canlı çekiliyor.
+# Bu workflow sadece football-data.org maç verisi + çeviri + analiz için çalışır.
 
 name: Daily Football Data Update
 
@@ -8,13 +9,13 @@ on:
   schedule:
     # Türkiye saatiyle 08:00, 14:00, 20:00, 02:00 (UTC: 05,11,17,23)
     - cron: "0 5,11,17,23 * * *"
-  workflow_dispatch:   # Actions sekmesinden manuel tetikleme
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  fetch-and-deploy:
+  fetch-and-commit:
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
@@ -46,17 +47,5 @@ jobs:
           else
             git commit -m "🤖 Otomatik veri güncellemesi $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
-            echo "✅ Veri güncellendi ve push edildi"
+            echo "✅ Güncellendi — Vercel otomatik deploy başlar"
           fi
-
-      # Vercel Deploy Hook — push olmasa bile Vercel'i yeniden build etmeye zorlar.
-      # Kurulum: Vercel Dashboard → Settings → Git → Deploy Hooks → "github-actions" hook oluştur
-      # Oluşan URL'yi GitHub → Settings → Secrets → VERCEL_DEPLOY_HOOK_URL olarak kaydet.
-      - name: Trigger Vercel redeploy
-        if: ${{ secrets.VERCEL_DEPLOY_HOOK_URL != '' }}
-        run: |
-          curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_URL }}" \
-            -H "Content-Type: application/json" \
-            -d '{"reason":"Scheduled data update"}' \
-            && echo "✅ Vercel redeploy tetiklendi" \
-            || echo "⚠️  Vercel hook başarısız (devam ediliyor)"
