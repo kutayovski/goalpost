@@ -52,42 +52,49 @@ function detectStory(text) {
   return "general";
 }
 
-// Özetten en güçlü cümleyi seç (sayı, tırnak içereni tercih et)
-// Eğer özet başlığı tekrar ediyorsa boş döner (gereksiz yineleme engeli)
-function extractKeySentence(summary, title, maxLen = 100) {
+// Özeti temizle: başlık tekrarı + kaynak adını çıkar
+function cleanSummaryText(summary, title) {
   if (!summary) return "";
+  let s = summary.replace(/\s+/g, " ").trim();
 
-  // Özet = başlık + kaynak adı kalıbını temizle (Google News)
-  const cleanSummary = summary
-    .replace(/\s+/g, " ")
-    .replace(new RegExp(title.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").slice(0, 30), "i"), "")
-    .trim();
+  // Kaynak adı kalıpları: "- T24", "| Fotomaç", ".com.tr" sonu
+  s = s.replace(/\s*[-–—|]\s*[\w\s\.]{1,30}\.(com|net|org|tr|co\.uk)\S*/gi, "")
+       .replace(/\s*(T24|Fotomaç|Hürriyet|Sabah|Milliyet|Habertürk|NTV Spor|beinsports\.com\.tr|sporx\.com)\s*$/i, "")
+       .trim();
 
-  // Çok kısa veya sadece kaynak adı kaldıysa atla
-  if (cleanSummary.length < 25) return "";
+  // Başlığın ilk 25 karakteri özette tekrar ediyorsa çıkar
+  const titleChunk = title.slice(0, 25).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  if (titleChunk.length > 10) s = s.replace(new RegExp(titleChunk, "i"), "").trim();
 
-  const sents = cleanSummary
-    .split(/(?<=[.!?])\s+/)
-    .map(s => s.trim())
-    .filter(s => s.length > 20 && s.length < 180);
+  return s;
+}
 
-  if (!sents.length) {
-    // Tek paragraf: kısalt
-    const t = cleanSummary.slice(0, maxLen);
-    return cleanSummary.length > maxLen ? t.slice(0, t.lastIndexOf(" ") || maxLen) + "…" : t;
+// Özetten TAM CÜMLE seç (asla yarım bırakma)
+function pickCompleteSentence(rawSummary, title, maxLen = 120) {
+  const s = cleanSummaryText(rawSummary, title);
+  if (s.length < 20) return null;
+
+  // Cümlelere böl (nokta, ünlem, soru işareti sonrası)
+  const sentences = s.split(/(?<=[.!?])\s+/).map(x => x.trim()).filter(x => x.length > 15);
+
+  if (sentences.length === 0) {
+    // Bölünemedi — tam metin sığıyorsa al, yoksa alma
+    return s.length <= maxLen ? s : null;
   }
 
-  // Tırnak (alıntı) içereni önce al — en viral format
-  const quoted = sents.find(s => /["«»'"]/.test(s));
-  if (quoted) {
-    const c = quoted.slice(0, maxLen);
-    return quoted.length > maxLen ? c.slice(0, c.lastIndexOf(" ") || maxLen) + "…" : c;
-  }
-  // Sayı içereni tercih et (istatistik, para, skor)
-  const numeric = sents.find(s => /\d/.test(s));
-  const chosen  = numeric || sents[0];
-  const c = chosen.slice(0, maxLen);
-  return chosen.length > maxLen ? c.slice(0, c.lastIndexOf(" ") || maxLen) + "…" : c;
+  // Tırnak/alıntı içeren varsa önce al (en etkili tweet formatı)
+  const quoted = sentences.find(s => /["'«»„"]/.test(s) && s.length <= maxLen);
+  if (quoted) return quoted;
+
+  // Sayı içeren (istatistik, para, skor)
+  const numSent = sentences.find(s => /\d/.test(s) && s.length <= maxLen);
+  if (numSent) return numSent;
+
+  // Sığan ilk tam cümle
+  const fits = sentences.find(s => s.length <= maxLen);
+  if (fits) return fits;
+
+  return null; // Hiçbir cümle sığmıyorsa boş — yarım bırakmak yerine atla
 }
 
 // Kategori + hikaye tipine göre hook seç
@@ -158,49 +165,46 @@ function buildTweetText(item, catId) {
   const hashtags  = (CATEGORIES.find(c => c.id === catId)?.hashtags || ["Futbol"])
     .map(h => `#${h}`).join(" ");
 
-  const storyType  = detectStory(combined);
-  const hook       = pickHook(storyType, catId, title);
-  const keySent    = extractKeySentence(summary, title);
-  const cta        = pickCTA(storyType);
+  const storyType = detectStory(combined);
+  const hook      = pickHook(storyType, catId, title);
+  const cta       = pickCTA(storyType);
 
-  // Başlığı kısalt + merak uyandıracak şekilde düzenle
-  let shortTitle = title
-    .replace(/\s*[-–—]\s*\w+\.(?:com|net|org|tr)\S*/gi, "") // kaynak adını sil
-    .replace(/\s*\|\s*\w+\.(?:com|net|org|tr)\S*/gi, "")     // | kaynak sil
+  // Başlığı temizle — kaynak adı, pipe, domain çıkar
+  const cleanTitle = title
+    .replace(/\s*[-–—|]\s*[\w\s\.]{1,30}\.(com|net|org|tr|co\.uk)\S*/gi, "")
+    .replace(/\s*[-–—]\s*(T24|Fotomaç|Hürriyet|Sabah|Milliyet|Habertürk|NTV Spor|sporx|bein)\s*$/i, "")
     .trim();
 
-  // Başlık soru değilse ve merak uyandırabiliyorsa soru işareti/ünlem ekle
-  if (shortTitle.length > 0 && !/[!?…]$/.test(shortTitle)) {
-    if (["transfer","talip","görüşme","peşinde","istiyor"].some(k => shortTitle.toLowerCase().includes(k))) {
-      shortTitle += "!";
-    }
+  // Başlığa ünlem/soru ekle (uygunsa)
+  let formattedTitle = cleanTitle;
+  if (!/[!?…]$/.test(formattedTitle)) {
+    const t = formattedTitle.toLowerCase();
+    if (["transfer","talip","görüşme","peşinde","istiyor","anlaştı","resmen"].some(k => t.includes(k)))
+      formattedTitle += "!";
+    else if (["neden","nasıl","kim","hangi","mi?","mı?"].some(k => t.includes(k)))
+      formattedTitle += "?";
   }
 
-  if (shortTitle.length > 90) {
-    const cut = shortTitle.slice(0, 90);
-    shortTitle = (cut.lastIndexOf(" ") > 60 ? cut.slice(0, cut.lastIndexOf(" ")) : cut) + "…";
-  }
+  // TAM CÜMLE seç (yarım bırakma)
+  const keySent = pickCompleteSentence(summary, title, 115);
 
-  // Tweet yapısı:
-  // HOOK
-  //
-  // Başlık (kısa)
-  // → Anahtar cümle (varsa)
-  //
-  // CTA
-  //
-  // #Hashtaglar
-  let lines = [hook, "", shortTitle];
-  if (keySent && keySent !== shortTitle) lines.push("→ " + keySent);
-  lines.push("", cta, "", hashtags);
+  // ─── Tweet montajı — her bölüm ya TAM ya da HİÇ ───────────────────────────
+  // Karakter bütçesi: 250 max (URL için 24 karakter ayrılıyor, Twitter t.co)
+  const BUDGET = 250;
 
-  const text = lines.join("\n");
-  // 250 char limiti — fazlası keySent'i kısalt
-  if (text.length > 250) {
-    let shorter = [hook, "", shortTitle, "", cta, "", hashtags].join("\n");
-    return shorter.slice(0, 250);
-  }
-  return text;
+  // v1: Hook + başlık + cümle + CTA + hashtag
+  const v1 = [hook, "", formattedTitle, keySent ? `\n${keySent}` : "", "", cta, "", hashtags]
+    .join("\n").replace(/\n{3,}/g, "\n\n").trim();
+
+  if (v1.length <= BUDGET) return v1;
+
+  // v2: Hook + başlık + CTA + hashtag (cümle çıkar)
+  const v2 = [hook, "", formattedTitle, "", cta, "", hashtags].join("\n").trim();
+  if (v2.length <= BUDGET) return v2;
+
+  // v3: Hook + başlık + hashtag (CTA da çıkar)
+  const v3 = [hook, "", formattedTitle, "", hashtags].join("\n").trim();
+  return v3.length <= BUDGET ? v3 : v3.slice(0, BUDGET);
 }
 
 function openTweet(text, url) {
