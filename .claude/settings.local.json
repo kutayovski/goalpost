@@ -40,7 +40,12 @@
       "Bash(rm -f public/data/football.json.bak)",
       "Bash(git rm *)",
       "Bash(rm -f wc_diag.txt _fetchlog.txt)",
-      "Bash(git commit -q -m ' *)"
+      "Bash(git commit -q -m ' *)",
+      "Bash(grep -E \"^_|wc_diag|fetchlog|\\\\.log$\")",
+      "Bash(git status *)",
+      "Bash(git log *)",
+      "Bash(rm -f _gitcheck.txt)",
+      "Bash(git commit *)"
     ]
   }
 }
