@@ -1,0 +1,10 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "regions": ["cdg1"],
+  "env": {
+    "FOOTBALL_DATA_API_KEY": "@football_data_api_key"
+  }
+}
