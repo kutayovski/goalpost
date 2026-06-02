@@ -1,7 +1,67 @@
 {
-  "updatedAt": "2026-06-02T00:17:57.331Z",
+  "updatedAt": "2026-06-02T09:11:20.103Z",
   "news": {
     "corumsporhaber": [
+      {
+        "title": "Bu 11'i Sporx'te kurdum. Sen de kur hangi kadro daha iyi tartışalım :)",
+        "summary": "Bu 11'i Sporx'te kurdum. Sen de kur hangi kadro daha iyi tartışalım :) Sporx.com",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BSnpNbEVncGNCSFotSU1aV1RKMy0wSzNCWk1FRGsyR3lURWNpSUhxQlNpMXp4cDV0WExfd0Z0c2FERDFBQm1JaEJlQlkxU2lBeUg0LWJnV1pBc0otcWk2MHIzTmZ4VkU?oc=5",
+        "date": "Tue, 02 Jun 2026 08:13:03 GMT",
+        "source": "Sporx.com",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum’a 5 yıldızlı otel yapacak",
+        "summary": "Çorum’a 5 yıldızlı otel yapacak habercim19.com",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wYUQ0aURZRkp1MmVXNkxDM0NCZ0k1OFR1MmhRM0tKOWtmUGhnMWRhMGZySzRHeUJYOGlaQTNWNUI4WGFPVktTS2p1OXBIME9EMUdfQVp0RUNqTWxyaVFfYlJPMzZ3OGxOTVRYbm9EUGsxMVNXaGxZYXRR?oc=5",
+        "date": "Tue, 02 Jun 2026 07:16:00 GMT",
+        "source": "habercim19.com",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Balçık’tan 'Çorum’a yakışır' proje hamlesi",
+        "summary": "Balçık’tan 'Çorum’a yakışır' proje hamlesi Çorum Hakimiyet",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kQ3lRQXFCZGw3QVNWazZyWEV0M1hrOXpwMmk0eDRpNHYtSkxibHpfa2NvN3N1WXhIRldmUi0yTkFneXA5VEM1T01zV2pjbTI0ZUxSZWVMcmhwdTFQUnpoTUJ4bVBSMUNwcmlmZDlacGdCWFV3U3MzU9IBfkFVX3lxTE5nQlBqamlnQ3owNW55M3piUHNoM3VZM2ZzVFljNEtTbzBWMkdMTXVFaVFfUS05TktScnh3ODFVMWJMdldMUFBmd2JKSTlKWm5pclQyeHR3clVWQmtxSWliVnlid29nYk1EalNnUVp2M3VIRkstUzZuaUtsNVMwdw?oc=5",
+        "date": "Tue, 02 Jun 2026 06:02:00 GMT",
+        "source": "Çorum Hakimiyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Corum cıkarması",
+        "summary": "Corum cıkarması FOTOMAÇ",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NUEU1YjFwTmdkZk9RSEZtUEFONlpaN1FsaEw0ZnJHSVllWEhaSmVueXRKZ3RKZFNwWTc5QTh0NWg2N1BBbWxwT2lwTnVaMnlOQ0hvV0NzRXVPWDA0TzNCMEF6ZVVKRG1JX3ViR3NUSTnSAXZBVV95cUxOS0VtY2p3QVVtRmlZYU5hMFpieVprd0hOMFV3anFIcWZYV0RRcnp2Y2pNdEZqRFJMYjRYMlIxUk0tWmQ4dzhsRmllMk5NTEs2WGNpVUp6SEFncHFfZ01zemNKdjA0Y05rbzBVRWx6ZGxfSGExbzBB?oc=5",
+        "date": "Tue, 02 Jun 2026 03:50:15 GMT",
+        "source": "FOTOMAÇ",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Aliağa FK’dan Çorum çıkarması",
+        "summary": "Aliağa FK’dan Çorum çıkarması Yeni Asır",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VWDdsdGZXQW1IbGVOcGN4TF9aN3dXc1ZyMFJJTC1WcVM1c2dJRlg4eWpQOWtseU5wNk42dmdiVVlNQXQzVkJueEJLOENwRVlndVBvSVltc1pnUFl6c2ZVUnNiM25ZV2VHWjRMSXVjYlBhbXp1T0RwcFVVTmI?oc=5",
+        "date": "Tue, 02 Jun 2026 03:50:14 GMT",
+        "source": "Yeni Asır",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
       {
         "title": "“Yövmiye kaç lira” demeyen Çorumlular da var",
         "summary": "“Yövmiye kaç lira” demeyen Çorumlular da var Odatv",
@@ -27,10 +87,22 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "“Çorum’un büyüyen vizyonuna yakışır bir yatırım hazırlıyoruz”",
-        "summary": "“Çorum’un büyüyen vizyonuna yakışır bir yatırım hazırlıyoruz” Çorum Haber Gazetesi",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1Zldzc5aXRiLWVVWGxTcGpIaE1VOXYyVGVtVGVJb09DVnFNbWhfVzZURkt3UUtuSTd6Q1hNRWV3X2FsT3FJeW1lcmdYOV9qTVNyal8tUk9MSk52Qk4tN0VvVkVEbnRlNDlVUVQzSUNVMWFsTll2TklSZnhvSU14NkgxX1pkRUtr0gGOAUFVX3lxTE0tU0NvZUsySDhzOFNsc3h3YWR0anpVd0ZlWUNXVk5CUW5kUnhqZkdXTzJiUDZ4X3pGVzFsemg1cDNWY2dqLXRrcHZpNm9uczVNOGh2WDE3NlZtaGVQM1dFeTl0TlNJbzRlTF9zNHBzcVRPTDJGTFBHM3VUZkp1QlQwWVJ4LVFhaG51aVgyOEE?oc=5",
-        "date": "Mon, 01 Jun 2026 13:38:00 GMT",
+        "title": "İsmail Hoca’nın duası kabul oldu",
+        "summary": "İsmail Hoca’nın duası kabul oldu habercim19.com",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rcmNwbnp0eTh5M1Zyc3kxaEVkYnp3d1NsMjZ5b0RXbDI5dFBwdDllMTNURm9TMVB5VWd0ZnUzeTBtYXRLLXBXWGxvcUZYcXhOVUY0X0NJVTQ5eWRzVmJwbmFEY1pSYzF6LWNPR2tXZ0R3enhuNnlJMTFKdw?oc=5",
+        "date": "Mon, 01 Jun 2026 15:36:00 GMT",
+        "source": "habercim19.com",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Zubairu dönüyor",
+        "summary": "Zubairu dönüyor Çorum Haber Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OVkFTZEtfbHpHVFJVbWFhejVtaUY4LTd6SWhtNGVJUGw3cGpwNEc5b0d5aVBRZk1sS3l1UXFCNDZRMDlsamU1LUdjdTJlZE1DRHBzeNIBWkFVX3lxTFBmWUlJX2lWaWNyY19OTkF6SUlGZDF2LUtERXpBb1BRUUYzMDNuT2hWT2M4eUV6NUFoZ3N0cXlaUldMZHlWMUdLOHpCOVB2VjVkVUpEb2FLZnJ6Zw?oc=5",
+        "date": "Mon, 01 Jun 2026 13:40:00 GMT",
         "source": "Çorum Haber Gazetesi",
         "flag": "🔴⚫",
         "lang": "tr",
@@ -75,18 +147,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Uğur Uçar’ın Çorum FK karnesi",
-        "summary": "Uğur Uçar’ın Çorum FK karnesi Çorum Hakimiyet",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YVENWRHZMZEx3aGNZV3RHRk4xb0c3MndhZkpTZEprd2tXNWljX2JJMURVX2prR09SR0MxaHNROGJqbU9wQ2wxR0RiTzZKVjk0d2llOUVOcXhHSGF3X3pENnJvWWF1YURueVlz0gFwQVVfeXFMT21UTldyTzdRZWQtaDN6Rmdlb1lKWU1FUUVvRjlRLUJGS0l5OXI5UVN4ZVQ0azhjV1VDTVZTaGlnY1RNZ1R2QmhGcUxOSXBXcXB6RXl2cXMtX0FTbG5GVVR2Z2FRRHRPTVVXdTN0c1pfcg?oc=5",
-        "date": "Mon, 01 Jun 2026 11:15:00 GMT",
-        "source": "Çorum Hakimiyet",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Aliağa FK, Çorum FK'nin üç oyuncusuna talip",
         "summary": "Aliağa FK, Çorum FK'nin üç oyuncusuna talip Habertürk",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1dQanJwcllwVTZnSDBucTJldW5WY2t6SkdBYXRqOUdLVGJ1SjJNYnJ1Nzk1eTg1bXNLNE8wTmlzeV9zQUZlWWRXU185VmdjaUdwSnZKQ3RVQzB0NlZtV25uQkVhTnp5WnRDTzRvcTUzSGVmZWhBckpfcjhGSmlTYTQ3b3hZVFJVanVEV0d3VXgxZHN6UXFPT0ZUcWlpY1NDV2RXY2ViQmgzSzVk?oc=5",
@@ -104,18 +164,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1VOY254SFRsU2NvLWdBODFPQUFfUWlBS0FlM1c0YUphWktwNlEzdXR5QTZTY3BlbEgzTjRRa2tkT3pxcEdNOTluOXhTUEpCSWlKTFlfRTJvcktxd0JvSXNHVFg1eDhqVklGSndRVFp5N3BnTm84U09RRnJUMnNZaFEwS05EQTQ5a2ZvbVZLMTF2Y0d3dEhsdVUyS2RlZDdPRGp6Rml0TWhXVVVx0gFXQVVfeXFMUFJnTUVSTkE3WUxlRDZDQzJybGpIOTdsdXl1MUZyV0QtU0NEX2pFZ3dHRXdaam5EcDQ4VFMwLXV0azA0ZElUbUVFdVRyc1BLUWY0SXVHb1dB?oc=5",
         "date": "Mon, 01 Jun 2026 09:27:00 GMT",
         "source": "Mersin Haber",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Arca Çorum FK - Eminevim Ümraniyespor Maç Özeti (Video)",
-        "summary": "Arca Çorum FK - Eminevim Ümraniyespor Maç Özeti (Video) beinsports.com.tr",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGxtUlJiVmlqWEdSQlppTEpjbmpQODBNVWdqbEN1akNNekFwNXdKa2NrcDJwQ005R1I0MkstVnZ0OEdtb2xhY0kzaFYzM241WWYtV3d0SDBDU3Z6MTF0bkRYa3NYdjEwdFpnNWRGVFZJVXR4N0xLd21LSHUxdC13M3ZXYk1CdXpXMlNhZVV5REVqczkxMVRETTRYTTJ0WjFNUHNDMmNOYm4wNEs3ZEdF?oc=5",
-        "date": "Mon, 01 Jun 2026 08:47:06 GMT",
-        "source": "beinsports.com.tr",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -147,35 +195,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK taraftarı dönüş yolunda ölümden döndü",
-        "summary": "Çorum FK taraftarı dönüş yolunda ölümden döndü Yayla Haber",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdi1pSlQxQzItY2wxQm1uX05wbWdTcVh1b09Ldzl2dTQ0MDdUWXNTNkczWVBCVWtEa1Z2RTBYQmtBbmJjdlY0aDlCbmVVY1o3TlRscndSY01sR1llVnZZeGxZZFRTaU5YNnpqQmJONW43RzdyZ3ZRTHIwZ25USG83eTVn0gGHAUFVX3lxTE1nR2xyOTlvMU9rM1NaTUl3bDV3ekwwcV9RcVhVZ0JaX193MHVfamliajFsYUk5UDU3dzBkTHJWRXRMSHk3X09aUmFnNmh1WDJleWNoOTBJcHpwRlo1aTJYQ2dWekF2TDc2bFN6eldfY0dCY0NKT3lpMWpLWXI2TU9iRmxPRmc0Yw?oc=5",
-        "date": "Sun, 31 May 2026 11:25:00 GMT",
-        "source": "Yayla Haber",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Bilal Bayazit Kayserispor'dan ayrıldı, Süper Lig'in yeni ekibi peşine düştü",
         "summary": "Bilal Bayazit Kayserispor'dan ayrıldı, Süper Lig'in yeni ekibi peşine düştü Kayseri Anadolu Haber",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWFJZzBHWWZjMjVjUExBN2RoZ2xjdjVXbFJmLV9IZllhNjRZX2FEYmJjU0x1QUY2TnRObkJWWFdiem1ZTF90NXZwMTVBenctei1lWC1iWDh4TzR1dUVqZlE5akRqLUxzY0ZTQ1l4ZDRfY04wRm1RdWp6NFcyQzNNdlF6a19EdVVPb0xidFVZQWdENV9uWTBMVG9fVFFMVWh3WUQ4U21naHBxYTlKZkl3VHhrSWZKbG1SaVplZjlB?oc=5",
         "date": "Sat, 30 May 2026 17:43:47 GMT",
         "source": "Kayseri Anadolu Haber",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "ARCA ÇORUM FK",
-        "summary": "ARCA ÇORUM FK Sporx.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90VTlwMExZZDU5aExFWUp5NXpHcEFwZjkwMjhnYUwwU1U1M0Fzd1paUnV0YUQ3b0NoZjYzMDg2Zkk4Vkxfd05vZTZ6WFg4Vmx3SzN4MnF4UWkwWkpwVklKZG04QTJsanc?oc=5",
-        "date": "Sat, 30 May 2026 06:21:54 GMT",
-        "source": "Sporx.com",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -219,8 +243,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Esenler Erokspor",
-        "summary": "Esenler Erokspor beinsports.com.tr",
+        "title": "Esenler Erokspor - Arca Çorum FK Maç Özeti (Video)",
+        "summary": "Esenler Erokspor - Arca Çorum FK Maç Özeti (Video) beinsports.com.tr",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONV9jRl9aOUNBcVdqZHIyMGxsU0FYdXQyNnpvcW5Ra1dqeXd6M1ZwMHQ3SVdQOVdNM0hRcUFqZlJqcWVkYk92UDYyU3VtZC1uc1hwNXhGbkVMRHdBTnB5eVo4Y0FUcks4RVk3WDJVbEdJaHZObi1ZOWp3Y3FLYi1HNFVTNTN6MElrM3JRX1MzOFFJbU90TUZMQmEwRkNlQzdrVXpVaE9nVHlqZmNDbE1QZWZIR18?oc=5",
         "date": "Sun, 24 May 2026 21:29:12 GMT",
         "source": "beinsports.com.tr",
@@ -255,18 +279,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Süper Lig’e çıkan son takım Çorum FK oldu! İlk kez yükseldiler",
-        "summary": "Süper Lig’e çıkan son takım Çorum FK oldu! İlk kez yükseldiler Sözcü Gazetesi",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMG9qUEZUVnNHWGpaX2huUlJJWXlvYXNtLV84bHRNdVUxUmNVcEx6UFlQbVp2Q3FBN1F3UzNIbE4wSTZuS0t5VEdCUGpCbzVaZVVCbGg0b3NFT184czA1dlluZnVLOE5tcGF1YU42Wll6NWdiMkVRMXVKZFMyUTFoZlA3RDE3WXV6dDloNjBKYm0yd25UQ1p2Tzl6eUR3T1g4VktaMzctTmpsdw?oc=5",
-        "date": "Sun, 24 May 2026 17:56:00 GMT",
-        "source": "Sözcü Gazetesi",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Esenler Erokspor'u yenen Çorum FK Süper Lig'e yükselen son takım oldu!",
         "summary": "Esenler Erokspor'u yenen Çorum FK Süper Lig'e yükselen son takım oldu! FOTOMAÇ",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVlRidjJPY3ZiQ0Z4bGx3eVhUcEQ0M1Y0Y1VkQUJhUEI4b0YxZTd5eE82d3pXa2RLM05XLWNMOTFMVml2MXRQd3hRVXJ0NlE3WUZSZ2IwZXB4Tmw5U2Ztc0RTV0ZJZWdid05fcWh4X2NRZXY4VXNJa0hUcFdBd085cm90aXpvU0toYkR3cUZOa3JPMnExZ2fSAZsBQVVfeXFMTkNkekhlTU5rdUtzUVEwNGIxdFpwMHpVM2JCOFBRNUFKZkpudnRKd2RqTVNkbnk3WXpkMVgwYVhCcmZPUTRXeG83MGRsNG96ZEFJZEpDa1V2SzBNZUdoLTVCekZraEliNWFNeVgxOXdrZ2tmV0JiUVRlVUpYcnRZa01mMGR6b3hqbl95S1dKTVR1X3MtNUlMSUN0aVU?oc=5",
@@ -279,11 +291,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Esenler Erokspor - Çorum FK maçı hangi kanalda, saat kaçta?",
-        "summary": "Esenler Erokspor - Çorum FK maçı hangi kanalda, saat kaçta? Yeni Şafak",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFJJZFJVaER6Tzc0bkJQN3hBcnJFMkdwTGIyR09NY0hyTzBfNG5PTFprbWpqODNYd1JUOWNIYXNqVk1kaWtKX2FoNW5GRXF5RkxOOThVRkJRY3pxc1NJTnktZzE5enR0czJQakpyWjB2OVN0YzdmWXlJdFNVcGEtNG1pcWhoWDB2NktGU1FBa2JpTlZiZEU2SldXN3owZkhGUlJEbm9lb0xfaFU?oc=5",
-        "date": "Sun, 24 May 2026 15:14:41 GMT",
-        "source": "Yeni Şafak",
+        "title": "Esenler Erokspor'u 2 golle geçen Çorum FK Süper Lig'de! - Ülke TV",
+        "summary": "Esenler Erokspor'u 2 golle geçen Çorum FK Süper Lig'de! Ülke TV - Haber",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZzNiZktkTnMtVmpaYUVsNjdTREk0czJWdTZWbGdMOXJSY28xanFQZUozNjJLN3luMXdxV3AySG0zaHhYcm9XUUNtcktDMm5FdVg3VGdsRmdjLTVNSWpUUHQ1QVVmMEx5R3RRd3dUT0pSV0p0ZG5oMFN3LUUwQy1xYll3WdIBiAFBVV95cUxPN3RMOERzaG9Nd05MdVFzU19uaXEzc2RZS2F3OG9JUEtFM1dlRWNxNHJ0MW5JVGdBNTZyYVBIU3Q5ZTB6RUZHY1VLdzcyeHQyWFZGNzNxdjBoclJQUUs3NHE1VmZuZ0FWaDZEVjlGZXo0ZjQ3SURHUTE2cXpXT2FUZlVZZ2dZalFF?oc=5",
+        "date": "Sun, 24 May 2026 14:06:58 GMT",
+        "source": "Haber",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -327,18 +339,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "ÖZET | Arca Çorum FK, Trendyol Süper Lig'e yükselen son takım oldu!",
-        "summary": "ÖZET | Arca Çorum FK, Trendyol Süper Lig'e yükselen son takım oldu! beinsports.com.tr",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNaTM1SDNPcV84VXBjVENHZ2F4T18tR2ktTXlyS3o4UlVLRm53aGRvNk0zWGRpMGM3TU5WWThscmt2WDRnZU9hei1Tb2c3UTNUWTBoU0ZhV0lvNFgyTFRVOFJkdEJLOXI0VmFNMUVrQQ?oc=5",
-        "date": "Sun, 24 May 2026 07:00:00 GMT",
-        "source": "beinsports.com.tr",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Erokspor-Çorum FK maçı saat kaçta, hangi kanalda ve şifresiz mi yayınlanacak? 79. Süper Lig ekibi belli oluyor",
         "summary": "Erokspor-Çorum FK maçı saat kaçta, hangi kanalda ve şifresiz mi yayınlanacak? 79. Süper Lig ekibi belli oluyor NTV Haber",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOOEFka2lSRXJud0doeXVQSGJISzdZRmhzc2NIcHNLUXdNeVFlUFZoeDNaTGdLYzc3bkZfY1dFUnprSWFaY21pbl9qZmx0SmVaWnFYWTdla21RZ1N0Ulh6djJVNlEyb3B6LXNYNXRiX3pGVDBxeXZtTEQ3M3o3c0tHWE5Ja2NIQUd0UkxRMXZWWlJpdnN4ck9oV3dPNzRrTUtEQ1AxeHFCUG0tclhIUXNkd2FEM2o5UWhoU2lQN2YwMV9LbmN1OURsZGRNXzcya29vOUZvUFA5ZGhJT1V1Z3RxQkp3VVlTem4zc0E?oc=5",
@@ -351,11 +351,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Esenler Erokspor ile Çorum FK, Süper Lig’e yükselmek için karşı karşıya geliyor! Kritik maçın heyecanı canlı sohbet ile Misli’de",
-        "summary": "Esenler Erokspor ile Çorum FK, Süper Lig’e yükselmek için karşı karşıya geliyor! Kritik maçın heyecanı canlı sohbet ile Misli’de Hürriyet",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSzRhaHFfN0JNdVhaTEZrdHE2dWpSbmdwTXJLcmtDdEV4ODJXOE9WSWlnVkhqb3RMNWxBdS16eUs0cmNnb1hkUXlvQTdadU1fbjhENFF6dWlxUXM2TGQzMnFVdVhqZXZNOGkxZEZuTno2Q0Z4U0pzYXQ0emNkMHRObzR3NzJzM25Ga2s1RnE5c2FnQjJPQVl6VHJEYkFGTmdfb25NeHZMTjlaajF2eF8xV3k1bVV4aVRyVVVfOFhfaVI5Tlg4bjBsZjk1a0pSRUxqYm1jenQ5REF1UU5iQmVKeTU1cWZSLTJHNHhnTFZOS2hCdm9wblI1bHh6Y0VTTW5G?oc=5",
+        "title": "Esenler Erokspor - Çorum FK maçı hangi kanalda, saat kaçta?",
+        "summary": "Esenler Erokspor - Çorum FK maçı hangi kanalda, saat kaçta? Yeni Şafak",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFJJZFJVaER6Tzc0bkJQN3hBcnJFMkdwTGIyR09NY0hyTzBfNG5PTFprbWpqODNYd1JUOWNIYXNqVk1kaWtKX2FoNW5GRXF5RkxOOThVRkJRY3pxc1NJTnktZzE5enR0czJQakpyWjB2OVN0YzdmWXlJdFNVcGEtNG1pcWhoWDB2NktGU1FBa2JpTlZiZEU2SldXN3owZkhGUlJEbm9lb0xfaFU?oc=5",
         "date": "Sun, 24 May 2026 07:00:00 GMT",
-        "source": "Hürriyet",
+        "source": "Yeni Şafak",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -365,134 +365,121 @@
     ],
     "milli": [
       {
-        "title": "Oğuz Aydın: Tarih yazmaya gidiyoruz!",
-        "summary": "A Milli Futbol Takımı forması giyen Oğuz Aydın, Dünya Kupası öncesi açıklamalarda bulundu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/oguz-aydin-tarih-yazmaya-gidiyoruz",
-        "date": "Mon, 01 Jun 2026 23:59:00 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/a3a813/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/oguz-aydin-tarih-yazmaya-gidiyoruz-1780347525646.jpeg",
-        "category": "milli",
-        "image": "https://iasbh.tmgrup.com.tr/a3a813/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/oguz-aydin-tarih-yazmaya-gidiyoruz-1780347525646.jpeg"
-      },
-      {
-        "title": "Mert Müldür: Dört gözle Dünya Kupası’nı bekliyoruz!",
-        "summary": "A Milli Futbol Takımı'nın Kuzey Makedonya'yı 4-0 yendiği maçın ardından Mert Müldür açıklamalarda bulundu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/mert-muldur-dort-gozle-dunya-kupasini-bekliyoruz",
-        "date": "Mon, 01 Jun 2026 23:57:18 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/477175/1200/675/0/22/800/473?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/mert-muldur-dort-gozle-dunya-kupasini-bekliyoruz-1780347382005.jpeg",
-        "category": "milli",
-        "image": "https://iasbh.tmgrup.com.tr/477175/1200/675/0/22/800/473?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/mert-muldur-dort-gozle-dunya-kupasini-bekliyoruz-1780347382005.jpeg"
-      },
-      {
-        "title": "İsmail Yüksek, Dünya Kupası hedefini Spor Arena'ya açıkladı!",
-        "summary": "A Milli Futbol Takımı'nın hazırlık maçında Kuzey Makedonya karşısında aldığı 4-0'lık net galibiyetin ardından İsmail Yüksek, 2026 FIFA Dünya Kupası hedeflerini Spor Arena’ya özel olarak değerlendirdi.",
-        "link": "https://www.hurriyet.com.tr/sporarena/ismail-yuksek-dunya-kupasi-hedefini-spor-arenaya-acikladi-43190113",
-        "date": "Mon, 01 Jun 2026 20:41:00 Z",
+        "title": "A Milli Takım'ın rakibi Paraguay'ın Dünya Kupası kadrosu belli oldu",
+        "summary": "A Milli Futbol Takımı'nın 2026 FIFA Dünya Kupası D Grubu'ndaki rakiplerinden Paraguay'ın aday kadrosu açıklandı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/a-milli-takimin-rakibi-paraguayin-dunya-kupasi-kadrosu-belli-oldu-43190471",
+        "date": "Tue, 02 Jun 2026 08:56:18 Z",
         "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1df15b724fc2d42785a434.jpg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e9aad67465853ee1059d1.jpg",
         "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1df15b724fc2d42785a434.jpg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e9aad67465853ee1059d1.jpg"
       },
       {
-        "title": "Altay Bayındır: Herkes bu bayrağa hizmet ediyor!",
-        "summary": "A Milli Futbol Takımı'nın tecrübeli kalecisi Altay Bayındır, Kuzey Makedonya maçından sonra konuştu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/altay-bayindir-herkes-bu-bayraga-hizmet-ediyor",
-        "date": "Mon, 01 Jun 2026 23:36:16 +0300",
+        "title": "Galatasaray'a milli yıldızdan transferde beklenmeyen yanıt!",
+        "summary": "Galatasaray'ın transfer gündeminde yer alan milli futbolcuyla ilgili sıcak gelişmeler yaşanıyor. Son olarak oyuncunun Cimbom'dan transfer istekleri sarı-kırmızılı camiayi bir hayli düşündürmeye başladı....Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/06/02/galatasaraya-milli-yildizdan-transferde-beklenmeyen-yanit",
+        "date": "Tue, 02 Jun 2026 11:05:07 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/3dc974/1200/675/0/156/1500/999?u=https://iftm.tmgrup.com.tr/2026/06/02/galatasaraya-milli-yildizdan-transferde-beklenmeyen-yanit-1780387033669.jpeg",
+        "category": "milli",
+        "image": "https://iaftm.tmgrup.com.tr/3dc974/1200/675/0/156/1500/999?u=https://iftm.tmgrup.com.tr/2026/06/02/galatasaraya-milli-yildizdan-transferde-beklenmeyen-yanit-1780387033669.jpeg"
+      },
+      {
+        "title": "A Milli Takımımızın Dünya Kupası kadrosu açıklandı!",
+        "summary": "A Milli Takımımızın FIFA 2026 Dünya Kupası kadrosu resmen duyuruldu. İşte teknik direktör Vincenzo Montella'nın tercihlerini yaptığı o isimler...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/millitakim/2026/06/02/a-milli-takimimizin-dunya-kupasi-kadrosu-aciklandi",
+        "date": "Tue, 02 Jun 2026 11:00:34 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/600118/1200/675/0/83/800/534?u=https://iftm.tmgrup.com.tr/2026/06/02/a-milli-takimimizin-dunya-kupasi-kadrosu-aciklandi-1780388139221.jpeg",
+        "category": "milli",
+        "image": "https://iaftm.tmgrup.com.tr/600118/1200/675/0/83/800/534?u=https://iftm.tmgrup.com.tr/2026/06/02/a-milli-takimimizin-dunya-kupasi-kadrosu-aciklandi-1780388139221.jpeg"
+      },
+      {
+        "title": "A Milli Futbol Takımımızın nihai Dünya Kupası kadrosu açıklandı! İşte çıkarılan isimler",
+        "summary": "A Mili Futbol Takımımızın nihai 2026 FIFA Dünya Kupası kadrosu belli oldu. 26 kişilik kadro açıklanırken aday kadroda olup da çıkarılan isimler de netleşti.",
+        "link": "https://www.hurriyet.com.tr/sporarena/a-milli-futbol-takimimizin-dunya-kupasi-kadrosu-aciklandi-43190344",
+        "date": "Tue, 02 Jun 2026 07:58:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e9375c66afe0bcd0694e3.jpg",
+        "category": "milli",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e9375c66afe0bcd0694e3.jpg"
+      },
+      {
+        "title": "Gana Milli Takımı'nın Dünya Kupası kadrosu!",
+        "summary": "Gana Futbol Federasyonu, 2026 FIFA Dünya Kupası'nda mücadele edecek kadroyu duyurdu. RAMS Başakşehir'den Jerome Opoku da kadroda yer aldı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/02/gana-milli-takiminin-dunya-kupasi-kadrosu",
+        "date": "Tue, 02 Jun 2026 10:47:26 +0300",
         "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/b86597/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/altay-bayindir-herkes-bu-bayraga-hizmet-ediyor-1780346174873.jpg",
+        "feedImage": "https://iasbh.tmgrup.com.tr/c44d4d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/02/gana-milli-takiminin-dunya-kupasi-kadrosu-1780386371901.jpeg",
         "category": "milli",
-        "image": "https://iasbh.tmgrup.com.tr/b86597/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/altay-bayindir-herkes-bu-bayraga-hizmet-ediyor-1780346174873.jpg"
+        "image": "https://iasbh.tmgrup.com.tr/c44d4d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/02/gana-milli-takiminin-dunya-kupasi-kadrosu-1780386371901.jpeg"
       },
       {
-        "title": "Vincenzo Montella'dan galibiyet sonrası Dünya Kupası mesajı!",
-        "summary": "A Milli Takım Teknik Direktörü Vincenzo Montella, 4-0'lık Kuzey Makedonya galibiyeti sonrası konuştu.",
-        "link": "https://www.hurriyet.com.tr/sporarena/vincenzo-montelladan-galibiyet-sonrasi-dunya-kupasi-mesaji-43190111",
-        "date": "Mon, 01 Jun 2026 20:19:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1de968c66afe0bcd0692ee.jpg",
-        "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1de968c66afe0bcd0692ee.jpg"
-      },
-      {
-        "title": "Goce Sedloski: Sorumluluğu ben kendi üstüme alıyorum!",
-        "summary": "Kuzey Makedonya Teknik Direktörü Goce Sedloski, A Milli Futbol Takımı'na 4-0 mağlup oldukları maçtan sonra konuştu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/goce-sedloski-sorumlulugu-ben-kendi-ustume-aliyorum",
-        "date": "Mon, 01 Jun 2026 23:08:53 +0300",
+        "title": "Senegal Milli Takımı'nın Dünya Kupası kadrosu açıklandı! Süper Lig'den 2 yıldız...",
+        "summary": "Senegal Futbol Federasyonu, 2026 FIFA Dünya Kupası'nda mücadele edecek olan kadroyu açıkladı. Galatasaray'dan Ismail Jakobs ve Samsunspor'dan Cherif Ndiaye kadroda yer aldı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/02/senegal-milli-takiminin-dunya-kupasi-kadrosu-aciklandi-super-ligden-2-yildiz",
+        "date": "Tue, 02 Jun 2026 10:24:57 +0300",
         "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/80f07c/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/goce-sedloski-sorumlulugu-ben-kendi-ustume-aliyorum-1780344533131.jpeg",
+        "feedImage": "https://iasbh.tmgrup.com.tr/49cb84/1200/675/0/0/1200/676?u=https://isbh.tmgrup.com.tr/sbh/2026/06/02/senegal-milli-takiminin-2026-fifa-dunya-kupasi-kadrosu-aciklandi-1780385008294.jpeg",
         "category": "milli",
-        "image": "https://iasbh.tmgrup.com.tr/80f07c/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/goce-sedloski-sorumlulugu-ben-kendi-ustume-aliyorum-1780344533131.jpeg"
+        "image": "https://iasbh.tmgrup.com.tr/49cb84/1200/675/0/0/1200/676?u=https://isbh.tmgrup.com.tr/sbh/2026/06/02/senegal-milli-takiminin-2026-fifa-dunya-kupasi-kadrosu-aciklandi-1780385008294.jpeg"
       },
       {
-        "title": "İrfan Can Kahveci: \"Güzel bir ortamımız var\"",
-        "summary": "İrfan Can Kahveci, A Milli Takım'ın Kuzey Makedonya'yı 4-0 mağlup ettiği maçın ardından açıklamalarda bulundu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/irfan-can-kahveci-guzel-bir-ortamimiz-var",
-        "date": "Mon, 01 Jun 2026 23:01:12 +0300",
-        "source": "Sabah Spor",
+        "title": "Spor yazarları Türkiye-Kuzey Makedonya maçını değerlendirdi",
+        "summary": "Son dakika A Milli Takım haberleri: A Milli Futbol Takımımız, 2026 Dünya Kupası öncesinde Kuzey Makedonya ile hazırlık maçı kapsamında karşı karşıya geldi. Ay-yıldızlılar mücadeleden 4-0 galip ayrılarak...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/millitakim/2026/06/02/spor-yazarlari-turkiye-kuzey-makedonya-macini-degerlendirdi",
+        "date": "Tue, 02 Jun 2026 08:41:07 +0300",
+        "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/b81956/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/irfan-can-kahveci-guzel-bir-ortamimiz-var-1780344054502.jpeg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/0428b4/1200/675/0/43/800/493?u=https://iftm.tmgrup.com.tr/2026/06/02/spor-yazarlari-turkiye-kuzey-makedonya-macini-degerlendirdi-1780378779993.jpeg",
         "category": "milli",
-        "image": "https://iasbh.tmgrup.com.tr/b81956/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/irfan-can-kahveci-guzel-bir-ortamimiz-var-1780344054502.jpeg"
+        "image": "https://iaftm.tmgrup.com.tr/0428b4/1200/675/0/43/800/493?u=https://iftm.tmgrup.com.tr/2026/06/02/spor-yazarlari-turkiye-kuzey-makedonya-macini-degerlendirdi-1780378779993.jpeg"
       },
       {
-        "title": "Can Uzun'dan Dünya Kupası yorumu: 'Heyecanlıyız ve mutluyuz!'",
-        "summary": "A Milli Futbol Takımı, hazırlık maçında konuk ettiği Kuzey Makedonya’yı 4-0 mağlup etti. Mücadelenin ardından Ay-Yıldızlılarda Orkun kökçü, Can Uzun ve İrfan Can Kahveci açıklamalarda bulundu.",
-        "link": "https://www.hurriyet.com.tr/sporarena/can-uzundan-dunya-kupasi-yorumu-heyecanliyiz-ve-mutluyuz-43190100",
-        "date": "Mon, 01 Jun 2026 19:58:45 Z",
-        "source": "Hürriyet",
+        "title": "'Bizim Çocuklar'dan Dünya Kupası öncesi Kadıköy'de müthiş prova!",
+        "summary": "A Milli Futbol Takımımız, 2026 Dünya Kupası öncesinde Kuzey Makedonya ile hazırlık maçı kapsamında Kadıköy'de karşı karşıya geldi. Ay-yıldızlılar sahadan 4-0 galip ayrıldı. İşte maçın detayları... | Son...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/millitakim/2026/06/01/bizim-cocuklardan-dunya-kupasi-oncesi-kadikoyde-muthis-prova",
+        "date": "Tue, 02 Jun 2026 06:50:15 +0300",
+        "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1de408724fc2d42785a41f.jpg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/700e7b/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/06/01/bizim-cocuklardan-dunya-kupasi-oncesi-kadikoyde-muthis-prova-1780341835270.jpeg",
         "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1de408724fc2d42785a41f.jpg"
+        "image": "https://iaftm.tmgrup.com.tr/700e7b/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/06/01/bizim-cocuklardan-dunya-kupasi-oncesi-kadikoyde-muthis-prova-1780341835270.jpeg"
       },
       {
-        "title": "Kadıköy'de sahne Barış Alper Yılmaz'ın! A Milli Takım’da 3. gol...",
-        "summary": "Milli futbolcu Barış Alper Yılmaz, Kuzey Makedonya karşılaşmasıyla A Milli Futbol Takımı’ndaki 3. gol sevinicini yaşadı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/kadikoyde-sahne-baris-alper-yilmazin-a-milli-takimda-3-gol-43190094",
-        "date": "Mon, 01 Jun 2026 19:42:18 Z",
-        "source": "Hürriyet",
+        "title": "Vincenzo Montella'dan kulüp takımı çalıştıracağına dair iddialara flaş yanıt!",
+        "summary": "A Milli Futbol Takımımızın 2026 FIFA Dünya Kupası hazırlıkları kapsamında Kuzey Makedonya ile yaptığı maçı 4-0 kazanması sonrası Teknik Direktör Vincenzo Montella açıklamalarda bulundu. Basın toplantısında...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/millitakim/2026/06/01/vincenzo-montelladan-kulup-takimi-calistiracagina-dair-iddialara-flas-yanit",
+        "date": "Tue, 02 Jun 2026 06:50:15 +0300",
+        "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1de099724fc2d42785a40c.jpg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/41bacc/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/06/02/vincenzo-montella-kulup-takimi-calistiracak-mi-iddialara-yanit-verdi-1780349464013.jpeg",
         "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1de099724fc2d42785a40c.jpg"
-      },
-      {
-        "title": "A Milli Takım tarihinin 900. golü Deniz Gül'den!",
-        "summary": "Milli futbolcu Deniz Gül, Kuzey Makedonya müsabakasıyla A Milli Futbol Takımı’ndaki 2. golünü attı. Bu gol Milli Takım tarihinin 900. golü olarak kayıtlara geçti.",
-        "link": "https://www.hurriyet.com.tr/sporarena/a-milli-takim-tarihinin-900-golu-deniz-gulden-43190090",
-        "date": "Mon, 01 Jun 2026 19:39:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1ddff9724fc2d42785a400.jpg",
-        "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1ddff9724fc2d42785a400.jpg"
+        "image": "https://iaftm.tmgrup.com.tr/41bacc/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/06/02/vincenzo-montella-kulup-takimi-calistiracak-mi-iddialara-yanit-verdi-1780349464013.jpeg"
       },
       {
         "title": "MAÇ ÖZETİ | Türkiye - Kuzey Makedonya: 4-0 (ATV izle)",
@@ -508,73 +495,151 @@
         "image": "https://iasbh.tmgrup.com.tr/1cf083/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/a-milli-takimdan-prova-macinda-tam-not-iste-turkiye-kuzey-makedonya-maci-golleri-ozet-izle-1780340946306.jpeg"
       },
       {
-        "title": "A Milli Takım'da Can Uzun fırtınası: Dünya Kupası öncesi unutulmaz gol!",
-        "summary": "2026 Dünya Kupası hazırlıkları kapsamında Kuzey Makedonya’yı ağırlayan A Milli Takımımızda Can Uzun ilkleri yaşadı. Milli formayla kariyerinde ilk kez ilk 11 başladı mücadeleyi şık bir golle süsledi.",
-        "link": "https://www.hurriyet.com.tr/sporarena/a-milli-takimda-can-uzun-firtinasi-dunya-kupasi-oncesi-unutulmaz-gol-43190050",
-        "date": "Mon, 01 Jun 2026 18:39:00 Z",
-        "source": "Hürriyet",
+        "title": "Son dakika: A Milli Futbol Takımı’ndan Dünya Kupası öncesi net zafer: Türkiye 4-0 Kuzey Makedonya",
+        "summary": "A Milli Futbol Takımı, 2026 Dünya Kupası öncesi hazırlık maçında Kuzey Makedonya ile karşı karşıya geldi. Müsabaka ATV ekranlarından naklen ve şifresiz yayınlandı. A Milli Futbol Takımı, Kuzey Makedonya...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/son-dakika-a-milli-futbol-takimindan-dunya-kupasi-oncesi-net-zafer-turkiye-4-0-kuzey-makedonya",
+        "date": "Mon, 01 Jun 2026 16:49:19 +0300",
+        "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1dd19c724fc2d42785a3bb.jpg",
+        "feedImage": "https://iasbh.tmgrup.com.tr/187522/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/atv-canli-izle-turkiye-kuzey-makedonya-maci-a-milli-futbol-takimi-2026-dunya-kupasi-oncesi-sahada-1780337185720.jpeg",
         "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1dd19c724fc2d42785a3bb.jpg"
+        "image": "https://iasbh.tmgrup.com.tr/187522/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/atv-canli-izle-turkiye-kuzey-makedonya-maci-a-milli-futbol-takimi-2026-dunya-kupasi-oncesi-sahada-1780337185720.jpeg"
       }
     ],
     "superlig": [
       {
-        "title": "Trabzonspor, Sidny Cabral transferinde mutlu sona ulaştı! İşte anlaşma detayları",
-        "summary": "Süper Lig ekiplerinden Trabzonspor, uzun süredir kadrosuna katmak istediği Sidny Cabral'in transferi için Benfica ile anlaşmaya vardı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/trabzonspor-sidny-cabral-transferinde-mutlu-sona-ulasti-iste-anlasma-detaylari-43189761",
-        "date": "Mon, 01 Jun 2026 12:22:34 Z",
+        "title": "Fenerbahçe'den Lewandowski'ye transferde dev teklif!",
+        "summary": "Süper Lig devlerinden Fenerbahçe'de transferde flaş gelişmeler yaşanmaya devam ediyor. Sarı-lacivertlilerin golcü transferi konusunda gündemine aldığı Robert Lewandowski ile ilgili gündeme oturan haberi,...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/02/fenerbahceden-lewandowskiye-transferde-dev-teklif",
+        "date": "Tue, 02 Jun 2026 11:50:25 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/b3c73c/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/06/02/fenerbahceden-lewandowskiye-transferde-dev-teklif-1780390153648.jpeg",
+        "category": "superlig",
+        "image": "https://iaftm.tmgrup.com.tr/b3c73c/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/06/02/fenerbahceden-lewandowskiye-transferde-dev-teklif-1780390153648.jpeg"
+      },
+      {
+        "title": "Galatasaray'da transfer görüşmesi tıkandı! Şart belli oldu",
+        "summary": "Galatasaray, Süper Lig'in genç golcüsü için Başakşehir ile görüşmelere başladı ancak transferde önemli bir gelişme yaşandı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/galatasarayda-transfer-gorusmesi-tikandi-sart-belli-oldu-43190307",
+        "date": "Tue, 02 Jun 2026 07:26:00 Z",
         "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d78f9724fc2d42785a1ee.jpg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e87b8a1511859b7aed9e6.jpg",
         "category": "superlig",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d78f9724fc2d42785a1ee.jpg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e87b8a1511859b7aed9e6.jpg"
       },
       {
-        "title": "Onvo Antalyaspor-Trabzonspor maçının ardından flaş değerlendirme",
-        "summary": "Trendyol Süper Lig'in son haftasında Onvo Antalyaspor'a konuk olan Trabzonspor, mücadeleyi 2-0 kazanarak kapanışı galibiyet ile yaptı. Mücadelenin ardından bordo mavililer için dikkat çeken bir değerlendirme...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/trabzonspor/2025/05/31/onvo-antalyaspor-trabzonspor-macinin-ardindan-flas-degerlendirme",
-        "date": "Sat, 31 May 2025 09:01:15 +0300",
-        "source": "Fotomaç",
+        "title": "Galatasaray'da iki yıldız futbolcunun ayrılığı çok yakın!",
+        "summary": "Süper Lig'de üst üste 4. kez şampiyonluk ipini göğüsleyen Galatasaray'da gözler artık kadro planlamasına ve transfere çevrilmiş durumda. Sarı-kırmızılılar, takımın önemli isimlerinden olan iki oyuncuyla yol ayrımına geldi. İşte detaylar...",
+        "link": "https://www.hurriyet.com.tr/sporarena/galatasarayda-iki-yildiz-futbolcunun-ayriligi-cok-yakin-43190188",
+        "date": "Tue, 02 Jun 2026 04:54:00 Z",
+        "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/ee5eb1/1200/675/0/30/800/481?u=https://iftm.tmgrup.com.tr/2025/05/31/onvo-antalyaspor-trabzonspor-macinin-ardindan-flas-degerlendirme-1748670851188.jpeg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e61e5724fc2d42785a50d.jpg",
         "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/ee5eb1/1200/675/0/30/800/481?u=https://iftm.tmgrup.com.tr/2025/05/31/onvo-antalyaspor-trabzonspor-macinin-ardindan-flas-degerlendirme-1748670851188.jpeg"
-      },
-      {
-        "title": "Spor yazarları Galatasaray - RAMS Başakşehir maçını değerlendirdi",
-        "summary": "Son dakika Galatasaray haberleri: Trendyol Süper Lig'in 38. haftasında Galatasaray ile RAMS Başakşehir karşı karşıya geldi. Sarı-kırmızılılar mücadeleden 2-0'lık skorla ayrılarak sezona galibiyetle veda...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/spor-yazarlari-galatasaray-rams-basaksehir-macini-degerlendirdi",
-        "date": "Sat, 31 May 2025 08:46:02 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/540328/1200/675/0/9/800/459?u=https://iftm.tmgrup.com.tr/2025/05/31/spor-yazarlari-galatasaray-rams-basaksehir-macini-degerlendirdi-1748670326394.jpg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/540328/1200/675/0/9/800/459?u=https://iftm.tmgrup.com.tr/2025/05/31/spor-yazarlari-galatasaray-rams-basaksehir-macini-degerlendirdi-1748670326394.jpg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e61e5724fc2d42785a50d.jpg"
       }
     ],
     "transfer": [
       {
-        "title": "Hakan Safi Fenerbahçe'nin 2 yeni transferini Türkiye'ye getirdiğini açıkladı!",
-        "summary": "Fenerbahçe Başkan Adayı Hakan Safi, 6-7 Haziran’da düzenlenecek kongre öncesi dikkat çeken ifadeler kullandı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/hakan-safi-fenerbahcenin-2-yeni-transferini-turkiyeye-getirdigini-acikladi-43190150",
-        "date": "Mon, 01 Jun 2026 22:00:37 Z",
+        "title": "İki sezona zarar veren İsak destanı",
+        "summary": "Alexander Isak'ın Newcastle United'dan Liverpool'a transferi geçen yazın transfer efsanesiydi. BBC Sport, olayın her iki kulübü de nasıl etkilediğini inceliyor.",
+        "link": "https://www.bbc.com/sport/football/articles/c5yxzey1wp7o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 02 Jun 2026 08:10:36 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "transfer",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/26b3/live/a0cbc550-5c1a-11f1-92d1-ab2daf594570.jpg"
+      },
+      {
+        "title": "Vedat Muriqi gemileri yaktı: 'Bırakın Fenerbahçe'ye gideyim!'",
+        "summary": "Fenerbahçe'de 6-7 Haziran'da yapılacak olan olağanüstü genel kurulda başkanlık için yarışacak olan Aziz Yıldırım'ın anlaşmaya vardığı Vedat Muriqi, kulübü Mallorca'nın yüksek bonservis bedeli talebi sonrasında sarı-lacivertlilere gelmek için gemileri yaktı. İşte detaylar...",
+        "link": "https://www.hurriyet.com.tr/sporarena/vedat-muriqi-gemileri-yakti-birakin-fenerbahceye-gideyim-43190225",
+        "date": "Tue, 02 Jun 2026 06:27:24 Z",
         "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e0102724fc2d42785a466.jpg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e77c7724fc2d42785a5ef.jpg",
         "category": "transfer",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e0102724fc2d42785a466.jpg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e77c7724fc2d42785a5ef.jpg"
+      },
+      {
+        "title": "Trabzonspor, Zubkov'u AEK'ya sattı! İşte bonservis ücreti...",
+        "summary": "Trabzonspor'da sürpriz bir ayrılık yaşandı. Fırtına, Şubat 2025’te 6 milyon Euro’ya Shakhtar Donetsk’ten aldığı Ukraynalı kanat oyuncusunun transferi için AEK ile anlaşmaya vardı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/trabzonspor-zubkovu-aekya-satti-iste-bonservis-ucreti-43190168",
+        "date": "Tue, 02 Jun 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e15fb724fc2d42785a4a5.jpg",
+        "category": "transfer",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e15fb724fc2d42785a4a5.jpg"
+      },
+      {
+        "title": "Hakan Safi'den flaş Lewandowski hamlesi! Polonyalı golcünün o şartını kabul etti",
+        "summary": "Fenerbahçe Başkan Adayı Hakan Safi'nin golcü transferi için Robert Lewandowski ile irtibat kurduğu ve transfer için tüm şartları zorlayacağı öğrenildi. Safi'nin, Polonyalı golcünün o şartını da kabul ettiği...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/02/hakan-safiden-flas-lewandowski-hamlesi-polonyali-golcunun-o-sartini-kabul-etti",
+        "date": "Tue, 02 Jun 2026 06:50:15 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/56f577/1200/675/0/113/666/488?u=https://iftm.tmgrup.com.tr/2026/06/01/lewandowski-bombasi-1780345555345.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/56f577/1200/675/0/113/666/488?u=https://iftm.tmgrup.com.tr/2026/06/01/lewandowski-bombasi-1780345555345.jpeg"
+      },
+      {
+        "title": "Galatasaray'a Can Uzun müjdesi! Transferde son karar...",
+        "summary": "Hücum hattını güçlendirmek ve yabancı kontenjanında avantaj sağlamak isteyen Galatasaray, Eintracht Frankfurt'un genç yıldızı Can Uzun transferinde önemli mesafe kat etti. Sarı-kırmızılıların teklifine...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/06/02/galatasaraya-can-uzun-mujdesi-transferde-son-karar",
+        "date": "Tue, 02 Jun 2026 06:50:15 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/a81a77/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/06/02/can-uzun-israri-1780349518577.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/a81a77/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/06/02/can-uzun-israri-1780349518577.jpeg"
+      },
+      {
+        "title": "Osimhen Galatasaray'dan ayrılacak mı? Transferde yeni gelişme",
+        "summary": "Galatasaray'ın yıldız golcüsü Victor Osimhen ile ilgili dikkat çeken bir gelişme yaşandı. Avrupa'nın birçok önemli kulübünün transfer listesinde yer alan Nijeryalı futbolcunun geleceği merak edilirken,...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/06/02/osimhen-kaliyor",
+        "date": "Tue, 02 Jun 2026 06:50:15 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/6d7b04/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/06/02/osimhen-kaliyor-1780347954697.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/6d7b04/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/06/02/osimhen-kaliyor-1780347954697.jpeg"
+      },
+      {
+        "title": "Lewandowski'nin eşinden Fenerbahçelileri heyecanlandıran paylaşım! Transferi resmen açıkladı",
+        "summary": "Son dakika Fenerbahçe transfer haberleri: Fenerbahçe Başkan Adayı Hakan Safi'nin transferi için girişimlerde bulunduğu Robert Lewandowski ile ilgili flaş bir gelişme yaşandı. Polonyalı yıldızın eşi Anna...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/01/lewandowskinin-esinden-fenerbahcelileri-heyecanlandiran-paylasim-transferi-resmen-acikladi",
+        "date": "Tue, 02 Jun 2026 06:50:15 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/754fcd/1200/675/0/86/1170/745?u=https://iftm.tmgrup.com.tr/2026/06/01/lewandowskinin-esinden-fenerbahcelileri-heyecanlandiran-paylasim-transferi-resmen-acikladi-1780340972595.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/754fcd/1200/675/0/86/1170/745?u=https://iftm.tmgrup.com.tr/2026/06/01/lewandowskinin-esinden-fenerbahcelileri-heyecanlandiran-paylasim-transferi-resmen-acikladi-1780340972595.jpeg"
       },
       {
         "title": "Plymouth, kadın takımını e-postayla yayınlamasına rağmen 'kararlılığını sürdürüyor'",
@@ -614,100 +679,126 @@
         "feedImage": null,
         "category": "transfer",
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/371d/live/25833d30-5df3-11f1-b682-cf91850925ea.png"
-      },
+      }
+    ],
+    "worldcup": [
       {
-        "title": "Barış Alper Yılmaz'ın babasından flaş transfer açıklaması!",
-        "summary": "Galatasaray'ın başarılı futbolcusu Barış Alper Yılmaz'ın geleceği büyük merak konusu haline gelirken yıldız ismin babasından dikkat çeken bir transfer açıklaması geldi. İşte o sözler...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/baris-alper-yilmazin-babasindan-flas-transfer-aciklamasi",
-        "date": "Sat, 31 May 2025 11:06:21 +0300",
-        "source": "Fotomaç",
+        "title": "Dünya Kupası tarihinin en gollü turnuvası İsviçre'de!",
+        "summary": "Dünya Kupası'nda bugüne dek en gollü geçen organizasyon 1954 İsviçre, en az gol atılan turnuva ise 1990 İtalya'da yaşandı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/02/dunya-kupasi-tarihinin-en-gollu-turnuvasi-isvicrede",
+        "date": "Tue, 02 Jun 2026 12:01:29 +0300",
+        "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/91a580/1200/675/0/0/1320/742?u=https://iftm.tmgrup.com.tr/2025/05/31/baris-alper-yilmazin-babasindan-flas-transfer-aciklamasi-1748678696062.jpg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/91a580/1200/675/0/0/1320/742?u=https://iftm.tmgrup.com.tr/2025/05/31/baris-alper-yilmazin-babasindan-flas-transfer-aciklamasi-1748678696062.jpg"
+        "feedImage": "https://iasbh.tmgrup.com.tr/fec84e/1200/675/0/0/864/486?u=https://isbh.tmgrup.com.tr/sbh/2026/06/02/dunya-kupasi-tarihinin-en-gollu-turnuvasi-isvicrede-1780390820903.jpg",
+        "category": "worldcup",
+        "image": "https://iasbh.tmgrup.com.tr/fec84e/1200/675/0/0/864/486?u=https://isbh.tmgrup.com.tr/sbh/2026/06/02/dunya-kupasi-tarihinin-en-gollu-turnuvasi-isvicrede-1780390820903.jpg"
       },
       {
-        "title": "TRANSFER HABERİ | Avrupa'da Uğurcan Çakır düellosu! Trabzonspor'un kapısını çaldılar",
-        "summary": "Trabzonspor'da özellikle bu sezon gösterdiği performans ile beğeni toplayan Uğurcan Çakır, Avrupa takımlarının radarına girdi. Fransız basını, bordo mavili ekibin kapısının yetenekli eldiven için çalındığını...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/trabzonspor/2025/05/31/transfer-haberi-avrupada-ugurcan-cakir-duellosu-trabzonsporun-kapisini-caldilar",
-        "date": "Sat, 31 May 2025 10:11:50 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/3b2cc9/1200/675/0/18/1500/861?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberi-avrupada-ugurcan-cakir-duellosu-trabzonsporun-kapisini-caldilar-1748675078934.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/3b2cc9/1200/675/0/18/1500/861?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberi-avrupada-ugurcan-cakir-duellosu-trabzonsporun-kapisini-caldilar-1748675078934.jpeg"
-      },
-      {
-        "title": "Fenerbahçe'den Fransa'ya transfer çıkarması! 2 oyuncu için çalışmalar başladı",
-        "summary": "Önümüzdeki sezon mutlu sona ulaşarak taraftarlarına şampiyonluk müjdelemek isteyen Fenerbahçe'de yaz transfer dönemi çalışmaları hız kazandı. Sarı lacivertli yönetim, Fransa Ligue 1'de mücadele eden 2...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/fenerbahceden-fransaya-transfer-cikarmasi-2-oyuncu-icin-calismalar-basladi",
-        "date": "Sat, 31 May 2025 09:49:28 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/4dd707/1200/675/0/0/659/371?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahceden-fransaya-transfer-cikarmasi-2-oyuncu-icin-calismalar-basladi-1748674143934.jpg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/4dd707/1200/675/0/0/659/371?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahceden-fransaya-transfer-cikarmasi-2-oyuncu-icin-calismalar-basladi-1748674143934.jpg"
-      },
-      {
-        "title": "GALATASARAY HABERİ: Transferi Lemina bitirecek! Arkadaşını getiriyor...",
-        "summary": "Son dakika spor haberleri: Galatasaray'da yeni sezonun ilk transferi sağ bek olacak gibi duruyor. Sarı kırmızılılarda aranan isim ise İngiltere'de bulundu. Bu transferin detayında ise Lemina başrolde yer...Devamı için tıklayınız",
-        "link": "https://www.aspor.com.tr/galatasaray/2025/05/31/galatasaray-haberi-transferi-lemina-bitirecek-arkadasini-getiriyor",
-        "date": "Sat, 31 May 2025 09:39:15 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/42af5a/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-transferi-lemina-bitirecek-arkadasini-getiriyor-1748673511492.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/42af5a/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-transferi-lemina-bitirecek-arkadasini-getiriyor-1748673511492.jpeg"
-      },
-      {
-        "title": "GALATASARAY HABERİ: Osimhen'le kritik transfer görüşmesi! 1 hafta içinde...",
-        "summary": "Galatasaray'ın yıldız golcüsü Victor Osimhen hakkında önemli gelişmeler yaşanıyor. Sarı-kırmızılı yönetimin Osimhen için tüm şartları zorlarken Nijeryalı futbolcunun kararını 1 hafta içinde vereceği öne...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/galatasaray-haberi-osimhenle-kritik-transfer-gorusmesi-1-hafta-icinde",
-        "date": "Sat, 31 May 2025 06:51:18 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/342fe9/1200/675/0/28/800/479?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-osimhenle-kritik-transfer-gorusmesi-1-hafta-icinde-1748644230862.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/342fe9/1200/675/0/28/800/479?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-osimhenle-kritik-transfer-gorusmesi-1-hafta-icinde-1748644230862.jpeg"
-      },
-      {
-        "title": "TRANSFER HABERLERİ | Fenerbahçe'de hedef Mitrovic! Avrupa'ya dönmek istiyor",
-        "summary": "Fenerbahçe'de gelecek sezonun transfer çalışmaları sürüyor. Sarı-lacivertlilerin golcü transferi yapmak istediği ve kariyerini Suudi Arabistan'da sürdüren Aleksandar Mitrovic için resmi girişimlere başladığı...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/transfer-haberleri-fenerbahcede-hedef-mitrovic-avrupaya-donmek-istiyor",
-        "date": "Sat, 31 May 2025 06:51:18 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/c6ee39/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberleri-fenerbahcede-hedef-mitrovic-avrupaya-donmek-istiyor-1748644534352.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/c6ee39/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberleri-fenerbahcede-hedef-mitrovic-avrupaya-donmek-istiyor-1748644534352.jpeg"
-      },
-      {
-        "title": "Belgeler: Cucurella Barcelona ve Real Madrid tarafından aranıyor",
-        "summary": "Salı günkü gazetelerden öne çıkan haberler ve transfer söylentileri...",
-        "link": "https://www.skysports.com/football/news/12040/13549945/marc-cucurella-wants-a-return-to-spain-with-real-madrid-and-barcelona-interested-paper-talk",
-        "date": "Mon, 01 Jun 2026 20:00:00 BST",
-        "source": "Sky Sports",
+        "title": "Gilmour, Dünya Kupası hayalinin elinden alınmasıyla mücadele ettiğini itiraf etti",
+        "summary": "Billy Gilmour, Napoli orta saha oyuncusunun sakatlık nedeniyle İskoçya Dünya Kupası kadrosundan ayrılmak zorunda kalmasının ardından \"kafamı toparlamanın zor olduğunu\" itiraf ediyor.",
+        "link": "https://www.bbc.com/sport/football/articles/cgqpwj0n49qo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 02 Jun 2026 08:54:40 GMT",
+        "source": "BBC Sport",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "lang": "en",
         "cat": "en",
         "feedImage": null,
-        "category": "transfer",
-        "image": "https://e0.365dm.com/25/03/1600x900/skysports-paper-talk-brand-refresh_6852897.jpg?20250311094415"
-      }
-    ],
-    "worldcup": [
+        "category": "worldcup",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/688d/live/6ad632d0-5e60-11f1-ab70-0bc47e9bde03.jpg"
+      },
+      {
+        "title": "Senegal'in Dünya Kupası kadrosu açıklandı",
+        "summary": "Senegal Milli Futbol Takımı'nın 2026 FIFA Dünya Kupası kadrosu belli oldu.",
+        "link": "https://www.hurriyet.com.tr/sporarena/senegalin-dunya-kupasi-kadrosu-aciklandi-43190451",
+        "date": "Tue, 02 Jun 2026 08:45:34 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e97dd724fc2d42785a761.jpg",
+        "category": "worldcup",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e97dd724fc2d42785a761.jpg"
+      },
+      {
+        "title": "Trabzonspor, Cabral'ı ikna etti! Dünya Kupası öncesi geliyor...",
+        "summary": "Trabzonspor, Sindy Lopes Cabral transferinde mutlu sona ulaştı. Bordo-mavililer, Benfica’dan transferi için prensip anlaşmasına vardığı 23 yaşındaki oyuncuyu Dünya Kupası öncesi şehre getirecek. İmzası...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/02/trabzonspor-cabrali-ikna-etti-dunya-kupasi-oncesi-geliyor",
+        "date": "Tue, 02 Jun 2026 10:21:12 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/33bbce/1200/675/0/0/1500/843?u=https://isbh.tmgrup.com.tr/sbh/2026/06/02/1780384753979.jpeg",
+        "category": "worldcup",
+        "image": "https://iasbh.tmgrup.com.tr/33bbce/1200/675/0/0/1500/843?u=https://isbh.tmgrup.com.tr/sbh/2026/06/02/1780384753979.jpeg"
+      },
+      {
+        "title": "Almanya Dünya Kupası 2026 takım rehberi",
+        "summary": "Julian Nagelsmann, Bayern merkezli bir çekirdeğe güvenecek, ancak bireysel sınıfların arzı endişe verici derecede yetersiz. Bu makale, kalifiye olan 48 ülkeden en iyi medya kuruluşlarından bazılarının işbirliğiyle oluşturduğu Guardian'ın 2026 Dünya Kupası Uzmanları Ağı'nın bir parçası. theguardian.com, 11 Haziran'da başlayacak turnuva öncesinde her gün üç ülkeden önizlemeler yayınlıyor. Okumaya devam edin...",
+        "link": "https://www.theguardian.com/football/2026/jun/02/germany-world-cup-2026-team-guide",
+        "date": "Tue, 02 Jun 2026 06:30:40 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/843baa6d042e7d6f32b94f41e220218452f524cb/293_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6b04fef05ffd0b97a5456f5eb9ed3e76",
+        "category": "worldcup",
+        "image": "https://i.guim.co.uk/img/media/843baa6d042e7d6f32b94f41e220218452f524cb/293_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6b04fef05ffd0b97a5456f5eb9ed3e76"
+      },
+      {
+        "title": "Partey, Gana'nın Dünya Kupası kadrosuna alındı",
+        "summary": "Eski Arsenal orta saha oyuncusu Thomas Partey, Gana'nın Dünya Kupası ön kadrosuna seçildi.",
+        "link": "https://www.bbc.com/sport/football/articles/cp9ppezl4v1o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 02 Jun 2026 06:28:20 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/459d/live/79f639b0-590e-11f1-8d34-d7341b720fc6.jpg"
+      },
+      {
+        "title": "2026 Dünya Kupası: BBC'de nasıl takip edilir?",
+        "summary": "Tarihin en büyük Dünya Kupası 11 Haziran'da başlıyor ve onu BBC'de takip etmenin her zamankinden daha fazla yolu var.",
+        "link": "https://www.bbc.com/sport/football/articles/c62dy77g8e8o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 02 Jun 2026 05:33:11 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e49b/live/35e96df0-5daa-11f1-89a3-d1f559421220.jpg"
+      },
+      {
+        "title": "Cornish madencileri futbolu Meksika'ya nasıl getirdi?",
+        "summary": "Meksika, Dünya Kupası'na üç kez ev sahipliği yapan veya ortak ev sahipliği yapan ilk ülke olmaya hazırlanırken BBC Sport, Cornish futbol köklerine bakıyor.",
+        "link": "https://www.bbc.com/sport/football/articles/cx21q453l4jo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 02 Jun 2026 05:28:25 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/e08d/live/51c98ee0-5aaa-11f1-b277-cd187c78657d.jpg"
+      },
+      {
+        "title": "Değişen kurallar Dünya Kupası'nda çok can yakacak!",
+        "summary": "Oyunu hızlandırmayı amaçlayan yeni kurallar, VAR'ın yetkilerini de artıracak. Kaleciler tedavi görürken, takım arkadaşları kenara gidip taktik alamayacak. Duran toplarda hücumcuların hareketleri VAR tarafından incelenecek.",
+        "link": "https://www.hurriyet.com.tr/sporarena/degisen-kurallar-dunya-kupasinda-cok-can-yakacak-43190167",
+        "date": "Tue, 02 Jun 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e1557724fc2d42785a49f.jpg",
+        "category": "worldcup",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e1557724fc2d42785a49f.jpg"
+      },
       {
         "title": "Ekvador Dünya Kupası 2026 takım rehberi",
         "summary": "Sebastián Beccacece kötü bir savunma kurdu ve Moisés Caicedo'nun orta sahadaki yeteneği takımın bir sonraki adımı atmasına yardımcı olabilir Bu makale, turnuvaya katılmaya hak kazanan 48 ülkeden en iyi medya kuruluşlarından bazılarının işbirliğiyle oluşturulan Guardian'ın 2026 Dünya Kupası Uzmanları Ağı'nın bir parçasıdır. theguardian.com, 11 Haziran'da başlayacak turnuva öncesinde her gün üç ülkeden önizlemeler yayınlıyor. Okumaya devam edin...",
@@ -722,17 +813,17 @@
         "image": "https://i.guim.co.uk/img/media/1ee5a7b020d763db8e4c9aa128a47e322c10dbca/342_0_3411_2730/master/3411.jpg?width=140&quality=85&auto=format&fit=max&s=b1e6a1e8d17a26effdd1b5bfc010f1a3"
       },
       {
-        "title": "Katar'ın 2026 Dünya Kupası kadrosu açıklandı!",
-        "summary": "2026 Dünya Kupası'nda mücadele edecek Katar'ın 26 kişilik nihai kadrosu açıklandı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/01/katarin-2026-dunya-kupasi-kadrosu-aciklandi",
-        "date": "Mon, 01 Jun 2026 23:54:52 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/3dffd4/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/katarin-2026-dunya-kupasi-kadrosu-aciklandi-1780347289904.jpeg",
+        "title": "Hangi İngiltere merkezli oyuncular 2026 Dünya Kupası'na gidiyor?",
+        "summary": "Kadroların onaylanması ve kesinleşmesiyle birlikte İngiltere'den 200'den fazla oyuncu 2026 Dünya Kupası'na gidiyor.",
+        "link": "https://www.skysports.com/football/news/12040/13545532/world-cup-2026-which-premier-league-efl-and-scottish-premiership-players-are-heading-to-this-summers-tournament",
+        "date": "Tue, 02 Jun 2026 10:00:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
         "category": "worldcup",
-        "image": "https://iasbh.tmgrup.com.tr/3dffd4/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/06/01/katarin-2026-dunya-kupasi-kadrosu-aciklandi-1780347289904.jpeg"
+        "image": "https://e0.365dm.com/26/06/1600x900/skysports-world-cup-2026-igor-thiago_7263064.jpg?20260601153146"
       },
       {
         "title": "Rodri, Dünya Kupası sonrasında Real Madrid bağlantıları nedeniyle geleceğine karar vereceği konusunda ısrar ediyor",
@@ -746,66 +837,14 @@
         "feedImage": "https://i.guim.co.uk/img/media/cdf7cc380ed2631a45afb55c92c334550af13038/853_262_6078_4865/master/6078.jpg?width=140&quality=85&auto=format&fit=max&s=a4722a58588dd4c533e00d7795d0c160",
         "category": "worldcup",
         "image": "https://i.guim.co.uk/img/media/cdf7cc380ed2631a45afb55c92c334550af13038/853_262_6078_4865/master/6078.jpg?width=140&quality=85&auto=format&fit=max&s=a4722a58588dd4c533e00d7795d0c160"
-      },
-      {
-        "title": "Tuchel, Büyük Britanya Takımının İngiltere'nin Dünya Kupası elemelerine hazırlanmasına yardımcı olduğunu açıkladı",
-        "summary": "Thomas Tuchel, 'Sıcaklık zorlu ama biz zaten hazırlıklıyız' Baş antrenör, takımın turnuvada ileri gidebileceğine inanıyor Isı ve nem, üstesinden gelinmesi gereken engeller olacak ancak İngiltere'nin yeteneklerine tam inancı var ve Dünya Kupası'nda ileri gidebileceklerine inanıyor, dedi Thomas Tuchel. Baş antrenör, Olimpiyat deneyimlerinden yararlanarak Büyük Britanya Takımından ve diğer uzmanlardan hava koşullarına çözüm bulmak için yardım aldı. Tuchel'in 26 kişilik kadrosunun bir kısmı, 10 günlük sıcak havaya alışma kampı için Pazartesi günü Birmingham'dan Miami'ye uçtu. Arsenal'den Bukayo Saka, Declan Rice, Noni Madueke ve Eberechi Eze'ye Cumartesi günkü Şampiyonlar Ligi finalinin ardından toparlanmaları için daha fazla süre verildi ve geçen hafta Konferans Ligi finalini oynayan Crystal Palace'tan Dean Henderson'ın da daha geç bir tarihte gelmesi bekleniyor. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jun/01/tuchel-reveals-team-gb-have-been-helping-england-get-ready-for-world-cup-heat",
-        "date": "Mon, 01 Jun 2026 17:05:16 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/1ec68159a13720d7d62ce9d66e46ce467ed7baf3/413_0_2873_2298/master/2873.jpg?width=140&quality=85&auto=format&fit=max&s=271b75f43dd948b87361101389db71c2",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/1ec68159a13720d7d62ce9d66e46ce467ed7baf3/413_0_2873_2298/master/2873.jpg?width=140&quality=85&auto=format&fit=max&s=271b75f43dd948b87361101389db71c2"
-      },
-      {
-        "title": "Rodri, Dünya Kupası sonrasında Manchester City'nin geleceğini belirleyecek",
-        "summary": "Manchester City'nin orta saha oyuncusu Rodri, Real Madrid ile bağlantısı olan kulüpteki geleceğini belirlemek için Dünya Kupası sonrasına kadar bekleyeceğini söyledi.",
-        "link": "https://www.bbc.com/sport/football/articles/c8e8z4k4d97o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 17:04:09 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/7dd5/live/a2ef8a90-5dd9-11f1-a574-05510226f57f.jpg"
-      },
-      {
-        "title": "Direncin üstesinden gelmek - Ancelotti'nin Brezilya'yı canlandırma girişimi",
-        "summary": "Carlo Ancelotti, ülkeyi Dünya Kupası zaferine döndürmek için Brezilya halkının desteğini kazanmak ve kaosu sakinleştirmek zorundaydı.",
-        "link": "https://www.bbc.com/sport/football/articles/cp8pxyknglgo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 05:49:39 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c19b/live/1071fe90-5b55-11f1-a62b-2f41c7c3a318.jpg"
-      },
-      {
-        "title": "2026 Dünya Kupası: Ev sahibi ülkelerin üçlüsünün stadyumlarını gösteren görsel bir rehber",
-        "summary": "ABD, Meksika ve Kanada'daki 16 ev sahibi stadyum hakkında bilmeniz gereken her şey 2026 Dünya Kupası şimdiye kadarki en büyük turnuvadır. Bu yazın büyük maçlarına toplam 16 mekan ev sahipliği yapacak ve her birinin kendi şehrinde sporun dünü, bugünü ve geleceği hakkında anlatacak bir hikayesi var. Yönetim kurulunun temiz mekan kurallarına aykırı olan sponsorlu isimler yerine Fifa onaylı isimleri kullandığımız için stadyum isimleri tanıdık gelmeyebilir. Avustralya v Türkiye, 13 Haziran Kanada v Katar, 18 Haziran Yeni Zelanda v Mısır, 21 Haziran İsviçre v Kanada, 24 Haziran Yeni Zelanda v Belçika, 26 Haziran 32. Tur, 2 Temmuz (1B v 3EFGIJ) 16. Tur, 7 Temmuz (W85 v W87) Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jun/01/world-cup-2026-stadium-guide",
-        "date": "Mon, 01 Jun 2026 05:00:09 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/fe96a9015f9fc77e253fcfdf3b81818d8eb17eb1/0_0_2500_2000/master/2500.png?width=140&quality=85&auto=format&fit=max&s=a58ca9dc950b77f8641891ddb05f786b",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/fe96a9015f9fc77e253fcfdf3b81818d8eb17eb1/0_0_2500_2000/master/2500.png?width=140&quality=85&auto=format&fit=max&s=a58ca9dc950b77f8641891ddb05f786b"
       }
     ],
     "magazine": [
       {
         "title": "'Yönetici onu sevdi': Tonda Eckert'in Southampton casusluğunu başlattığı ortaya çıktı",
-        "summary": "Stajyerlere diğer kulüpleri kaydetmeleri yönünde baskı yapıldı Baş antrenör, eylemlerin kurallara aykırı olduğunu bilmediğini söyledi Southampton'ın baş antrenörü Tonda Eckert, rakip antrenman seanslarını kaydetmekle görevli bir stajyerin \"menajerin bunu sevdiğinden\" emin olduğunu gösteren yeni belgelere göre, rakipler hakkında casusluk yapma uygulamasını başlattı. Southampton, geçen ay Oxford United, Ipswich ve Middlesbrough hakkında casusluk yaptığının ortaya çıkması üzerine Şampiyona play-off'larından ihraç edilmişti. Eckert, Futbol Federasyonu tarafından soruşturma altında ve kulübün ihraç edilmeye karşı itirazını reddeden panelden yeni yayınlanan açıklamalar onun projenin merkezinde olduğu inancını güçlendiriyor. Okumaya devam edin...",
+        "summary": "Stajyerlere diğer kulüpleri kaydetmeleri yönünde baskı yapıldı Southampton'ın sahibi, Eckert'i görevden almayı planlamıyor Southampton'ın baş antrenörü Tonda Eckert, rakip antrenman seanslarını kaydetmekle görevli bir stajyerin \"menajerin bunu sevdiğine\" dair güvence verildiğini gösteren yeni belgelere göre, rakipler hakkında casusluk yapma uygulamasını başlattı. Southampton, geçen ay Oxford United, Ipswich ve Middlesbrough hakkında casusluk yaptığının ortaya çıkması üzerine Şampiyona play-off'larından ihraç edilmişti. Eckert, Futbol Federasyonu tarafından soruşturma altında ve kulübün ihraç edilmeye karşı itirazını reddeden panelden yeni yayınlanan açıklamalar onun projenin merkezinde olduğu inancını güçlendiriyor. Okumaya devam edin...",
         "link": "https://www.theguardian.com/football/2026/jun/01/manager-loved-it-tonda-eckert-found-to-have-initiated-southamptons-spying",
-        "date": "Mon, 01 Jun 2026 18:54:30 GMT",
+        "date": "Tue, 02 Jun 2026 07:12:07 GMT",
         "source": "The Guardian",
         "flag": "🗞️",
         "lang": "en",
@@ -843,10 +882,62 @@
     ],
     "general": [
       {
-        "title": "Southampton'ın sahibi teknik direktör Eckert'i görevden almayacak",
-        "summary": "Southampton'ın sahibi Dragan Solak, başantrenörün rakip Şampiyona kulüplerine karşı casusluk kampanyasına izin verirken yaptığı \"hataya\" rağmen Tonda Eckert'i görevden almayacağını söyledi.",
+        "title": "Aston Villa tarih yazdıktan sonra nasıl gelişiyor?",
+        "summary": "Avrupa Ligi'ndeki başarısı onlarca yıldır en iyi sezonunu geride bıraktıktan sonra Aston Villa bir sonraki aşamaya nasıl geçecek?",
+        "link": "https://www.bbc.com/sport/football/articles/ce3peqq41z1o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 02 Jun 2026 08:21:00 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/047b/live/34711fa0-5b56-11f1-a62b-2f41c7c3a318.jpg"
+      },
+      {
+        "title": "Hakan Safi'nin Conte'ye yaptığı teklif ortaya çıktı! Suudi kulüpleri de Fenerbahçe'ye rakip",
+        "summary": "Fenerbahçe başkan adaylarından Hakan Safi'nin 1 numaralı teknik direktör adayı olan Antonio Conte'ye yaptığı teklifi İtalyan medyası duyurdu. Tecrübeli teknik adama Suudi Arabistan'dan da iki astronomik teklif geldi. İşte detaylar...",
+        "link": "https://www.hurriyet.com.tr/sporarena/hakan-safinin-conteye-yaptigi-teklif-ortaya-cikti-suudi-kulupleri-de-fenerbahceye-rakip-43190324",
+        "date": "Tue, 02 Jun 2026 07:49:16 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e8ab5724fc2d42785a6b1.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e8ab5724fc2d42785a6b1.jpg"
+      },
+      {
+        "title": "Fenerbahçe'de Oğuz Aydın için flaş karar! Yeni gelecek yönetim...",
+        "summary": "Fenerbahçe'deki geleceği büyük merak konusu haline gelen Oğuz Aydın ile ilgili sıcak gelişmeler yaşanıyor. Son olarak milli futbolcu, Türkiye-Kuzey Makedonya maçında sahada gösterdiği performansla dikkat...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/06/02/fenerbahcede-oguz-aydin-icin-flas-karar-yeni-gelecek-yonetim",
+        "date": "Tue, 02 Jun 2026 10:23:06 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/dba761/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/06/02/fenerbahcede-oguz-aydin-icin-flas-karar-yeni-gelecek-yonetim-1780384911798.jpeg",
+        "category": "general",
+        "image": "https://iaftm.tmgrup.com.tr/dba761/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/06/02/fenerbahcede-oguz-aydin-icin-flas-karar-yeni-gelecek-yonetim-1780384911798.jpeg"
+      },
+      {
+        "title": "Ümit Milli Futbol Takımı, Kosova'yı ağırlayacak!",
+        "summary": "Ümit Milli Futbol Takımı, 2027 UEFA 21 Yaş Altı Avrupa Şampiyonası eleme grubu karşılaşmalarına hazırlık niteliği taşıyan özel maçta yarın Kosova'yı konuk edecek.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/06/02/umit-milli-futbol-takimi-kosovayi-agirlayacak",
+        "date": "Tue, 02 Jun 2026 09:51:10 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/c6966f/1200/675/0/0/1600/899?u=https://isbh.tmgrup.com.tr/sbh/2026/06/02/umit-milli-futbol-takimi-kosovayi-agirlayacak-1780383018727.jpg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/c6966f/1200/675/0/0/1600/899?u=https://isbh.tmgrup.com.tr/sbh/2026/06/02/umit-milli-futbol-takimi-kosovayi-agirlayacak-1780383018727.jpg"
+      },
+      {
+        "title": "Southampton'ın sahibi Spygate yüzünden Eckert'i görevden almayacak",
+        "summary": "Southampton'ın sahibi Dragan Solak, BBC Sport'a, başantrenörün rakip Şampiyona kulüplerine karşı casusluk kampanyasına izin verirken yaptığı \"hataya\" rağmen Tonda Eckert'i görevden almayacağını söyledi.",
         "link": "https://www.bbc.com/sport/football/articles/cq6pn58pmn4o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 23:10:41 GMT",
+        "date": "Tue, 02 Jun 2026 06:30:12 GMT",
         "source": "BBC Sport",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "lang": "en",
@@ -854,6 +945,32 @@
         "feedImage": null,
         "category": "general",
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a105/live/5b7826b0-5e0e-11f1-aa91-39dc088af21e.jpg"
+      },
+      {
+        "title": "Fenerbahçe'de Lewandowski heyecanı! Müjdeli haberi en yakınındaki isim duyurdu",
+        "summary": "Polonyalı futbolcu Robert Lewandowski'nin eşi Anna, Türkiye'ye geleceklerini açıkladı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-lewandowski-heyecani-43190169",
+        "date": "Tue, 02 Jun 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e16f7724fc2d42785a4ab.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e16f7724fc2d42785a4ab.jpg"
+      },
+      {
+        "title": "Olaitan: Gelecek sezon harika olacak!",
+        "summary": "Beşiktaşlı Junior Olaitan, gelecek sezon için iddialı konuştu.",
+        "link": "https://www.hurriyet.com.tr/sporarena/olaitan-gelecek-sezon-harika-olacak-43190166",
+        "date": "Tue, 02 Jun 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e14f9724fc2d42785a499.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1e14f9724fc2d42785a499.jpg"
       },
       {
         "title": "Chelsea, Acheampong'a yönelik yaklaşımları reddetti",
@@ -869,19 +986,6 @@
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c6d/live/9949f090-5df0-11f1-9565-ef0970da1cfe.jpg"
       },
       {
-        "title": "BBC Sport uygulamasında Kısa Videolarla tanışın",
-        "summary": "Çarpıcı gollerden şok edici röportajlara ve unutulmaz kutlamalara kadar bazı spor anları sadece okumak için değil, izlenmek için de yapılıyor; BBC Sport'un kısa videoları başlatmasının nedeni de bu.",
-        "link": "https://www.bbc.com/sport/articles/cwy27j59rwdo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 16:45:30 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9074/live/7f6ce520-5ddb-11f1-a574-05510226f57f.jpg"
-      },
-      {
         "title": "Arsenal - PSG, ücretsiz yayınlanmadığı için İngiltere'de 16,2 milyon yasa dışı yayın görüntüsü aldı",
         "summary": "Analistler, yasal olarak 7 milyondan fazla kişi tarafından izlenen Birleşik Krallık Şampiyonlar Ligi finalindeki 3,7 milyon IP adresine kadar yasa dışı görüntülemelerin izini sürüyor Arsenal'in Şampiyonlar Ligi finalinde Paris Saint-Germain'e yenilmesi, ücretsiz yayınlanmamasının ardından Birleşik Krallık'taki yasa dışı yayınlarda 16,2 milyondan fazla görüntüleme çekti. Teknoloji analisti Gaming Compliance International (GCI) tarafından Guardian için gerçekleştirilen analiz, 3,7 milyon benzersiz IP adresine kadar takip edilen, 90 saniyeden uzun 16,2 milyon yasa dışı yayın izlemenin gerçekleştiğini gösteriyor. Final, TNT Sports ve HBO Max'te yasal olarak 7 milyondan fazla kişi tarafından izlendi. Okumaya devam edin...",
         "link": "https://www.theguardian.com/football/2026/jun/01/arsenal-psg-illegal-stream-views-tnt-champions-league-final",
@@ -895,17 +999,43 @@
         "image": "https://i.guim.co.uk/img/media/20b463f24a57f722e928cb0e651f6f5d4e8df579/552_150_4063_3250/master/4063.jpg?width=140&quality=85&auto=format&fit=max&s=fd15d64c2de3a6acbae2cd45070f8aaa"
       },
       {
-        "title": "Fenerbahçe Medicana'da Aslı Kalaç ile yollar ayrıldı!",
-        "summary": "Fenerbahçe Medicana, Aslı Kalaç ile yollarını ayırdıklarını açıkladı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahce-medicanada-asli-kalac-ile-yollar-ayrildi-43189902",
-        "date": "Mon, 01 Jun 2026 13:43:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d8dc3a1511859b7aed876.jpg",
+        "title": "Liverpool, Iraola ile görüşmelere başladı",
+        "summary": "Liverpool ve Andoni Iraola, Arne Slot'un yerine eski Bournemouth başantrenörünün getirilmesi konusunda görüşmelere başladı.",
+        "link": "https://www.skysports.com/football/news/12040/13549363/andoni-iraola-liverpool-begin-talks-with-former-bournemouth-head-coach-to-replace-arne-slot",
+        "date": "Tue, 02 Jun 2026 10:00:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
         "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a1d8dc3a1511859b7aed876.jpg"
+        "image": "https://e0.365dm.com/26/04/1600x900/skysports-iraola-bournemouth_7219746.jpg?20260414122935"
+      },
+      {
+        "title": "Baş antrenör Spygate skandalı için özür dilerken Eckert, Saints'in sahibinden destek aldı",
+        "summary": "Tonda Eckert, Spygate skandalında \"olan her şeyin\" tüm sorumluluğunu üstlendi ve oyunculardan, personelden ve taraftarlardan özür diledi - ancak başkan Dragon Solak'tan yanıt aldıktan sonra Southampton baş antrenörü olarak kalacak.",
+        "link": "https://www.skysports.com/football/news/12040/13550009/spygate-latest-tonda-eckert-given-southampton-owners-backing-as-head-coach-apologises-for-scandal",
+        "date": "Tue, 02 Jun 2026 09:28:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://e0.365dm.com/26/05/1600x900/skysports-tonda-eckert-southampton_7254557.jpg?20260521084108"
+      },
+      {
+        "title": "Yeni WhatsApp'lar ve silinmiş LinkedIn profilleri - en son Spygate ayrıntıları açıklandı",
+        "summary": "Yeni yayınlanan mesajlara göre, Southampton menajeri Tonda Eckert, stajyer analistin takımının rakiplerinden biri hakkında casusluk yaparken topladığı bilgileri \"sevdi\".",
+        "link": "https://www.skysports.com/football/news/12040/13549883/spygate-latest-southampton-boss-tonda-eckert-loved-information-gathered-when-intern-spied-on-opponent-panels-written-reasons-reveal",
+        "date": "Tue, 02 Jun 2026 07:53:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://e0.365dm.com/26/05/1600x900/skysports-tonda-eckert-southampton_7255454.jpg?20260522084830"
       },
       {
         "title": "Arsenal bana hiçbir şeyin futbol kadar neşe, acı ve topluluk getirmediğini gösterdi | Suzanne Wrack",
@@ -921,19 +1051,6 @@
         "image": "https://i.guim.co.uk/img/media/d2576ed10144ec747585a4cb5ec8c4b99751ade0/889_0_7911_6328/master/7911.jpg?width=140&quality=85&auto=format&fit=max&s=a1406431ade5970799eccf8753639702"
       },
       {
-        "title": "Liverpool neden Iraola'yı istiyor ve Anfield'a neler getirebilir?",
-        "summary": "Liverpool neden Andoni Iraola'nın Kırmızılar'ı yeniden Avrupa'nın en iyi kulüplerinden biri haline getirecek adam olduğuna inanıyor?",
-        "link": "https://www.bbc.com/sport/football/articles/cy823pj9v93o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 01 Jun 2026 12:45:05 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe96/live/f3062b40-5da9-11f1-8132-9508271dd882.jpg"
-      },
-      {
         "title": "Andoni Iraola, Liverpool'un havasını geri kazanmasına yardımcı olacak doğru teknik direktör gibi görünüyor | Ben Fisher",
         "summary": "Bask, Bournemouth'unu muhteşem bir şekilde izlenebilir hale getirdi; bu, Arne Slot'un uysal şampiyonluk savunması Bravery'den sonra Kırmızıların ihtiyaç duyduğu şeydi. Andoni Iraola ile yakın çevrede çalışmış olanlarla yapılan sohbetlerde yinelenen tema ve onlara göre onu diğerlerinden ayıran şey bu. Bournemouth takımının Premier Lig'i aydınlatma tarzından da bu açıkça görülüyordu. Liverpool'un sportif direktörü Richard Hughes daha önce de buradaydı. Ancak bu sefer, Iraola'dan Gary O'Neil'in yerine geçmesini ve güvenli bir yere ulaşmaya çalışan bir takımı devralmasını istemek yerine, gezegendeki en büyük kulüplerden birini yenilemek ve onları şampiyon yapan havayı yeniden keşfetmelerine yardımcı olmak gerekiyor. Okumaya devam edin...",
         "link": "https://www.theguardian.com/football/2026/jun/01/andoni-iraola-liverpool-arne-slot-premier-league-bournemouth",
@@ -945,110 +1062,6 @@
         "feedImage": "https://i.guim.co.uk/img/media/61bffc552d61edef87311ce1c97f4f3ddae9958c/682_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=7693f9e6b39136c5b3bf7765ee8433b8",
         "category": "general",
         "image": "https://i.guim.co.uk/img/media/61bffc552d61edef87311ce1c97f4f3ddae9958c/682_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=7693f9e6b39136c5b3bf7765ee8433b8"
-      },
-      {
-        "title": "Şampiyonlar Ligi'nde sezonun takımı: Lamine Yamal, Harry Kane... ve bir Spurs oyuncusu",
-        "summary": "Avrupa'nın seçkinleri arasında tüm sahayı daha iyi vurgulamak için, herhangi bir takımdan birden fazla oyuncunun yer alamayacağı bir XI seçtik. Bu yıl sezonun takımını seçiyoruz ama bir farkla: Takım başına yalnızca bir oyuncuya izin veriyorum. Elbette finalistler Paris Saint-Germain ve Arsenal'in tüm bu pozisyonlarda hak iddia eden oyuncuları olduğundan, diğerlerinin yanı sıra Willian Pacho ve Declan Rice'tan özür dileriz. Ancak bu formatın izin verdiği şey, Şampiyonlar Ligi sezonunun genel bir görünümüdür. *** Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jun/01/champions-league-team-of-the-season-lamine-yamal-harry-kane",
-        "date": "Mon, 01 Jun 2026 08:00:11 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/6d7e039f85de3b9fa592739c8018eecfebc0b527/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ebdb7d9419909033dc5e24a75580f2db",
-        "category": "general",
-        "image": "https://i.guim.co.uk/img/media/6d7e039f85de3b9fa592739c8018eecfebc0b527/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ebdb7d9419909033dc5e24a75580f2db"
-      },
-      {
-        "title": "Fenerbahçe'de Dzeko ve Tadic için neden veda töreni düzenlenmedi? İşte o flaş gerçek",
-        "summary": "Fenerbahçe'de Edin Dzeko ve Dusan Tadic için veda töreni düzenlenmemesi gündeme oturdu. Konuyla ilgili flaş gerçek ortaya çıktı. İşte detaylar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/fenerbahcede-dzeko-ve-tadic-icin-neden-veda-toreni-duzenlenmedi-iste-o-flas-gercek",
-        "date": "Sat, 31 May 2025 13:25:40 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/590bc8/1200/675/0/33/559/348?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahcede-dzeko-ve-tadic-icin-neden-veda-toreni-duzenlenmedi-iste-o-flas-gercek-1748687047041.jpg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/590bc8/1200/675/0/33/559/348?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahcede-dzeko-ve-tadic-icin-neden-veda-toreni-duzenlenmedi-iste-o-flas-gercek-1748687047041.jpg"
-      },
-      {
-        "title": "FENERBAHÇE HABERİ | Dusan Tadic İstanbul'dan ayrıldı!",
-        "summary": "Fenerbahçe'ye veda eden Dusan Tadic, İstanbul'dan ayrıldı. İşte detaylar... | Son dakika FB spor haberleriDevamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/fenerbahce-haberi-dusan-tadic-istanbuldan-ayrildi",
-        "date": "Sat, 31 May 2025 13:13:16 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/465b43/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahce-haberi-dusan-tadic-istanbuldan-ayrildi-1748686987451.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/465b43/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahce-haberi-dusan-tadic-istanbuldan-ayrildi-1748686987451.jpeg"
-      },
-      {
-        "title": "Fenerbahçe'ye veda eden Edin Dzeko İstanbul'dan ayrıldı",
-        "summary": "Gelecek sezon Fenerbahçe'de forma giymeyecek olan Edin Dzeko, bugün İstanbul'dan ayrıldı. İşte detaylar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/fenerbahceye-veda-eden-edin-dzeko-istanbuldan-ayrildi",
-        "date": "Sat, 31 May 2025 12:49:57 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/0af459/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahceye-veda-eden-edin-dzeko-istanbuldan-ayrildi-1748685266895.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/0af459/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahceye-veda-eden-edin-dzeko-istanbuldan-ayrildi-1748685266895.jpeg"
-      },
-      {
-        "title": "Galatasaray'dan flaş Okan Buruk kararı! Yeni sezonda...",
-        "summary": "Galatasaray, teknik direktör Okan Buruk yönetiminde sezonu çifte kupa ile noktalarken yönetimden sürpriz bir hamle geldi. İşte sarı kırmızılı takımda başarılı çalıştırıcı ile ilgili alınan karar... | Son...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/galatasaraydan-flas-okan-buruk-karari-yeni-sezonda",
-        "date": "Sat, 31 May 2025 10:36:12 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/dc145a/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaraydan-flas-okan-buruk-karari-yeni-sezonda-1748676939658.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/dc145a/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaraydan-flas-okan-buruk-karari-yeni-sezonda-1748676939658.jpeg"
-      },
-      {
-        "title": "UEFA Türk takımlarına ne kadar para ödedi? İşte ayrıntılar...",
-        "summary": "UEFA'nın bu sezon Avrupa'da mücadele eden Türk kulüplerine dağıttığı para ödülü belli oldu. Beşiktaş, Fenerbahçe, Galatasaray ve RAMS Başakşehir'in kasasına giren rakam açıklandı. İşte detaylar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/uefa-turk-takimlarina-ne-kadar-para-odedi-iste-ayrintilar",
-        "date": "Sat, 31 May 2025 09:24:07 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/1a425e/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2025/05/31/uefa-turk-takimlarina-ne-kadar-para-odedi-iste-ayrintilar-1748672579256.jpg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/1a425e/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2025/05/31/uefa-turk-takimlarina-ne-kadar-para-odedi-iste-ayrintilar-1748672579256.jpg"
-      },
-      {
-        "title": "FENERBAHÇE HABERİ | Mourinho'nun ekibinde yaprak dökümü! 4 isim...",
-        "summary": "Jose Mourinho, gelecek sezonda Salvatore Foti, Stefano Raptetti, Luca Fatiga ve Giovanni Cerra ile yollarını ayıracak. Jose, 4 yeni isimle Fenerbahçe macerasına devam edecekDevamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/fenerbahce-haberi-mourinhonun-ekibinde-yaprak-dokumu-4-isim",
-        "date": "Sat, 31 May 2025 06:51:18 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/7b15ca/1200/675/0/41/800/491?u=https://iftm.tmgrup.com.tr/2025/05/30/yardimcilari-degisiyor-1748629025688.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/7b15ca/1200/675/0/41/800/491?u=https://iftm.tmgrup.com.tr/2025/05/30/yardimcilari-degisiyor-1748629025688.jpeg"
-      },
-      {
-        "title": "Yeni WhatsApp'lar ve silinmiş LinkedIn profilleri - en son Spygate ayrıntıları açıklandı",
-        "summary": "Yeni yayınlanan mesajlara göre, Southampton menajeri Tonda Eckert, stajyer analistin takımının rakiplerinden biri hakkında casusluk yaparken topladığı bilgileri \"sevdi\".",
-        "link": "https://www.skysports.com/football/news/12040/13549883/spygate-latest-southampton-boss-tonda-eckert-loved-information-gathered-when-intern-spied-on-opponent-panels-written-reasons-reveal",
-        "date": "Mon, 01 Jun 2026 17:39:00 BST",
-        "source": "Sky Sports",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://e0.365dm.com/26/05/1600x900/skysports-tonda-eckert-southampton_7255454.jpg?20260522084830"
       }
     ]
   },
@@ -1515,13 +1528,13 @@
         "date": "2026-05-24T15:00:00Z",
         "status": "FINISHED",
         "timeframe": "past",
-        "score": "1-2",
+        "score": "2-2",
         "halfTime": "1-0",
-        "fullHome": 1,
+        "fullHome": 2,
         "fullAway": 2,
         "halfHome": 1,
         "halfAway": 0,
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "venue": null,
         "referee": "Andy Madley",
         "stage": "REGULAR_SEASON",
@@ -2089,15 +2102,15 @@
         "homeCrest": "https://crests.football-data.org/bournemouth.png",
         "awayCrest": "https://crests.football-data.org/65.png",
         "date": "2026-05-19T18:30:00Z",
-        "status": "FINISHED",
+        "status": "IN_PLAY",
         "timeframe": "past",
-        "score": "1-1",
+        "score": "1-0",
         "halfTime": "1-0",
         "fullHome": 1,
-        "fullAway": 1,
+        "fullAway": 0,
         "halfHome": 1,
         "halfAway": 0,
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "venue": null,
         "referee": "Anthony Taylor",
         "stage": "REGULAR_SEASON",
@@ -2627,7 +2640,296 @@
     ]
   },
   "worldCup": {
-    "teams": [],
+    "teams": [
+      {
+        "id": 758,
+        "name": "Uruguay",
+        "tla": "URY",
+        "crest": "https://crests.football-data.org/758.svg"
+      },
+      {
+        "id": 759,
+        "name": "Germany",
+        "tla": "GER",
+        "crest": "https://crests.football-data.org/759.svg"
+      },
+      {
+        "id": 760,
+        "name": "Spain",
+        "tla": "ESP",
+        "crest": "https://crests.football-data.org/760.svg"
+      },
+      {
+        "id": 761,
+        "name": "Paraguay",
+        "tla": "PAR",
+        "crest": "https://crests.football-data.org/761.svg"
+      },
+      {
+        "id": 762,
+        "name": "Argentina",
+        "tla": "ARG",
+        "crest": "https://crests.football-data.org/762.png"
+      },
+      {
+        "id": 763,
+        "name": "Ghana",
+        "tla": "GHA",
+        "crest": "https://crests.football-data.org/ghana.svg"
+      },
+      {
+        "id": 764,
+        "name": "Brazil",
+        "tla": "BRA",
+        "crest": "https://crests.football-data.org/764.svg"
+      },
+      {
+        "id": 765,
+        "name": "Portugal",
+        "tla": "POR",
+        "crest": "https://crests.football-data.org/765.svg"
+      },
+      {
+        "id": 766,
+        "name": "Japan",
+        "tla": "JPN",
+        "crest": "https://crests.football-data.org/766.svg"
+      },
+      {
+        "id": 769,
+        "name": "Mexico",
+        "tla": "MEX",
+        "crest": "https://crests.football-data.org/769.svg"
+      },
+      {
+        "id": 770,
+        "name": "England",
+        "tla": "ENG",
+        "crest": "https://crests.football-data.org/770.svg"
+      },
+      {
+        "id": 771,
+        "name": "United States",
+        "tla": "USA",
+        "crest": "https://crests.football-data.org/usa.svg"
+      },
+      {
+        "id": 772,
+        "name": "South Korea",
+        "tla": "KOR",
+        "crest": "https://crests.football-data.org/772.png"
+      },
+      {
+        "id": 773,
+        "name": "France",
+        "tla": "FRA",
+        "crest": "https://crests.football-data.org/773.svg"
+      },
+      {
+        "id": 774,
+        "name": "South Africa",
+        "tla": "RSA",
+        "crest": "https://crests.football-data.org/9396.svg"
+      },
+      {
+        "id": 778,
+        "name": "Algeria",
+        "tla": "ALG",
+        "crest": "https://crests.football-data.org/algeria.svg"
+      },
+      {
+        "id": 779,
+        "name": "Australia",
+        "tla": "AUS",
+        "crest": "https://crests.football-data.org/779.svg"
+      },
+      {
+        "id": 783,
+        "name": "New Zealand",
+        "tla": "NZL",
+        "crest": "https://crests.football-data.org/783.svg"
+      },
+      {
+        "id": 788,
+        "name": "Switzerland",
+        "tla": "SUI",
+        "crest": "https://crests.football-data.org/788.svg"
+      },
+      {
+        "id": 791,
+        "name": "Ecuador",
+        "tla": "ECU",
+        "crest": "https://crests.football-data.org/791.svg"
+      },
+      {
+        "id": 792,
+        "name": "Sweden",
+        "tla": "SWE",
+        "crest": "https://crests.football-data.org/792.svg"
+      },
+      {
+        "id": 798,
+        "name": "Czechia",
+        "tla": "CZE",
+        "crest": "https://crests.football-data.org/798.svg"
+      },
+      {
+        "id": 799,
+        "name": "Croatia",
+        "tla": "CRO",
+        "crest": "https://crests.football-data.org/799.svg"
+      },
+      {
+        "id": 801,
+        "name": "Saudi Arabia",
+        "tla": "KSA",
+        "crest": "https://crests.football-data.org/saudi_arabia.svg"
+      },
+      {
+        "id": 802,
+        "name": "Tunisia",
+        "tla": "TUN",
+        "crest": "https://crests.football-data.org/tunisia.svg"
+      },
+      {
+        "id": 803,
+        "name": "Turkey",
+        "tla": "TUR",
+        "crest": "https://crests.football-data.org/803.svg"
+      },
+      {
+        "id": 804,
+        "name": "Senegal",
+        "tla": "SEN",
+        "crest": "https://crests.football-data.org/senegal.svg"
+      },
+      {
+        "id": 805,
+        "name": "Belgium",
+        "tla": "BEL",
+        "crest": "https://crests.football-data.org/805.svg"
+      },
+      {
+        "id": 815,
+        "name": "Morocco",
+        "tla": "MAR",
+        "crest": "https://crests.football-data.org/morocco.svg"
+      },
+      {
+        "id": 816,
+        "name": "Austria",
+        "tla": "AUT",
+        "crest": "https://crests.football-data.org/816.svg"
+      },
+      {
+        "id": 818,
+        "name": "Colombia",
+        "tla": "COL",
+        "crest": "https://crests.football-data.org/818.svg"
+      },
+      {
+        "id": 825,
+        "name": "Egypt",
+        "tla": "EGY",
+        "crest": "https://crests.football-data.org/825.svg"
+      },
+      {
+        "id": 828,
+        "name": "Canada",
+        "tla": "CAN",
+        "crest": "https://crests.football-data.org/canada.svg"
+      },
+      {
+        "id": 836,
+        "name": "Haiti",
+        "tla": "HAI",
+        "crest": "https://crests.football-data.org/haiti.svg"
+      },
+      {
+        "id": 840,
+        "name": "Iran",
+        "tla": "IRN",
+        "crest": "https://crests.football-data.org/iran.svg"
+      },
+      {
+        "id": 1060,
+        "name": "Bosnia-Herzegovina",
+        "tla": "BIH",
+        "crest": "https://crests.football-data.org/bosnia.svg"
+      },
+      {
+        "id": 1836,
+        "name": "Panama",
+        "tla": "PAN",
+        "crest": "https://crests.football-data.org/panama.svg"
+      },
+      {
+        "id": 1930,
+        "name": "Cape Verde Islands",
+        "tla": "CPV",
+        "crest": "https://crests.football-data.org/cape_verde.svg"
+      },
+      {
+        "id": 1934,
+        "name": "Congo DR",
+        "tla": "COD",
+        "crest": "https://crests.football-data.org/congo_dr.svg"
+      },
+      {
+        "id": 1935,
+        "name": "Ivory Coast",
+        "tla": "CIV",
+        "crest": "https://crests.football-data.org/787.svg"
+      },
+      {
+        "id": 8030,
+        "name": "Qatar",
+        "tla": "QAT",
+        "crest": "https://crests.football-data.org/8030.svg"
+      },
+      {
+        "id": 8049,
+        "name": "Jordan",
+        "tla": "JOR",
+        "crest": "https://crests.football-data.org/8049.png"
+      },
+      {
+        "id": 8062,
+        "name": "Iraq",
+        "tla": "IRQ",
+        "crest": "https://crests.football-data.org/iraq.svg"
+      },
+      {
+        "id": 8070,
+        "name": "Uzbekistan",
+        "tla": "UZB",
+        "crest": "https://crests.football-data.org/8070.png"
+      },
+      {
+        "id": 8601,
+        "name": "Netherlands",
+        "tla": "NED",
+        "crest": "https://crests.football-data.org/8601.svg"
+      },
+      {
+        "id": 8872,
+        "name": "Norway",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/813.svg"
+      },
+      {
+        "id": 8873,
+        "name": "Scotland",
+        "tla": "SCO",
+        "crest": "https://crests.football-data.org/814.svg"
+      },
+      {
+        "id": 9460,
+        "name": "Curaçao",
+        "tla": "CUW",
+        "crest": "https://crests.football-data.org/curacao.svg"
+      }
+    ],
     "matches": {
       "upcoming": [
         {
