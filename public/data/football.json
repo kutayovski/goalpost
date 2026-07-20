@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-07-19T18:01:02.906Z",
+  "updatedAt": "2026-07-20T00:01:53.450Z",
   "news": {
     "corumsporhaber": [
+      {
+        "title": "Çorum FK’da ikinci etap başlıyor",
+        "summary": "Çorum FK’da ikinci etap başlıyor Çorum Haber Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuZHRKcVk5cWYyLWZWSlMyaXJ2XzNoMklTcV9TVWE1WFNwZnpGVzlBaFJXbFl1RnRtc0pVOE95aHpESU5xeVBRYmF6aEw5MWlXeGs2ZkhORGlHd1o4Q3p5NkZhYUdfNzdIZldtQtIBckFVX3lxTE0xZDMyeUFESlRuN1VOYW9fbmwwaHptVFpGeUUwYi1rVHlpTjlPR0xXTTlFSFI4UnRXeWswdG44dGRUN1ktS0FwS09hSHFQSkVWaTJKNnBSRmlJR2xyTWdxeXBBQksycWFZX3p5dGtLNDBpQQ?oc=5",
+        "date": "Sun, 19 Jul 2026 23:00:00 GMT",
+        "source": "Çorum Haber Gazetesi",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
       {
         "title": "Çorum FK’dan Monsef Bakrar için transfer girişimi",
         "summary": "Çorum FK’dan Monsef Bakrar için transfer girişimi Tıbbiye Bülteni",
@@ -75,30 +87,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Ahlatcı: “Süper Lig’e yakışır bir stadyum hedefliyoruz”",
-        "summary": "Ahlatcı: “Süper Lig’e yakışır bir stadyum hedefliyoruz” Çorum Haber Gazetesi",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbllFVkkxemd5NUNiQklTREJzSVY4Q2dNcTFpdVpfRER2X2hnYzhFNVcwYTlFaGtKbzlfcTR6SkEya0tzNzVYV1ktRjU2dUZqQ2NkSFZlQzRvN2ZwaFNveXY5Um9LTjI1eEp6ckFyRVBLQlJrSTB3WEVwd0ZHTWY2alJ2d1jSAYoBQVVfeXFMT25HdWVJa0N3T1BRUnk0WXRVOG9pTTBJc0p1SlVFZ1Qwc0pfQzc4QkVLRldVSkdVd3pUbnNWT1BMcXZuQmhkMzkwdkNVRGhRYlBXWmlMOHNuNmVLX2NEekFMNkdWTUlhd29PZDBuSDFKclh2TU90TzJqb1ZRWml4MU8yRUp6dmszVjVB?oc=5",
-        "date": "Sun, 19 Jul 2026 07:33:00 GMT",
-        "source": "Çorum Haber Gazetesi",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Sungurlu, Çorum FK ruhuyla canlanıyor: Yeni 'Futbol Sokağı' projesi start aldı!",
-        "summary": "Sungurlu, Çorum FK ruhuyla canlanıyor: Yeni 'Futbol Sokağı' projesi start aldı! Saray Medya",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYVk5bnNuR2V1SURWZXdrYTREYmg5LUpqYlEzNmUzR0NzeTBEenRyMy1Rc0ZJdXZlVnFNZUliVWhsWEx1aWRYeDdZMkoya2lvajRVV2RSUmY4OXFxS2hEUzZDMUNLeTFSdmlLZG82S2tzejRhTF9lR2Npa0tpUE1zd1VNbWxaN3hJOVRLWmVUSXc5V1oybFI0ajR1RkhMb3hLVjVUOUNtOUJUQkhPZ1BUd2wtQWgydw?oc=5",
-        "date": "Sun, 19 Jul 2026 01:48:14 GMT",
-        "source": "Saray Medya",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Çorum FK kupasını sergiliyor",
         "summary": "Çorum FK kupasını sergiliyor pusulahaber.com.tr",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Eamt3eDZvSEhKdW9oWVVnZnVHSzJkVWEyWmU3SFlrRWwyN1JFeWpDdnNSNzBXaHpEdTlmbzF5RDlNRnQ1d3EyYWQwWmZSeTczSk9TY1c1UlFsdlFGNk9jcEc4eXFKSjNXVHZrc09Tam1CZ0kzM0xUYkQ3cmY?oc=5",
@@ -116,6 +104,18 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZXVCVXpEUlczSWFkODc1Q0ZRZThyblBLM3FybmJCNWlOT0NvWlVvZXlGT2F3VTdrTFF1WGF6WU5NTC1QT3hRdEJSc2xWcTR4ZUdoWlRSQUFuNGVZMVFKb2xfcUV2WVB3b1Q1MWFEd25MMHVmNURmbnl4eUhMZFpOTXJVa1dEVkpael9sSUFjV0pmSlJ6NmcyR1VIamZFS0tPS3Nr?oc=5",
         "date": "Sat, 18 Jul 2026 15:31:06 GMT",
         "source": "Ajansspor",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK Brezilyalı 10 numara ile görüşüyor",
+        "summary": "Çorum FK Brezilyalı 10 numara ile görüşüyor Çorum Hakimiyet",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nZzhVR3Rnbnhib28xSVJiUE9DdllqeHVLSkVGRUU5ZGFteW1GdzNXNGYtUDJSWmE1RU5DTW1VLTdqN05FVWowSV90VW5TSzJJVzl5UXJtYjc0LV9EMTRqVUpmWTlYZll4SHZXcEZGWXkzSHN6N3VfMXFjZDZVdjjSAYQBQVVfeXFMTi1JR2ZvbUNZU1MzbjZ5dVZQamRGVzFNbWh3VTVISVl5NlVwWHN4cUlaaEtoNDBhbUI1cEp6VVdGV0I0WVFuUS1nZ21vTkhIRDU4QU5ZWDNqVVV0THJheE1uWlliRGdRN0VURER5NnlyVDhwSGl2ZERnbVlWclJtVnFPaGlq?oc=5",
+        "date": "Sat, 18 Jul 2026 14:25:00 GMT",
+        "source": "Çorum Hakimiyet",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -159,11 +159,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK'nın eski futbolcusu 2.Lig ekibi ile anlaştı",
-        "summary": "Çorum FK'nın eski futbolcusu 2.Lig ekibi ile anlaştı Çorum Hakimiyet",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcS1JN2M5Y0dFd0JkRFZ3SEF4MzE5SWRVVVZnUWlTSERoRk1HTzBrRzVaZ0QyeUxUdlBKQnFlQ2tmaVJ1SWxQU2hlNWRBN0o5NUlnMzNqME5aaVM2aF9jN0trV1BLMksya0lqYXFaZTZxY04zQ1ZQeWJCR1FPWmYtajg0QVIzajF00gGOAUFVX3lxTFA5MnY0YkRhenE5RXlZTGw0aWlRcnVRc3g2djBfU1BodEhvWWZvdm5tdWNCQzdzak85V1NSc09zNmliZkJyRTBxNmlYX01TWEhTdXNmNS1HNkNVRWhSUF8xSE95aVE3RTVIYk4tWDJsV0hEYXZaMzlKWnpMdkFqZG1vb3FMQWFwQm5UTzFQUWc?oc=5",
-        "date": "Sat, 18 Jul 2026 08:15:00 GMT",
-        "source": "Çorum Hakimiyet",
+        "title": "Çorum FK ilk etabı tamamladı",
+        "summary": "Çorum FK ilk etabı tamamladı habercim19.com",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BS1hZY3gybTdvUFQtbkJhVmtHczRhUGhuTURUSTJLai1LeHR2MDYzM2w5NF9OUDM0b29zTXJQem5EdjNhMTU0bXdlYzdRcEJOS2dVSVdmWTBQZlkxaExxU1Q4YVRBTndkWDlCelVpZW1PaDJk?oc=5",
+        "date": "Fri, 17 Jul 2026 14:30:00 GMT",
+        "source": "habercim19.com",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -171,11 +171,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK ilk etabı tamamladı",
-        "summary": "Çorum FK ilk etabı tamamladı habercim19.com",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BS1hZY3gybTdvUFQtbkJhVmtHczRhUGhuTURUSTJLai1LeHR2MDYzM2w5NF9OUDM0b29zTXJQem5EdjNhMTU0bXdlYzdRcEJOS2dVSVdmWTBQZlkxaExxU1Q4YVRBTndkWDlCelVpZW1PaDJk?oc=5",
-        "date": "Fri, 17 Jul 2026 14:30:00 GMT",
-        "source": "habercim19.com",
+        "title": "28 gün kaldı ama belirsizlik hala sürüyor",
+        "summary": "28 gün kaldı ama belirsizlik hala sürüyor Çorum Hakimiyet",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXYktZUG9KRUhLZVVJUlNsNmVldHdRZS1hVWoxSTlsYVBMRHE3TGQ3b0MwUFVmZk9PdW5vUjVFVlc5a2lERGxoOWVvOWZHdFhSVGl2Z0J6UGx5WkZjX2QwNTNHRHotT3VoczhYRWlkQ2hBZUlFNG9kbDd3emTSAYIBQVVfeXFMTkhfN2Q5MnJhc1RwRTZsU3BDcTZRejZJS21KU2NhMFc3ZzN1S1dBRXQ2a3lQNDg3UzF2R2h3NUM4R2M5aGhQY21HS3JWS29vVGxnaFRRalpDX3VGMXY2a09XWFlwS052d1J3cFQ1TGNQOTZLQ2hpMjRvc3g2ZzBXcU9LUQ?oc=5",
+        "date": "Fri, 17 Jul 2026 11:56:00 GMT",
+        "source": "Çorum Hakimiyet",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -231,18 +231,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK’ya Smolcic piyangosu! Daha oynatmadan...",
-        "summary": "Çorum FK’ya Smolcic piyangosu! Daha oynatmadan... Ajansspor",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWVNBOVd6TU1JTEFuNjlaWEg3MUlPRE5JS202VWR1NjI4eDR6SFh4TXdEbVVfRnlva1UxQ2FFbUprMzFhT1BMQW1KNGNxU0h0NnN3SEJtRzI5S0dpSWtRckNfajgzUUtSdDk1OTNIWFprdTJjaFZPZzJMVC14Um4ydnJFeXNsUQ?oc=5",
-        "date": "Thu, 16 Jul 2026 16:30:15 GMT",
-        "source": "Ajansspor",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Çorum FK'yı Süper Lig'e çıkardılar: Karşılığını acı bir şekilde aldılar",
         "summary": "Çorum FK'yı Süper Lig'e çıkardılar: Karşılığını acı bir şekilde aldılar Halk TV",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc1pKZ3RtVEhQcThpbWNRSnFaNTNCOGhsMkRCQjZ3UXYyVDZZOFNjLUliNndQS2FSSmNkMzc5dnZEYkpZLVhpcmhnLUR4VUE3b3pHbDVXa3Fla1I1Rl9tbDhTZVZheGliUE55U2JXZ2JNN3QzdkZVZFBScHFhd08tbGZlQ3Z4Y0pWUXBycHNjMWo3bzlGVHpqTDFMR0syZFpxX3A5RjlJSQ?oc=5",
@@ -291,6 +279,18 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
+        "title": "Çorum FK'dan Aubameyang açıklaması!",
+        "summary": "Çorum FK'dan Aubameyang açıklaması! Hürriyet",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0tUZXkzYWUwMzlUTE80NVBHalgxdkVuZUNoTnVOeGppOU9FbEVMakpsQWlJdWZtWGZ0V3M2NU5GT3lYZ3N1WGRnX3QxV3RNcUJJVUxqSmpPY0Y3LTFxc3BremVuSVZhMjRvM2Q3VDJYU3l6aHA2dzVsZUljbjJkeUFjUUFkN0U?oc=5",
+        "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+        "source": "Hürriyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
         "title": "Arca Çorum FK Süper Lig için kadro kuruyor",
         "summary": "Arca Çorum FK Süper Lig için kadro kuruyor SonDakika",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUluSjFwR3Jyamp2ZVR1ZlF5NFh3dzVzbWo1MWFlN1ZPNDBBMFlCT2tHU0FDSWZYSlJ6N1VsMzVobVdzZnAxd2FXUGZfbnV2SWwtQXlMM1psUGV1UUNNWlVyR1hzMnNyaU5BYXNQTzI5M0lrZXBGZzZkRlB1NW9Lb0gzNXN1ZzBEaWIzWS03OVpzR1HSAZIBQVVfeXFMTXE0YnhJaXdTbUpPUGNJaHE3VFg5eFgtbFJfcnhyU29BXzFncVpXZVg1aDJYUGI5aGVnY01Bd2E2N3JNS0ZyNzhVaUJHZkxhcE51MWZqbTY1Rkl3Q1djVnpKSU13VWt1djRvR3BTM1FLbEVQMnJJV1JxVHBSRHNxckR3VnhCeFpEdV9zSEVMMzV1Z0E?oc=5",
@@ -315,11 +315,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK'den Aubameyang transferi için açıklama",
-        "summary": "Çorum FK'den Aubameyang transferi için açıklama NTVSpor",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3kzd1RFX0phekJ2QTNGYUhBNU52SmdrM3ZVcDB3QWU0bE5icVlvTFNKLXBUQVQtX24xUzh5U3JiX1JYakViMHRLMTF1TE9qamZKSUswY2l6QmZNTnRDcUFTMkxSaG5iZG85ajRmSjB3ZnYtQ2VPNlJHWDRzTjQ2N0piQlc2a0g2ekdkRTdfeEt1ZGfSAZgBQVVfeXFMTWdJaldJT25iVUgzc0U2QzlsWEFBeUVmQXpUdTVPWTM3ZlB6bk02SGdfRHcwR252S3lLaDl4NGYwUmJIamRkbUJSS014T3RZTXF3M1p4TWl2WFY1RVp3YVdlN0V0R1lGOGVBeVhMcmhCOW1raWtPQTVQcG1PR2FWVE5OUjNGdVNNUEtHQWdoMDFaZy16a3g1UXQ?oc=5",
+        "title": "Çorum FK'dan peş peşe imzalar - Kadroya beş yeni isim katıldı",
+        "summary": "Çorum FK'dan peş peşe imzalar - Kadroya beş yeni isim katıldı Transfermarkt",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3hKLTdpbFZJVmNlU0hFWV9fR2RnOWxOM1BWRzZ6M1liRnRyVEt0cDZYOHFBcUJ1am5yVGxrMVctVnNCSWlwLTdLdnFXaXBJcXZaR1BqS3ZYUm1hb3p3T3R3LVdiVnVFZVZhTmVWVzhrdHRTWHRMQ3ZqWVFLV2wxTi1PZUZTSDVLRFFsSVpyOHB4MFE1QzlaTzJlMExJeTREellrRFkwVDFWclRU?oc=5",
         "date": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "source": "NTVSpor",
+        "source": "Transfermarkt",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -327,11 +327,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK'dan peş peşe imzalar - Kadroya beş yeni isim katıldı",
-        "summary": "Çorum FK'dan peş peşe imzalar - Kadroya beş yeni isim katıldı Transfermarkt",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM3hKLTdpbFZJVmNlU0hFWV9fR2RnOWxOM1BWRzZ6M1liRnRyVEt0cDZYOHFBcUJ1am5yVGxrMVctVnNCSWlwLTdLdnFXaXBJcXZaR1BqS3ZYUm1hb3p3T3R3LVdiVnVFZVZhTmVWVzhrdHRTWHRMQ3ZqWVFLV2wxTi1PZUZTSDVLRFFsSVpyOHB4MFE1QzlaTzJlMExJeTREellrRFkwVDFWclRU?oc=5",
+        "title": "Çorum FK'den Aubameyang transferi için açıklama",
+        "summary": "Çorum FK'den Aubameyang transferi için açıklama NTVSpor",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb3kzd1RFX0phekJ2QTNGYUhBNU52SmdrM3ZVcDB3QWU0bE5icVlvTFNKLXBUQVQtX24xUzh5U3JiX1JYakViMHRLMTF1TE9qamZKSUswY2l6QmZNTnRDcUFTMkxSaG5iZG85ajRmSjB3ZnYtQ2VPNlJHWDRzTjQ2N0piQlc2a0g2ekdkRTdfeEt1ZGfSAZgBQVVfeXFMTWdJaldJT25iVUgzc0U2QzlsWEFBeUVmQXpUdTVPWTM3ZlB6bk02SGdfRHcwR252S3lLaDl4NGYwUmJIamRkbUJSS014T3RZTXF3M1p4TWl2WFY1RVp3YVdlN0V0R1lGOGVBeVhMcmhCOW1raWtPQTVQcG1PR2FWVE5OUjNGdVNNUEtHQWdoMDFaZy16a3g1UXQ?oc=5",
         "date": "Thu, 09 Jul 2026 07:00:00 GMT",
-        "source": "Transfermarkt",
+        "source": "NTVSpor",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -366,17 +366,17 @@
     "milli": [],
     "superlig": [
       {
-        "title": "Başak İçinözbebek, Trabzonspor'a imza attı!",
-        "summary": "Kadınlar Futbol Süper Ligi ekiplerinden Trabzonspor, Başak İçinözbebek'i transfer etti.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/basak-icinozbebek-trabzonspora-imza-atti",
-        "date": "Sun, 19 Jul 2026 17:26:40 +0300",
-        "source": "Sabah Spor",
+        "title": "Trabzonspor'da Oulai Fiorentina'ya transfer oldu!",
+        "summary": "Süper Lig devlerinden Trabzonspor'da flaş gelişmeler yaşanıyor. Bordo-mavililerde son olarak yıldız isim Christ Inao Oulai, resmen Fiorentina'ya transfer oldu. Konuyla ilgili olarak Trabzonspor'dan resmi...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/trabzonspor/2026/07/19/trabzonsporda-oulai-fiorentinaya-transfer-oldu",
+        "date": "Sun, 19 Jul 2026 22:05:00 +0300",
+        "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/cc0fb9/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/basak-icinozbebek-trabzonspora-imza-atti-1784471194069.jpg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/d3e03b/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/07/19/trabzonsporda-oulai-fiorentinaya-transfer-oldu-1784488468806.jpeg",
         "category": "superlig",
-        "image": "https://iasbh.tmgrup.com.tr/cc0fb9/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/basak-icinozbebek-trabzonspora-imza-atti-1784471194069.jpg"
+        "image": "https://iaftm.tmgrup.com.tr/d3e03b/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/07/19/trabzonsporda-oulai-fiorentinaya-transfer-oldu-1784488468806.jpeg"
       },
       {
         "title": "Ahmed Kutucu Çaykur Rizespor'a transfer oldu!",
@@ -390,60 +390,60 @@
         "feedImage": "https://iaftm.tmgrup.com.tr/7e266a/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/07/19/ahmed-kutucu-caykur-rizespora-transfer-oldu-1784467850981.jpeg",
         "category": "superlig",
         "image": "https://iaftm.tmgrup.com.tr/7e266a/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/07/19/ahmed-kutucu-caykur-rizespora-transfer-oldu-1784467850981.jpeg"
-      },
-      {
-        "title": "Beşiktaş'tan Süper Lig ekibine transfer! Tayyip Talha Sanuç'un yeni adresi...",
-        "summary": "Son dakika haberi: Beşiktaş, Tayyip Talha Sanuç'un Trendyol Süper Lig ekibi Çaykur Rizespor'a transfer olduğunu açıkladı. İşte detaylar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/besiktas/2026/07/19/besiktastan-super-lig-ekibine-transfer-tayyip-talha-sanucun-yeni-adresi",
-        "date": "Sun, 19 Jul 2026 15:42:16 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/cdd40f/1200/675/0/0/2048/1152?u=https://iftm.tmgrup.com.tr/2026/07/19/besiktastan-super-lig-ekibine-transfer-tayyip-talha-sanucun-yeni-adresi-1784465332077.jpeg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/cdd40f/1200/675/0/0/2048/1152?u=https://iftm.tmgrup.com.tr/2026/07/19/besiktastan-super-lig-ekibine-transfer-tayyip-talha-sanucun-yeni-adresi-1784465332077.jpeg"
       }
     ],
     "transfer": [
       {
-        "title": "Abideen Suliat Olajumoke, Fenerbahçe'de!",
-        "summary": "Fenerbahçe, Abideen Suliat Olajumoke'yi kadrosuna dahil etti.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/abideen-suliat-olajumoke-fenerbahcede",
-        "date": "Sun, 19 Jul 2026 20:20:35 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/2555bb/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/abideen-suliat-olajumoke-fenerbahcede-1784481638526.jpg",
+        "title": "Arsenal, Stones'un bedava transferini ayarladı - Pazartesi günkü dedikodular",
+        "summary": "Arsenal, sakatlanan William Saliba'nın yerine John Stones'u geçirmeyi değerlendiriyor, Chelsea, Maxence Lacroix ve daha fazlası için resmi görüşmelerde bulunuyor.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 19 Jul 2026 20:48:37 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
         "category": "transfer",
-        "image": "https://iasbh.tmgrup.com.tr/2555bb/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/abideen-suliat-olajumoke-fenerbahcede-1784481638526.jpg"
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46e0/live/2b798d50-8398-11f1-811e-034316fe6edf.png"
       },
       {
-        "title": "Blerta Smaili, Trabzonspor'a transfer oldu!",
-        "summary": "Trabzonspor, Blerta Smaili'yi kadrosuna dahil ettiğini açıkladı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/blerta-smaili-trabzonspora-transfer-oldu",
-        "date": "Sun, 19 Jul 2026 19:33:31 +0300",
+        "title": "Samsunspor'dan Rick van Drongelen'e veda mesajı!",
+        "summary": "Samsunspor, Panathinaikos'a transfer olan Rick van Drongelen için bir veda paylaşımında bulundu.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/samsunspordan-rick-van-drongelene-veda-mesaji",
+        "date": "Sun, 19 Jul 2026 23:33:26 +0300",
         "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/16f46b/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/blerta-smaili-trabzonspora-transfer-oldu-1784478810101.jpg",
+        "feedImage": "https://iasbh.tmgrup.com.tr/072512/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/samsunspordan-rick-van-drongelene-veda-mesaji-1784493204063.jpg",
         "category": "transfer",
-        "image": "https://iasbh.tmgrup.com.tr/16f46b/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/blerta-smaili-trabzonspora-transfer-oldu-1784478810101.jpg"
+        "image": "https://iasbh.tmgrup.com.tr/072512/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/samsunspordan-rick-van-drongelene-veda-mesaji-1784493204063.jpg"
       },
       {
-        "title": "Rizespor, Galatasaray'dan Ahmed Kutucu'yu transfer etti!",
-        "summary": "Rizespor, Galatasaray forması giyen Ahmed Kutucu'yu kiralık olarak kadrosuna dahil etti.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/rizespor-galatasaraydan-ahmed-kutucuyu-transfer-etti",
-        "date": "Sun, 19 Jul 2026 19:00:25 +0300",
+        "title": "Christ Inao Oulai, rekor bonservisle Fiorentina'da!",
+        "summary": "Trabzonspor, Fildişili oyuncu Christ Inao Oulai’nin İtalyan ekibi Fiorentina'ya transfer olduğunu açıkladı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/christ-inao-oulai-rekor-bonservisle-fiorentinada-43245131",
+        "date": "Sun, 19 Jul 2026 19:09:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5d2363170337128070104f.jpg",
+        "category": "transfer",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5d2363170337128070104f.jpg"
+      },
+      {
+        "title": "Trabzonspor açıkladı! Oulai rekor bedelle ayrıldı",
+        "summary": "Trabzonspor, Christ Oulai’nin transferi konusunda Fiorentina ile anlaşma sağlandığını açıkladı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/son-dakika-trabzonspor-acikladi-oulai-rekor-bedelle-ayrildi",
+        "date": "Sun, 19 Jul 2026 22:03:38 +0300",
         "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/489fae/1200/675/0/0/2048/1152?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/rizespor-galatasaraydan-ahmed-kutucuyu-transfer-etti-1784476822402.jfif",
+        "feedImage": "https://iasbh.tmgrup.com.tr/af322d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/son-dakika-trabzonspor-acikladi-oulai-rekor-bedelle-ayrildi-1784487822811.jpeg",
         "category": "transfer",
-        "image": "https://iasbh.tmgrup.com.tr/489fae/1200/675/0/0/2048/1152?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/rizespor-galatasaraydan-ahmed-kutucuyu-transfer-etti-1784476822402.jfif"
+        "image": "https://iasbh.tmgrup.com.tr/af322d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/son-dakika-trabzonspor-acikladi-oulai-rekor-bedelle-ayrildi-1784487822811.jpeg"
       },
       {
         "title": "Galatasaray'da şaşırtan ayrılık yolda! Transferiyle büyük ses getirmişti",
@@ -511,32 +511,6 @@
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cc30fbc416976d1ca23fa.jpg"
       },
       {
-        "title": "Trabzonspor’da 3 futbolcu için ayrılık planı!",
-        "summary": "Trabzonspor'da transfer çalışmalarının yanı sıra kadrodan ayrılacak isimler için de yoğun mesai harcanıyor.",
-        "link": "https://www.hurriyet.com.tr/sporarena/trabzonsporda-3-futbolcu-icin-ayrilik-plani-43244763",
-        "date": "Sun, 19 Jul 2026 11:24:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cb2e01703371280700e62.jpg",
-        "category": "transfer",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cb2e01703371280700e62.jpg"
-      },
-      {
-        "title": "Galatasaray'la anılıyordu, Jhon Duran imzayı attı! İşte yeni takımı ve anlaşma şartları",
-        "summary": "Geçtiğimiz sezonun ilk yarısını Fenerbahçe'de kiralık olarak geçiren ve ismi Icardi ayrılığı sonrasında Galatasaray'la anılan Al-Nassr'ın Kolombiyalı santrforu Jhon Duran, Portekiz devi Benfica ile sözleşme imzaladı. İşte detaylar...",
-        "link": "https://www.hurriyet.com.tr/sporarena/galatasarayla-aniliyordu-jhon-duran-imzayi-atti-iste-yeni-takimi-ve-anlasma-sartlari-43244772",
-        "date": "Sun, 19 Jul 2026 10:51:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cac38bc416976d1ca23c4.jpg",
-        "category": "transfer",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cac38bc416976d1ca23c4.jpg"
-      },
-      {
         "title": "Fenerbahçe'ye 18'lik orta saha! Transferi canlı yayında açıkladı",
         "summary": "Yeni sezon kadro planlamalarını sürdüren Fenerbahçe'nin gündemine sürpriz bir isim geldi. A Spor yorumcusu Cem Kerpiççiler'in aktardığı bilgilere göre sarı-lacivertli ekip, Kızılyıldız'da forma giyen 18...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/video-haber/videoizle/fenerbahceye-18lik-orta-saha-transferi-canli-yayinda-acikladi",
@@ -561,180 +535,193 @@
         "feedImage": "https://iaftm.tmgrup.com.tr/c5c8f3/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/07/19/fenerbahce-guirassy-transferini-bitiriyor-imza-an-meselesi-1784450409793.jpeg",
         "category": "transfer",
         "image": "https://iaftm.tmgrup.com.tr/c5c8f3/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/07/19/fenerbahce-guirassy-transferini-bitiriyor-imza-an-meselesi-1784450409793.jpeg"
+      },
+      {
+        "title": "TRANSFER HABERİ - Galatasaray'dan forvete sürpriz 2 aday!",
+        "summary": "Galatasaray'da Mauro Icardi'nin ayrılığı sonrası transfer çalışmaları hız kazandı. Forvet hattını güçlendirmek için harekete geçen sarı-kırmızılıların, gündemindeki iki sürpriz isimden birini kısa süre...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/07/19/transfer-haberi-galatasaraydan-forvete-surpriz-2-aday",
+        "date": "Sun, 19 Jul 2026 11:13:34 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/fc8965/1200/675/0/0/943/530?u=https://iftm.tmgrup.com.tr/2026/07/19/transfer-haberi-galatasaraydan-forvete-surpriz-2-aday-1784448738347.jpg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/fc8965/1200/675/0/0/943/530?u=https://iftm.tmgrup.com.tr/2026/07/19/transfer-haberi-galatasaraydan-forvete-surpriz-2-aday-1784448738347.jpg"
       }
     ],
     "worldcup": [
       {
-        "title": "CANLI | 2026 Dünya Kupası’nda İspanya – Arjantin final maçı! Ne zaman, saat kaçta, hangi kanalda?",
-        "summary": "2026 Dünya Kupası’nın finalinde İspanya ile Arjantin karşı karşıya geliyor. Maçın canlı anlatımı ve detaylarını haberimizden takip edebilirsiniz.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/canli-2026-dunya-kupasinda-ispanya-arjantin-final-maci-ne-zaman-saat-kacta-hangi-kanalda",
-        "date": "Sun, 19 Jul 2026 20:00:39 +0300",
+        "title": "İspanya, Arjantin'i uzatmaların ardından 1-0 yenerek 2026 Dünya Kupası'nı canlı olarak kazandı.",
+        "summary": "Ferran Torres'in uzatma golü, İspanya'ya olumsuz bir Arjantin karşısında hak ettiği bir zafer kazandırdı. Ayrıca gelişmeleri, New York'ta işlerin iyiye gittiğine dair fotoğrafik kanıtlar içeren haber blogumuzdan da takip edebilirsiniz. David Wall, \"Birleşik Krallık'ta yaşayan bizler için en büyük sorulardan biri, finali nasıl izleyeceğimizdir\" diye yazıyor. \"ITV'nin New York stüdyosu ve iki mükemmel uzmandan biri ile yaptığı yayınlar hakkında yapılan her şeye rağmen, bence onların yayınları her zamanki gibi bölümlerin toplamından daha azdı. Stadyumlarda yorumculardan başka kimse yoktu, bu yüzden stüdyonun gösterdiği tek şey New York'ta havanın bazen oldukça rüzgarlı olduğuydu. Okumaya devam edin...",
+        "link": "https://www.theguardian.com/football/live/2026/jul/19/spain-v-argentina-world-cup-2026-final-live-updates",
+        "date": "Sun, 19 Jul 2026 23:44:37 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/ddab96d52abd17409dafbf1b192ebb9dacd0cd78/711_0_4698_3760/master/4698.jpg?width=140&quality=85&auto=format&fit=max&s=5705c4cc4228a15ae516e7cb75a059fb",
+        "category": "worldcup",
+        "image": "https://i.guim.co.uk/img/media/ddab96d52abd17409dafbf1b192ebb9dacd0cd78/711_0_4698_3760/master/4698.jpg?width=140&quality=85&auto=format&fit=max&s=5705c4cc4228a15ae516e7cb75a059fb"
+      },
+      {
+        "title": "Football Daily: İspanya Dünya Kupası'nı kazandı",
+        "summary": "İspanya, New Jersey'de uzatmaların ardından Arjantin'i 1-0 mağlup etti.",
+        "link": "https://www.bbc.co.uk/sounds/play/p0nzr634?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 19 Jul 2026 23:39:00 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://ichef.bbci.co.uk/images/ic/1024x576/p0nw823n.jpg"
+      },
+      {
+        "title": "Lionel Scaloni: 'İspanya daha iyiydi!'",
+        "summary": "Arjantin Teknik Direktörü Lionel Scaloni, İspanya'ya kaybettikleri Dünya Kupası finalinin ardından açıklamalarda bulundu.",
+        "link": "https://www.hurriyet.com.tr/sporarena/lionel-scaloni-ispanya-daha-iyiydi-43245233",
+        "date": "Sun, 19 Jul 2026 23:31:58 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5d5e2417033712807011bd.jpg",
+        "category": "worldcup",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5d5e2417033712807011bd.jpg"
+      },
+      {
+        "title": "Nico Williams: İnanılmaz ve çılgınca bir başarı!",
+        "summary": "2026 Dünya Kupası’nı kazanan İspanya’da Nico Williams açıklamalarda bulundu.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/nico-williams-inanilmaz-ve-cilginca-bir-basari",
+        "date": "Mon, 20 Jul 2026 02:21:35 +0300",
         "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/cfd271/1200/675/0/3/800/453?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/canli-2026-dunya-kupasinda-ispanya-arjantin-final-maci-ne-zaman-saat-kacta-hangi-kanalda-1784480403079.jpeg",
+        "feedImage": "https://iasbh.tmgrup.com.tr/7399f4/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/nico-williams-inanilmaz-ve-cilginca-bir-basari-1784503274320.jpeg",
         "category": "worldcup",
-        "image": "https://iasbh.tmgrup.com.tr/cfd271/1200/675/0/3/800/453?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/canli-2026-dunya-kupasinda-ispanya-arjantin-final-maci-ne-zaman-saat-kacta-hangi-kanalda-1784480403079.jpeg"
+        "image": "https://iasbh.tmgrup.com.tr/7399f4/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/nico-williams-inanilmaz-ve-cilginca-bir-basari-1784503274320.jpeg"
       },
       {
-        "title": "Dünya Kupası Premier Lig takımınızı nasıl etkiledi?",
-        "summary": "Kupa Pazar gecesi New Jersey'de İspanya ya da Arjantin tarafından kaldırıldığında, dikkatler 2026 Dünya Kupası'ndan önümüzdeki yerel sezona kayacak.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c3ek99pz1wgo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 19 Jul 2026 13:29:34 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/70f6/live/498fd010-8375-11f1-b976-0b9c15b0ccfc.png"
-      },
-      {
-        "title": "Futbol Günlük | Vozinha, Spence ve 2026 Dünya Kupası'nın kült kahramanları için pes edin",
-        "summary": "Şimdi kaydolun! Şimdi kaydolun! Şimdi kaydolmak ister misiniz? Şimdi kaydolun! Her Dünya Kupası, arkamıza yaslanıp buğulu bakışlarla anılara başlamamızı mümkün kılan kült kahramanlar, ikonlar üretir: \"Roger Milla/Saeed Al-Owairan/Keisuke Honda/Ahtapot Paul'u hatırlıyor musun?\" Jeopolitik Dünya Kupası bizi hayal kırıklığına uğratmadı! İşte bu turnuvadan çıkan 10 kült kahraman. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jul/19/football-daily-email-gwc-cult-heroes",
-        "date": "Sun, 19 Jul 2026 13:19:30 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/d2e8fa80951fe0472f22e4aa73783407cf0fb46c/361_0_4270_3415/master/4270.jpg?width=140&quality=85&auto=format&fit=max&s=5acdb31180ff933df0cb962f1a3b22d6",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/d2e8fa80951fe0472f22e4aa73783407cf0fb46c/361_0_4270_3415/master/4270.jpg?width=140&quality=85&auto=format&fit=max&s=5acdb31180ff933df0cb962f1a3b22d6"
-      },
-      {
-        "title": "Dünya Kupası sınavı: Kazananların isimlerini söyleyebilir misiniz?",
-        "summary": "Pazar günü gerçekleşecek Dünya Kupası finaliyle, önceki kazananlarla ilgili bilginizi sınayın.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c2k2zxdl5edo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 19 Jul 2026 13:00:51 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2739/live/b2873190-6821-11f1-8546-8f19e4fe30f4.png"
-      },
-      {
-        "title": "İngiltere 60 yıl sonra Dünya Kupası'nda madalya aldı",
-        "summary": "2026 FIFA Dünya Kupası'nda Fransa'yı 6-4 mağlup eden İngiltere, turnuvada ilk kez üçüncü olurken, 60 yıl sonra da Dünya Kupası'nda madalya kazanma sevincini yaşadı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/ingiltere-60-yil-sonra-dunya-kupasinda-madalya-aldi-43244862",
-        "date": "Sun, 19 Jul 2026 12:11:43 Z",
-        "source": "Hürriyet",
+        "title": "Rodri: Bu takım gerçekten muhteşem!",
+        "summary": "İspanyol yıldız Rodri, Dünya Kupası şampiyonluğu sonrası konuştu.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/rodri-bu-takim-gercekten-muhtesem",
+        "date": "Mon, 20 Jul 2026 02:17:40 +0300",
+        "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cbef91703371280700e83.jpg",
+        "feedImage": "https://iasbh.tmgrup.com.tr/19dfc9/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/rodri-bu-takim-gercekten-muhtesem-1784503032907.jpeg",
         "category": "worldcup",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cbef91703371280700e83.jpg"
+        "image": "https://iasbh.tmgrup.com.tr/19dfc9/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/rodri-bu-takim-gercekten-muhtesem-1784503032907.jpeg"
       },
       {
-        "title": "Dünya Kupası’nda dev finalde favori İspanya.… İsveç Ligi karşılaşmalarından bol gol bekleniyor! İşte Misli’de Günün En Çok Oynanan Maçları",
-        "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
-        "link": "https://www.hurriyet.com.tr/sporarena/dunya-kupasinda-dev-finalde-favori-ispanya-isvec-ligi-karsilasmalarindan-bol-gol-bekleniyor-iste-mislide-gunun-en-cok-oynanan-43244799",
-        "date": "Sun, 19 Jul 2026 11:04:21 Z",
-        "source": "Hürriyet",
+        "title": "Baskın İspanya, uzatmaların ardından Arjantin'i yenerek Dünya Kupası'nı kazandı",
+        "summary": "İspanya, Arjantin'i 1-0 yenerek New York New Jersey Stadı'nda ikinci FIFA Dünya Kupası'nı kazanırken maçın tek golünü Ferran Torres attı.",
+        "link": "https://www.bbc.co.uk/sport/football/videos/clyvgx9e00do?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 19 Jul 2026 23:17:00 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/bf5c/live/8be3bcb0-83c5-11f1-926f-c90d1bcfbc84.jpg"
+      },
+      {
+        "title": "Ferran Torres: Kaderin önceden yazıldığına inanıyorum!",
+        "summary": "2026 Dünya Kupası’nı kazanan İspanya’da Ferran Torres açıklamalarda bulundu.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/ferran-torres-kaderin-onceden-yazildigina-inaniyorum",
+        "date": "Mon, 20 Jul 2026 02:12:57 +0300",
+        "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5caed1bc416976d1ca23e1.jpg",
+        "feedImage": "https://iasbh.tmgrup.com.tr/5dc71f/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/ferran-torres-kaderin-onceden-yazildigina-inaniyorum-1784502754341.jpeg",
         "category": "worldcup",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5caed1bc416976d1ca23e1.jpg"
+        "image": "https://iasbh.tmgrup.com.tr/5dc71f/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/ferran-torres-kaderin-onceden-yazildigina-inaniyorum-1784502754341.jpeg"
       },
       {
-        "title": "İngiltere 2026 Dünya Kupası kadrosu: oyuncu bazında derecelendirmeler",
-        "summary": "Takımın üçüncü sırayı almasının ardından turnuvaya katılan 24 kadroyu değerlendiriyoruz Jordan Pickford Enzo Fernández'in Arjantin adına ekolayzırıyla daha iyisini yapabilir miydi? Jude Bellingham kesinlikle öyle düşünüyordu. Ancak diğer İngilizlerden daha fazla Dünya Kupası finaline çıkan adam, yarı finalde Nicolas González'in harika duruşu da dahil olmak üzere bazı önemli kurtarışlar yaptı. 7 Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings",
-        "date": "Sun, 19 Jul 2026 11:00:28 GMT",
+        "title": "Dünya Kupası şampiyonu İspanya kupasını kaldırdı!",
+        "summary": "2026 Dünya Kupası'nda şampiyon olan İspanya, düzenlenen törenle kupasını aldı. 2026 Dünya Kupası'nda bireysel ödüllerin sahipleri de belli oldu.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/dunya-kupasi-sampiyonu-ispanya-kupasini-kaldirdi",
+        "date": "Mon, 20 Jul 2026 02:08:16 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/ba07ca/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/dunya-kupasi-sampiyonu-ispanya-kupasini-kaldirdi-1784502437945.jpeg",
+        "category": "worldcup",
+        "image": "https://iasbh.tmgrup.com.tr/ba07ca/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/dunya-kupasi-sampiyonu-ispanya-kupasini-kaldirdi-1784502437945.jpeg"
+      },
+      {
+        "title": "Lionel Messi'nin Dünya Kupası masalı, son kötü adamların acınası Arjantin'le bitmesiyle sona eriyor | Pablo Iglesias Maurer",
+        "summary": "Oyunun en büyük oyuncusu, mirasının İspanya'ya yenilmesiyle lekelendiğini görmeyecek ama takımının gösterisi oyunu mahvetti Son kez sporun en büyük sahnesinde oynayan Lionel Messi'nin, bu Dünya Kupası finalinde unutulmaz son bir an yaşatacağından neredeyse emin görünüyordu. Ancak Pazar günü güneş New York New Jersey Stadyumu'nun batı tribününden geçerken, Arjantin'in bu turnuva boyunca taşıdığı büyüyü kaybettiği daha da netleşti. İspanya yavaş yavaş kontrolü ele geçirirken, biri gerçekle yüzleşmek zorunda kaldı: Messi ve Arjantin'in, 1-0'lık bir mağlubiyetle uzun süredir en kötü içgüdülerine boyun eğmiş olmaları nedeniyle nihayet zamanları tükenmişti. Okumaya devam edin...",
+        "link": "https://www.theguardian.com/football/2026/jul/20/lionel-messis-world-cup-fairytale-ends-with-pitiful-argentina-as-final-villains",
+        "date": "Sun, 19 Jul 2026 23:06:16 GMT",
         "source": "The Guardian",
         "flag": "🗞️",
         "lang": "en",
         "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/b8fda3c0f44c2f62786688b924735e99f3569a03/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=563b0eb0cd227075238fa345fbbff25b",
+        "feedImage": "https://i.guim.co.uk/img/media/9906000d595ac4ef008656ccf12b0118d739b3e9/0_0_5457_4366/master/5457.jpg?width=140&quality=85&auto=format&fit=max&s=0b0c986dbe3d1248b7705f5ee307b790",
         "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/b8fda3c0f44c2f62786688b924735e99f3569a03/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=563b0eb0cd227075238fa345fbbff25b"
+        "image": "https://i.guim.co.uk/img/media/9906000d595ac4ef008656ccf12b0118d739b3e9/0_0_5457_4366/master/5457.jpg?width=140&quality=85&auto=format&fit=max&s=0b0c986dbe3d1248b7705f5ee307b790"
       },
       {
-        "title": "'Efsane' mi yoksa 'pişmanlık' mı? Lamine Yamal'ın Dünya Kupası'nı belirleyecek final",
-        "summary": "Lamine Yamal parlak bir Dünya Kupası geçirmemiş olabilir ancak İspanya'nın Pazar günkü Dünya Kupası finalinde kazanacağı zafer çok farklı bir hikaye yazabilirdi.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cdx8r45w2gzo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 19 Jul 2026 10:11:29 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d02b/live/eb58a230-82d7-11f1-a7b7-31e12e116164.jpg"
-      },
-      {
-        "title": "'Hiçbir şeyden korkmuyorum': Arjantinli oyuncular finale ulaşmak için çocukluklarından aldıkları ilhamdan nasıl yararlandılar?",
-        "summary": "Lionel Scaloni, vahşi ve asi savaşçılarla dolu bir kadroya sahip olduğunu ancak sahada sekiz veya dokuz yaşındaki çocukları anımsatan bir özgürlükle oynadıklarını söylüyor. Arjantin'in Dünya Kupası finalindeki yerini garantileyen golü attıktan sonra Lautaro Martínez, taç çizgisi röportajı sırasında sarsıcı hıçkırıklara boğuldu. Babasının ona aldığı ilk spor ayakkabıdan ve gençliğinde başka bir şehirdeki kulüp pansiyonuna taşındığında annesinin yatağını nasıl toplamaya devam ettiğinden bahsetti. Her gün. Martínez bunun kendisi için herhangi bir gol ve kupadan daha önemli olduğunu söyledi. Arjantin başantrenörü Lionel Scaloni, İngiltere'nin golünden sonra biraz endişeli olduğunu ancak oyuncularına inanmaktan asla vazgeçmediğini söyledi. \"Hiçbir şeyden korkmadıkları, yaptıkları işte her zaman en iyi oldukları ortamlarda büyüdüler\" dedi. \"Küçük çocuklar olarak yarıştılar ve herkes onlardan çok şey bekliyordu; sorumluluk onlara yük olmuyor.\" Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jul/19/afraid-of-nothing-argentina-players-childhood-world-cup-final",
-        "date": "Sun, 19 Jul 2026 10:04:33 GMT",
+        "title": "Süperstarlar Dünya Kupası'nda bir takım kupayı evine götürüyor | Sid Lowe",
+        "summary": "Avrupa şampiyonu turnuvada sadece bir gol yedi ve onların başarısı bir sistem için zaferdir. Baskıyı bırakın, serbest bırakın. Hepsi ve hepsi. Tekrar tekrar gelmişler, tekrar tekrar durdurulmuşlardı ama reddedilmeyeceklerdi. Bir düzine farklı oyuncu Emi Martínez'in kalesine nişan almıştı ama o hâlâ ayaktaydı ve zaman akıp gidiyordu ama İspanya bunu yapmayı reddetti, bu yüzden biraz daha geldiler. Ve sonra, birdenbire, bu pek ani olmadı; sonuç, en saf mantık, en net adalet yerine, Pedro Porro'nun derin çaprazı Nico Williams'ı uzak direkte buldu ve geriye doğru yöneldi. Top Arjantin ceza sahasının derinliklerine düştü, çimlerin üzerinde sekti ve orada öylece kaldı: bekliyordu, birinin bu anı değerlendirmesini istiyordu. Okumaya devam edin...",
+        "link": "https://www.theguardian.com/football/2026/jul/20/world-cup-2026-final-spain-argentina",
+        "date": "Sun, 19 Jul 2026 23:05:28 GMT",
         "source": "The Guardian",
         "flag": "🗞️",
         "lang": "en",
         "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/bf8d4dfa930496a798428310cb5b9caa30972e46/443_0_4793_3835/master/4793.jpg?width=140&quality=85&auto=format&fit=max&s=aba750ae2835523d5c1f418ea72c9a24",
+        "feedImage": "https://i.guim.co.uk/img/media/23f32db8ae100cbbf28347fd8a86078e3f9aefbc/389_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=c22ef5522798ef7b03e431d953c4b7b0",
         "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/bf8d4dfa930496a798428310cb5b9caa30972e46/443_0_4793_3835/master/4793.jpg?width=140&quality=85&auto=format&fit=max&s=aba750ae2835523d5c1f418ea72c9a24"
+        "image": "https://i.guim.co.uk/img/media/23f32db8ae100cbbf28347fd8a86078e3f9aefbc/389_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=c22ef5522798ef7b03e431d953c4b7b0"
       },
       {
-        "title": "Ben bir Dünya Kupası görevlisiydim; size söz veriyorum adam kayırma yok",
-        "summary": "Darren Cann, BBC Sport'a Dünya Kupası etrafındaki komplo teorileri ve hakemlerin gerçekte ne düşündüğü hakkında konuşuyor.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cm2g9g3v5gmo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 19 Jul 2026 09:55:59 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
+        "title": "İletişim Başkanı Burhanettin Duran'dan İspanya'ya tebrik!",
+        "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Dünya Kupası'nı kazanan İspanya'yı kutladı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/iletisim-baskani-burhanettin-durandan-ispanyaya-tebrik",
+        "date": "Mon, 20 Jul 2026 02:04:47 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/7ce48a/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/iletisim-baskani-burhanettin-durandan-ispanyaya-tebrik-1784502289031.jpeg",
         "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/67f2/live/5d580210-82e0-11f1-ae6b-3189bc758570.jpg"
+        "image": "https://iasbh.tmgrup.com.tr/7ce48a/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/iletisim-baskani-burhanettin-durandan-ispanyaya-tebrik-1784502289031.jpeg"
       },
       {
-        "title": "Messi tarihin eşiğinde; bu onun Dünya Kupası'ndaki son maçı mı olacak?",
-        "summary": "Arjantin kaptanı Lionel Messi, Pazar günkü finalde 34. Dünya Kupası maçına çıkacak, ancak bu onun son maçı mı olacak?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 19 Jul 2026 09:55:22 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
+        "title": "AK Parti Sözcüsü Ömer Çelik'ten İspanya'ya tebrik!",
+        "summary": "AK Parti Sözcüsü Ömer Çelik, 2026 Dünya Kupası'nı kazanan İspanya'yı kutladı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/ak-parti-sozcusu-omer-celikten-ispanyaya-tebrik",
+        "date": "Mon, 20 Jul 2026 02:03:29 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/a34d43/1200/675/0/24/800/474?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/ak-parti-sozcusu-omer-celikten-ispanyaya-tebrik-1784502207156.jpeg",
         "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b38e/live/91662510-7af6-11f1-94d8-c95634a95d3e.jpg"
-      },
-      {
-        "title": "Dünya Kupası finalinde İspanya - Arjantin: hakem, istatistikler ve kehanetler",
-        "summary": "Fifa sıralamasında ilk iki sıradaki takım Pazar günü New Jersey'de karşılaşmaya hazırlanırken, Slavko Vincic'in Dünya Kupası finalinde hakemlik yapan ilk Sloven oyuncu olacağına karar vermemize yardımcı olabilecek ipuçlarına bakıyoruz. Wembley'deki 2024 Şampiyonlar Ligi finalini (Real Madrid Borussia Dortmund'u 2-0 yendi) ve 2024 Euro yarı finalinde İspanya'nın Fransa'yı 2-1 yenmesini yönetti. 46 yaşındaki futbolcunun ilk Dünya Kupası maçı, Arjantin'in 2022'deki ilk yenilgisiydi. Bu turnuvada Vincic, Meksika'ya karşı 95. dakikada Ekvadorlu Piero Hincapié'ye ağzını kapattığı için kırmızı kart göstermişti. Maç başına ortalama 2,33 sarı kart gördü. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jul/19/spain-v-argentina-world-cup-final-referee-stats-omens",
-        "date": "Sun, 19 Jul 2026 07:00:21 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/c608e7137d831fb6fdc24ce2c6c9909ffa39652a/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d845c4590c3ca2e754213ba3adfb8859",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/c608e7137d831fb6fdc24ce2c6c9909ffa39652a/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=d845c4590c3ca2e754213ba3adfb8859"
+        "image": "https://iasbh.tmgrup.com.tr/a34d43/1200/675/0/24/800/474?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/ak-parti-sozcusu-omer-celikten-ispanyaya-tebrik-1784502207156.jpeg"
       }
     ],
     "magazine": [],
     "general": [
       {
-        "title": "Pendikspor, Kayserispor'u mağlup etti!",
-        "summary": "Pendikspor, özel maçta Kayserispor karşısında sahadan 2-1 galip ayrıldı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/pendikspor-kayserisporu-maglup-etti",
-        "date": "Sun, 19 Jul 2026 20:26:20 +0300",
-        "source": "Sabah Spor",
+        "title": "Luis de la Fuente: ''Bu nesil, İspanya'nın gururu!'",
+        "summary": "İspanya Teknik Direktörü Luis de la Fuente, dünya şampiyonu oldukları finalin ardından konuştu.",
+        "link": "https://www.hurriyet.com.tr/sporarena/luis-de-la-fuente-bu-nesil-ispanyanin-gururu-43245221",
+        "date": "Sun, 19 Jul 2026 23:05:52 Z",
+        "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/46ed73/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/pendikspor-kayserisporu-maglup-etti-1784481972363.jpg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5d580d1703371280701176.jpg",
         "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/46ed73/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/pendikspor-kayserisporu-maglup-etti-1784481972363.jpg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5d580d1703371280701176.jpg"
       },
       {
         "title": "Fenerbahçe'de Gornik Zabrze maçı hazırlıkları devam etti!",
@@ -789,19 +776,6 @@
         "image": "https://iaftm.tmgrup.com.tr/f1ee26/1200/675/0/213/2048/1365?u=https://iftm.tmgrup.com.tr/2026/07/19/fenerbahceden-5-oyuncunun-saglik-durumuna-iliskin-aciklama-1784480359707.jpg"
       },
       {
-        "title": "Fenerbahçe’den sakatlıklara dair açıklama! 5 oyuncunun durumu",
-        "summary": "Fenerbahçe, takımda sakatlığı bulunan 5 oyuncuyla ilgili bir açıklama yaptı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/19/fenerbahceden-sakatliklara-dair-aciklama-5-oyuncunun-durumu",
-        "date": "Sun, 19 Jul 2026 19:52:57 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/c81d2d/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/fenerbahceden-sakatliklara-dair-aciklama-5-oyuncunun-durumu-1784479971774.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/c81d2d/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/19/fenerbahceden-sakatliklara-dair-aciklama-5-oyuncunun-durumu-1784479971774.jpeg"
-      },
-      {
         "title": "Çaykur Rizespor, Galatasaray'dan Ahmed Kutucu'yu kiraladı!",
         "summary": "Çaykur Rizespor, Galatasaray’dan Ahmed Kutucu'yu sezon sonuna kadar kiraladı.",
         "link": "https://www.hurriyet.com.tr/sporarena/caykur-rizespor-galatasaraydan-ahmed-kutucuyu-kiraladi-43245042",
@@ -813,19 +787,6 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cf9ee1703371280700fc9.jpg",
         "category": "general",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cf9ee1703371280700fc9.jpg"
-      },
-      {
-        "title": "Beşiktaş, Midtjylland maçı hazırlıklarını sürdürdü",
-        "summary": "Beşiktaş, UEFA Avrupa Ligi 2'nci Ön Eleme Turu'nda FC Midtjylland ile oynayacağı maçın hazırlıklarına devam etti.",
-        "link": "https://www.hurriyet.com.tr/sporarena/besiktas-midtjylland-maci-hazirliklarini-surdurdu-43244839",
-        "date": "Sun, 19 Jul 2026 11:48:39 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cb98f1703371280700e75.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5cb98f1703371280700e75.jpg"
       }
     ]
   },
@@ -1383,7 +1344,8 @@
       }
     ],
     "matches": {
-      "upcoming": [
+      "upcoming": [],
+      "past": [
         {
           "id": 537390,
           "homeId": 760,
@@ -1393,15 +1355,15 @@
           "homeCrest": "https://crests.football-data.org/760.svg",
           "awayCrest": "https://crests.football-data.org/762.png",
           "date": "2026-07-19T19:00:00Z",
-          "status": "TIMED",
-          "timeframe": "upcoming",
-          "score": null,
-          "halfTime": null,
-          "fullHome": null,
-          "fullAway": null,
-          "halfHome": null,
-          "halfAway": null,
-          "winner": null,
+          "status": "FINISHED",
+          "timeframe": "past",
+          "score": "1-0",
+          "halfTime": "0-0",
+          "fullHome": 1,
+          "fullAway": 0,
+          "halfHome": 0,
+          "halfAway": 0,
+          "winner": "HOME_TEAM",
           "venue": null,
           "referee": "Slavko Vinčič",
           "stage": "FINAL",
@@ -1414,20 +1376,8 @@
           "awayForm": null,
           "homeGoalAvg": null,
           "awayGoalAvg": null,
-          "headToHead": null,
-          "analysis": {
-            "winProbability": {
-              "home": 39,
-              "draw": 25,
-              "away": 36
-            },
-            "favorite": "home",
-            "text": "Spain ile Argentina arasında dengeli bir mücadele bekleniyor; beraberlik ihtimali %25.",
-            "basis": "fifa-rank"
-          }
-        }
-      ],
-      "past": [
+          "headToHead": null
+        },
         {
           "id": 537389,
           "homeId": 773,
