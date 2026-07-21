@@ -1,7 +1,43 @@
 {
-  "updatedAt": "2026-07-20T18:56:54.265Z",
+  "updatedAt": "2026-07-21T00:00:17.273Z",
   "news": {
     "corumsporhaber": [
+      {
+        "title": "Nagalo transferinde flaş gelişme! İbre Konyaspor'a dönebilir",
+        "summary": "Nagalo transferinde flaş gelişme! İbre Konyaspor'a dönebilir Konya'nın Sesi",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRVZfaFZuR3VwNXBiY25rOXBDOVpaU3hRZ21MNGRxcTZndjFlVmg1SUhEbFVOT0xlam1ZaVI2RGJOaWRCeVNvZkFTUUtqU1dJZk1OZWJRSF9PcGVKWFZqeHgzbjFUZnMxMVMtTjR2dGFBMFhXNXMzTTJIcThJUWVmbThZRjNlQVlmVGVXNXZkVlVOandPOVczUHVRQVI0X0s5?oc=5",
+        "date": "Mon, 20 Jul 2026 19:32:21 GMT",
+        "source": "Konya'nın Sesi",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Arca Çorum FK'nın ikinci etap kampı başladı",
+        "summary": "Arca Çorum FK'nın ikinci etap kampı başladı Yayla Haber",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5McGVFWVg4bklYbmdNSkJSS3VHYWdCZUVrN3NXVHJpcnhhRmp2UUVmcm5WUk9saEY4TGRCUE5OS2p1UGlTMU93NkpuZnE0MlZCMHNReWZuUlVCdmNUYUdOVk1LYmhDZ2NDc3hDMnhfb1VHb0RtNnhRN0VEN1_SAYIBQVVfeXFMTXpnX0ZQVUhlaEU0cDZjNDVTR0NQU1V1RnZKdzJYMzZZUU1KbFEzczRINHZfbkFGWXlPdnhGanlkVlhleGFCemZzbDJqbmpQcm85WjBsSkxTS3ZHNzhDNkRBQ0V5NGlST3VSWUFDWjB4SlE5X1dHVFp1NEZkaG9ra3ctUQ?oc=5",
+        "date": "Mon, 20 Jul 2026 19:10:00 GMT",
+        "source": "Yayla Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Arca Çorum FK’dan Kemal Bolat’a Şampiyonluk Vefası",
+        "summary": "Arca Çorum FK’dan Kemal Bolat’a Şampiyonluk Vefası Yayla Haber",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemg1d0NST0RReDdreUVYY2dtQlJLWlNZdUJ6QmFEV3o3NGtGdDBMWnVvVWpGdXFhWTdONnMtWGZ4b0loZnY0NEx0SzlWY2pEUGNhY28tMDNnd2Z5Y3M1R0pHNlVEQUVPYi0wb25ZSGdEazRXak1YVFFucjFvSHUtS3RZTnLSAYoBQVVfeXFMTVd2eXVCWTAxMUhkZW9FNENncThkMGtyLXlSd0N1d3AtQlNUWjYxamhoeHA0TjRQYTlLU1RIeW1NS1RnOVptRWN2cEpibnIwa0haMnRQSVgyME45U1FRdlUyZm56SXZNTmlxY3NMRWhmLWxoZFIzWXZVY25tdTJlamlwMGR5UlNhR0hR?oc=5",
+        "date": "Mon, 20 Jul 2026 18:52:00 GMT",
+        "source": "Yayla Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
       {
         "title": "Çorum FK'nın şampiyonluk kupası, Kemal Bolat'ın kabrinde anıldı",
         "summary": "Çorum FK'nın şampiyonluk kupası, Kemal Bolat'ın kabrinde anıldı Saray Medya",
@@ -51,18 +87,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Oğuzhan Yalçın Haber Ankara'ya konuştu",
-        "summary": "Oğuzhan Yalçın Haber Ankara'ya konuştu Çorum Hakimiyet",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EQ1g5QzBQRzNaWmRCMTZ1SGNYX2ZWQnRWQzF2QjZ1cEZhamVGVlhHbXhPa1YtYXhDWklMY2tFa3RTbFVmNW1lOGZJT1E2ZmJrbFAySWpRQ1N4UEM4MGplTkV2bEl5bF9WUnBHSVd4OVptU0hkdWxn0gF8QVVfeXFMTUhpOHl3ajcwOGwxc2otckNiTGpiWlNIYi1GSlNyUURuLTJ2ckJ0aWZ1QUppS1Q2T2dMUWp4RUowYjZnLUtPLWtNUFc1RDhXY2JBVklGMGNLczl2Q3gwbHZvM00tMGxKV0pVMzZPYzJpQ3ZMaXJka29EalVxNA?oc=5",
-        "date": "Mon, 20 Jul 2026 14:59:00 GMT",
-        "source": "Çorum Hakimiyet",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Liste kabarık ama gelen yok!",
         "summary": "Liste kabarık ama gelen yok! Çorum Haber Gazetesi",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NSnRpNGdxY190OXFSck5yNWlBYlN1R1IwOWQ5dHlpX0E4TGYyckcwWFE5TUZnY3ppQVN3WkhRNVkwQ2VDd2FuMlhtV0xQeURhX2dtMmJEOGdXU3JyT0FfUjd4Q3XSAWpBVV95cUxNN3RmQWxVcDdORDVuamZsbE56bjNVSS1qZXRnXzJqUGZGWkdtbEstZlpmYV9Hd2hKNFRhSHd0ZlRRTjR4cnBYZnUwRHBpeWZzZHdqd1hhTEJMZVo1SHdFWUlXOFVQNFZBQXVn?oc=5",
@@ -75,11 +99,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Balçık: “Kemal Bolat Çorum sporunun değeridir”",
-        "summary": "Balçık: “Kemal Bolat Çorum sporunun değeridir” Çorum Haber Gazetesi",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsNlFHWmFWa1lhLVVoRGo5eXUxeldtejdqRHhYZkVCekZKWG9qeHNiYm9jb1RJUWlGVWJzU3pjU0hJUDhGLWxNRU1UWk1QN3hDOVNxSXJvVjE5ZDB6ZjdrWDRRRWx0YV9nZWpOV29kdDJsMkpYOHduVnhR0gF_QVVfeXFMTUlsbjFZSEZVM1FjbHNLekt5am1ZTzFQS1JEWEsyZVA2TVN0TDI0NDExMTFGdDE5dVUtWDB3WFk3bjVwdlRvd2JrNnZrdE9oM3U1QS1oRXQ0ejNVZ05oWmpHcFhWdVpvc3B4X0hIRFl0RkF6NWtQQk5XODZTd1Nlbw?oc=5",
-        "date": "Mon, 20 Jul 2026 12:50:00 GMT",
-        "source": "Çorum Haber Gazetesi",
+        "title": "Trabzonspor Çorum FK'dan 30 milyon Euro istedi",
+        "summary": "Trabzonspor Çorum FK'dan 30 milyon Euro istedi Çorum Hakimiyet",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMDFGbFcycWpGcFVkRXVqaTU2S0Rrc01nTEVfb3p5R1VSdlVCZzNEOERMR0dQOFU5SEVWcXAwVjBJdDNtRGV2UlBxWldIWlU5cDdlNWQwYVFuNl9uYWhxUEREQ3ktc3N3T0dZc2tqQnVSbjVBa045QVpFeWRRVkQ0aW130gGHAUFVX3lxTE5aZkdvMUhKU0U0VFVDLWRTYUx5ZWNxbEFpd2dYRENtbDcwcDlyVkx1bE5PeWw1V09Jdmc1c2w1bGEzR0RTN1FsLUxOSzhFb2VuZ3M5OVdjZWowRVpidVVfSEtvd2tIQ0NZOVRBZmVTSkl6Sy16a1pzVlhTVERVZ0x4YlJ6TFVIYw?oc=5",
+        "date": "Mon, 20 Jul 2026 12:15:00 GMT",
+        "source": "Çorum Hakimiyet",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -207,18 +231,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "7 Milyon Euro Karşılığında 2 Sene Çorum'da Yaşaması Teklif Edilen X Ahalisinden Çorum Şov",
-        "summary": "7 Milyon Euro Karşılığında 2 Sene Çorum'da Yaşaması Teklif Edilen X Ahalisinden Çorum Şov Onedio",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaDQ1S3pwRnRvTllCS3RXU05SVG5pSW1POWJpLUpKZndyM0ZadV84dGtVLVFVMXRWVVhpb3k3WFpYMEdmalJERjNUYUdpaElqamZWUDVGWmowRG9WU1FZTkV6XzZxUlZkaDJPeVJaYkR1VzBGTEdnRHQ1UXZIaGRlQ3RTeEU1VUFiMGtZMEV3YXlqaUtvWFFQMEluc3lBS3h3LTBxV1cya1BnR0pLZXlMYWRBOFpzYmFaRUNseHJGOA?oc=5",
-        "date": "Fri, 17 Jul 2026 11:10:14 GMT",
-        "source": "Onedio",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Çorum FK, yeni sezon hazırlıklarının ilk etabını Düzce'de tamamladı",
         "summary": "Çorum FK, yeni sezon hazırlıklarının ilk etabını Düzce'de tamamladı Sabah",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajU1OGp0T3Mxc2VHRDQ0czBPaVVHNlptOUluZ015b3VtRk5DSFZRZE52MHFwSUdHWkpieWtLUnNwQTV5TDhrcDVSQ250WmFGUWgzeF9IdktZLVF4U2laRFJSZXBLSmhZOVdESUsySEtEdXpOQ2VrcnlUbXhIMU9KcU5DSWcwaVR1VHZ2YVY5RFBqeGNFR2pDa3dEZE1TZGNfc3k4NS0zRFBwa0hROFM3UnZxVdIBtgFBVV95cUxNT0F3VlVDWEhwbDVUS0s0OXI2N3VWYVRscklwV1R0LTdXUmFNMmVCY09QNVRDS0hhbnNaSzM5QzhOU0tfOHJJY0ZpTlVaVVpObzBLeHUxQWVsdllLNVlHUTdvdjJoNVVhSXFEOENVRXY4SThxa2k4bVFRMmJyMkQ2Z3RUZGctb3FNNTRJMGh3aTAyV0d4VFZHNDhDa0dDQThacjUtMmhxTExSeUhHY3o0c3ZBNVhKQQ?oc=5",
@@ -303,18 +315,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK'dan Aubameyang açıklaması!",
-        "summary": "Çorum FK'dan Aubameyang açıklaması! Hürriyet",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0tUZXkzYWUwMzlUTE80NVBHalgxdkVuZUNoTnVOeGppOU9FbEVMakpsQWlJdWZtWGZ0V3M2NU5GT3lYZ3N1WGRnX3QxV3RNcUJJVUxqSmpPY0Y3LTFxc3BremVuSVZhMjRvM2Q3VDJYU3l6aHA2dzVsZUljbjJkeUFjUUFkN0U?oc=5",
-        "date": "Fri, 10 Jul 2026 07:00:00 GMT",
-        "source": "Hürriyet",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Arca Çorum FK Süper Lig için kadro kuruyor",
         "summary": "Arca Çorum FK Süper Lig için kadro kuruyor SonDakika",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUluSjFwR3Jyamp2ZVR1ZlF5NFh3dzVzbWo1MWFlN1ZPNDBBMFlCT2tHU0FDSWZYSlJ6N1VsMzVobVdzZnAxd2FXUGZfbnV2SWwtQXlMM1psUGV1UUNNWlVyR1hzMnNyaU5BYXNQTzI5M0lrZXBGZzZkRlB1NW9Lb0gzNXN1ZzBEaWIzWS03OVpzR1HSAZIBQVVfeXFMTXE0YnhJaXdTbUpPUGNJaHE3VFg5eFgtbFJfcnhyU29BXzFncVpXZVg1aDJYUGI5aGVnY01Bd2E2N3JNS0ZyNzhVaUJHZkxhcE51MWZqbTY1Rkl3Q1djVnpKSU13VWt1djRvR3BTM1FLbEVQMnJJV1JxVHBSRHNxckR3VnhCeFpEdV9zSEVMMzV1Z0E?oc=5",
@@ -391,22 +391,48 @@
         "feedImage": "https://iasbh.tmgrup.com.tr/bc1ec8/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/eyupspor-hazirlik-macinda-mardin-1969u-1-0-yendi-1784572952418.jpeg",
         "category": "superlig",
         "image": "https://iasbh.tmgrup.com.tr/bc1ec8/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/eyupspor-hazirlik-macinda-mardin-1969u-1-0-yendi-1784572952418.jpeg"
-      },
+      }
+    ],
+    "transfer": [
       {
-        "title": "Galatasaray'a Rafael Leao transferinde dev müjde!",
-        "summary": "Süper Lig devlerinden Galatasaray'da flaş gelişmeler yaşanmaya devam ediyor. Cimbom'a son olarak transfer gündeminde yer alan Rafael Leao'dan müjdeli haber geldi. İşte haberin tüm detayları...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2026/07/20/leao-israri",
-        "date": "Sun, 19 Jul 2026 21:14:41 +0300",
+        "title": "Fenerbahçeli yıldıza Chelsea kancası! Xabi Alonso transferi istiyor",
+        "summary": "Fenerbahçe transfer haberleri: Xabi Alonso yönetiminde yeni sezonun kadrosunu şekillendiren Chelsea'nin, savunma hattını güçlendirmek amacıyla Fenerbahçe'nin yıldız ismini transfer listesine aldığı iddia...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/07/20/fenerbahceli-yildiza-chelsea-kancasi-xabi-alonso-transferi-istiyor",
+        "date": "Mon, 20 Jul 2026 23:13:43 +0300",
         "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/65ebbf/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/07/19/galatasaraya-rafael-leao-transferinde-dev-mujde-1784489885087.jpg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/65ebbf/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/07/19/galatasaraya-rafael-leao-transferinde-dev-mujde-1784489885087.jpg"
-      }
-    ],
-    "transfer": [
+        "feedImage": "https://iaftm.tmgrup.com.tr/dee203/1200/675/0/0/2047/1151?u=https://iftm.tmgrup.com.tr/2026/07/20/fenerbahceli-yildiza-chelsea-kancasi-xabi-alonso-transferi-istiyor-1784578374146.jpg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/dee203/1200/675/0/0/2047/1151?u=https://iftm.tmgrup.com.tr/2026/07/20/fenerbahceli-yildiza-chelsea-kancasi-xabi-alonso-transferi-istiyor-1784578374146.jpg"
+      },
+      {
+        "title": "Bakan Gürlek talimat verdi! Terör suçları soruşturma büroları kurulacak",
+        "summary": "Adalet Bakanlığınca terör suçlarına ilişkin soruşturmaların daha etkin, hızlı ve koordineli yürütülmesi amacıyla il Cumhuriyet başsavcılıkları bünyesinde müstakil ‘Terör Suçları Soruşturma Büroları’ kurulması kararlaştırıldı. Bürolarda görev yapacak savcılara terör suçları dışındaki işlerin verilmemesi, soruşturmaların yalnızca bu uzmanlaşmış birimlerce yürütülmesi ve kolluk birimleriyle her ay koordinasyon toplantısı yapılması öngörüldü. İlginizi Çekebilir Adalet Bakanı Akın Gürlek’in talimatıyla hazırlanan ve Bakan Yardımcısı Can Tuncay’ın imzasıyla 81 ildeki 175 ağır ceza Cumhuriyet başsavcılığına gönderilen yazıda, terör örgütleriyle mücadelede ülke genelinde uygulama birliğinin sağlanması ve başsavcılıklar nezdindeki iş ve işlemlerin etkinliğinin artırılması amacıyla alınacak tedbirler sıralandı. Yazıda, terör suçlarının kamu güvenliği, toplumsal huzur, devletin ülkesi ve milletiyle bölünmez bütünlüğü, demokratik hukuk düzeni ve vatandaşların güven duygusu üzerinde doğrudan etkili olduğuna işaret edildi. Bu suçlara ilişkin soruşturmaların titizlikle, gecikmeksizin ve mevzuata uygun biçimde yürütülmesinin yanı sıra terör örgütlerinin ülke genelindeki hareketlerinin, güncel yapılanmalarının ve faaliyetlerinin düzenli olarak takip edilmesinin önem taşıdığı vurgulandı. Suç örgütleriyle kamu görevlilerinin skandal yazışmaları ortaya çıktı MÜSTAKİL SORUŞTURMA BÜROLARI KURULACAK Yazıya göre il Cumhuriyet başsavcılıkları bünyesinde yalnızca terör suçlarına ilişkin soruşturmaları yürütmek üzere müstakil ‘Terör Suçları Soruşturma Büroları’ oluşturulacak. Bu büroların görev tanımına terör suçları dışındaki soruşturmalar dahil edilmeyecek. Bürolarda görevli Cumhuriyet savcılarına, terör soruşturmalarında uzmanlaşmalarının ve dosyalara yoğunlaşmalarının sağlanması amacıyla terö",
+        "link": "",
+        "date": "Mon, 20 Jul 2026 19:53:24  Z",
+        "source": "Milliyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": null,
+        "category": "transfer",
+        "image": "https://images.unsplash.com/photo-1556056504-5c7696c4c28d?w=1200&q=85"
+      },
+      {
+        "title": "Samsunspor'un yeni transferi Watt: \"Güveni boşa çıkartmamak istiyorum\"",
+        "summary": "Samsunspor'un yeni transferi Elliot Watt, göstereceği performans ile kendisine olan güveni boşa çıkartmamaya çalışacağını söyledi.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/20/samsunsporun-yeni-transferi-watt-guveni-bosa-cikartmamak-istiyorum",
+        "date": "Mon, 20 Jul 2026 22:20:29 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/ae2d78/1200/675/0/81/800/531?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/samsunsporun-yeni-transferi-watt-guveni-bosa-cikartmamak-istiyorum-1784575207569.jpeg",
+        "category": "transfer",
+        "image": "https://iasbh.tmgrup.com.tr/ae2d78/1200/675/0/81/800/531?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/samsunsporun-yeni-transferi-watt-guveni-bosa-cikartmamak-istiyorum-1784575207569.jpeg"
+      },
       {
         "title": "Balıkesirspor, 3 oyuncu ile sözleşme imzaladı",
         "summary": "Balıkesirspor, dış transferde Göktuğ Yılmaz ve Mustafa Mete Tetik, iç transferde de Ali Topçu ile sözleşme imzaladı.Devamı için tıklayınız",
@@ -473,19 +499,6 @@
         "image": "https://iaftm.tmgrup.com.tr/810114/1200/675/0/213/1321/957?u=https://iftm.tmgrup.com.tr/2026/07/20/besiktasta-mohamed-salah-gelismesi-serdal-adali-yuz-yuze-gorustu-1784556767287.jpeg"
       },
       {
-        "title": "İsmail Kartal'dan Greenwood ve Ake açıklaması!",
-        "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, yeni transferler Nathan Ake ve Mason Greenwood’un Gornik Zabrze ile oynayacakları maçların listesinde büyük ihtimalle olacağını söyledi.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/20/ismail-kartaldan-greenwood-ve-ake-aciklamasi",
-        "date": "Mon, 20 Jul 2026 16:43:14 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/f77d3a/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/ismail-kartaldan-greenwood-ve-ake-aciklamasi-1784554892706.jpeg",
-        "category": "transfer",
-        "image": "https://iasbh.tmgrup.com.tr/f77d3a/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/ismail-kartaldan-greenwood-ve-ake-aciklamasi-1784554892706.jpeg"
-      },
-      {
         "title": "João Gomes 38 milyon £'luk Aston Villa transferini imzaladı, Hall ve Robinson Manchester United listesinde",
         "summary": "Brezilyalı orta saha oyuncusu Gomes, Wolves United'dan katıldı ve Spurs'tan genç kanat oyuncusu Thompson ile sözleşme imzaladı Brezilyalı milli oyuncu João Gomes, 38 milyon sterlinlik bir anlaşmayla Aston Villa'ya katıldı. 10 kez forma giyen 25 yaşındaki orta saha oyuncusu, Flamengo'dan imza attıktan sonra 130 maça çıktığı Wolves'ta 3,5 yıllık serüvenini sonlandırıyor. Gomes'in Villa'ya gelişi, Youri Tielemans'ın Manchester United'a gidişinin ardından geldi ve Morgan Rogers'ın Chelsea'ye 117 milyon sterlinlik transferin eşiğinde olduğu görüldü. Okumaya devam edin...",
         "link": "https://www.theguardian.com/football/2026/jul/20/joao-gomes-signs-aston-villa-lewis-hall-antonee-robinson-manchester-united-transfer-latest",
@@ -512,19 +525,6 @@
         "image": "https://iaftm.tmgrup.com.tr/daabfc/1200/675/0/57/2048/1209?u=https://iftm.tmgrup.com.tr/2026/07/20/galatasarayda-rota-yeniden-thiago-almada-1784499315926.jpg"
       },
       {
-        "title": "Fenerbahçe'de gündem Andre! Transfer düğümünü çözecek",
-        "summary": "Fenerbahçe, orta saha transferinde Corinthians'ın genç yıldızı Andre'yi gündemine aldı. Sarı-lacivertliler, Fred'in ayrılmasıyla açılacak yabancı kontenjanını ise yeni bir santrfor transferi için kullanmayı...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/07/20/fenerbahcede-gundem-andre-transfer-dugumunu-cozecek",
-        "date": "Mon, 20 Jul 2026 00:45:47 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/f14ca0/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/07/20/fenerbahcede-gundem-andre-transfer-dugumunu-cozecek-1784497518101.jpg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/f14ca0/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/07/20/fenerbahcede-gundem-andre-transfer-dugumunu-cozecek-1784497518101.jpg"
-      },
-      {
         "title": "F.Bahçe'ye transferde sürpriz orta saha! Kante'nin yerine...",
         "summary": "Fenerbahçe'de orta saha transferi için sürpriz bir isim gündeme geldi. Sarı-lacivertlilerin, N'Golo Kante'nin ayrılığı halinde oluşacak maaş bütçesini İtalya Serie A'da top koşturan yıldız orta saha için...Devamı için tıklayınız",
         "link": "https://www.aspor.com.tr/fenerbahce/2026/07/20/fbahceye-transferde-surpriz-orta-saha-kantenin-yerine",
@@ -536,21 +536,112 @@
         "feedImage": "https://iaftm.tmgrup.com.tr/2a8c11/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/07/20/fbahceye-transferde-surpriz-orta-saha-kantenin-yerine-1784529101229.jpeg",
         "category": "transfer",
         "image": "https://iaftm.tmgrup.com.tr/2a8c11/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/07/20/fbahceye-transferde-surpriz-orta-saha-kantenin-yerine-1784529101229.jpeg"
+      },
+      {
+        "title": "Chelsea ile görüşmeler başlarken Saray, Lacroix için 55 milyon £ artı istiyor",
+        "summary": "Chelsea, defans oyuncusu Maxence Lacroix'in transferi konusunda Crystal Palace ile görüşmelerde bulunuyor.",
+        "link": "https://www.skysports.com/football/news/12040/13565423/maxence-lacroix-transfer-news-chelsea",
+        "date": "Mon, 20 Jul 2026 21:10:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "transfer",
+        "image": "https://e0.365dm.com/26/07/1600x900/skysports-maxence-lacroix-crystal-palace_7302822.jpg?20260720205359"
       }
     ],
     "worldcup": [
       {
-        "title": "Binlerce kişi 34 derece sıcağa göğüs gererek İspanya'nın Madrid'deki Dünya Kupası kutlamalarına katıldı",
-        "summary": "Ekip, Pazartesi günü yerel saatle 14.30'da eve geldi. Zafer kutlamaları Plaza de Cibeles çevresinde yoğunlaştı. Ülkenin Arjantin'e karşı kazandığı tarihi Dünya Kupası zaferinden sonra birçoğunun hala gözleri yaşlı ve kendilerini biraz hassas hisseden onbinlerce İspanyol, muzaffer milli takımı evinde karşılamak için Pazartesi gecesi Madrid'in merkezine indi. Pazar gecesi New Jersey'deki finalde Arjantin'i 1-0 mağlup eden La Roja, Pazartesi günü yerel saatle 14.30'da Madrid'in Barajas havaalanına indiğinde pek çok kahramanın ilk karşılamasıyla karşılaştı. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jul/20/spain-world-cup-celebration-madrid",
-        "date": "Mon, 20 Jul 2026 18:17:59 GMT",
+        "title": "FIFA Dünya Kupası'ndaki en güzel gollerin oylamasını başlattı! Cabral ve Shomurodov listede",
+        "summary": "FIFA, Dünya Kupası’nın en güzel golü için oylamayı başlattı. Adaylar arasında Trabzonsporlu Cabral ve Başakşehirli Shomurodov da yer alıyor. İşte 2026 Dünya Kupası'nın en güzel golüne aday olan o goller......Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/video-haber/videoizle/fifa-dunya-kupasindaki-en-guzel-gollerin-oylamasini-baslatti-cabral-ve-shomurodov-listede",
+        "date": "Tue, 21 Jul 2026 01:31:09 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/20d0dc/1200/675/0/0/864/486?u=https://iftm.tmgrup.com.tr/2026/07/21/fifa-dunya-kupasindaki-en-guzel-gollerin-oylamasini-baslatti-cabral-ve-shomurodov-listede-1784586641231.jpeg",
+        "category": "worldcup",
+        "image": "https://iaftm.tmgrup.com.tr/20d0dc/1200/675/0/0/864/486?u=https://iftm.tmgrup.com.tr/2026/07/21/fifa-dunya-kupasindaki-en-guzel-gollerin-oylamasini-baslatti-cabral-ve-shomurodov-listede-1784586641231.jpeg"
+      },
+      {
+        "title": "FIFA'dan Dünya Kupası finalindeki olaylarla ilgili soruşturma!",
+        "summary": "FIFA, İspanya'nın Arjantin'i mağlup ettiği final maçı sonrası çıkan olaylarla ilgili soruşturma başlattı.Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/futbol/2026/07/20/fifadan-dunya-kupasi-finalindeki-olaylarla-ilgili-sorusturma",
+        "date": "Tue, 21 Jul 2026 01:03:11 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/56159c/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/07/21/fifadan-dunya-kupasi-finalindeki-olaylarla-ilgili-sorusturma-1784584955309.jpg",
+        "category": "worldcup",
+        "image": "https://iaftm.tmgrup.com.tr/56159c/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/07/21/fifadan-dunya-kupasi-finalindeki-olaylarla-ilgili-sorusturma-1784584955309.jpg"
+      },
+      {
+        "title": "Galeri: İspanya, Dünya Kupası zaferini Madrid'de kutladı",
+        "summary": "İspanya takımı Dünya Kupası'nı kazandıktan sonra otobüs geçit töreninin tadını çıkarırken binlerce taraftar Madrid sokaklarına döküldü.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cgje79d6q64o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 20 Jul 2026 21:50:12 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/965b/live/9a484b00-8482-11f1-b4a3-ff90d93e1201.jpg"
+      },
+      {
+        "title": "FIFA, Dünya Kupası finalindeki kavgalarla ilgili soruşturma başlatırken Arjantinli oyunculara men cezası verildi",
+        "summary": "Leandro Paredes'e son düdükten sonra kırmızı kart gösterildi FIFA, İngiltere maçındaki Falkland pankartını inceliyor FIFA, İspanya'nın Pazar günkü Dünya Kupası final galibiyetinin ardından çok sayıda Arjantinli oyuncunun men cezasıyla karşı karşıya kaldığı şiddet sahneleri hakkında soruşturma başlattı. Nahuel Molina, son düdüğün ardından sahaya doğru koşan İspanyol kaptan Rodri'yi karnından vurmuş gibi görünürken, orta saha çizgisinde de büyük bir arbede yaşandı ve Leandro Paredes, Gavi'yi yere atmadan önce Eric García'yı boğazından yakaladı. Okumaya devam edin...",
+        "link": "https://www.theguardian.com/football/2026/jul/20/argentina-players-face-bans-as-fifa-opens-investigation-into-world-cup-final-brawls",
+        "date": "Mon, 20 Jul 2026 20:42:33 GMT",
         "source": "The Guardian",
         "flag": "🗞️",
         "lang": "en",
         "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/28db4a6a243cb74d15715142a9c7bdb23b0f1f1a/993_0_5007_4006/master/5007.jpg?width=140&quality=85&auto=format&fit=max&s=4e2575fed579faedb5af7d45d2a71da0",
+        "feedImage": "https://i.guim.co.uk/img/media/00b29c510fc9a63fd6e961f8b08d72a637c67308/334_0_3457_2766/master/3457.jpg?width=140&quality=85&auto=format&fit=max&s=05019c2add59f38dd71bbbf06e732d2f",
         "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/28db4a6a243cb74d15715142a9c7bdb23b0f1f1a/993_0_5007_4006/master/5007.jpg?width=140&quality=85&auto=format&fit=max&s=4e2575fed579faedb5af7d45d2a71da0"
+        "image": "https://i.guim.co.uk/img/media/00b29c510fc9a63fd6e961f8b08d72a637c67308/334_0_3457_2766/master/3457.jpg?width=140&quality=85&auto=format&fit=max&s=05019c2add59f38dd71bbbf06e732d2f"
+      },
+      {
+        "title": "İspanya'nın Madrid'deki Dünya Kupası kutlamalarına yaklaşık iki milyon kişi katıldı",
+        "summary": "Ekip Pazartesi günü yerel saatle 14.30'da eve geldi. Plaza de Cibeles çevresinde zafer şenlikleri Ülkenin Arjantin'e karşı kazandığı tarihi Dünya Kupası zaferinden sonra birçoğunun gözleri hâlâ şişmiş ve kendilerini biraz hassas hisseden neredeyse iki milyon İspanyol, muzaffer milli takımı evinde karşılamak için Pazartesi gecesi Madrid'in merkezine indi. Pazar gecesi New Jersey'deki finalde Arjantin'i 1-0 mağlup eden La Roja, Pazartesi günü yerel saatle 14.30'da Madrid'in Barajas havaalanına indiğinde pek çok kahramanın ilk karşılamasıyla karşılaştı. Okumaya devam edin...",
+        "link": "https://www.theguardian.com/football/2026/jul/20/spain-world-cup-celebration-madrid",
+        "date": "Mon, 20 Jul 2026 20:01:25 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/664a26b655368d8dbae8f79194a43ff3ec2404fe/0_0_3020_2416/master/3020.jpg?width=140&quality=85&auto=format&fit=max&s=7ce76258fc0d51cc7e2ab381dfbf25e3",
+        "category": "worldcup",
+        "image": "https://i.guim.co.uk/img/media/664a26b655368d8dbae8f79194a43ff3ec2404fe/0_0_3020_2416/master/3020.jpg?width=140&quality=85&auto=format&fit=max&s=7ce76258fc0d51cc7e2ab381dfbf25e3"
+      },
+      {
+        "title": "FIFA, Arjantin'deki final sonrası sorunla ilgili soruşturma başlattı - bundan sonra ne olacak?",
+        "summary": "FIFA, Arjantin'in Dünya Kupası finalinin sonundaki çirkin sahnelerle ilgili soruşturmayla karşı karşıya kalacağını doğruladı.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 20 Jul 2026 19:32:37 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d24c/live/0a2e58b0-8447-11f1-878a-03d79d819c89.jpg"
+      },
+      {
+        "title": "Messi, Dünya Kupası finalini kaybettikten sonra 'acı çok büyük' ​​dedi",
+        "summary": "Lionel Messi, Arjantin'in Dünya Kupası finalinde İspanya'ya 1-0 yenilmesinin ardından \"acı çok büyük\" ve \"iyileşmenin zaman alacağını\" söyledi.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cz97gwpk01yo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 20 Jul 2026 19:13:58 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3a1a/live/660855c0-846d-11f1-b286-f1d324aa6c22.jpg"
       },
       {
         "title": "İspanya'nın metronomu: Rodri'nin muhteşem Dünya Kupası kampanyasının ardındaki istatistikler",
@@ -592,19 +683,6 @@
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/89fb/live/5f5ae690-8457-11f1-8cf4-43aed99842b4.jpg"
       },
       {
-        "title": "Arjantin final sonrası sıkıntının ardından aksiyonla karşı karşıya kalabilir mi?",
-        "summary": "Arjantin'in, Dünya Kupası finalindeki çirkin sahnelerin ardından FIFA soruşturmasıyla karşı karşıya kalması muhtemel.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/clyxjk0z5y7o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 20 Jul 2026 16:44:00 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d24c/live/0a2e58b0-8447-11f1-878a-03d79d819c89.jpg"
-      },
-      {
         "title": "Rodri'nin hisseleri kupa koleksiyonuna eklendikçe tüm zamanların en yüksek seviyesinde",
         "summary": "Rodri, Dünya Kupası ve Altın Top zaferlerinin ardından dünyanın en iyi orta saha oyuncularından biri olma konumunu pekiştiriyor.",
         "link": "https://www.bbc.co.uk/sport/football/articles/cj03j6yzq20o?at_medium=RSS&at_campaign=rss",
@@ -629,74 +707,22 @@
         "feedImage": "https://i.guim.co.uk/img/media/13dac8b3be4d889915682172fb6d0f288bcc3e31/78_27_4315_3452/master/4315.jpg?width=140&quality=85&auto=format&fit=max&s=4ec0fce8deb8615b1ba42f2c723dcfbe",
         "category": "worldcup",
         "image": "https://i.guim.co.uk/img/media/13dac8b3be4d889915682172fb6d0f288bcc3e31/78_27_4315_3452/master/4315.jpg?width=140&quality=85&auto=format&fit=max&s=4ec0fce8deb8615b1ba42f2c723dcfbe"
-      },
-      {
-        "title": "Rodri'nin kurtuluş hikayesi, yıldızları İspanya'nın büyük kontrolörünün gölgesinde bırakıyor | Jonathan Wilson",
-        "summary": "Rodri'nin yaptığı şeylerin çoğu tarif edilemez - onun en büyük yeteneği sadece var olmak, doğru alanlarda var olmaktır. ABD'de uzun süre kalmanıza gerek yok ki, pek çok Amerikalının moral bozucu bir şekilde söylediği gibi \"Fifa\"yı haber yapmak için burada olduğunuzu anlayan biri size, eğer en iyi sporcularının Amerikan futbolu, basketbol, ​​muazzam sandviçler yemek gibi yerel uğraşlarla dikkatleri dağılmazsa ABD'nin bu ödülü her zaman kazanacağını söyleyecektir. Eğer gerçekten şanslıysanız, boy, kilo, sprint hızı, kıyaslama yapabilecekleri değerler ve diğer etkileyici istatistiklerin ayrıntılı bir özetini vererek size isimler bağırmaya başlayacaklardır. 1,70 boyundaki Lionel Messi'nin daha önce bench press yapıp yapmadığını merak ediyorsunuz. Rodri muhtemelen öyledir ama hâlâ kimsenin harika bir atlet fikri yok. Fiziksel olarak heybetli olmasa da uzun boylu. Hızlı değil. Oyunların doğru yerde olması konusunda gevezelik ediyor. Bazen insanlara doğru eğiliyor ya da topu 10 yarda pas atıyor. Dünya Kupası finalindeki performansının bir acemiyi belirleyici oyuncu olduğuna ikna edecek önemli anlarını bir araya getirmek zor olurdu - ama o öyleydi ve haklı olarak turnuvanın oyuncusu olarak da adlandırıldı. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jul/20/rodris-redemption-story-leaves-world-cup-stars-in-the-shadow-of-spains-great-controller",
-        "date": "Mon, 20 Jul 2026 14:01:15 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/8c83b30a365d2236a1290f5a864b8bd97cdd9485/0_970_3979_3183/master/3979.jpg?width=140&quality=85&auto=format&fit=max&s=f3be4671491f5743abeb7bfc3818f6f4",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/8c83b30a365d2236a1290f5a864b8bd97cdd9485/0_970_3979_3183/master/3979.jpg?width=140&quality=85&auto=format&fit=max&s=f3be4671491f5743abeb7bfc3818f6f4"
-      },
-      {
-        "title": "Belçika'da Rudi Garcia ile yollar ayrıldı!",
-        "summary": "Belçika Futbol Federasyonu, 2026 Dünya Kupası'nda takımın başında bulunan teknik direktör Rudi Garcia ile yolların ayrıldığını duyurdu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/20/belcikada-rudi-garcia-ile-yollar-ayrildi",
-        "date": "Mon, 20 Jul 2026 17:00:33 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/e98faa/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/belcikada-rudi-garcia-ile-yollar-ayrildi-1784556033253.jpeg",
-        "category": "worldcup",
-        "image": "https://iasbh.tmgrup.com.tr/e98faa/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/belcikada-rudi-garcia-ile-yollar-ayrildi-1784556033253.jpeg"
-      },
-      {
-        "title": "Tuchel modası geçmiş İngiliz tarzına bağlı kalıyor; oyuncuların risk almasına izin vermeli | Jacob Steinberg",
-        "summary": "Baş antrenör, nadiren işe yarayan fiziksel yaklaşımı bir kenara bırakmalı ve İngiltere'nin yetenekli top oyuncularını kucaklamalı. 10 gollük bir gerilimde Fransa'yı yenerek Dünya Kupası'nda bronz madalyayı yalnızca İngiltere alabilir ve sonunda menajere daha da sinirlenebilir. Ancak geçen hafta Arjantin'e karşı alınan yenilginin ardından duygular hala yüksek ve Thomas Tuchel'e yönelik eleştirilerin ortadan kalkması için düşük riskli bir maçı kazanmaktan daha fazlası gerekecek. Tuchel'i işe almak, büyük maçlarda fark yaratacağı vaadine odaklanmıştı. O düştüğünde geriye kalan tek şey öfkeydi. Zengin bir federasyonun, antrenörlük gelişimindeki kusurları, pahalı bir yabancıya para atarak sistemle oynamaya çalışarak örtbas ettiği atamanın temel boşluğunu ortaya çıkardı. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jul/20/thomas-tuchel-football-assocation-fa-england-world-cup-2026-head-coach",
-        "date": "Mon, 20 Jul 2026 13:55:15 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/2bae3cfe300f81af1f9ef47550d6d4c1b4f1b320/277_0_6083_4867/master/6083.jpg?width=140&quality=85&auto=format&fit=max&s=b8689c590b0f41edf73cf698ad11fc9a",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/2bae3cfe300f81af1f9ef47550d6d4c1b4f1b320/277_0_6083_4867/master/6083.jpg?width=140&quality=85&auto=format&fit=max&s=b8689c590b0f41edf73cf698ad11fc9a"
-      },
-      {
-        "title": "'Suçlamanın ötesinde': Arjantin medyası, Dünya Kupası'ndaki son yenilgiye rağmen Scaloni'nin takımını övüyor",
-        "summary": "Clarín, takımın çaba kaybetme konusunda \"her şeyini verdiğini\" söyledi La Nación: \"Onlar ulusun gururu\" Lionel Messi'nin muhtemelen son Dünya Kupası olacak olan Pazar günü finalde İspanya'ya karşı 1-0 mağlup olan Arjantin'in ardından, ülke medyası takımı kutlarken Avrupalıların daha iyi taraf olduğunu kabul etti. Ülkenin en çok satan gazetesi Clarín'in kapağında Messi'nin ağladığı bir fotoğraf manşette yer alıyordu: \"Ellerinden geleni yaptılar: Onları suçlayacak hiçbir şey yok.\" Yayının başyazısında \"nihai sonucun ötesinde ve tamamen sportif yönleri bir kenara bırakarak, halk ile milli takım arasında daha önce hiç olmadığı kadar özel bir bağ oluştuğu\" belirtildi. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jul/20/beyond-reproach-argentinian-media-praises-scaloni-team-despite-world-cup-final-defeat",
-        "date": "Mon, 20 Jul 2026 13:30:34 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/fb2efb562f34725f1c538e15c89f78918c54ec0a/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=7d9413144a7cee115d2b23b434601da4",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/fb2efb562f34725f1c538e15c89f78918c54ec0a/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=7d9413144a7cee115d2b23b434601da4"
-      },
-      {
-        "title": "BBC'nin kapanış Dünya Kupası montajını izleyin",
-        "summary": "Şimdiye kadarki en büyük Dünya Kupası'nın tüm iniş çıkışlarını ve renklerini içeren BBC'nin 2026 Fifa Dünya Kupası haberinin kapanış montajını izleyin.",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c5y4r79prw4o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 20 Jul 2026 12:50:36 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6b24/live/fc14fec0-843a-11f1-926f-c90d1bcfbc84.jpg"
       }
     ],
     "magazine": [
+      {
+        "title": "Bir öncü ve süperstar olan Kevin Keegan'ın başarıları olağanüstüydü",
+        "summary": "İngiltere'nin eski menajeri pek çok kişi tarafından 1996'daki 'çok isterdim' lafıyla hatırlanabilir, ancak bu onun futbol kariyerinin dikkate değer doğasını gölgelememeli 75 yaşında ölen Kevin Keegan, Ballon d'Or'u iki kez kazanan tek İngiliz oyuncu, Liverpool'un ilk Avrupa Kupasını kazanan takımının yıldızı, oyuncu ve teknik direktör olarak Newcastle United'da mesihvari bir figür olan ve FIFA başkanının övgüyle söz ettiği unutulmaz bir takım kuran kişiydi. İngiltere erkek milli takımının kaptanı ve ardından menajeriydi. Ancak yine de, Keegan'ın üzüntüyle düşüneceği gibi, çoğu kişi tarafından Newcastle'ın Premier Lig şampiyonluk yarışındaki tarihi başarısızlığını hızlandıran duygusal bir patlamayla hatırlanacak; bu, modern oyunun yaklaşmakta olan çağının habercisi olan bir TV röportajıydı. Keegan'ın Nisan 1996'da Alex Ferguson'a yönelttiği \"Çok hoşuma gider\" lafı, kelimenin modern anlamı ve sosyal medya daha var olmadan önce bir mem haline geldi, Sky Sports'ta defalarca oynandı ve birçok neslin zihninde silinmez bir şekilde yer aldı; çoğu bu ortaya çıktığında doğmamıştı bile. Premier Lig tarihindeki en unutulmaz an olarak anketlerde sıklıkla üst sıralarda yer alan bu olay, dijital kliplerin ve kişisel bilgilerin öne çıktığı bir dönemin habercisi oldu.",
+        "link": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-tribute-pioneer-superstar-liverpool-newcastle-hamburg-england",
+        "date": "Mon, 20 Jul 2026 15:02:51 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/806e9f7cfa423d6ccd1c9473313b3ec2e8ed54d4/129_89_1477_1181/master/1477.jpg?width=140&quality=85&auto=format&fit=max&s=b78e0bee966c1b02cceb92516b0a080e",
+        "category": "magazine",
+        "image": "https://i.guim.co.uk/img/media/806e9f7cfa423d6ccd1c9473313b3ec2e8ed54d4/129_89_1477_1181/master/1477.jpg?width=140&quality=85&auto=format&fit=max&s=b78e0bee966c1b02cceb92516b0a080e"
+      },
       {
         "title": "Rogers'ın hamlesi Chelsea'nin kadrosu için ne anlama geliyor?",
         "summary": "Morgan Rogers, Aston Villa'dan 117 milyon £ karşılığında İngiltere rekoru olan Chelsea'ye katılmaya hazırlanıyor ve onun gelişinin Xabi Alonso'nun Blues'u üzerinde zincirleme bir etkisi olacak.",
@@ -709,35 +735,61 @@
         "feedImage": null,
         "category": "magazine",
         "image": "https://e0.365dm.com/26/07/1600x900/skysports-premier-league-chelsea_7302475.jpg?20260720142040"
-      },
-      {
-        "title": "Sciver-Brunt, İngiltere efsanesi ilk koçluk rolünü üstlenirken Trent Rockets'a katıldı",
-        "summary": "Katherine Sciver-Brunt, The Hundred'ın 2026 edisyonu için Trent Rockets Women'ın yardımcı koçu olarak onaylandıktan sonra emekli olduktan sonra ilk koçluk görevini üstlenecek.",
-        "link": "https://www.skysports.com/cricket/news/12040/13565380/the-hundred-katherine-sciver-brunt-returns-to-cricket-as-england-great-named-trent-rockets-assistant-coach",
-        "date": "Mon, 20 Jul 2026 18:10:00 BST",
-        "source": "Sky Sports",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "magazine",
-        "image": "https://e0.365dm.com/26/07/1600x900/skysports-katherine-sciver-brunt_7302723.jpg?20260720182913"
-      },
-      {
-        "title": "Kevin Keegan'a saygı duruşu | 1951-2026",
-        "summary": "Sky Sports, 75 yaşında hayatını kaybeden eski İngiltere menajeri ve efsanevi futbolcu Kevin Keegan'ın inanılmaz kariyerine bir bakış atıyor.",
-        "link": "https://www.skysports.com/watch/video/13565319/kevin-keegan-dies-at-the-age-of-75-1951-2026",
-        "date": "Mon, 20 Jul 2026 15:38:00 BST",
-        "source": "Sky Sports",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "magazine",
-        "image": "https://e0.365dm.com/26/07/1600x900/skysports-kevin-keegan-obituary_7302575.jpg?20260720154922"
       }
     ],
     "general": [
+      {
+        "title": "Man Utd ve Arsenal Kone yüzünden kavga ediyor – Salı günkü dedikodu",
+        "summary": "Manchester United ve Arsenal, Fransız Manu Kone için kavga ediyor, Nico Williams Premier Lig şampiyonu olabilir ve West Ham, Crysencio Summerville'in son teklifini reddediyor.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c934q4722zyo?at_medium=RSS&at_campaign=rss",
+        "date": "Mon, 20 Jul 2026 22:38:01 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fa1b/live/136c2600-8479-11f1-bee8-53ce494e1abc.png"
+      },
+      {
+        "title": "Galatasaray, yeni sezon hazırlıklarına devam etti",
+        "summary": "Galatasaray, yeni sezon hazırlıklarını bugün yaptığı antrenmanla sürdürdü.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/20/galatasaray-yeni-sezon-hazirliklarina-devam-etti",
+        "date": "Tue, 21 Jul 2026 00:55:47 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/66a913/1200/675/33/0/800/431?u=https://isbh.tmgrup.com.tr/sbh/2026/07/21/galatasaray-yeni-sezon-hazirliklarina-devam-etti-1784584530120.jpeg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/66a913/1200/675/33/0/800/431?u=https://isbh.tmgrup.com.tr/sbh/2026/07/21/galatasaray-yeni-sezon-hazirliklarina-devam-etti-1784584530120.jpeg"
+      },
+      {
+        "title": "Fenerbahçe UEFA listesini güncelledi! Greenwood ve Ake...",
+        "summary": "Son dakika haberi: Fenerbahçe, UEFA kadro listesini güncelledi. Sarı-lacivertliler, Mason Greenwood ve Nathan Aké'yi listeye dahil ederken, Cengiz Ünder ile Ognjen Mimović'i kadrodan çıkardı.Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/07/20/fenerbahce-uefa-listesini-guncelledi-greenwood-ve-ake",
+        "date": "Tue, 21 Jul 2026 00:51:57 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/bcc0ff/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/07/21/fenerbahce-uefa-listesini-guncelledi-greenwood-ve-ake-1784584265183.jpeg",
+        "category": "general",
+        "image": "https://iaftm.tmgrup.com.tr/bcc0ff/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/07/21/fenerbahce-uefa-listesini-guncelledi-greenwood-ve-ake-1784584265183.jpeg"
+      },
+      {
+        "title": "Fenerbahçe, Gornik Zabrze maçına hazır",
+        "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi 2. Eleme Turu ilk maçında yarın konuk edeceği Gornik Zabrze maçının hazırlıklarını yaptığı antrenmanla tamamladı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/20/fenerbahce-gornik-zabrze-macina-hazir",
+        "date": "Mon, 20 Jul 2026 22:22:00 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/2d5e35/1200/675/0/311/1821/1335?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/fenerbahce-gornik-zabrze-macina-hazir-1784575297298.jpg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/2d5e35/1200/675/0/311/1821/1335?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/fenerbahce-gornik-zabrze-macina-hazir-1784575297298.jpg"
+      },
       {
         "title": "İsmet Taşdemir: \"Lig bu yıl daha zorlu geçecek\"",
         "summary": "Sivasspor Teknik Direktörü İsmet Taşdemir, takımın fiziksel seviyesini Kayseri kampında yukarı taşımayı hedeflediklerini söyledi. Yeni sezonun geçen yıla göre çok daha çetin geçeceğini vurgulayan Taşdemir,...Devamı için tıklayınız",
@@ -752,19 +804,6 @@
         "image": "https://iasbh.tmgrup.com.tr/88abab/1200/675/0/6/800/456?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/ismet-tasdemir-lig-bu-yil-daha-zorlu-gececek-1784573226060.jpeg"
       },
       {
-        "title": "Bursaspor hazırlık maçında 2 golle galip geldi",
-        "summary": "Trendyol 1. Lig ekiplerinden Bursaspor ile Esenler Erokspor, hazırlık maçında karşı karşıya geldi.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/20/bursaspor-hazirlik-macinda-2-golle-galip-geldi",
-        "date": "Mon, 20 Jul 2026 21:38:01 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/246a66/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/bursaspor-hazirlik-macinda-2-golle-galip-geldi-1784572660468.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/246a66/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/20/bursaspor-hazirlik-macinda-2-golle-galip-geldi-1784572660468.jpeg"
-      },
-      {
         "title": "Bursaspor, Esenler Erokspor'u 2 golle yendi!",
         "summary": "Trendyol 1. Lig ekiplerinden Bursaspor ile Esenler Erokspor, hazırlık maçında karşı karşıya geldi.",
         "link": "https://www.hurriyet.com.tr/sporarena/bursaspor-esenler-eroksporu-2-golle-yendi-43246203",
@@ -776,19 +815,6 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5e6a3b17033712807018c7.jpg",
         "category": "general",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5e6a3b17033712807018c7.jpg"
-      },
-      {
-        "title": "Chelsea, Palace'ın Lacroix'ine olan ilgisini artırdı",
-        "summary": "Chelsea, Crystal Palace ile yaptığı yeni görüşmelerin ardından defans oyuncusu Maxence Lacroix'e olan ilgisini artırdı.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c8xnpxy5v8vo?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 20 Jul 2026 18:04:52 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9c43/live/932350f0-8463-11f1-8cf4-43aed99842b4.jpg"
       },
       {
         "title": "Guardiola'nın İtalya ile görüştüğü bildirildi - İngiltere gelecek mi?",
@@ -919,32 +945,6 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5e125cbc416976d1ca2698.jpg",
         "category": "general",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5e125cbc416976d1ca2698.jpg"
-      },
-      {
-        "title": "Haftanın Kapanışında Taraf ve Gol Tercihleri Ön Plana Çıkıyor… İşte Misli’de Günün En Çok Oynanan Maçları",
-        "summary": "Misli’de günün iddaa programı içerisinde en çok oynanan bahisleri ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik. Birçok ligin heyecanını Şampiyon Oranlar ile Misli’de yaşayabilirsiniz.",
-        "link": "https://www.hurriyet.com.tr/sporarena/haftanin-kapanisinda-taraf-ve-gol-tercihleri-on-plana-cikiyor-iste-mislide-gunun-en-cok-oynanan-maclari-43245822",
-        "date": "Mon, 20 Jul 2026 12:05:46 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5e0eeebc416976d1ca2679.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a5e0eeebc416976d1ca2679.jpg"
-      },
-      {
-        "title": "Fenerbahçe'de İsmail Kartal açıkladı! Ake, Greenwood ve Asensio...",
-        "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, UEFA Şampiyonlar Ligi'nde 2. ön eleme turunda Gornik Zabrze ile oynanacak olan mücadele öncesi basın toplantısında açıklamalarda bulundu. Tecrübeli teknik adam...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/07/20/fenerbahcede-ismail-kartal-acikladi-ake-greenwood-ve-asensio",
-        "date": "Mon, 20 Jul 2026 13:48:42 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/a2dae7/1200/675/22/0/800/437?u=https://iftm.tmgrup.com.tr/2026/07/20/fenerbahcede-ismail-kartal-acikladi-ake-greenwood-ve-asensio-1784553653230.jpg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/a2dae7/1200/675/22/0/800/437?u=https://iftm.tmgrup.com.tr/2026/07/20/fenerbahcede-ismail-kartal-acikladi-ake-greenwood-ve-asensio-1784553653230.jpg"
       }
     ]
   },
