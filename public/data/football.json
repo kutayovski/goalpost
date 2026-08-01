@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T00:10:35.998Z",
+  "updatedAt": "2026-08-01T07:30:27.949Z",
   "news": {
     "corumsporhaber": [
       {
@@ -8,6 +8,18 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVVjQS1WSVo1eDIyRTVmdUVnU09BalU4YW1EMG83TVJsUHhoRDg1TUdsdjlKb1FuV1lHdHRTWl9oVFRmY1ROdzNyRU9DZG5vclNfS21HSHhkZThzSTB3VXBPTE9jTWRGbXVONHFqOTA1TnotSWNWNnNCS01qU0w5THRjQnB1R25yaFd1VVAwN3BpZw?oc=5",
         "date": "Fri, 31 Jul 2026 21:50:18 GMT",
         "source": "Ajansspor",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Muhammed Salah Trabzonspor'da iddiası: Sözleşme detaylarına kadar açıkladı",
+        "summary": "Muhammed Salah Trabzonspor'da iddiası: Sözleşme detaylarına kadar açıkladı Yeni Şafak",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMTY0VU9EbDFuUzNfYnJ5QjBwVjQ0NlBucDZsUHVMWlU5TGljSEdrSDgwUTJ6RC1KbENHS1J3RzUyNDIzcnlLREgtQ2t5Umhvc0QyLTdqaklnbE5NaXhnNk5zcEVlN1dQdGZidnZfQUdJUFdFeVVISV8wWWVOMlhNRTNjM1d5cmRreUI4VmtiTWVOUjNwRUlVcm9lMHJ5djBEUzExOElQdlE0NnRFN2QyeA?oc=5",
+        "date": "Fri, 31 Jul 2026 14:40:17 GMT",
+        "source": "Yeni Şafak",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -75,35 +87,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Süper Lig'de Çorum FK ve Trabzonspor zirveyi paylaşıyor",
-        "summary": "Süper Lig'de Çorum FK ve Trabzonspor zirveyi paylaşıyor Çorum Hakimiyet",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdDE3cVZVZHJUejRwOTgzUVItdVh1NmdZeWxlRDNvUTBWQzFONjVHbHBRXzFYSlZKajNsVEJLNGYxQU5BZjlhWjI1SEVqZC0xYnNTRXQtUUNNQVJTMXVvdWltdGhkNUVpbW80NFdCSzdNZmVfQ2NwUWFCZUxaU3dIWXNWMzhqUVFRdTNmZ0Zn0gGTAUFVX3lxTE44WmtOU2hVMGNCTDlBUXBjWWxQUENETjV3THVMdk9xMVhKNE1Ndy1RcFFIb0xxZWxjYXRNajFyRi15RXNQUVpYd3NQc0ZnZEc4M0xVM2ZFQWY5QnVYOGFUVjNzeGpINVRtR21vMmJ5VFM2S1Z1cGFlRHQ3SWtuX2NpQnNDd1g4LTQ5VjRjNkhDc0pYQQ?oc=5",
-        "date": "Fri, 31 Jul 2026 08:55:00 GMT",
-        "source": "Çorum Hakimiyet",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Çorum FK'de ikinci etap tamam",
-        "summary": "Çorum FK'de ikinci etap tamam habercim19.com",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCaDF2ZkFuOFZrUXowS0VpdmRNd0JxQTh4TGx5dTFGMDRpbkoyWVlaWHF5UkFvazlvMnNOZDdoTVZHc0ZNYXAxR0tFMnZqR3I2Y3Q5QXZxdnRfSmMyNFVVNU1DaUdfMl96VWtRYTFFVXRLajM1?oc=5",
-        "date": "Thu, 30 Jul 2026 18:30:00 GMT",
-        "source": "habercim19.com",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Çorum FK, ikinci etap kamp çalışmalarını tamamladı - Süper Lig",
-        "summary": "Çorum FK, ikinci etap kamp çalışmalarını tamamladı - Süper Lig mynet.com",
+        "summary": "Çorum FK, ikinci etap kamp çalışmalarını tamamladı - Süper Lig Mynet",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFl3aDM4cEhLNHVqR0ozUHMzdTJUeWlrNkRZUUxXNi0tLWVIRFR5Qm5iYVAwUjdoUnF2b0UzNjctUUVJSGp6TUJpR3l0dUpKZGlxMzVzUnR3WXRLMkthc2tOdGo3RFBlMWZQeVhEZEI1amQzR2JaUHdzUl9CdzBfZEJTSHN2VnpfcHhEay1B0gGQAUFVX3lxTE40NTluOC1yWFphcG5xRmFGQWk0WWhxZGZzXzBucnpSZnFBa0h3TnNkRTBhbW5UYjRyTl9TMmFqU21Ub25vWGs2QkpZQm5BUUR3RmxGMWFNLWtYa3pabjd6c1VuaGoyOUZyM25FZjY1ZkJzWUllVW9jalYyVmw5UkFmM2lxQWR5UTBWSVlCMzRsMA?oc=5",
         "date": "Thu, 30 Jul 2026 17:06:59 GMT",
-        "source": "mynet.com",
+        "source": "Mynet",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -112,10 +100,10 @@
       },
       {
         "title": "Arca Çorum FK’da istifa!",
-        "summary": "Arca Çorum FK’da istifa! yaylahaber.com.tr",
+        "summary": "Arca Çorum FK’da istifa! Yayla Haber",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DX3o4NEMtOWQ0TlR6MlpscF9xeFJEUWh6UWJUS2JQS2JjTlFpcUZINzl3bTZsOEFwMnA1QnFBSVlNQ1N2S1I2T1lWM1dhVGtIa2FjbGNtcHJyM3JQZ0dHX0NR?oc=5",
         "date": "Thu, 30 Jul 2026 15:08:00 GMT",
-        "source": "yaylahaber.com.tr",
+        "source": "Yayla Haber",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -147,11 +135,23 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
+        "title": "Çorum FK Kampı Tamamladı",
+        "summary": "Çorum FK Kampı Tamamladı SonDakika",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11NUJaeWJxVXdZRkdRVTRXQmd5YWQ4Q1Jfckx6UDlCSHg2S0pFendtYTNfbnp3LXlpRzIzNEd5TzczSzliYkQ1VVhlYVA4MGJ4Mmtmb1o1SFRmZ0VJS09hd2F4alg2RmRkckFGUktpMmpVbjNEakhUZzFqVdIBekFVX3lxTE0zMnZXQ0VRVWp1RjNBYUVJbHhmQzNLY2MzLS1yVTJUbE9MSzJuNG5CNVFDSXhxOEhRSzVKM2c3MFNYT2JPYnR3bk5YTEIzUDlpM0dSRzduNWhSbmZjWHRKbFR3emhxVVZQVUhKcXRwTDNNUjV1VDhwOGZ3?oc=5",
+        "date": "Thu, 30 Jul 2026 08:20:22 GMT",
+        "source": "SonDakika",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
         "title": "ARCA Çorum FK, Bolu kampını tamamladı",
-        "summary": "ARCA Çorum FK, Bolu kampını tamamladı DHA | Demirören Haber Ajansı",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTNKQzhPMHlCbmVEaUpjZ0lvNFphVGtVNjNjSkVkYXB3UHJaZG5tQ1FoeFhfTXc4R2VkeDV0cXJkZWEwZmlFNzZrY1REMGRtUUM3TjZ5dVdQaXlGbjVaWnFlek1CQ005akx3ejNsSzA5VV91VDl6S2dTMm5tRnEwdzVqWk15UdIBigFBVV95cUxPZFV5OVMwWkRTY1B5blA5T2g5V1hiU0lBWnppakg1TEFhOXpCaWxTU3RWSEkzeWtheXVTZzgtRzJKYzZlaXhuM2NHaUhJN3Q5aW1WaGpuVkxJanExek5sTGxEUGxHS0hsRGdKOEdpdWxoZ0ItUnY3bXg5TExLMWoxUndvZXVBMVZRY2c?oc=5",
+        "summary": "ARCA Çorum FK, Bolu kampını tamamladı Haberton",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vTXBCdEVHaFZaV1FIOEthclhTTHllWWNRS3ZmVWctMkYtNHV4SWN6UjNIXzlONVR6WnJnZWRuZUl6eWJtVW1BcUd1NVJBS0VtX21SR3RhNzZVSVZWb09KUHhQZlVYQnp2Ymc?oc=5",
         "date": "Thu, 30 Jul 2026 08:11:04 GMT",
-        "source": "DHA | Demirören Haber Ajansı",
+        "source": "Haberton",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -207,11 +207,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK - Iğdır FK maçı hangi kanalda? CANLI İZLE",
-        "summary": "Çorum FK - Iğdır FK maçı hangi kanalda? CANLI İZLE Alanya Postası",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcW8xZDdhb0lydXVhQnZnM0xReHNaa3RCVFo1a1FZZXdOVTZpckl6VFU5QXZoYzNqSW8yNk5MbzJIOFg2NFVRTmVkZjdpLUJlZjFLdnRhSV9oNm8wMzc1T0lrVlBvVjFBTTdodDk5RVV5eWs2S2ZHUk5GbU5DbldnQS1ZdTZQM28?oc=5",
-        "date": "Wed, 29 Jul 2026 14:14:00 GMT",
-        "source": "Alanya Postası",
+        "title": "Çorum FK’da B planı: Sidiki Cherif",
+        "summary": "Çorum FK’da B planı: Sidiki Cherif Çorum Haber Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96N3h0NGVIQ3dDMUZuaUctX3ZzVV9DbnpyVnBwam9xQUFxZm5pWEdHaGRlUlRuQWFwTWJtMTBfdmpjSllWb0JqWl9JcW93bXd6Nmp0TDNyVU9DQUptcGNvNlFDUmNuMHJZZUlz0gFwQVVfeXFMTUlNMVlaSTRMcDR0emtRVmx5MVBkNEM5Rk0zaUdHNzMzckkzTmdtSzlEZ3owOTR0VUxTZGVwRzQ3b1pIUlZCVURaV3QtQm5hbFkxX3FIUlQ1Q28tSXNVdFVXeFpNQTlnWmY0SW9aUmFQcQ?oc=5",
+        "date": "Wed, 29 Jul 2026 14:06:00 GMT",
+        "source": "Çorum Haber Gazetesi",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -220,10 +220,10 @@
       },
       {
         "title": "Why didn't the Aubameyang transfer to çorum FK happen? Head coach Uğur Uçar explained",
-        "summary": "Why didn't the Aubameyang transfer to çorum FK happen? Head coach Uğur Uçar explained Fanatik",
+        "summary": "Why didn't the Aubameyang transfer to çorum FK happen? Head coach Uğur Uçar explained fanatik.com.tr",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLTRnT2JuMHlLZ0hSb3RlVTNHZEZ4RjdYdUhZdE43aXNZU2RKNjFpUG9TRDhQZnNZZWEtdXNUNGFEUHFBUVZudHdnRXJ3Wmg3aVZmckNfblhFUFEtWTc3eXhUdnZKRzA5NUEzVGVKV2R0Q1dDMkc2c1lDMmNhUjBWMG0wWEVJaFNPNDlJaC1qWkotVXMtVVlITlF1eEp5VzZXMTFtbGRZcE5iYlFTQ1F6N3Q2NWZ2N1BGbGVBN1dR?oc=5",
         "date": "Wed, 29 Jul 2026 10:08:49 GMT",
-        "source": "Fanatik",
+        "source": "fanatik.com.tr",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -244,10 +244,10 @@
       },
       {
         "title": "Çorum FK'de Aubameyang transferi neden olmadı? Teknik direktör Uğur Uçar açıkladı",
-        "summary": "Çorum FK'de Aubameyang transferi neden olmadı? Teknik direktör Uğur Uçar açıkladı Fanatik",
+        "summary": "Çorum FK'de Aubameyang transferi neden olmadı? Teknik direktör Uğur Uçar açıkladı fanatik.com.tr",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1hmclFUWEFINWNXaDJid0FaSVRrcUVWaXRqZV9GR0I2UGVLV0UzS0tTTHRmR1QwNVk0cHVRM3UxNS1ValRMMkNNMks1MW5uMDBDU0NkSzFmd0NZeGZ6bTdDTHJ3eEJvLW10QWJqTE8xOExrOGs5eG5iVU9IUi1qU1lsTnpmSTM3b0JUNnkyaVh1MDRpaUhudC01ZXlhaWdtbFFEeVVVZmk4Mzk3UEJ4ZXRlSE1qc2RlRkpsV2hLSVA?oc=5",
         "date": "Wed, 29 Jul 2026 08:30:56 GMT",
-        "source": "Fanatik",
+        "source": "fanatik.com.tr",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -316,10 +316,10 @@
       },
       {
         "title": "Çorum FK’dan bomba transfer!",
-        "summary": "Çorum FK’dan bomba transfer! Fanatik",
+        "summary": "Çorum FK’dan bomba transfer! fanatik.com.tr",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRQVNaMzE3M21GZ3NleVprdUdCdFN6dTFXYW5IdW9zWURab0kzNlJRU2N0Y0RKbjNnN0JuRmVrQWRfcXVXekZidVNnWFNQVXMwZi1ZcG11VEZFUldMVy1NZGdCczduOUQtZTcyUFB4WDU4SEE0SV9HWW1R?oc=5",
         "date": "Mon, 27 Jul 2026 03:59:00 GMT",
-        "source": "Fanatik",
+        "source": "fanatik.com.tr",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -352,10 +352,10 @@
       },
       {
         "title": "Çorum FK'ye A Sınıfı Mali Yeterlilik",
-        "summary": "Çorum FK'ye A Sınıfı Mali Yeterlilik sporx.com",
+        "summary": "Çorum FK'ye A Sınıfı Mali Yeterlilik Sporx.com",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43R0FhdVBWR2lSbGRJUjRlZmhxRUZJQ2V4TWs4WnJ6aDQtZEZITHZuUTBjMm4tY2VFZk9zelV4amJUdklFc1ZLd21qdlNFc2EtMkhhRFdJQjZLREpUQVdDUlRyanhKYTVSaGVMNTNnSWxMZmR5ZkstQ1ppUmpGQmfSAYIBQVVfeXFMTk1xcVRoNmNxaXJ1OVl0eUU3TGx0M0hUMmRpanFvbXE5d1NQM084RTgzQWZkdXBodmV3bjVaSERKUEZ1cnM2MTRlSlRHdjd4RzFRZnMzOC1kbWpjcVB1ajZ0enc3MldZeXVJU3JnSS1ncUxtWF9Sd2J1eVEzZ2pYamRYdw?oc=5",
         "date": "Fri, 24 Jul 2026 11:08:00 GMT",
-        "source": "sporx.com",
+        "source": "Sporx.com",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -363,21 +363,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       }
     ],
-    "milli": [
-      {
-        "title": "Altay Bayındır'a teklif var! Gözler ManU'da",
-        "summary": "A Milli Futbol Takımı'mızın eldivenlerinden Altay Bayındır için La Liga ekibi teklifini iletti.",
-        "link": "https://www.hurriyet.com.tr/sporarena/altay-bayindira-teklif-var-gozler-manuda-43258025",
-        "date": "Fri, 31 Jul 2026 12:11:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6c914ae46f2920105849fb.jpg",
-        "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6c914ae46f2920105849fb.jpg"
-      }
-    ],
+    "milli": [],
     "superlig": [
       {
         "title": "Trabzonspor'dan gol kralına kanca!",
@@ -420,6 +406,58 @@
       }
     ],
     "transfer": [
+      {
+        "title": "'Güvenilir birine benziyordu' öngörüsü pahalıya patladı: UYAP'tan her şeyine baktık",
+        "summary": "Kentte oto kiralama işi yapan Mehmet Sayın, 27 Temmuz Pazartesi günü Y.Ç. isimli bir kişiye otomobil kiraladı. Aracı kiralayan kişinin, bir süre sonra otomobilin GPS takip cihazını sökerek ortadan kaybolduğu öne sürüldü. Sayın, polise gidip şikayetçi olurken Y.Ç.'nin aynı yöntemle toplam 8 farklı aracı aldığı iddia edildi. Öte yandan Y.Ç.’nin, araç kiralama sırasında evrakları imzaladığı anlar güvenlik kameralarınca kaydedildi. \"GÜVENİLİR BİRİNE BENZİYORDU\" Aracı çalınan işyeri sahibi Mehmet Sayın, \"Pazartesi günü Y.Ç. adında bir müşteri geldi ve araba istedi. Şartlarına ve durumuna baktı. Zaten UYAP'tan icrasına, mahkemesine kadar her şeyine bakıyoruz. Üzerine kayıtlı bir araç da vardı. Herhangi bir problem yoktu prosedürle alakalı, güvenilir birine benziyordu. Bir otomobil verdik, bir günlüğüne kiraladı, sonra süresini birkaç gün uzattı\" dedi. \"ARAÇLARIN GPS'LERİNİ SÖKMÜŞLER\" Sayın, aracı kiralayan kişinin 3 gün sonra GPS’sini söktüğünü öne sürerek, \"Aracı kiraladıktan sonra geçen 3 günün ardından ulaşamadık kendisine, GPS'ten haber alamadık. O arada zaten duyduk ki bizim haricimizde başka firmalardan araç kiralamış. Onlar da aynı şekilde ulaşamamış. Araçların GPS'leri hep sökülmüş. Bununla alakalı aracımızın bulunmasını istiyorum. Kimsenin canı yanmasın. Polislerimize güveniyoruz, umarım aracımız en kısa zamanda bulunur\" diye konuştu. \"8 LÜKS ARAÇ ÇALINDI\" Şahsın toplamda 8 aracı çaldığını öne süren Sayın, \"Bildiğimiz, duyduğumuz 8 araçtan bahsediyorlar. Hepsi lüks marka otomobiller. En yakın zamanda bulunursa sevineceğiz. Polise şikayetimizi de yaptık. Canımız yandı, kimsenin canı yanması. En yakın zamanda bulunmasını istiyoruz\" ifadelerini kullandı.",
+        "link": "",
+        "date": "Sat, 01 Aug 2026 07:18:25  Z",
+        "source": "Milliyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": null,
+        "category": "transfer",
+        "image": "https://images.unsplash.com/photo-1556056504-5c7696c4c28d?w=1200&q=85"
+      },
+      {
+        "title": "Sacha Boey'e transfer engeli!",
+        "summary": "Galatasaray'ın geçtiğimiz sezonun devre arasında kiraladığı eski oyuncusu Sacha Boey'in yabancı kuralı engeline takıldığı iddia edildi.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/01/sacha-boeye-transfer-engeli",
+        "date": "Sat, 01 Aug 2026 09:42:04 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/81132f/1200/675/0/0/2048/1153?u=https://isbh.tmgrup.com.tr/sbh/2026/08/01/sacha-boeye-transfer-engeli-1785566468316.jpg",
+        "category": "transfer",
+        "image": "https://iasbh.tmgrup.com.tr/81132f/1200/675/0/0/2048/1153?u=https://isbh.tmgrup.com.tr/sbh/2026/08/01/sacha-boeye-transfer-engeli-1785566468316.jpg"
+      },
+      {
+        "title": "Yüksel Yıldırım: Antoine Sekongo, Samsunspor'a hayırlı olsun",
+        "summary": "Samsunspor Başkanı Yüksel Yıldırım, Malili orta saha oyuncusu Antoine Sekongo'nun transferini tamamladıklarını açıkladı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/01/yuksel-yildirim-antoine-sekongo-samsunspora-hayirli-olsun",
+        "date": "Sat, 01 Aug 2026 09:35:46 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/ef6d29/1200/675/0/86/602/425?u=https://isbh.tmgrup.com.tr/sbh/2026/08/01/yuksel-yildirim-antoine-sekongo-samsunspora-hayirli-olsun-1785566120136.jpg",
+        "category": "transfer",
+        "image": "https://iasbh.tmgrup.com.tr/ef6d29/1200/675/0/86/602/425?u=https://isbh.tmgrup.com.tr/sbh/2026/08/01/yuksel-yildirim-antoine-sekongo-samsunspora-hayirli-olsun-1785566120136.jpg"
+      },
+      {
+        "title": "Fenerbahçe'de Fred için ayrılık şartı!",
+        "summary": "Fenerbahçe'de geleceği merak konusu olan Fred'in Brezilya ekibiyle el sıkıştığı ancak transferdeki tek engelin bonservis bedelinin olduğu öğrenildi.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/01/fenerbahcede-fred-icin-ayrilik-sarti",
+        "date": "Sat, 01 Aug 2026 09:16:01 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/cee3fe/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/08/01/fenerbahcede-fred-icin-ayrilik-sarti-1785564894083.jpg",
+        "category": "transfer",
+        "image": "https://iasbh.tmgrup.com.tr/cee3fe/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/08/01/fenerbahcede-fred-icin-ayrilik-sarti-1785564894083.jpg"
+      },
       {
         "title": "Arsenal Guimaraes'in ücretini kabul etti - Cumartesi günkü dedikodular",
         "summary": "Arsenal ve Newcastle, Bruno Guimaraes'in ücreti konusunda anlaştı, Inter Milan, Curtis Jones'un teklifini artırdı ve Cristian Romero İspanyol hamlesini araştırdı ve daha fazlası.",
@@ -473,19 +511,6 @@
         "image": "https://iasbh.tmgrup.com.tr/941965/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/31/julian-brandt-ajaxa-imza-atti-1785524042599.jpg"
       },
       {
-        "title": "Eyüpspor, Abdelhamid Sabiri’yi transfer etti!",
-        "summary": "Eyüpspor, 29 yaşındaki on numara Abdelhamid Sabiri ile anlaştı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/31/eyupspor-abdelhamid-sabiriyi-transfer-etti",
-        "date": "Fri, 31 Jul 2026 21:33:08 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/f49f02/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/31/eyupspor-abdelhamid-sabiriyi-transfer-etti-1785522785855.jpg",
-        "category": "transfer",
-        "image": "https://iasbh.tmgrup.com.tr/f49f02/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/31/eyupspor-abdelhamid-sabiriyi-transfer-etti-1785522785855.jpg"
-      },
-      {
         "title": "Chelsea’ye transfer yasağı cezası şoku!",
         "summary": "Chelsea, İngiltere Futbol Federasyonu tarafından 2 dönem transfer yasağı cezasına çarptırıldı.Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/07/31/chelseaye-transfer-yasagi-cezasi-soku",
@@ -536,79 +561,40 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6cc7f41d5b1879820c0218.jpg",
         "category": "transfer",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6cc7f41d5b1879820c0218.jpg"
-      },
-      {
-        "title": "Hamas Gazze'de ikinci aşamanın şartını açıkladı! 'İlk aşama tamamlanmadan ilerlenmeyecek'",
-        "summary": "Hamas yetkilisi Hamad, yaptığı açıklamada, İsrail'in Gazze'den çekilmesi ve yeniden yapılanmayı da içeren kapsamlı bir paket anlaşma üzerinde mutabakata vardıklarını söyledi. Gazze anlaşmasının genel ilkeler üzerinde varılan bir uzlaşıyı içerdiğini kaydeden Hamad, uygulamanın mekanizmalarını ve zaman çizelgelerini belirlemek üzere ilerleyen süreçte yeni bir görüşme turu daha yapılacağını aktardı. \"BİR ÖNCEKİ AŞAMA TAMAMLANMADAN BİR SONRAKİ AŞAMAYA GEÇMEYECEĞİZ\" İsrail'in Gazze'den çekilmesi, yeniden imar, uluslararası bir gücün konuşlanması ve Ulusal Komitenin görevlerini devralmasını içeren kapsamlı paket anlaşmasını kabul ettiklerini hatırlatan Hamad, şunları kaydetti: \"İsrail Gazze anlaşmasındaki yükümlülüklerini yerine getirmezse biz de kendi yükümlülüklerimizi yerine getirmeyeceğiz. Bir önceki aşamanın uygulanması tamamlanmadan hiçbir şekilde bir sonraki aşamaya geçmeyeceğiz.\" Hamad, silahlarla ilgili düzenlemelerin uygulanmasının, \"İsrail'in ateşkes anlaşmasının ilk aşamasını uygulaması, Gazze'den çekilmesi, Ulusal Komitenin görevlerini devralması, uluslararası gücün konuşlanması ve çetelerin dağıtılması şartına bağlı olduğunu\" vurguladı. Anlaşmanın ağır silahların durumuna da açıklık getirdiğini aktaran Hamad, İsrail'in yükümlülüklerini yerine getirmesinin ardından ağır silahların Filistin Ulusal Komitesinin sorumluluğu altında depolanmasının öngörüldüğünü ifade etti. Hamas yetkilisi Hamad ayrıca, anlaşmanın, uygulamayı sürekli olarak takip etmekle görevli uluslararası bir komitenin bulunmasını öngördüğünü ifade etti. HAMAS: FİLİSTİNLİ GRUPLARLA BİRLİKTE İKİNCİ AŞAMA KONUSUNDA MÜZAKERELERE SORUMLU VE OLUMLU YAKLAŞTIK Hamas'tan yapılan yazılı açıklamada, bu sorumlu yaklaşımın Filistin halkını korumayı ve insani ihtiyaçlarını karşılamayı amaçlayan ulusal bir uzlaşm",
-        "link": "",
-        "date": "Fri, 31 Jul 2026 14:38:03  Z",
-        "source": "Milliyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": null,
-        "category": "transfer",
-        "image": "https://images.unsplash.com/photo-1556056504-5c7696c4c28d?w=1200&q=85"
-      },
-      {
-        "title": "Chelsea, menajer ihlalleri nedeniyle FA tarafından 10 milyon £ para cezasına çarptırıldı ve transfer yasağı ertelendi",
-        "summary": "Kulüpten kaçış, temyiz üzerine altı puanlık kesintiyi askıya aldı Sahipler, önceki rejim Chelsea'nin gizli ödemeler yaptığını itiraf etti, FA tarafından 10 milyon £ para cezasına çarptırıldı ve Roman Abramovich döneminde transfer kurallarının birden fazla ihlali nedeniyle ertelenmiş transfer yasağı ile görevlendirildi. Yaptırım, kulübün lisanssız menajerler kullandığı ve 2009 ile 2022 yılları arasındaki transfer anlaşmalarının niteliğini gizlemeye çalıştığı tespit edildikten sonra bu yılın başlarında Premier Lig tarafından Blues'a verilen benzer bir cezayı yansıtıyor. Chelsea efsaneleri Samuel Eto'o, Eden Hazard ve Willian'ın dahil olduğu anlaşmalar, kuralları ihlal ettiği tespit edilenler arasındaydı. Komisyon başlangıçta Chelsea'ye altı puanlık cezanın ertelenmesini sağlayacak daha güçlü bir yaptırım kararı vermişti, ancak kulübün itirazı sonrasında bu karar bozuldu. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/jul/31/chelsea-fined-10m-suspended-transfer-ban-fa-agent-breaches",
-        "date": "Fri, 31 Jul 2026 13:55:58 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/efc2d654772969ab7bee08f41d778e68c9cc244a/474_0_2459_1968/master/2459.jpg?width=140&quality=85&auto=format&fit=max&s=feb410505aacf71fbb5a227b73223f54",
-        "category": "transfer",
-        "image": "https://i.guim.co.uk/img/media/efc2d654772969ab7bee08f41d778e68c9cc244a/474_0_2459_1968/master/2459.jpg?width=140&quality=85&auto=format&fit=max&s=feb410505aacf71fbb5a227b73223f54"
-      },
-      {
-        "title": "Acun Ilıcalı'dan Carlos Espi açıklaması: 'Hiçbir teklifte bulunmadık!'",
-        "summary": "Real Madrid, Levante'den Carlos Espi'yi kadrosuna kattığını açıkladı. Transfer öncesinde Hull City'nin de genç golcü için devrede olduğu ve anlaşmaya yaklaştığı öne sürülmüştü. Ancak Acun Ilıcalı bu iddiaları yalanladı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/acun-ilicalidan-carlos-espi-aciklamasi-hicbir-teklifte-bulunmadik-43258049",
-        "date": "Fri, 31 Jul 2026 12:16:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6c91f417406fbcc1e32b0a.jpg",
-        "category": "transfer",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6c91f417406fbcc1e32b0a.jpg"
       }
     ],
     "worldcup": [
       {
+        "title": "Pazarlama gösterisi mi yoksa 'olağanüstü' transfer mi? Ravenna hayranları Ronaldinho Etkisi dalgasını sürüyor",
+        "summary": "Brezilya efsanesinin 46 yaşında Serie C'de oynama kararı taraftarları ikiye böldü - ancak anlaşmayı ayarlayan adamın büyük umutları var Futbolun zaferinden çok beşinci yüzyıldan kalma Bizans mozaikleri ve Dante'nin mezarıyla tanınan bir şehir olan Ravenna'da kavurucu bir yaz öğleden sonrasında, dünya futbolunun en tanınmış isimlerinden biri olan, Dünya Kupası'nın son devre arası şovunda Madonna ve Ronaldo'yla birlikte yer alan Ronaldo de Assis Moreira'nın tarihi merkezinde gözler dikiliyor. Ronaldinho olarak biliniyor. Bir kafede oturan dört Ravenna taraftarı, İtalya'nın ünlü pembe spor gazetesi La Gazzetta dello Sport'u karıştırırken kuru bir ironiyle \"Onu henüz görmedik\" diyor. İmzayı tamamen ticari bir operasyon olarak gördükleri inkar edilemez derecede şüpheci, ancak derinlerde hâlâ 2005 Ballon d'Or ve 2002 Dünya Kupası galibinin sarı ve kırmızı formasını giyme hayalini taşıyorlar. Okumaya devam edin...",
+        "link": "https://www.theguardian.com/football/2026/aug/01/marketing-stunt-or-extraordinary-transfer-ravenna-fans-ronaldinho",
+        "date": "Sat, 01 Aug 2026 07:00:46 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/40b06000524430ceabc1189458f55f54f905172a/818_190_2995_2396/master/2995.jpg?width=140&quality=85&auto=format&fit=max&s=4e554484abfa09db458cbfcab60960a1",
+        "category": "worldcup",
+        "image": "https://i.guim.co.uk/img/media/40b06000524430ceabc1189458f55f54f905172a/818_190_2995_2396/master/2995.jpg?width=140&quality=85&auto=format&fit=max&s=4e554484abfa09db458cbfcab60960a1"
+      },
+      {
         "title": "FIFA tartışmalı Dünya Kupası yatırım planını iptal etti",
-        "summary": "Futbolun dünya yönetim organı, başkan Gianni Infantino'nun fikrine karşı yaygın muhalefetin ardından büyük müsabakalardaki hisselerini satma planlarından vazgeçti.",
+        "summary": "Futbolun dünya yönetim organı FIFA, başkan Gianni Infantino'nun teklifine karşı yaygın muhalefetin ardından büyük müsabakalardaki hisselerini satma planlarından vazgeçti.",
         "link": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 31 Jul 2026 23:55:50 GMT",
+        "date": "Sat, 01 Aug 2026 05:42:31 GMT",
         "source": "BBC Sport",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "lang": "en",
         "cat": "en",
         "feedImage": null,
         "category": "worldcup",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg"
-      },
-      {
-        "title": "FIFA, yaygın tepkilerin ardından Dünya Kupası'ndaki hisselerini satma teklifini iptal etti",
-        "summary": "Gianni ⁠Infantino, tartışmalı planı sona erdiren bir açıklama yayınladı FIFA başkanı FIFA başkanı Gianni ⁠Infantino, dünya futbolunun yönetim organının, yaygın tepki sonrasında Dünya Kupası'ndaki hisselerini özel yatırımcılara satma planlarını iptal ettiğini söyledi. Infantino, \"Tüm görüşleri dikkatlice dinledikten sonra, projenin, destek seviyesi ne olursa olsun, artık ilk etapta belirlenen hedefin çıkarına olmayan türden bölünmeler yarattığı açıkça ortaya çıktı\" dedi. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash",
-        "date": "Fri, 31 Jul 2026 23:55:44 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/fa8a8bd0142431c078d3937f11faa42c43e0d165/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=e11de24515d9e8b120246b0ac1d596d5",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/fa8a8bd0142431c078d3937f11faa42c43e0d165/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=e11de24515d9e8b120246b0ac1d596d5"
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6843/live/935b3ad0-8d6c-11f1-a7ab-8b30adf0800a.jpg"
       },
       {
         "title": "Infantino uçurumun eşiğinde mi? Eğer giderse yerine kim gelebilir?",
-        "summary": "FIFA başkanı Gianni Infantino, Dünya Kupası hisselerini satma girişiminin ardından fırtınanın ortasında kaldı. O giderse kim girer?",
+        "summary": "FIFA başkanı Gianni Infantino, Dünya Kupası'ndaki hisselerini satma girişimini iptal ettikten sonra fırtınanın ortasında kaldı. O giderse kim girer?",
         "link": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 31 Jul 2026 19:22:15 GMT",
+        "date": "Sat, 01 Aug 2026 00:04:26 GMT",
         "source": "BBC Sport",
         "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "lang": "en",
@@ -618,8 +604,21 @@
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/feaa/live/b1e19dc0-8cf7-11f1-b2ab-0dd01740f9f6.jpg"
       },
       {
+        "title": "FIFA, yaygın tepkilerin ardından Dünya Kupası'ndaki hisselerini satma teklifini iptal etti",
+        "summary": "Gianni ⁠Infantino tartışmalı plan hakkında bir açıklama yayınladı, FIFA başkanı Gianni Infantino'nun Dünya Kupası'nın büyük bir kısmını özel yatırımcılara satma teklifinin sansasyonel bir şekilde çöktüğünü doğruladı, FIFA başkanı projenin \"artık amacın çıkarına olmayan bir tür bölünmeler yarattığını\" kabul etti ve küresel çapta yaygın bir öfke vardı. Plan, dünya çapında futbolda sürtüşmelere neden olmuş ve UEFA'nın, rafa kaldırılmaması halinde gelecekteki FIFA turnuvalarını boykot etme tehdidinde bulunmasına yol açmıştı. Diğer konfederasyonlar da muhalefette bulunurken, Infantino'nun kıdemli danışmanlarından Carlos Cordeiro, planı protesto etmek için Cuma günü istifa etti. FIFA'nın baş operasyon sorumlusu Kevin Lamour da, Infantino'nun asgari düzeyde istişarede bulunmaya çalışarak \"ciddi saygı eksikliğine\" sert bir şekilde sitem etmeyi amaçlamıştı. Okumaya devam edin...",
+        "link": "https://www.theguardian.com/football/2026/aug/01/fifa-scraps-plan-to-sell-off-stakes-in-world-cup-after-widespread-backlash",
+        "date": "Fri, 31 Jul 2026 23:55:44 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/fa8a8bd0142431c078d3937f11faa42c43e0d165/505_406_1992_1594/master/1992.jpg?width=140&quality=85&auto=format&fit=max&s=7a577acee104dc7c5efb4f4373242150",
+        "category": "worldcup",
+        "image": "https://i.guim.co.uk/img/media/fa8a8bd0142431c078d3937f11faa42c43e0d165/505_406_1992_1594/master/1992.jpg?width=140&quality=85&auto=format&fit=max&s=7a577acee104dc7c5efb4f4373242150"
+      },
+      {
         "title": "Arsenal'in şampiyonluk savunması: yorgun oyuncuları formda tutmak ve Vinícius sorusu",
-        "summary": "Önemli oyuncular Dünya Kupası'nda fazladan dakika biriktirdiler ve Vinícius Júnior'a imza atmak maaş yapılarını altüst edecekti Geçen hafta sonu hazırlık maçında MK Dons'u 3-0 mağlup eden Arsenal, Cumartesi akşamı Girona'ya karşı sezon öncesi programına gerçek anlamda başlıyor. Bu, geçen sezonki başarılarının tek seferlik olmadığını göstermek isteyen Premier Lig şampiyonları için aksiyona dönüş anlamına geliyor. Eğer Manchester City değilseniz, İngilizce unvanını korumak inanılmaz derecede zordur. Manchester United 2007'den 2009'a kadar art arda üç galibiyet aldığından beri başka hiçbir kulüp bunu başaramadı. Chelsea bunu bir kez yaptı, Liverpool ise 40 yıldan fazla bir süredir bunu başaramadı ve bu, Arsenal'in tacı elinde tutmasından bu yana geçen yüzyılın en iyi kısmı. Mikel Arteta büyük bir zorlukla karşı karşıya. Okumaya devam edin...",
+        "summary": "Önemli oyuncular Dünya Kupası'nda fazladan dakika biriktirdiler ve Vinícius Júnior'a imza atmak maaş yapılarını altüst edecekti Geçen hafta sonu hazırlık maçında MK Dons'u 3-0 mağlup eden Arsenal, Cumartesi akşamı Girona'ya karşı sezon öncesi programına gerçek anlamda başlıyor. Bu, geçen sezonki başarılarının tek seferlik olmadığını göstermek isteyen Premier Lig şampiyonları için aksiyona dönüş anlamına geliyor. Manchester City değilseniz, İngilizce unvanını korumak inanılmaz derecede zordur. Manchester United 2007'den 2009'a kadar art arda üç galibiyet aldığından beri başka hiçbir kulüp bunu başaramadı. Chelsea bunu bir kez yaptı, Liverpool ise 40 yıldan fazla bir süredir bunu başaramadı ve bu, Arsenal'in tacı elinde tutmasından bu yana geçen yüzyılın en iyi kısmı. Mikel Arteta büyük bir zorlukla karşı karşıya. Okumaya devam edin...",
         "link": "https://www.theguardian.com/football/2026/jul/31/arsenal-mikel-arteta-injuries-fatigue-title-defence",
         "date": "Fri, 31 Jul 2026 19:00:31 GMT",
         "source": "The Guardian",
@@ -642,19 +641,6 @@
         "feedImage": "https://i.guim.co.uk/img/media/b9a4940d54eda422895fec167ef68d1e3d0bd6ad/391_105_3462_2770/master/3462.jpg?width=140&quality=85&auto=format&fit=max&s=25751b718758cb6e0b96068cbab40db7",
         "category": "worldcup",
         "image": "https://i.guim.co.uk/img/media/b9a4940d54eda422895fec167ef68d1e3d0bd6ad/391_105_3462_2770/master/3462.jpg?width=140&quality=85&auto=format&fit=max&s=25751b718758cb6e0b96068cbab40db7"
-      },
-      {
-        "title": "Can Uzun'dan Dünya Kupası itirafı! 'Hiç düşünmemiştim'",
-        "summary": "Eintracht Frankfurt forması giyen Can Uzun, kulüp Youtube kanalına yaptığı açıklamada Türkiye’nin Dünya Kupası macerasını değerlendirdi.",
-        "link": "https://www.hurriyet.com.tr/sporarena/can-uzundan-dunya-kupasi-itirafi-hic-dusunmemistim-43257995",
-        "date": "Fri, 31 Jul 2026 11:32:28 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6c878d3c0e5aec401380aa.jpg",
-        "category": "worldcup",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6c878d3c0e5aec401380aa.jpg"
       },
       {
         "title": "Fransa'nın baş antrenörü olarak atanan Zidane'ın Dünya Kupası ustalık sınıfını yeniden yaşayın",
@@ -681,12 +667,155 @@
         "feedImage": null,
         "category": "worldcup",
         "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c733/live/c7ce51e0-8519-11f1-b976-0b9c15b0ccfc.jpg"
+      },
+      {
+        "title": "'İşini kurtarmak için umutsuz bir girişim!' | Infantino, Dünya Kupası'nı satma planını iptal etti",
+        "summary": "Kaveh Solhekol, FIFA'nın Dünya Kupası'nın bir kısmını özel yatırımlara satmayı planlaması nedeniyle en son güncellemeyi sağlıyor.",
+        "link": "https://www.skysports.com/watch/video/13568962/fifa-president-gianni-infantino-scraps-plan-to-sell-off-world-cup",
+        "date": "Sat, 01 Aug 2026 08:14:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://e0.365dm.com/26/08/1600x900/skysports-fifa-infantino_7311687.jpg?20260801081824"
+      },
+      {
+        "title": "Infantino, Dünya Kupası hisselerini satma planından vazgeçti",
+        "summary": "FIFA başkanı Gianni Infantino, futbolun yönetim organlarının şiddetli muhalefetinin ardından gelecekteki Dünya Kupası kârlarından bir hisseyi özel sermaye yatırımcılarına satma yönündeki tartışmalı planından vazgeçti.",
+        "link": "https://www.skysports.com/football/news/12040/13568949/fifa-president-gianni-infantino-abandons-plans-to-sell-world-cup-profits-to-private-equity-after-widespread-criticism",
+        "date": "Sat, 01 Aug 2026 07:24:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://e0.365dm.com/26/07/1600x900/skysports-fifa-football-gianni-infantino_7310907.jpg?20260731075152"
       }
     ],
     "magazine": [],
     "general": [
       {
-        "title": "Rangers, McInnes dönemini Dundee United'da beraberlikle başlatırken Aasgaard saldırdı",
+        "title": "Fenerbahçe'de gündem forvet! İki golcü ile görüşmeler başladı",
+        "summary": "Gelecek sezona mutlak şampiyonluk parolası ile başlayacak Fenerbahçe, Avrupa'nın iki önemli golcüsü ile ilgileniyor.",
+        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-gundem-forvet-iki-golcu-ile-gorusmeler-basladi-43258593",
+        "date": "Sat, 01 Aug 2026 06:46:02 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6d95e7e46f292010584da8.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6d95e7e46f292010584da8.jpg"
+      },
+      {
+        "title": "Galatasaray'dan Enciso harekatı!",
+        "summary": "On numara pozisyonuna bir takviye yapmayı planlayan Galatasaray, Julio Enciso için temaslarını sıklaştırdı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/01/galatasaraydan-enciso-harekati",
+        "date": "Sat, 01 Aug 2026 09:44:23 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/40bff7/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/01/galatasaraydan-enciso-harekati-1785566632549.jpg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/40bff7/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/01/galatasaraydan-enciso-harekati-1785566632549.jpg"
+      },
+      {
+        "title": "Fenerbahçe'de Amrabat gelişmesi!",
+        "summary": "Fenerbahçe'de kadroda düşünülmeyen Sofyan Amrabat için Real Betis yeniden devreye girdi.",
+        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-amrabat-gelismesi-43258562",
+        "date": "Sat, 01 Aug 2026 06:33:18 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6d92b8a64e05517541f465.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6d92b8a64e05517541f465.jpg"
+      },
+      {
+        "title": "SON DAKİKA HABERLER: Haritalar değişiyor! Bir ülke daha adını değiştirdi",
+        "summary": "Dünyanın yüzölçümü bakımından en küçük cumhuriyeti, tarihi bir kararla onlarca yıldır kullandığı resmi adını değiştirdi. Uluslararası kuruluşlara da bildirilen değişiklikle birlikte ülkenin adı, kodu ve vatandaşlarının resmi tanımı bile yenilendi. 12 BİN NÜFUSLU Söz konusu ülke, Pasifik Okyanusu'nun ortasında yer alan yaklaşık 12 bin nüfuslu Nauru. Alınan kararla birlikte ülke artık uluslararası alanda \"Naoero Cumhuriyeti\" adıyla anılacak. Yeni düzenlemeye göre ülkenin kısa adı \"Naoero\", uluslararası ülke kodu ise \"NRO\" olacak. Ülke vatandaşları da resmi kayıtlarda bundan böyle \"dei-Naoero\" olarak tanımlanacak. KARAR BM'YE RESMEN BİLDİRİLDİ İsim değişikliğinin ardından Naoero hükümeti, başta Birleşmiş Milletler olmak üzere uluslararası kuruluşlar ve dünya devletlerini resmen bilgilendirdi. Birleşmiş Milletler yetkilileri de isim değişikliği bildirisinin 26 Haziran'da kendilerine ulaştığını doğruladı. REFERANDUMDAN VAZGEÇİLDİ İsim değişikliğinin hukuki altyapısı, mayıs ayında parlamentoda kabul edilen anayasa değişikliğiyle oluşturuldu. İlk etapta kararın halk oylamasına sunulması planlansa da Devlet Başkanı David Adeang, referanduma gerek olmadığını açıkladı. Adeang, \"Naoero\" adının zaten ulusal armada yer aldığını ve halk arasında uzun yıllardır kullanıldığını belirterek bunun yeni bir kimlik oluşturmak değil, mevcut kimliği resmileştirmek anlamına geldiğini ifade etti. YILLARDIR KULLANILAN İSİM ASLINDA BİR TELAFFUZ HATASIYMIŞ Hükümete göre uzun yıllardır kullanılan \"Nauru\" adı, geçmişte yabancıların yerel ismi doğru telaffuz edememesi nedeniyle ortaya çıktı. Yetkililer, yalnızca yabancıların telaffuzunu kolaylaştırmak amacıyla resmileştirilen bu ismin halkın gerçek tercihini yansıtmadığını belirterek, alınan kararla birlikte ülkenin köklerine döndüğünü vurguladı. AMAÇ",
+        "link": "",
+        "date": "Sat, 01 Aug 2026 06:28:59  Z",
+        "source": "Milliyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1200&q=85"
+      },
+      {
+        "title": "Lacey ve Tyler Fletcher Man Utd akademi kuyruğunda önde",
+        "summary": "Shea Lacey ve Tyler Fletcher, bu sezon büyükler kadrosuna girme ihtimali en yüksek olan Manchester United akademi oyuncuları.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq897zlv9nko?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 01 Aug 2026 05:27:03 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/80af/live/cda8d180-8d02-11f1-b2ab-0dd01740f9f6.jpg"
+      },
+      {
+        "title": "Sadece eleme maçı değil, memleket meselesi!",
+        "summary": "Fenerbahçe'nin Sturm Graz, Beşiktaş'ın Hradec Kralove ile oynayacağı maçlar ülke puanı açısından da kritik öneme sahip.",
+        "link": "https://www.hurriyet.com.tr/sporarena/sadece-eleme-maci-degil-memlekete-meselesi-43258495",
+        "date": "Sat, 01 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6d1ebd1d5b1879820c0346.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6d1ebd1d5b1879820c0346.jpg"
+      },
+      {
+        "title": "İnşaat sürerken 'giriş niye çamur?' diye sorulmaz!",
+        "summary": "Taraftarın detaylara kafa patlatması normal ama ya spor yayıncıları? Fenerbahçe eğer temmuz ayında çıktığı eleme turunu geçtiyse, o aşama için başarılıdır.",
+        "link": "https://www.hurriyet.com.tr/sporarena/insaat-surerken-giris-niye-camur-diye-sorulmaz-43258432",
+        "date": "Sat, 01 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6d824ae46f292010584d4a.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6d824ae46f292010584d4a.jpg"
+      },
+      {
+        "title": "Beşiktaş'ın turlaması Danimarka basınında: 'Aptalca bir kırmızı kart!'",
+        "summary": "Beşiktaş'ın deplasmanda Midtjylland zaferi Danimarka basınında da geniş yer buldu.",
+        "link": "https://www.hurriyet.com.tr/sporarena/besiktasin-turlamasi-danimarka-basininda-aptalca-bir-kirmizi-kart-43258490",
+        "date": "Sat, 01 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6d1e1d1d5b1879820c0330.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6d1e1d1d5b1879820c0330.jpg"
+      },
+      {
+        "title": "Öne Çıkanlar: Dundee Utd 1-1 Rangers",
+        "summary": "Derek McInnes'in Rangers menajeri olarak dönemi, Dundee United'ın onları İskoçya Premiership açılış kura çekimine tutmasıyla pek de iyi bir başlangıç ​​yapmadı.",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 31 Jul 2026 23:45:21 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/b1d8/live/aa3f6db0-8d36-11f1-a7ab-8b30adf0800a.jpg"
+      },
+      {
+        "title": "Rangers, McInnes dönemini ve İskoçya Premiership'i başlatmak için Dundee United tarafından tutuldu",
         "summary": "Thelo Aasgaard, Dundee United ile 1-1 berabere kaldıkları mücadelede Rangers menajeri olarak Derek McInnes'e ilk puanını kazandırdı. Lachlan Rose, Premier Lig sezonunun ilk golünü atarak United'a Tannadice karşısında ilk yarıda üstünlük sağladı. Okumaya devam edin...",
         "link": "https://www.theguardian.com/football/2026/jul/31/dundee-united-rangers-scottish-premiership-match-report",
         "date": "Fri, 31 Jul 2026 21:58:49 GMT",
@@ -738,19 +867,6 @@
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6cdad01d5b1879820c023e.jpg"
       },
       {
-        "title": "Beşiktaş’ta 2 ayrılık birden açıklandı!",
-        "summary": "Beşiktaş, Devrim Şahin ve Kartal Cengizer’in ayrılığını açıkladı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/31/besiktasta-2-ayrilik-birden-aciklandi",
-        "date": "Fri, 31 Jul 2026 19:56:51 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/afeceb/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/31/besiktasta-2-ayrilik-birden-aciklandi-1785517007241.jpg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/afeceb/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/07/31/besiktasta-2-ayrilik-birden-aciklandi-1785517007241.jpg"
-      },
-      {
         "title": "Doping yasağına yapılan itirazın ardından Chelsea'li Mudryk, oynama özgürlüğüne kavuştu",
         "summary": "Chelsea ve Ukraynalı kanat oyuncusu Mykhailo Mudryk, Kasım 2024'ten bu yana forma giymiyor ve kulübün antrenman sahasına erişemiyor.",
         "link": "https://www.bbc.co.uk/sport/football/articles/cvg8pvr8e8go?at_medium=RSS&at_campaign=rss",
@@ -762,19 +878,6 @@
         "feedImage": null,
         "category": "general",
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/feee/live/2fbc1cd0-43cd-11f1-903c-97fc83b422d6.jpg"
-      },
-      {
-        "title": "Chelsea 10 milyon £ para cezasına çarptırıldı ancak ertelenen puan kesintisinden kaçınıldı",
-        "summary": "Chelsea, 2009 ile 2022 yılları arasında menajerlere yapılan ödemelerle ilgili kuralları ihlal ettiği gerekçesiyle Futbol Federasyonu tarafından 10 milyon £ para cezasına çarptırıldı.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c5ygz42gedno?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 31 Jul 2026 14:29:20 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4aa1/live/663f9e70-8ce9-11f1-b2ab-0dd01740f9f6.jpg"
       },
       {
         "title": "Fenerbahçe'nin UEFA kadrosunda değişiklik!",
@@ -790,21 +893,8 @@
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6cab8917406fbcc1e32bb1.jpg"
       },
       {
-        "title": "Son dakika: Fenerbahçe’nin UEFA kadrosunda değişiklik! Vedat Muriqi kararı",
-        "summary": "Şampiyonlar Ligi 3. eleme turunda Sturm Graz ile karşı karşıya gelecek olan Fenerbahçe, UEFA’ya kadrosunu bildirdi. Vedat Muriqi kararı dikkat çekti.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/07/31/son-dakika-fenerbahcenin-uefa-kadrosunda-degisiklik-vedat-muriqi-karari",
-        "date": "Fri, 31 Jul 2026 16:58:15 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/2d0207/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/31/son-dakika-fenerbahcenin-uefa-kadrosunda-degisiklik-vedat-muriqi-karari-1785506231253.jpg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/2d0207/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/07/31/son-dakika-fenerbahcenin-uefa-kadrosunda-degisiklik-vedat-muriqi-karari-1785506231253.jpg"
-      },
-      {
         "title": "Erkeklerde Ballon d'Or'u kim kazanmalı?",
-        "summary": "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé ve Lionel Messi, WhoScored'a göre yıllık ödülün ön sıralarında yer alıyor Kulüp ve ülke adına 64 maçta 73 gol; Lionel Messi'nin 2011-12'deki 82 gollü kampanyasından sonra tarihteki herhangi bir oyuncu tarafından en verimli ikinci sezon; bir zamanlar Şampiyonada Jamie Vardy ile birlikte yedek kulübesinde oturan bir adam için fena değil. Harry Kane, bu listedeki diğer birkaç oyuncu gibi genç bir dahi değildi ama burada 33 yaşında futbolun en üst sıralarında yer alıyor. Okumaya devam edin...",
+        "summary": "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé ve Lionel Messi, WhoScored'a göre yıllık ödülün ön sıralarında yer alıyor Kulüp ve milli takım adına 64 maçta 73 gol; Lionel Messi'nin 2011-12'deki 82 gollü kampanyasından sonra tarihteki herhangi bir oyuncu tarafından en üretken ikinci sezon; bir zamanlar Şampiyonada Jamie Vardy ile birlikte yedek kulübesinde oturan bir adam için fena değil. Harry Kane, bu listedeki diğer birkaç oyuncu gibi genç bir dahi değildi ama burada 33 yaşında futbolun en üst sıralarında yer alıyor. Okumaya devam edin...",
         "link": "https://www.theguardian.com/football/who-scored-blog/2026/jul/31/ballon-dor-win-harry-kane-rodri-lamine-yamal-kylian-mbappe-lionel-messi",
         "date": "Fri, 31 Jul 2026 11:24:28 GMT",
         "source": "The Guardian",
@@ -814,84 +904,6 @@
         "feedImage": "https://i.guim.co.uk/img/media/0e126341783c8f6425180a3328778aa05dba7b23/0_0_4715_3772/master/4715.jpg?width=140&quality=85&auto=format&fit=max&s=8cff2d5a9b28f824b82cf71ed4cec11b",
         "category": "general",
         "image": "https://i.guim.co.uk/img/media/0e126341783c8f6425180a3328778aa05dba7b23/0_0_4715_3772/master/4715.jpg?width=140&quality=85&auto=format&fit=max&s=8cff2d5a9b28f824b82cf71ed4cec11b"
-      },
-      {
-        "title": "Avrupa’da Yeni Sezon Yaklaşırken Hazırlık Maçları Sürüyor… Belçika Süper Kupa Finalinde Favori Kim? İşte Misli’de Günün En Çok Oynanan Maçları",
-        "summary": "Misli’de günün iddaa programı içerisinde en çok oynanan bahisleri ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik. Birçok ligin heyecanını Şampiyon Oranlar ile Misli’de yaşayabilirsiniz.",
-        "link": "https://www.hurriyet.com.tr/sporarena/avrupada-yeni-sezon-yaklasirken-hazirlik-maclari-suruyor-belcika-super-kupa-finalinde-favori-kim-iste-mislide-gunun-en-cok-43257973",
-        "date": "Fri, 31 Jul 2026 11:09:42 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6c825de46f29201058498b.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6c825de46f29201058498b.jpg"
-      },
-      {
-        "title": "Club Brugge – U.S. Gilloise maçında KG Var bahsi öne çıkıyor! İşte Misli’den Günün Tüyoları",
-        "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor.",
-        "link": "https://www.hurriyet.com.tr/sporarena/club-brugge-u-s-gilloise-macinda-kg-var-bahsi-one-cikiyor-iste-misliden-gunun-tuyolari-43257946",
-        "date": "Fri, 31 Jul 2026 11:01:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6c801ee46f292010584962.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a6c801ee46f292010584962.jpg"
-      },
-      {
-        "title": "Liverpoollu Jones maç sonrası Szoboszlai ile tartışıyor",
-        "summary": "Liverpool'lu Curtis Jones, takımının Wrexham'ı yenmesinin ardından takım arkadaşı Dominik Szoboszlai ile hararetli bir tartışma yaşıyor.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c4gx07351y8o?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 31 Jul 2026 09:33:41 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3d92/live/3d0388c0-8cbf-11f1-a84f-affcf171240b.jpg"
-      },
-      {
-        "title": "Keegan'ın ikilisi Liverpool'a 1974 FA Cup zaferine ilham veriyor",
-        "summary": "Kevin Keegan, Liverpool'un 1974 FA Cup finalinde Newcastle United'ı 3-0 mağlup ettiği maçta iki gol attı.",
-        "link": "https://www.bbc.co.uk/sport/football/videos/crk5dnyklm0o?at_medium=RSS&at_campaign=rss",
-        "date": "Mon, 20 Jul 2026 14:45:55 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/f543/live/01c1d6f0-8219-11f1-bee8-53ce494e1abc.jpg"
-      },
-      {
-        "title": "Fenerbahçe'de Dzeko ve Tadic için neden veda töreni düzenlenmedi? İşte o flaş gerçek",
-        "summary": "Fenerbahçe'de Edin Dzeko ve Dusan Tadic için veda töreni düzenlenmemesi gündeme oturdu. Konuyla ilgili flaş gerçek ortaya çıktı. İşte detaylar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/fenerbahcede-dzeko-ve-tadic-icin-neden-veda-toreni-duzenlenmedi-iste-o-flas-gercek",
-        "date": "Sat, 31 May 2025 13:25:40 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/590bc8/1200/675/0/33/559/348?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahcede-dzeko-ve-tadic-icin-neden-veda-toreni-duzenlenmedi-iste-o-flas-gercek-1748687047041.jpg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/590bc8/1200/675/0/33/559/348?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahcede-dzeko-ve-tadic-icin-neden-veda-toreni-duzenlenmedi-iste-o-flas-gercek-1748687047041.jpg"
-      },
-      {
-        "title": "FENERBAHÇE HABERİ | Dusan Tadic İstanbul'dan ayrıldı!",
-        "summary": "Fenerbahçe'ye veda eden Dusan Tadic, İstanbul'dan ayrıldı. İşte detaylar... | Son dakika FB spor haberleriDevamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/fenerbahce-haberi-dusan-tadic-istanbuldan-ayrildi",
-        "date": "Sat, 31 May 2025 13:13:16 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/465b43/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahce-haberi-dusan-tadic-istanbuldan-ayrildi-1748686987451.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/465b43/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahce-haberi-dusan-tadic-istanbuldan-ayrildi-1748686987451.jpeg"
       }
     ]
   },
@@ -1397,16 +1409,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1445,16 +1452,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1493,16 +1495,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 3,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1541,16 +1538,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 4,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1589,16 +1581,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1637,16 +1624,11 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1685,16 +1667,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 4,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1733,16 +1710,11 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 4,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1781,16 +1753,11 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 6
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1829,16 +1796,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1877,16 +1839,11 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 3,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1925,16 +1882,11 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 4,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -1973,16 +1925,11 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 2
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -2021,16 +1968,11 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 3,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -2069,16 +2011,11 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 4,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -2117,16 +2054,11 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -2165,16 +2097,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [],
-        "awayForm": [],
-        "homeGoalAvg": "0.0",
-        "awayGoalAvg": "0.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 0,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
