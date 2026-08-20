@@ -1,13 +1,37 @@
 {
-  "updatedAt": "2026-08-19T23:25:32.382Z",
+  "updatedAt": "2026-08-20T05:33:59.853Z",
   "news": {
     "corumsporhaber": [
       {
         "title": "ÇORUM FK, KASIMPAŞA MESAİSİNİ SÜRDÜRDÜ",
-        "summary": "ÇORUM FK, KASIMPAŞA MESAİSİNİ SÜRDÜRDÜ Yozgat Gazetesi",
+        "summary": "ÇORUM FK, KASIMPAŞA MESAİSİNİ SÜRDÜRDÜ yozgatgazetesi.com",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcndSSkJYS3JHeVNRazdjSHViY0FfU0VkVEs0cjZOVDVDZTgyU1hWZE05bkJaY0hZZGQ0VmlSNzVwbkUzNXliNjJXSFpkeXd2LXdYVGk5ZkpCSlNEcXA5dXNQbTU1MUc4LS1UVzhwUktMWURZZFo2eE85NDVYU3VQUXd1aHUwS0g3ZWpJZFBZQ3BlMFpKaFU2cVg1RXFmZw?oc=5",
-        "date": "Wed, 19 Aug 2026 20:05:17 GMT",
-        "source": "Yozgat Gazetesi",
+        "date": "Wed, 19 Aug 2026 20:39:58 GMT",
+        "source": "yozgatgazetesi.com",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK Kasımpaşa Maçına Hazırlanıyor",
+        "summary": "Çorum FK Kasımpaşa Maçına Hazırlanıyor Son Dakika",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbVYxZTRrdGc2QWRjbDhubEkwdXhzWXNXazFSYUhMYzNxOU1ZOVplRHlUMXZudXpLZnQzYzhxSHBRQmlFN2dsakVHYlo0dGR2OGY4a3hmMTBOa0JxS3A4elAxbHBBeVlXQ2lJbWZvS3RRaHJ1VTNaUVhzQl9LU1FGS3JhMUJ5QjJTSmZQSkxB0gGMAUFVX3lxTE1mczVWNlJMZnU5bTRYYVhITFpteUtyc1BQWnU3VkhGNHYtb1pHWlNHZ3BzSWNzTno2X2ZIb2R5TDVCSlNrRjJXQ0JUT3U3U3BNdGo1NFZuREc2cFR3REhMUTJyMWJVQkRlRmJkclZrUzBJX3Z5eEVuRlVSRWltMHN1eTE1YTBEaUhCOGVm?oc=5",
+        "date": "Wed, 19 Aug 2026 20:00:32 GMT",
+        "source": "Son Dakika",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK, Kasımpaşa mesaisini sürdürdü İhlas Haber Ajansı",
+        "summary": "Çorum FK, Kasımpaşa mesaisini sürdürdü İhlas Haber Ajansı İhlas Haber Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcTZpd2d0T3BsQkFNekxxRVFQNklzS2Z4ZFVvbzRpejFsUDljTjNwU1llbHpqRi1TODNHdWwtUkhWVkhVQ2w5UDRzWVdaZC1IR0xFanNwQ2hYQzNXU3pOb09YSi1MU0hOa09aSDM2bENzRzdaVHFZUF9hOTIyZlR4cE4zeEZrT0Nxb2FBMW8wdw?oc=5",
+        "date": "Wed, 19 Aug 2026 19:48:17 GMT",
+        "source": "İhlas Haber Ajansı",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -16,7 +40,7 @@
       },
       {
         "title": "Çorum FK, Kasımpaşa mesaisini sürdürdü",
-        "summary": "Çorum FK, Kasımpaşa mesaisini sürdürdü Habertürk Çorum FK, Süper Lig'de iç sahadaki ilk maçını seyircisiz oynayacak - Adana Demirspor - Spor Haberleri Milliyet Çorum FK Kasımpaşa Maçına Hazırlanıyor Son Dakika",
+        "summary": "Çorum FK, Kasımpaşa mesaisini sürdürdü Habertürk",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWN0bXU0NXpCZE56LU41MTdnTDcxRWdsYmRjc3AxRGJFQUhtNjRYRzRjNjZjQ0xDenBoRW5uT1lpTUtZMHNMR1NYb2tGbHFZdzkyY2NQX19jdlNERDd6c3A2a0lvcUw1RWQwSzU1dVZPd19XWUN1eUlNekpzdmwxalJ3NlpTUzdieEtFdTVycGhhdHZDZV9YbGNCaEtlNVhZc3c?oc=5",
         "date": "Wed, 19 Aug 2026 19:48:00 GMT",
         "source": "Habertürk",
@@ -27,32 +51,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK, Kasımpaşa Maçı Hazırlıklarını Sürdürüyor",
-        "summary": "Çorum FK, Kasımpaşa Maçı Hazırlıklarını Sürdürüyor Haberler",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGQxd3g4alNIcE94OGtIRlVobDY0QmNqb01RVEZ3TVppenphWWlwQmxPVHphMU9NZFRPakkzazlyWlZTZG1tRzdzSThjSm1FWkZFU1Q5QW41M1NZZkw1VW9nQ0ZySkFFeGxseGppNDRvMk93bU11RVUzNFBPTEVuZ2Z4V25xbmlYTHI3cdIBiwFBVV95cUxOWTNVX053OEJyVzdYYjJUODUyMWRBQ3hBVWliUllReTFUeG9TY1o3Zll4bV9ydC1KODZkWXB0UU1xdmhwVzFtZm00V21IVy1LZGJwYzBJbHRlRHJWODJWcVZ1U2NFWjhsUVRBYlQ5eThCcFIwZWU4c0E3VTEzRE1VRXZlQzNXMk1Ucjdr?oc=5",
-        "date": "Wed, 19 Aug 2026 19:48:00 GMT",
-        "source": "Haberler",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Çorum FK'da Kasımpaşa mesaisi devam etti!",
-        "summary": "Çorum FK'da Kasımpaşa mesaisi devam etti! Sabah",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0hyQ3pmY0xCZE14WDc1OGVOWFAzc0RhZzdZRHNvUUZwZDR1c0E3V3d4R1B1TW5RaU9lMmdxSmJxNjZYWTFGUENhNVRmbzBheWlyY2hsZm16VVZDTGd1Yzd1N3Vtd3V5amNTaDNLbWVnX296ODNGWXNZZTlGZUJ2YjdhNHlTUkRMY05CbHl1WE0?oc=5",
-        "date": "Wed, 19 Aug 2026 16:29:34 GMT",
-        "source": "Sabah",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Çorum FK, Kasımpaşa maçının hazırlıklarını sürdürdü",
-        "summary": "Çorum FK, Kasımpaşa maçının hazırlıklarını sürdürdü Habertürk",
+        "summary": "Çorum FK, Kasımpaşa maçının hazırlıklarını sürdürdü Habertürk Çorum FK'da Kasımpaşa mesaisi devam etti! Sabah Kasımpaşa’da Çorum hazırlığı Fotomaç",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2FFM2dzUWJ5UWtLakRkNXBWNlNTbC1rM09GNDdqaHBmeXNGQ3F1WmxrSGZaRkFTZjJIVERpNWxoWHEwd3FGXzZaU1VldEdUMFJIN1JVRS1RNVVlRzRKYkRCQmoyaHZLNDdnTXZINmNRQW1WbEZVbzRYa0NlUHpGSl9RM2lDMVRSRElUckxLUEtnNjBIZFNabnZpZFdUUWZrUTBEOGFUWVdDbUdyYVU0MkxR?oc=5",
         "date": "Wed, 19 Aug 2026 16:01:24 GMT",
         "source": "Habertürk",
@@ -63,11 +63,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK, Kasımpaşa ile maça hazırlıklarını sürdürüyor",
-        "summary": "Çorum FK, Kasımpaşa ile maça hazırlıklarını sürdürüyor mansethaber.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVlhmOTB4SkMxRWFXM3p3enhKVVBCSWhqMGhsSFpwS0RKUVBQVW1YaE1TSUtZX29KVGdvSHZENFpWMzZ5alREMzJHU1VPQ284YXlOb2h6bUVvT0NPVE5IY0pzeGJqTlNiakJNc2d3X2ljR3M0VVd0N2ktSjZHaDFqU1hBSnk4eDZyZ0dmd2MxUU9LbWc?oc=5",
-        "date": "Wed, 19 Aug 2026 16:01:00 GMT",
-        "source": "mansethaber.com",
+        "title": "Çorum FK, Galatasaray maçı sonrası kararını verdi! Kasımpaşa maçında farklı olacak",
+        "summary": "Çorum FK, Galatasaray maçı sonrası kararını verdi! Kasımpaşa maçında farklı olacak Gazete Vatan",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWVYzNWppXzFELVBpcnN6Wm82ZjVJUkdyTm9WZ2ZJMmRYT1RjdmxaTVRULVBKYzdPMlpEUWo4SHkwcFJSVWFyVjJZaVZXa3VvcHpGRFI5aWlpQkxhWDhGU1VPMXJycHpwQmNHR2Z0MC15YnBldmtqZ0ptcTkxX3V3cW1wVUpJYWZDLWlfTW9RRE00LURUWFlmRkJ4bnEtOWZnT0t3SFI0bnFMMEM5ZE5BT0RIMzR1NGZBSXdJTk5xWnNvc0k?oc=5",
+        "date": "Wed, 19 Aug 2026 13:25:23 GMT",
+        "source": "Gazete Vatan",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -111,11 +111,23 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
+        "title": "Fenerbahçe'nin maçını Çorumlu Göktuğ ile birlikte izledi",
+        "summary": "Fenerbahçe'nin maçını Çorumlu Göktuğ ile birlikte izledi Çorum Hakimiyet",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWm1WNEVhRGJmejNWNmpDSVE5M0E1R2l6RmtYNUpVRm9uSVQ2MjVlbV9IRTJRZzVVdE54UXE1S0NkWkkteWRieGNjMzctM2NEMG1qNFpJWnJoQmt2bUpTX05zUTV5R1pOeXd1SGxOVlJCZ2EzN2lHRTc0a3lfNlhCN1llRUpqbU41cmp5VHR1NNIBlAFBVV95cUxPcFdaeExYNXFIdVZ4VG9acmp0MXpSc055OEJKUVhvUTRYUG1DSnZmbFhNRklIVEZ2OUItZWg5TVdqUU9hU0hsdVE3d0tpRUhfeGlOQ1A0eEVWeVhDaDA3MXRPRjY3eUNDUWJmNjNqcF9iMVRUbjhjQUZKYURKd2EwM2pDdDFPZGJGemVNN1hJTzRId19x?oc=5",
+        "date": "Wed, 19 Aug 2026 08:30:00 GMT",
+        "source": "Çorum Hakimiyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
         "title": "Galatasaray yönetiminde anlaşmazlık çıktı: Abdullah Kavukcu istifadan döndü",
-        "summary": "Galatasaray yönetiminde anlaşmazlık çıktı: Abdullah Kavukcu istifadan döndü Ensonhaber",
+        "summary": "Galatasaray yönetiminde anlaşmazlık çıktı: Abdullah Kavukcu istifadan döndü ensonhaber.com",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUN2elpQV2ZVb0JaQUd6MVpFRlBnSGVscnRJREZNdlA4V3BlVHlqdV9qWnFWMkplSFZxS1RRV0w5QUN5NmpRWEo2NDFkYm1KblVlbGg4d0NRVWx5a19CN1hjRXhDYndCNTZjTWlBNDlvSHNUd2I2SW5ZN1VGZHlVSVJCYzZXa2xBNUg4MTVhaFg4bXpwNE9QM1U3MWZBZVNuR1gzM18xNl9Ua1JCUGZj?oc=5",
         "date": "Wed, 19 Aug 2026 07:15:45 GMT",
-        "source": "Ensonhaber",
+        "source": "ensonhaber.com",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -135,11 +147,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "ARCA Çorum FK Başkanı'ndan Minik Taraftara Sürpriz: Fenerbahçe-Lyon Maçında Buluştular",
-        "summary": "ARCA Çorum FK Başkanı'ndan Minik Taraftara Sürpriz: Fenerbahçe-Lyon Maçında Buluştular Haberler",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbnJBZ29ZbTNETFdRRXlIeklZallJZUJ1TS1GcXdrd1Nlc1FTV2t1Vlp3N1hNVmppYnBUQ0dyaTlwZ1J2cHZMY2xYRk80bF9zaVNFU3NtcHg2WWVvRXBGUHlPc2NRSDRoTl9kbldhWHAwaS15cTJLNHRKTllORE5LOWdSMWtWZUVadHJwTzcyUjd6ZXNtZGs4NUVUMHXSAZsBQVVfeXFMTWpFODd2cFYtU2lHLTVyQkNSbXlSVWZhaDQyLTNZbGxUd1Y1anpIZmJZX1k2c3VpTlNRWndhamw2VDRoNS1xNDFQM0ZYazlCdmFCeUcxQnhMYXEzTGE3Z2NldFotd1F4LU1VSnE2bEQ2dmFUcUh5UENNQ0Z0M0tRX2hPcVhSV1dMcmFlbHJHcFNZOFRIMXVCVGxIdWc?oc=5",
-        "date": "Tue, 18 Aug 2026 21:59:15 GMT",
-        "source": "Haberler",
+        "title": "Çorum FK Başkanı Balçık, minik taraftar Göktuğ ile Fenerbahçe-Lyon maçında buluştu",
+        "summary": "Çorum FK Başkanı Balçık, minik taraftar Göktuğ ile Fenerbahçe-Lyon maçında buluştu Milliyet",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzl3NzRmbkFBQ2pJVUxzN3R5QWpoRXJtQU9FY3h2c1lBUHJ3RTAxbDhvNU5fcE9jSThhTWF4WVJHNk1oN1c1Ykc2NUJJNC1FXzhCTmV6enk5VVpDNHdOMGRKam1MSTRNRDlmNWNRZFRYZ3NwVXVDNmZOMjJGdDBCZDZ1M0lnNDR5MjVEM3MwQkY5N1U4WktyMTl2VXR2ZHI3Qzhjag?oc=5",
+        "date": "Wed, 19 Aug 2026 05:52:48 GMT",
+        "source": "Milliyet",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -148,22 +160,10 @@
       },
       {
         "title": "Arca Çorum FK’da basın toplantısı krizi: Gazeteciler tesislerden ayrıldı",
-        "summary": "Arca Çorum FK’da basın toplantısı krizi: Gazeteciler tesislerden ayrıldı Çorum Haber Gazetesi",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNFVyaEVGb3VJbkg1YnE1clB5NHRIVGlJdFJNLVgzakJ1WmM4aFkxN0F3SENFT1NHaUxfV3Y0MklRanRtNmxaTE1UMWVCY0I0eG8xcjRpUTRHNWphY0VNbUlQbnM3dXhKSmNuUHNSb1UwdW1WSXhPNXU4UFdwNEY5SWJjYzhaeUhDNElDMTY5X1dCbU1zanpEbUwwc244QQ?oc=5",
+        "summary": "Arca Çorum FK’da basın toplantısı krizi: Gazeteciler tesislerden ayrıldı corumhaber.net",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSlhURTlQSzRZOUVoTm16bHhxZW1ZSDV5UEhzbHBVV1FjaUpNR2ZzS21hSUFSYWpKTnVzdXplRURydk9tbi1IV0cwN2ExX1JVaFQ4V2dIcktFTGhrUEVSd0ZCRG45M05mdTNySTdWZ19lYlBiSHlNNkFxc2JrOWxKMUZHa2tkSlJJdm14ZWFwV1BNMXNRLWM0Sg?oc=5",
         "date": "Tue, 18 Aug 2026 17:55:00 GMT",
-        "source": "Çorum Haber Gazetesi",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Bismillah ilk maçtan PFDK'lık olduk!",
-        "summary": "Bismillah ilk maçtan PFDK'lık olduk! Çorum Hakimiyet",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nUHdkZVh0dUFab1hqYldnZmZFT1ZKbE8tVzRCSmt6a1hwMDNKUjMyX3JLTjFIQXdBaXY0NXhaRGk0RVFhYTBtZ2Y2blJsenpZdzNxZ2JEUnRHUndFRnItMWxKZ1RyWUpFaDFWZGIzTjA1RWPSAXhBVV95cUxNNmRvSXRkd04tc010eWNtS3cxa0EzT0lvdTdZSVM5R2JGVElidlZEYnJ4UkE3bThwb1BZTzdPUVhrVWFMcUZUR1NjZ3lqXzlrcmNIZWZEQTVUX1hFczRTQmpZMkFWUThRQWlHZlhsUjk3bzRXVnRHYVA?oc=5",
-        "date": "Tue, 18 Aug 2026 15:15:00 GMT",
-        "source": "Çorum Hakimiyet",
+        "source": "corumhaber.net",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -172,10 +172,10 @@
       },
       {
         "title": "Galatasaray'da 13 yıl çalışmıştı: Çorum FK'da göreve başladı",
-        "summary": "Galatasaray'da 13 yıl çalışmıştı: Çorum FK'da göreve başladı Sözcü Gazetesi",
+        "summary": "Galatasaray'da 13 yıl çalışmıştı: Çorum FK'da göreve başladı sozcu.com.tr",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaDM3bVVKZFl5MjN3T2lxdktwSGtyTTRKZmFIQkVTYUxmZldHMml0ZVNFQ1FYdGZWMnZOT0hsdGNnZm1kR3Q1YmNYbkstQnVGTjNvbjZIeVVmUlREYTVvaGZpMmc1NUQyc2RSb0RnMXo5dkQyUklxOHZKdE5ZX3Rfc3FRZHZsMmNfRXJTQkxxMW5zZzhnS1E4?oc=5",
         "date": "Tue, 18 Aug 2026 13:27:31 GMT",
-        "source": "Sözcü Gazetesi",
+        "source": "sozcu.com.tr",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -219,6 +219,30 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
+        "title": "'Karaborsa bilet' operasyonu: İki tutuklama",
+        "summary": "'Karaborsa bilet' operasyonu: İki tutuklama Odatv",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUZQUVZiUkhSS2ZwcTlqeldiQmNHZEZBT1hOQkM5aEN3Rzl6WUZHa0dOMXNZN2J3c0ZEcFBDV1JxU2RybUl6eHVpSHFna3E4TFJDRlZVSnY4NnJMWWRQTVdpWTM2NkVTT3pES0pLak94SVc1QllZQ0NLUlRuS3Z1Y2pBLWpIM3B3WlR6M2JQVmdXQVR5MWxFSW1uQ2ktTWZEbGlvVGFBZ2JDUQ?oc=5",
+        "date": "Tue, 18 Aug 2026 08:13:51 GMT",
+        "source": "Odatv",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Galatasaray-Çorum FK maçında karaborsa bilet satan 2 şüpheli tutuklandı",
+        "summary": "Galatasaray-Çorum FK maçında karaborsa bilet satan 2 şüpheli tutuklandı sozcu.com.tr",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjJ1N3Ntck5GRG10Ulc0VmQ5LS15YkNCR0hwMmZIZGRKUUpUaHJSV1BuV0UzM3RTblVqYXUyZklGdDRvdnM0TG5SeWtIV0hMaC12dnprd2hxYTl4Ry1KUzREQkVEbFR4YTQ4SUVaS0xkTjBzX1U2OFR6bVBGNmprN0hYdkszMmdXVElMMU82b25XQlBDUllxSkpucXFsLTBLcFNHS0lB?oc=5",
+        "date": "Tue, 18 Aug 2026 07:50:42 GMT",
+        "source": "sozcu.com.tr",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
         "title": "Ticaret Bakanı Bolat, Çorum Spor'u Süper Lig'de kutladı",
         "summary": "Ticaret Bakanı Bolat, Çorum Spor'u Süper Lig'de kutladı Saray Medya",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDVhZ3JuOC0yUEt4dndsLWpVbW9OdzNva0ZGd0hJMXFsc3QtM2NSVDNSSzRNM3hGc21ZWHVJVnRCYzVabEhVV0pWV3dLNGlKRVpZbzRaZk16T2k1dGhIRjdwRGZXRUItRWtsdU5zNEFMa3pzVVJndTRIczNYdXN2NkFqUmtKUlk5YUxzb1lNNW5pb1B0MUJSYi1Mbw?oc=5",
@@ -232,10 +256,10 @@
       },
       {
         "title": "Bakan Bolat Arca Çorum Spor'u tebrik etti: Orta Anadolu'ya Süper Lig müjdesi",
-        "summary": "Bakan Bolat Arca Çorum Spor'u tebrik etti: Orta Anadolu'ya Süper Lig müjdesi aksiyon.com.tr",
+        "summary": "Bakan Bolat Arca Çorum Spor'u tebrik etti: Orta Anadolu'ya Süper Lig müjdesi Aksiyon.com.TR",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVZMcUdzLXREdzc4Umw5Yi1jdEpYLUh6cWlTMXJnY0drMlVrX21aT21ETlZzMlJ4SFo0bEVTWDFaNDRLNkNYY2pITE45ZnRqdi03cFN4Mmg3RlNOMEZVUzlTVG9lU29wZ0N4aEdNcFJLcHRZS2RJZnlJdW1lSnNKdk0yNGlQRDlkLTBnS0hTdl9hSlllN0JFQ3ptenJFdDFmdEZFRUFzZ2t1YXRBQXItanRsc9IBswFBVV95cUxQbVZMcUdzLXREdzc4Umw5Yi1jdEpYLUh6cWlTMXJnY0drMlVrX21aT21ETlZzMlJ4SFo0bEVTWDFaNDRLNkNYY2pITE45ZnRqdi03cFN4Mmg3RlNOMEZVUzlTVG9lU29wZ0N4aEdNcFJLcHRZS2RJZnlJdW1lSnNKdk0yNGlQRDlkLTBnS0hTdl9hSlllN0JFQ3ptenJFdDFmdEZFRUFzZ2t1YXRBQXItanRscw?oc=5",
         "date": "Mon, 17 Aug 2026 16:42:57 GMT",
-        "source": "aksiyon.com.tr",
+        "source": "Aksiyon.com.TR",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -260,18 +284,6 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYUsxZ0pfeXIwcEpsenBfUXRBUjlqMGp1U0VCcEtKOWlDbkJyOFRUOEZUbFJqLW1LLWtpSEsxRlNJV2l4TWx2b19vazRIRzViU216aF82SXFJS0xxbFo0MzBSQjhQV1cyTm4tV250Yld1TGJLT0ZzOXY5Qkx1b3JraUNCT2VUYnl4VWt0WWNsS1Jid9IBkAFBVV95cUxNZjRXdEVyd0F5b2Fob29hbzVwTk0zQ3otcUpNS1JEQk13SDB0eUg5bkR4eUFoLTRqaVV6SXNpLTlqY2NHOF9paTRyOGVTWVBXTzk1bHpXLW9KbGdvN2ltWDctWGdwTUw4MVVFaUZUb0lHdUZmd3pScWlSTUJzeGRER0lTblZqRW1xeF93OGd1TnY?oc=5",
         "date": "Mon, 17 Aug 2026 15:23:37 GMT",
         "source": "Son Dakika",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Çorum FK Başkanı Savaş Balçık, Fenerbahçe forması çıkarılan Çorumlu çocuğa büyük destek: Hayatı boyunca eğitim masrafları karşılanacak",
-        "summary": "Çorum FK Başkanı Savaş Balçık, Fenerbahçe forması çıkarılan Çorumlu çocuğa büyük destek: Hayatı boyunca eğitim masrafları karşılanacak T24",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVDBEcUN2SzFPRFpoZFlUT08tWFQ4N0lPSjlUMElTODZNMEF0UkRETFNZc2pFWVZkMU5rQWg0SXVPU2pURE9JUm5xMWdMQjhtcVY0d2dHLXljQUY2V05UVTFxdGVocndoN0Z1V29VN0x2NV9ZcFllczBFTEctME1KZXRHNkV5ZDNrUjItbEhIS1RUdjBiRXNVVTVlbVRDZ3ZKakt6VXRsQy1xWk9BV2JramhtMFZJLU5UalJiNUtxSERsVHVJSHNyRmFfNF84TVI1XzdCNllfQUxuNVpPSGsxRGNMNXJONHRLU1pQTG5tSWJzOEs3d0NfbA?oc=5",
-        "date": "Mon, 17 Aug 2026 15:13:00 GMT",
-        "source": "T24",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -328,10 +340,10 @@
       },
       {
         "title": "Galatasaray-Çorum FK maçı sonrası yazdılar: En az 4-5 transfer!",
-        "summary": "Galatasaray-Çorum FK maçı sonrası yazdılar: En az 4-5 transfer! Hürriyet",
+        "summary": "Galatasaray-Çorum FK maçı sonrası yazdılar: En az 4-5 transfer! hurriyet.com.tr",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR0pjc2RmRlJ3czV1N2g2ZnpraVpqVkVDWFY5Q29PNi1tUVlRcE9qdkMtb1VibFR1aUhVWUpCSEg5NnJIVGxFY3U2TlljTEtpb3l0VFN0THNzZEEzOHM5ZVBxakNEcUc5OHpGbTltdXBVSEhUeWkxamtSWGRqNXJqeG95MlE3TXo0ei1uS1U1NjJHTjdEWHhvTDhBRDRlZXA5N04xSTNsM18?oc=5",
         "date": "Sat, 15 Aug 2026 04:48:00 GMT",
-        "source": "Hürriyet",
+        "source": "hurriyet.com.tr",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -349,22 +361,23 @@
         "category": "corumsporhaber",
         "feedImage": null,
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Galatasaray - Çorum FK maçının ardından sert eleştiri: 'Bu yangını Osimhen söndüremez' | 'Bu kriz büyür'",
-        "summary": "Galatasaray - Çorum FK maçının ardından sert eleştiri: 'Bu yangını Osimhen söndüremez' | 'Bu kriz büyür' Fanatik",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdVZzQXY4LVhHZVRNc2pTeWdKVTZkWXVJMEEteGh3RUFSX1pjRVBjU21reVRNUEVrLTdQenhLOGVNRUNyb1lNaFBkd3oweG5WbE4tZ1U2UlI0dEhCWjBETC1XcE9sZTZVU0lZdkpqYUJZX3UxV1gwcDNIbHNDNUVESE54TnFPc2doaDAxcW05RFlzdjBkeVU3dHpjM193MkFJazFtVXNBTlBva3B6YWdOMkdRY0tXRXRVanMtSnM2ODdETVNjN0dCbUtKVjMyZ2pKSjljTHc5ZDFTYUlPMHAwVFVLNA?oc=5",
-        "date": "Sat, 15 Aug 2026 03:59:00 GMT",
-        "source": "Fanatik",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       }
     ],
     "milli": [],
     "superlig": [
+      {
+        "title": "Fenerbahçe kendi travmasını kendi yaratıyor",
+        "summary": "Süper Lig'deki Gençlerbirliği yenilgisi ve Şampiyonlar Ligi play-off turu ilk maçındaki Lyon beraberliği sonrasında Fenerbahçe'de eleştirinin boyutu aşıldı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahce-kendi-travmasini-kendi-yaratiyor-43278846",
+        "date": "Thu, 20 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a868a439858e588ff03c035.jpg",
+        "category": "superlig",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a868a439858e588ff03c035.jpg"
+      },
       {
         "title": "Kadın Futbol Süper Ligi'nde 2026-2027 sezonu fikstürü belli oldu!",
         "summary": "Suwen Kadın Futbol Süper Ligi'nde 2026-2027 sezonu fikstür çekimi gerçekleşti ve maç programı belli oldu.Devamı için tıklayınız",
@@ -407,6 +420,32 @@
     ],
     "transfer": [
       {
+        "title": "SON DAKİKA HABERLER: Yunanistan diken üstünde! Türkiye'ye karşı 'hazırlık' çağrısı: 'Artık vakti geldi'",
+        "summary": "MİLLİYET.COM.TR / Türkiye’nin savunma kapasitesindeki yükseliş, bölgesel ittifakları ve giderek artan stratejik ağırlığı Yunanistan’da yakından takip edilmeye devam ediliyor. ‘OLAYLAR HIZLA GELİŞİYOR HEM DE TEHLİKELİ ŞEKİLDE’ Yunanistan’ın Liberal gazetesinde Thanasis Mavridis imzasıyla yayımlanan analiz, Ankara’nın yükselen gücünün Atina’da oluşturduğu endişeyi gözler önüne serdi. “Olaylar hızla gelişiyor. Hem de tehlikeli bir şekilde” sözleriyle başlayan yazıda, Türkiye’nin bölgesel denklemde giderek daha güçlü bir konuma geldiği savunuldu. Mavridis, Türkiye’nin Suudi Arabistan ve Pakistan’la geliştirdiği savunma iş birliğine dikkat çekerek, Suudi Arabistan’ın ekonomik gücü ile Pakistan’ın nükleer kapasitesinin Türkiye’ye önemli bir stratejik avantaj sağladığını öne sürdü. ‘DENGELERİ TAMAMEN DEĞİŞTİRDİ’ Yunan yazar, söz konusu yeni denklem için dikkat çekici biçimde “Müslüman NATO’su” ifadesini kullandı. Türkiye, Suudi Arabistan ve Pakistan arasındaki savunma anlaşmasının Ankara’ya daha fazla özgüven kazandırdığını savunan Mavridis, ortaya çıkan tablonun bölgedeki dengeleri “temelden değiştirdiğini” ileri sürdü. İlginizi Çekebilir ‘TÜRKLERİ İZLEMEKLE YETİNİYORUZ’ Analizin en çarpıcı bölümü ise Türkiye ile Yunanistan’ın hazırlıklarının karşılaştırıldığı bölüm oldu. “Türkiye hazırlanıyor. Yunanistan?” diye soran Mavridis, Ankara’nın savunma alanında son yıllarda önemli adımlar attığını belirtti. Yazar, Türkiye’nin artan askeri ve stratejik kapasitesinin Atina açısından artık yalnızca bir “endişe” konusu olmadığını savundu. Ancak Atina’nın somut hamleler atmadığına dikkat çekerek “izlemekle yetindiğini” ifade etti. ‘ANKARA’YA KARŞI BÜYÜK KOZ’ Mavridis’in iddiasına göre Yunanistan’ın son dönemdeki “en önemli hamlesi” ise Fransa ve İsrail’le ilişkilerini güçlendirmek oldu.",
+        "link": "",
+        "date": "Thu, 20 Aug 2026 05:12:24  Z",
+        "source": "Milliyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": null,
+        "category": "transfer",
+        "image": "https://images.unsplash.com/photo-1556056504-5c7696c4c28d?w=1200&q=85"
+      },
+      {
+        "title": "Galatasaray'dan Ismaila Sarr hamlesi! Transferde dikkat çeken gelişme",
+        "summary": "Galatasaray'da yeni sezon öncesi transfer çalışmaları tüm hızıyla sürerken, sarı-kırmızılıların kanat bölgesi için gündemine aldığı Ismaila Sarr konusunda yeni bir gelişme yaşandı. Ünlü gazeteci Fabrizio...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/08/19/galatasaraydan-ismaila-sarr-hamlesi-transferde-dikkat-ceken-gelisme",
+        "date": "Wed, 19 Aug 2026 23:32:06 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/81b3f5/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaraydan-ismaila-sarr-hamlesi-transferde-dikkat-ceken-gelisme-1787157536136.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/81b3f5/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaraydan-ismaila-sarr-hamlesi-transferde-dikkat-ceken-gelisme-1787157536136.jpeg"
+      },
+      {
         "title": "Milan, Diego Moreira transferini açıkladı!",
         "summary": "Milan, Strasbourg’dan Diego Moreira ile sözleşme imzaladı.Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/08/19/milan-diego-moreira-transferini-acikladi",
@@ -421,7 +460,7 @@
       },
       {
         "title": "Galatasaray'ın yeni transferi Batrakov'un İstanbul'a geliş saati belli oldu!",
-        "summary": "Galatasaray'ın Lokomotiv Moskova'dan kadrosuna katmaya hazırlandığı Rus on numara Aleksey Batrakov, yarın İstanbul'da olacak. İşte detaylar...",
+        "summary": "Galatasaray'ın Lokomotiv Moskova'dan kadrosuna katmaya hazırlandığı Rus on numara Aleksey Batrakov, bugün İstanbul'da olacak. İşte detaylar...",
         "link": "https://www.hurriyet.com.tr/sporarena/galatasarayin-yeni-transferi-batrakovun-istanbula-gelis-saati-belli-oldu-43278795",
         "date": "Wed, 19 Aug 2026 19:57:00 Z",
         "source": "Hürriyet",
@@ -431,6 +470,45 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a860a0b29222ab2dfca7116.jpg",
         "category": "transfer",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a860a0b29222ab2dfca7116.jpg"
+      },
+      {
+        "title": "Galatasaray'dan transferde gözünü kararttı! Bu hamle çok konuşulur",
+        "summary": "Son dakika Galatasaray transfer haberleri: Uzun süredir uğraş verdiği 10 numara bölgesine Aleksey Batrakov'un transfer eden Galatasaray, kadrosunu güçlendirmek için çalışmalarına tam gaz devam ediyor....Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/08/20/galatasaraydan-transferde-gozunu-karartti-bu-hamle-cok-konusulur",
+        "date": "Wed, 19 Aug 2026 21:35:16 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/fee2ca/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaraydan-transferde-gozunu-karartti-bu-hamle-cok-konusulur-1787164329514.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/fee2ca/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaraydan-transferde-gozunu-karartti-bu-hamle-cok-konusulur-1787164329514.jpeg"
+      },
+      {
+        "title": "Fenerbahçeli isme 5 talip birden! Büyük umutlarla transfer edilmişti",
+        "summary": "Fenerbahçe transfer haberleri | Fenerbahçe'de kadroda yer açmak adına takımdan ayrılacak oyuncular ile ilgili çalışmalar sürüyor. Bu kapsamda, yolların ayrılması gündemde olan genç futbolcu hakkında dikkat...Devamı için tıklayınız",
+        "link": "https://www.aspor.com.tr/fenerbahce/2026/08/19/fenerbahceli-isme-5-talip-birden-buyuk-umutlarla-transfer-edilmisti",
+        "date": "Wed, 19 Aug 2026 21:19:08 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/f52e04/1200/675/0/623/1080/1231?u=https://iftm.tmgrup.com.tr/2026/08/19/hem-galatasarayla-hem-de-ajaxla-anlasti-transferde-ilginc-durum-1787126707344.jpg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/f52e04/1200/675/0/623/1080/1231?u=https://iftm.tmgrup.com.tr/2026/08/19/hem-galatasarayla-hem-de-ajaxla-anlasti-transferde-ilginc-durum-1787126707344.jpg"
+      },
+      {
+        "title": "Fenerbahçe'den stoper harekatı! Ümit Akdağ'ın bonservisi...",
+        "summary": "Transfer döneminin bitimine kısa bir süre kala savunma hattına takviye yapmak isteyen Fenerbahçe, Alanyaspor forması giyen Ümit Akdağ'ı gündemine aldı. Sarı-lacivertlilerin 22 yaşındaki savunmacıyla ilgilenmesinin...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/20/fenerbahceden-stoper-harekati-umit-akdagin-bonservisi",
+        "date": "Wed, 19 Aug 2026 21:16:54 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/aa8da3/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/08/19/umit-akdaga-teklif-1787163402248.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/aa8da3/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/08/19/umit-akdaga-teklif-1787163402248.jpeg"
       },
       {
         "title": "Livakovic, Barcelona'ya gidiyor ama orada kalmayacak! Hırvatlar transferin perde arkasını yazdı",
@@ -457,19 +535,6 @@
         "feedImage": "https://i.guim.co.uk/img/media/cba6456f3115fa9a514dd839a5d39ba20f52571f/0_0_4998_3998/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=a0fed01c85b174f9a32961c37e093fec",
         "category": "transfer",
         "image": "https://i.guim.co.uk/img/media/cba6456f3115fa9a514dd839a5d39ba20f52571f/0_0_4998_3998/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=a0fed01c85b174f9a32961c37e093fec"
-      },
-      {
-        "title": "Galatasaray'dan Ismaila Sarr hamlesi! Transferde dikkat çeken gelişme",
-        "summary": "Galatasaray'da yeni sezon öncesi transfer çalışmaları tüm hızıyla sürerken, sarı-kırmızılıların kanat bölgesi için gündemine aldığı Ismaila Sarr konusunda yeni bir gelişme yaşandı. Ünlü gazeteci Fabrizio...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2026/08/19/galatasaraydan-ismaila-sarr-hamlesi-transferde-dikkat-ceken-gelisme",
-        "date": "Wed, 19 Aug 2026 19:57:56 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/81b3f5/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaraydan-ismaila-sarr-hamlesi-transferde-dikkat-ceken-gelisme-1787157536136.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/81b3f5/1200/675/0/0/1280/720?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaraydan-ismaila-sarr-hamlesi-transferde-dikkat-ceken-gelisme-1787157536136.jpeg"
       },
       {
         "title": "Galatasaray'dan transferde 45 milyon euroluk atak! Resmi teklif yapıldı",
@@ -509,58 +574,6 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a85d0ad29222ab2dfca7019.jpg",
         "category": "transfer",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a85d0ad29222ab2dfca7019.jpg"
-      },
-      {
-        "title": "Acun Ilıcalı locasını geri aldı! Aziz Yıldırım sözleşmesini feshetmişti",
-        "summary": "Fenerbahçe eski Asbaşkanı Acun Ilıcalı, Aziz Yıldırım'ın locasını feshetmesinin ardından hukuki yollara başvumuştu. Ilıcalı, davayı kazandı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/acun-ilicali-locasini-geri-aldi-aziz-yildirim-sozlesmesini-feshetmisti-43278610",
-        "date": "Wed, 19 Aug 2026 14:41:35 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a85c07c9858e588ff03bffe.jpg",
-        "category": "transfer",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a85c07c9858e588ff03bffe.jpg"
-      },
-      {
-        "title": "Lukaku'dan kariyer ve Fenerbahçe itirafı: Olağanüstüydü!",
-        "summary": "Fenerbahçe'nin Belkikalı golcüsü Romelu Lukaku, Napoli'den ayrılığına ve Fenerbahçe'ye transferine dair konuştu.",
-        "link": "https://www.hurriyet.com.tr/sporarena/lukakudan-kariyer-ve-fenerbahce-itirafi-olaganustuydu-43278541",
-        "date": "Wed, 19 Aug 2026 14:16:02 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a85ba2e9858e588ff03bfc9.jpg",
-        "category": "transfer",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a85ba2e9858e588ff03bfc9.jpg"
-      },
-      {
-        "title": "Galatasaray Aleksey Batrakov'a kavuşuyor! İşte İstanbul'a geliş tarihi",
-        "summary": "Son dakika Galatasaray transfer haberleri: Galatasaray'ın Lokomotiv Moskova'dan transfer ettiği Aleksey Batrakov, perşembe sabah İstanbul'a gelecek. (GS spor haberi)Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2026/08/19/galatasaray-aleksey-batrakova-kavusuyor-iste-istanbula-gelis-tarihi",
-        "date": "Wed, 19 Aug 2026 17:02:49 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/34a944/1200/675/0/0/0/0?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaray-aleksey-batrakova-kavusuyor-iste-istanbula-gelis-tarihi-1787148845385.jpg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/34a944/1200/675/0/0/0/0?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaray-aleksey-batrakova-kavusuyor-iste-istanbula-gelis-tarihi-1787148845385.jpg"
-      },
-      {
-        "title": "Arsenal, Villa'dan Konsa'yı imzalamak için 50 milyon sterlinin üzerinde anlaşma sağladı",
-        "summary": "Arsenal, Aston Villa ve İngiliz defans oyuncusu Ezri Konsa'yı imzalamak için 50 milyon £'dan fazla değerde bir anlaşma imzaladı.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 19 Aug 2026 13:55:18 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "transfer",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ae9d/live/ad505a30-9bbb-11f1-ae8a-8d57110c5ba6.jpg"
       }
     ],
     "worldcup": [
@@ -591,19 +604,6 @@
         "image": "https://i.guim.co.uk/img/media/a594e7a0db017a8d5503d82d1352959c79918e77/36_73_1800_1440/master/1800.jpg?width=140&quality=85&auto=format&fit=max&s=cd4a87f5fded429c88f622bcb0397664"
       },
       {
-        "title": "'Şüphelendi': Mourinho, Real Madrid'in hamle konusunda tereddüt ettikten sonra Rodri'yi istemediğini söyledi",
-        "summary": "Mourinho: Madrid orta saha oyuncusuna 'çok iyi bir teklif' yaptı İspanya kaptanı 65,4 milyon £ karşılığında Barselona'ya katılmayı seçti José Mourinho, Real Madrid'in Rodri'ye teklif yaptığını ve kulübe katılma konusunda onunla konuştuğunu doğruladı ancak oyuncunun transferle ilgili şüphelerinin onu İspanya'nın Dünya Kupası kazanan kaptanıyla sözleşme imzalama konusunda kararsız bıraktığını iddia etti. Aynı gün, Rodri, Manchester City'den 75 milyon avroluk (65,4 milyon £) transferin tamamlanmasının ardından Barselona'ya getirildi ve orta saha oyuncusu, \"her zaman ilk tercihim\" olduğunu söyledi, Mourinho, onu Santiago Bernabéu'da özlemeyeceği konusunda ısrar etti. El Chiringuito'ya verdiği röportajda Mourinho, \"Onunla birkaç kez konuştum ve Real Madrid ona çok iyi bir teklifte bulundu\" dedi. Okumaya devam edin...",
-        "link": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
-        "date": "Wed, 19 Aug 2026 13:42:13 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/2b921b46b16991b2097bbc665ea33f4aafffd854/0_0_4224_3378/master/4224.jpg?width=140&quality=85&auto=format&fit=max&s=b367e0b95b766cc70247d106a9aa65df",
-        "category": "worldcup",
-        "image": "https://i.guim.co.uk/img/media/2b921b46b16991b2097bbc665ea33f4aafffd854/0_0_4224_3378/master/4224.jpg?width=140&quality=85&auto=format&fit=max&s=b367e0b95b766cc70247d106a9aa65df"
-      },
-      {
         "title": "Masters ve Webb, Balogun'un kırmızı kart tartışması nedeniyle FIFA'yı eleştirdi",
         "summary": "İngiliz futbolunun en güçlü iki adamı, FIFA'ya karşı güçlerini birleştirdi ve ABD'li forvet Folarin Balogun'un, otomatik olarak yasaklanması gereken kırmızı karta rağmen geçen ay Dünya Kupası'nda oynamasına olanak sağlayan U dönüşüne karşı çıktı.",
         "link": "https://www.skysports.com/football/news/12040/13574783/richard-masters-and-howard-webb-criticise-fifa-over-folarin-baloguns-red-card-controversy-at-2026-world-cup",
@@ -615,24 +615,62 @@
         "feedImage": null,
         "category": "worldcup",
         "image": "https://e0.365dm.com/26/07/1600x900/skysports-balogun-usa_7287725.jpg?20260702023831"
+      },
+      {
+        "title": "'Şüphelendi': Mourinho, Real Madrid'in hamle konusunda tereddüt ettikten sonra Rodri'yi istemediğini söyledi",
+        "summary": "Mourinho: Madrid orta saha oyuncusuna 'çok iyi bir teklif' yaptı İspanya kaptanı 65,4 milyon £ karşılığında Barselona'ya katılmayı seçti José Mourinho, Real Madrid'in Rodri'ye teklif yaptığını ve kulübe katılma konusunda onunla konuştuğunu doğruladı ancak oyuncunun transferle ilgili şüphelerinin onu İspanya'nın Dünya Kupası kazanan kaptanıyla sözleşme imzalama konusunda kararsız bıraktığını iddia etti. Aynı gün, Rodri, Manchester City'den 75 milyon avroluk (65,4 milyon £) transferin tamamlanmasının ardından Barselona'ya getirildi ve orta saha oyuncusu, \"her zaman ilk tercihim\" olduğunu söyledi, Mourinho, onu Santiago Bernabéu'da özlemeyeceği konusunda ısrar etti. El Chiringuito'ya verdiği röportajda Mourinho, \"Onunla birkaç kez konuştum ve Real Madrid ona çok iyi bir teklifte bulundu\" dedi. Okumaya devam edin...",
+        "link": "https://www.theguardian.com/football/2026/aug/19/jose-mourinho-real-madrid-rodri-barcelona-transfer-offer",
+        "date": "Wed, 19 Aug 2026 13:42:13 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/2b921b46b16991b2097bbc665ea33f4aafffd854/0_0_4224_3378/master/4224.jpg?width=140&quality=85&auto=format&fit=max&s=b367e0b95b766cc70247d106a9aa65df",
+        "category": "worldcup",
+        "image": "https://i.guim.co.uk/img/media/2b921b46b16991b2097bbc665ea33f4aafffd854/0_0_4224_3378/master/4224.jpg?width=140&quality=85&auto=format&fit=max&s=b367e0b95b766cc70247d106a9aa65df"
       }
     ],
-    "magazine": [
+    "magazine": [],
+    "general": [
       {
-        "title": "Fatih Terim'den flaş Galatasaray açıklaması! \"Neredeler?\"",
-        "summary": "Galatasaray'ın efsane teknik direktörü Fatih Terim, kendisine ait YouTube kanalında kariyeri ve sarı-kırmızılı camiayla ilgili dikkat çeken değerlendirmelerde bulundu. Deneyimli çalıştırıcının geçmişe...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2026/08/19/fatih-terimden-flas-galatasaray-aciklamasi-neredeler",
-        "date": "Thu, 20 Aug 2026 00:37:08 +0300",
-        "source": "Fotomaç",
+        "title": "Bu turun sonu Avrupa Ligi olsun!",
+        "summary": "Beşiktaş ve Trabzonspor bu akşam UEFA Avrupa Ligi play-off ilk maçlarında avantaj arayacak.",
+        "link": "https://www.hurriyet.com.tr/sporarena/bu-turun-sonu-avrupa-ligi-olsun-43278859",
+        "date": "Thu, 20 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/665c75/1200/675/0/0/1080/606?u=https://iftm.tmgrup.com.tr/2026/08/20/fatih-terimden-flas-galatasaray-aciklamasi-neredeler-1787174265616.jpg",
-        "category": "magazine",
-        "image": "https://iaftm.tmgrup.com.tr/665c75/1200/675/0/0/1080/606?u=https://iftm.tmgrup.com.tr/2026/08/20/fatih-terimden-flas-galatasaray-aciklamasi-neredeler-1787174265616.jpg"
-      }
-    ],
-    "general": [
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a862a1f29222ab2dfca7182.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a862a1f29222ab2dfca7182.jpg"
+      },
+      {
+        "title": "Uğurcan Çakır: 'Kırmızı kart görsem kaleyi Sallai'ye veririm'",
+        "summary": "Galatasaray'ın milli file bekçisi Uğurcan Çakır, kırmızı kart görmesi halinde kaleyi kime emanet edeceğinin sorulması üzerine, \"Sallai'yi koyarım. Sallai her yerde oynuyor zaten, kalede de oynar diye düşünüyorum\" yanıtını verdi.",
+        "link": "https://www.hurriyet.com.tr/sporarena/ugurcan-cakir-kirmizi-kart-gorsem-kaleyi-sallaiye-veririm-43278855",
+        "date": "Thu, 20 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8626bd29222ab2dfca7160.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8626bd29222ab2dfca7160.jpg"
+      },
+      {
+        "title": "Como beklerken Parma, Carlos'u bitirmek istiyor",
+        "summary": "İtalya Serie A ekiplerinden Parma, Benfica'ya sattığı Alessandro Circati’nin boşluğunu doldurmak için Diego Carlos'u gündemine aldı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/como-beklerken-parma-carlosu-bitirmek-istiyor-43278850",
+        "date": "Thu, 20 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8624d629222ab2dfca7153.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8624d629222ab2dfca7153.jpg"
+      },
       {
         "title": "Premier League 2026-27 ön izleme Sayı 17: Newcastle",
         "summary": "Teknik direktörün ve en iyi oyuncularından bazılarının ayrılmasının ardından Tyneside'daki taraftarlar, Guardian yazarlarının tahmin ettiği en iyi konumdaki bir geçiş sezonu için hazırlanıyor: 17. (Not: bu mutlaka Louise Taylor'ın tahmini değil, yazarlarımızın tahminlerinin ortalamasıdır) Geçen sezonun konumu: 12. Okumaya devam edin...",
@@ -645,32 +683,6 @@
         "feedImage": "https://i.guim.co.uk/img/media/b82094e38adc7018bf1b976cdb5c5cfa2b7fcd40/704_47_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=1287f5249b8da89a692c226a5cd7c3e2",
         "category": "general",
         "image": "https://i.guim.co.uk/img/media/b82094e38adc7018bf1b976cdb5c5cfa2b7fcd40/704_47_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=1287f5249b8da89a692c226a5cd7c3e2"
-      },
-      {
-        "title": "'İmamoğlu çıkar amaçlı suç örgütü' davasının 67. duruşması sona erdi",
-        "summary": "İstanbul 33. Ağır Ceza Mahkemesince, Marmara Kapalı Ceza İnfaz Kurumu karşısındaki salonda yapılan duruşmanın öğleden sonraki oturumunda, savunması alınan, \"İstanbul Senin\" uygulamasını yapan şirketin sahibi tutuksuz sanık İsmet Koyun, üzerine atılı suçlamaları kabul etmeyerek, bunlardan dolayı üzüldüğünü söyledi. Sanığın çapraz sorgu sırasında söz alan Ekrem İmamoğlu, \"'İstanbul Senin' uygulaması üzerinden bir veri sızdırmamız mümkün müdür?\" sorusunu Koyun'a yöneltti. Koyun, soruya karşılık, böyle bir şeyin mümkün olmadığını söyledi. \"HİÇBİR İLETİŞİMİMİN OLMAYAN KİŞİYLE ÖRGÜT HİYERARŞİSİNDE OLMAM HAYATIN OLAĞAN AKIŞINA AYKIRIDIR\" Tutuksuz sanıklardan eski İBB Bilgi İşlem Daire Başkanı Naim Erol Özgüner, kendisine yöneltilen \"örgüt üyeliği\" suçlamasına ilişkin, iddianamedeki şemada sanık Hüseyin Gün'ün hiyerarşisinde göründüğünü ancak Gün ile hiçbir emir ve talimat ilişkisinin olmadığını savundu. Hüseyin Gün bugün bu salondaysa da onu hiç tanımadığını, karşılaşmadıklarını, bir araya gelmediklerini ifade eden Özgüner, \"Dava sürecinde gündeme gelen İBB'de bir ekip toplantısı süreci var. İBB'nin üç ana kampüsü var. Bu toplantı 2019'da İBB'nin Kasımpaşa Yerleşkesi'nde yapılmıştır. Benim çalışma ofisim de buradadır. Ben bu toplantıya davet edilmedim ve katılmadım ama o gün orada aynı binada olmamızdan ötürü ortak baz vermişiz. Hiçbir iletişimimin olmayan bir kişiyle örgüt hiyerarşisinde olmam hayatın olağan akışına aykırıdır.\" savunmasını yaptı. İlginizi Çekebilir Özgüner'in savunma yaptığı sırada söz alan avukatı, 9 Temmuz'daki duruşmada müvekkili hakkında iddianamenin 13. eyleminde bulunan, \"İBB Hanem\" uygulamasında yer alan vatandaş verilerinin sızdırıldığı iddiasına ilişkin İstanbul Cumhuriyet Başsavcılığına \"kişisel verilerin kaydedilmesi\" ile \"verileri hukuka aykırı ol",
-        "link": "",
-        "date": "Wed, 19 Aug 2026 21:54:33  Z",
-        "source": "Milliyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1200&q=85"
-      },
-      {
-        "title": "Hapoel Be'er Sheva, Sabah karşısında geri dönüş zaferini kazandı",
-        "summary": "Hapoel Be'er Sheva, Şampiyonlar Ligi play-off ilk maçında Sabah'ı mağlup etmek için bir gol gerisinde kaldı.",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cy74z3zzvm1o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 19 Aug 2026 21:42:50 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/a621/live/611987c0-9c17-11f1-aed2-8d6da8d75094.jpg"
       },
       {
         "title": "Man City, Kone yarışında Man Utd'a katıldı - Perşembe günkü dedikodular",
@@ -686,17 +698,69 @@
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a92e/live/c0bac070-9c05-11f1-b109-879e35c24276.png"
       },
       {
-        "title": "Duran'ın inanılmaz ikilisi Celtic'i Şampiyonlar Ligi'ne yaklaştırdı",
-        "summary": "Camilo Duran, Şampiyonlar Ligi play-off'larının ilk ayağında Avusturya'nın LASK takımına karşı Celtic adına iki mükemmel gol attı, voleyle üst köşeyi buldu ve misafir takımın kalesinde Lukas Jungwirth'i geçme çabasını sürdürdü.",
-        "link": "https://www.bbc.co.uk/sport/football/videos/crmrydv4ww0o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 19 Aug 2026 21:00:41 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
+        "title": "Galatasaray'dan Boşnak golcüye teklif! Ermedin Demirovic...",
+        "summary": "Victor Osimhen'e alternatif olabilecek bir forvet takviyesi için çalışmalarını sürdüren Galatasaray, aradığı ismi Bundesliga'da buldu. Sarı kırmızılıların Stuttgart forması giyen Boşnak golcü Ermedin Demirovic...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/08/19/galatasaraydan-bosnak-golcuye-teklif-ermedin-demirovic",
+        "date": "Wed, 19 Aug 2026 23:32:08 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/4034fb/1200/675/6/0/1002/560?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaraydan-bosnak-golcuye-teklif-ermedin-demirovic-1787158911307.jpeg",
         "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c763/live/24e31a00-9c17-11f1-a291-b542ee92de7c.jpg"
+        "image": "https://iaftm.tmgrup.com.tr/4034fb/1200/675/6/0/1002/560?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaraydan-bosnak-golcuye-teklif-ermedin-demirovic-1787158911307.jpeg"
+      },
+      {
+        "title": "Fenerbahçe Anthony Musaba'nın ayrılığını resmen açıkladı!",
+        "summary": "Son dakika haberi: Fenerbahçe, Anthony Musaba'nın Norwich City'ye 1 yıllığına kiralandığını açıkladı. İşte detaylar...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/19/fenerbahce-anthony-musabanin-ayriligini-resmen-acikladi",
+        "date": "Wed, 19 Aug 2026 23:32:02 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/98086a/1200/675/0/89/534/390?u=https://iftm.tmgrup.com.tr/2026/08/19/fenerbahce-anthony-musabanin-ayriligini-resmen-acikladi-1787153024532.jpeg",
+        "category": "general",
+        "image": "https://iaftm.tmgrup.com.tr/98086a/1200/675/0/89/534/390?u=https://iftm.tmgrup.com.tr/2026/08/19/fenerbahce-anthony-musabanin-ayriligini-resmen-acikladi-1787153024532.jpeg"
+      },
+      {
+        "title": "İşte dünyanın en iyi 100 forveti! Galatasaraylı Victor Osimhen kaçıncı sırada?",
+        "summary": "Amerika merkezli spor medyası ve televizyon şirketi ESPN'in her yıl geleneksel olarak düzenlediği \"Dünyanın en iyi 100 futbolcusu\" listesinin forvet versiyonu açıklandı. Sarı-kırmızılıların Nijeryalı yıldızı...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/08/19/iste-dunyanin-en-iyi-100-forveti-galatasarayli-victor-osimhen-kacinci-sirada",
+        "date": "Wed, 19 Aug 2026 23:32:00 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/7f8486/1200/675/0/49/800/499?u=https://iftm.tmgrup.com.tr/2026/08/19/iste-dunyanin-en-iyi-100-forveti-galatasarayli-victor-osimhen-kacinci-sirada-1787150203397.jpeg",
+        "category": "general",
+        "image": "https://iaftm.tmgrup.com.tr/7f8486/1200/675/0/49/800/499?u=https://iftm.tmgrup.com.tr/2026/08/19/iste-dunyanin-en-iyi-100-forveti-galatasarayli-victor-osimhen-kacinci-sirada-1787150203397.jpeg"
+      },
+      {
+        "title": "Trabzonspor'dan duygusal paylaşım! 'Bir kulüpten daha fazlası...'",
+        "summary": "Minik bir Liverpool taraftarı, Trabzonspor forması giyen dünyaca ünlü futbolcu Muhammed Salah'ı ziyaret etti. Bordo mavili kulüp ise bu anları, \"Bir kulüpten daha fazlası...\" notuyla sosyal medya hesabından...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonspordan-duygusal-paylasim-bir-kulupten-daha-fazlasi",
+        "date": "Wed, 19 Aug 2026 23:31:58 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/ecc227/1200/675/0/237/607/579?u=https://iftm.tmgrup.com.tr/2026/08/19/trabzonspordan-duygusal-paylasim-bir-kulupten-daha-fazlasi-1787166200641.jpeg",
+        "category": "general",
+        "image": "https://iaftm.tmgrup.com.tr/ecc227/1200/675/0/237/607/579?u=https://iftm.tmgrup.com.tr/2026/08/19/trabzonspordan-duygusal-paylasim-bir-kulupten-daha-fazlasi-1787166200641.jpeg"
+      },
+      {
+        "title": "Fenerbahçe'de Romelu Lukaku'dan flaş açıklamalar! Geleceğini duyurdu",
+        "summary": "Sarı-lacivertli formayla ilk kez sahaya çıkan Romelu Lukaku, karşılaşmanın ardından geleceğiyle ilgili açıklamalarda bulundu. Belçikalı golcünün sözlerinde dikkat çeken bir detay öne çıktı.Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/19/fenerbahcede-romelu-lukakudan-flas-aciklamalar-gelecegini-duyurdu",
+        "date": "Wed, 19 Aug 2026 23:31:56 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/f4184e/1200/675/0/40/2048/1192?u=https://iftm.tmgrup.com.tr/2026/08/19/fenerbahcede-romelu-lukakudan-flas-aciklamalar-gelecegini-duyurdu-1787152666021.jpg",
+        "category": "general",
+        "image": "https://iaftm.tmgrup.com.tr/f4184e/1200/675/0/40/2048/1192?u=https://iftm.tmgrup.com.tr/2026/08/19/fenerbahcede-romelu-lukakudan-flas-aciklamalar-gelecegini-duyurdu-1787152666021.jpg"
       },
       {
         "title": "Isaac Kearney'den Muhammed Salah'a sürpriz ziyaret!",
@@ -712,6 +776,19 @@
         "image": "https://iasbh.tmgrup.com.tr/5910c1/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/08/19/isaac-kearneyden-muhammed-salaha-surpriz-ziyaret-1787168288692.jpg"
       },
       {
+        "title": "Beşiktaş tur kapısını aralamak istiyor! İşte İtaliano'nun 11'i",
+        "summary": "Temsilcimiz Tüpraş Stadı’nda saat 20.00’de başlayacak karşılaşmada taraftarının da desteğiyle rövanş için avantajlı bir skor almayı hedefliyor.Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/besiktas/2026/08/20/besiktas-tur-kapisini-aralamak-istiyor-iste-italianonun-11i",
+        "date": "Wed, 19 Aug 2026 22:19:19 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/b9b181/1200/675/0/156/1500/999?u=https://iftm.tmgrup.com.tr/2026/08/19/besiktas-tur-kapisini-aralamak-istiyor-1787167127387.jpeg",
+        "category": "general",
+        "image": "https://iaftm.tmgrup.com.tr/b9b181/1200/675/0/156/1500/999?u=https://iftm.tmgrup.com.tr/2026/08/19/besiktas-tur-kapisini-aralamak-istiyor-1787167127387.jpeg"
+      },
+      {
         "title": "FIFA'nın beşinci başkan yardımcısı, Infantino'ya olan güvenini kaybettiğini söyleyerek ona karşı çıktı",
         "summary": "Macaristan'dan Sandor Csanyi, FIFA başkanını son derece eleştirdi COO Kevin Lamour'un görevden alınmasını \"bardağı taşıran son damla\" olarak nitelendirdi Gianni Infantino, başkanın \"profesyonel muhakemesini, etik standartlarını ve liderliğini\" eleştiren Macar futbol federasyonu şefi Sandor Csanyi ile birlikte, FIFA'nın bir başka başkan yardımcısının desteğini kaybetti. İlk olarak Agence France-Presse haber ajansının ele geçirdiği Salı günü Infantino'ya gönderilen patlayıcı mektupta Csanyi, \"daha önce sana duyduğum güveni kaybettiğini\" belirtiyor ve Fifa'nın baş operasyon sorumlusu Kevin Lamour'un \"beklenmedik bir şekilde görevden alınmasını\" \"bardağı taşıran son damla\" olarak tanımlıyor. Okumaya devam edin...",
         "link": "https://www.theguardian.com/football/2026/aug/19/fifth-fifa-vice-president-turns-against-infantino-saying-he-has-lost-confidence-in-him",
@@ -723,19 +800,6 @@
         "feedImage": "https://i.guim.co.uk/img/media/96f0cd8b5d7de094404335c8e5cfd3353bb95f98/1222_2_2430_1944/master/2430.jpg?width=140&quality=85&auto=format&fit=max&s=c64b1dc0243e851093fb3281554f8d9a",
         "category": "general",
         "image": "https://i.guim.co.uk/img/media/96f0cd8b5d7de094404335c8e5cfd3353bb95f98/1222_2_2430_1944/master/2430.jpg?width=140&quality=85&auto=format&fit=max&s=c64b1dc0243e851093fb3281554f8d9a"
-      },
-      {
-        "title": "Trabzonspor'dan duygusal paylaşım! 'Bir kulüpten daha fazlası...'",
-        "summary": "Minik bir Liverpool taraftarı, Trabzonspor forması giyen dünyaca ünlü futbolcu Muhammed Salah'ı ziyaret etti. Bordo mavili kulüp ise bu anları, \"Bir kulüpten daha fazlası...\" notuyla sosyal medya hesabından...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/video-haber/videoizle/trabzonspordan-duygusal-paylasim-bir-kulupten-daha-fazlasi",
-        "date": "Wed, 19 Aug 2026 22:04:27 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/ecc227/1200/675/0/237/607/579?u=https://iftm.tmgrup.com.tr/2026/08/19/trabzonspordan-duygusal-paylasim-bir-kulupten-daha-fazlasi-1787166200641.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/ecc227/1200/675/0/237/607/579?u=https://iftm.tmgrup.com.tr/2026/08/19/trabzonspordan-duygusal-paylasim-bir-kulupten-daha-fazlasi-1787166200641.jpeg"
       },
       {
         "title": "Zeljko Sopic: 'Beşiktaş'ın kalitesini konuşmak saçmalık olabilir'",
@@ -764,82 +828,17 @@
         "image": "https://iasbh.tmgrup.com.tr/94494c/1200/675/0/73/800/523?u=https://isbh.tmgrup.com.tr/sbh/2026/08/19/kauno-zalgiris-besiktas-macina-hazir-1787163776252.jpeg"
       },
       {
-        "title": "Zeljko Sopic: Burada oynamak kolay değil!",
-        "summary": "Kauno Zalgiris Teknik Direktörü Zeljko Sopic, Beşiktaş ile oynanacak maç öncesi açıklamalarda bulundu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/19/zeljko-sopic-burada-oynamak-kolay-degil",
-        "date": "Wed, 19 Aug 2026 21:07:27 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/a721ba/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/19/besiktas-kauno-zalgiris-macina-dogru-1787162777109.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/a721ba/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/19/besiktas-kauno-zalgiris-macina-dogru-1787162777109.jpeg"
-      },
-      {
-        "title": "Balazs Borbely: Güçlü ve yoğun bir atmosfer olacak!",
-        "summary": "Ferençvaroş Teknik Direktörü Balazs Borbely, UEFA Avrupa Ligi play-off turundaki Trabzonspor maçı öncesi konuştu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/19/balazs-borbely-guclu-ve-yogun-bir-atmosfer-olacak",
-        "date": "Wed, 19 Aug 2026 20:42:04 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/0676a0/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/19/balazs-borbely-guclu-ve-yogun-bir-atmosfer-olacak-1787161320041.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/0676a0/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/19/balazs-borbely-guclu-ve-yogun-bir-atmosfer-olacak-1787161320041.jpeg"
-      },
-      {
-        "title": "Fatih Tekke'den Ferencvaros maçı öncesi açıklama: 'Ümidim avantajlı bir skoru alarak deplasmana gitmek'",
-        "summary": "Trabzonspor teknik direktörü Fatih Tekke, yarın UEFA Avrupa Ligi play-off duru ilk maçında konuk edecekleri Ferencvaros maçı öncesi düzenlenen basın toplantısında, \"Rakibimiz saygıyı hak eden bir rakip, iyi bir ekipleri var. Yarın özellikle bir sonraki maça avantajlı bir şekilde gitmek istiyoruz. Bütün duygumuzla, takımımızla, heyecanımızla yarına hazırız. Taraftarımızla beraber ümidim, avantajlı bir skoru alarak deplasmana gitmek.\" değerlendirmesinde bulundu.",
-        "link": "https://www.hurriyet.com.tr/sporarena/fatih-tekkeden-ferencvaros-maci-oncesi-aciklama-umidim-avantajli-bir-skoru-alarak-deplasmana-gitmek-43278701",
-        "date": "Wed, 19 Aug 2026 17:11:28 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a85e39529222ab2dfca7075.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a85e39529222ab2dfca7075.jpg"
-      },
-      {
-        "title": "Galatasaray'dan Boşnak golcüye teklif! Ermedin Demirovic...",
-        "summary": "Victor Osimhen'e alternatif olabilecek bir forvet takviyesi için çalışmalarını sürdüren Galatasaray, aradığı ismi Bundesliga'da buldu. Sarı kırmızılıların Stuttgart forması giyen Boşnak golcü Ermedin Demirovic...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2026/08/19/galatasaraydan-bosnak-golcuye-teklif-ermedin-demirovic",
-        "date": "Wed, 19 Aug 2026 20:03:09 +0300",
+        "title": "Trabzonspor evinde avantaj peşinde! İşte Fatih Tekke'nin muhtemel 11'i",
+        "summary": "Trabzonspor, UEFA Avrupa Ligi play-off turunda bugün Ferencvaros’ı ağırlıyor. Ekibimizden mutlak zafer bekliyoruz. Bu kritik maç ATV’den şifresiz olarak yayınlanacak. Karşılaşma ile ilgili gün boyu özel...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/trabzonspor/2026/08/20/trabzonspor-evinde-avantaj-pesinde-iste-fatih-tekkenin-muhtemel-11i",
+        "date": "Wed, 19 Aug 2026 21:17:41 +0300",
         "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/4034fb/1200/675/6/0/1002/560?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaraydan-bosnak-golcuye-teklif-ermedin-demirovic-1787158911307.jpeg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/84c4d6/1200/675/0/84/800/534?u=https://iftm.tmgrup.com.tr/2026/08/19/firtina-atvde-esecek-1787163454878.jpeg",
         "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/4034fb/1200/675/6/0/1002/560?u=https://iftm.tmgrup.com.tr/2026/08/19/galatasaraydan-bosnak-golcuye-teklif-ermedin-demirovic-1787158911307.jpeg"
-      },
-      {
-        "title": "Fenerbahçe, Musaba'yı Norwich'e kiraladı",
-        "summary": "Fenerbahçe, Anthony Musaba’nın İngiltere Championship ekiplerinden Norwich City’e kiralandığını açıkladı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahce-ayriligi-duyurdu-43278643",
-        "date": "Wed, 19 Aug 2026 15:23:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a85cc0229222ab2dfca6ff9.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a85cc0229222ab2dfca6ff9.jpg"
-      },
-      {
-        "title": "Fenerbahçe Anthony Musaba'nın ayrılığını resmen açıkladı!",
-        "summary": "Son dakika haberi: Fenerbahçe, Anthony Musaba'nın Norwich City'ye 1 yıllığına kiralandığını açıkladı. İşte detaylar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/19/fenerbahce-anthony-musabanin-ayriligini-resmen-acikladi",
-        "date": "Wed, 19 Aug 2026 18:20:30 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/98086a/1200/675/0/89/534/390?u=https://iftm.tmgrup.com.tr/2026/08/19/fenerbahce-anthony-musabanin-ayriligini-resmen-acikladi-1787153024532.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/98086a/1200/675/0/89/534/390?u=https://iftm.tmgrup.com.tr/2026/08/19/fenerbahce-anthony-musabanin-ayriligini-resmen-acikladi-1787153024532.jpeg"
+        "image": "https://iaftm.tmgrup.com.tr/84c4d6/1200/675/0/84/800/534?u=https://iftm.tmgrup.com.tr/2026/08/19/firtina-atvde-esecek-1787163454878.jpeg"
       }
     ]
   },
