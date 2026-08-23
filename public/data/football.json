@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-08-22T23:24:25.288Z",
+  "updatedAt": "2026-08-23T05:36:24.657Z",
   "news": {
     "corumsporhaber": [
+      {
+        "title": "Davinson kendine geldi",
+        "summary": "Davinson kendine geldi Fotomaç",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kdWl1TjBqZmM4UkZGWGl0QVRNQUttQWxzTDNtY3FyNkpOYVFtclhzaUtVRUg4cUZYTHNqUEhKUC1PYTNPVGhCbjdCbXlxcHZlcGJaNFRZT0JhQUpFZlp0amppT1ZZQzRrMXVCdVBtUkRPOVBCWkNURV9zSFM?oc=5",
+        "date": "Sun, 23 Aug 2026 03:50:15 GMT",
+        "source": "Fotomaç",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Kasımpaşa, deplasmanda Arca Çorum FK'ı 1-0 yendi",
+        "summary": "Kasımpaşa, deplasmanda Arca Çorum FK'ı 1-0 yendi Anadolu Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVZ1QWFzbmRvRGNha0hJNF85S0poR3FFU2NtdUFFYlZ6RnZETnZHUVV3QUZVOEM1bmd5VnYyVkNpMnYyaGFONWRlSGNZTjNubkZWYWhySG54TTNXZjJQbXdUUldTWXB0RmxlSEExdEZueTZLLWZNYndfd09LTXdPT2RpaUJRbTJWcFhxcQ?oc=5",
+        "date": "Sat, 22 Aug 2026 21:15:57 GMT",
+        "source": "Anadolu Ajansı",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
       {
         "title": "Emre Belözoğlu: \"Arca Çorum FK çok güçlü bir takım\"",
         "summary": "Emre Belözoğlu: \"Arca Çorum FK çok güçlü bir takım\" beinsports.com.tr",
@@ -20,18 +44,6 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDVzOWlQWXpNY3Z2NzBRS1ZCeDc5RjVERGlIRE5UaXFqYm52WHhVT29LazhJSmcxT2RWc2dNZk5tVlNLQkh5SWcySFZTR0tmRmZVaU5kSi1zZkRNamVUSU0tdnljX3NjQ3hrWVBjOGdiMXF6WGtEWmRyT2phc3c2aEFLbkpaRFVQTXgyS0FmUVV1S0FJWm05SlFvMlp3TVNadHkxYm94M1d4cDFpTGRyaWdXQ0lZRm1tS1Q4cjRBbFh4RGd6UjUxdk52NWJLMnEtdHVaSVNqTW8zOTFs?oc=5",
         "date": "Sat, 22 Aug 2026 19:01:00 GMT",
         "source": "Habertürk",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Emre Belözoğlu: Kazanmak için oynamaya devam edeceğiz",
-        "summary": "Emre Belözoğlu: Kazanmak için oynamaya devam edeceğiz Ensonhaber",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYUE5WThfckQ1STFzdWxVcU5HOHRnUUwyTkJkNk5KRGlzTVhoOEktVlJ6cWRFR2puVVFZeW1vRlU0MjB4ckFaRzItRHVuOEZCZEJtX0NUVzlES2pGSDFkaW1SZ2FaNTd4aWJoNXAtYUJoX3BjT2RoZzhQQkZXbFBHQkxMT1Vpcm43RXhLbTg0SU53UQ?oc=5",
-        "date": "Sat, 22 Aug 2026 18:56:28 GMT",
-        "source": "Ensonhaber",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -63,23 +75,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Kasımpaşa, deplasmanda Arca Çorum FK'ı 1-0 yendi",
-        "summary": "Kasımpaşa, deplasmanda Arca Çorum FK'ı 1-0 yendi Anadolu Ajansı",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmtUeS1kbkM2YVVkcUpsRkU2RHRJMmhsbFJBdTJWZEpaQUhON2Y4V1hfRnpCRDZqRkFkSG1UeWE2MXUzYnhPTG5vbUtkNkxSOW9TZjNFVy1KYzZmT0k4dlM2dXNNbXlGeVp3VmhyN2htLXVleVRScE1WMWpfQzg5c0dxRlN5cTg?oc=5",
-        "date": "Sat, 22 Aug 2026 18:35:34 GMT",
-        "source": "Anadolu Ajansı",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Çorum FK 0-1 Kasımpaşa",
-        "summary": "Çorum FK 0-1 Kasımpaşa Sözcü18",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wYmtLTGliS2wxenNwdXdrQmhCbnhJc0h1SkQtWU9qYndKY05ueWpmUU5TZUFTRjRUQnh0anl5dFhkb1hnZm52ejBVa3prQUk4TzhKbnhPS0xPb1BHQ3pkQVdpNHNFRUJ20gF4QVVfeXFMT2tRTjFramZZbEN1SGtEczdBXzg1RlRHa2JscmRyeGl6MksyN09TUDN5VVRTMUh1VXR5R2ZCSHRDMVQzRjZFVFVZWWc2a19aTmxMc2R0dkpranFJS3gzQTNGSzlzM05GbEpIVWNBUUtsSjIzSlBvVFA4?oc=5",
-        "date": "Sat, 22 Aug 2026 18:18:00 GMT",
-        "source": "Sözcü18",
+        "title": "Çorum FK, Trendyol Süper Lig’deki ilk iç saha maçında mağlup oldu İhlas Haber Ajansı",
+        "summary": "Çorum FK, Trendyol Süper Lig’deki ilk iç saha maçında mağlup oldu İhlas Haber Ajansı İhlas Haber Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbnlJSkFuU2Y3YmZPSEVheHhjSmZwTFU0UlU2UjRnWENXN2xmTXZpVFNPM3hxT0pDYVI5QlBWUTlHSVI2YnVoejFGZHJOQ2dVamtxcUU4eG9nR2pGQUFic3hZUnNXSDJwTnZYeTZBV0NDYWF1NG45eVQ5SVllcGRXdzhzb0ltLVNoZFJ0VHhZUW4zdkJ5d3VuenMweVNRRFowYzVod3ZNN25OQ0NVNHFNenhB?oc=5",
+        "date": "Sat, 22 Aug 2026 18:25:16 GMT",
+        "source": "İhlas Haber Ajansı",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -111,6 +111,18 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
+        "title": "Kasımpaşa, Çorum FK deplasmanında tek golle güldü!",
+        "summary": "Kasımpaşa, Çorum FK deplasmanında tek golle güldü! Sabah",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFVIMkkzQlhBQzJLMkRlNVpMY2hiQ0QzakJ3WHBZaWdQSzNHWi11LXNQckd4endCRzU4clZUVUlza0NsOEFZeWNiUW1DRlZoMkgyXzU1a2tIaEJxVmhPT0V5Z2hyNDR0Ujd5QXdQQzBRM3lMSmRuelRlYWN2QXpueThBRDF0a3dZdmd0QWdLNEdvTm1qWXc5SU8xNU4?oc=5",
+        "date": "Sat, 22 Aug 2026 18:01:49 GMT",
+        "source": "Sabah",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
         "title": "Kasımpaşa'dan ligde ilk galibiyet",
         "summary": "Kasımpaşa'dan ligde ilk galibiyet Sporx.com",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnNFlOQ3FsMWlXRWQ2ckMxR2xCclVwRklsdFRUOEY3ZW9jbENyT09KQnlKcUlRak5SaXFIXzFiRE8wZVFPVnhVX1JHLUJGQzVfQXhUWlRudTJJZndXd2M3RVBDdHVFbjZWS0xlQ3V0UVEtVVJWNVJQaEJuUdIBfkFVX3lxTFBxTHZmbzMyWjNURF9jYjYza1JNSmtMeHhLTDkwZ1YwemxmMnVMWTU1UndvSldIOG5nYzdGZ1dfOUdlR0VkbFRHR29YdWpRR2VaZWZwMGZhaEFIMUdudDVJMDg5cmpSWHVJemtkNi1TREJKZTdLZl9mWjE1NmdmZw?oc=5",
@@ -128,6 +140,18 @@
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KbTdGSVpGa1VGeVFRYVdBaE1jUVlLNUxvdmJ5Q3Z2VWZpeEJ1RHIycUJEY3cwWUZBZHViblREWGxaSEpoNXhYZHNicE0wQjZPdTR1ODYwNWF4cTdLc0lkcVpUT0RWSjctX0kzRU5BT1lyeVBUZ2FN?oc=5",
         "date": "Sat, 22 Aug 2026 17:57:00 GMT",
         "source": "T24",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Kasımpaşa, Çorum FK'yi tek golle geçti! Ligde siftah yaptı - Adana Demirspor - Spor Haberleri",
+        "summary": "Kasımpaşa, Çorum FK'yi tek golle geçti! Ligde siftah yaptı - Adana Demirspor - Spor Haberleri Milliyet",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWFHbVppSDI4Rmwyek1ncEN4RDdub1JUc1h4S3ZjaWplNDJKN2p0TVg1Nm5jS0hPd3NhMERfcGgtcWY4R0hxenB1N0ZzcURhYmNqTzVnLXdWd1l6Q0VPTDIzdVB3MG9wRHFicV9jQnlvTVdaZE9MUUdwR29sVDRTTGJOQjJrV202ZDJKRndJU3oyeXVvV25zZzQ2MjN6SG8?oc=5",
+        "date": "Sat, 22 Aug 2026 17:56:30 GMT",
+        "source": "Milliyet",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -174,20 +198,8 @@
         "title": "Çorum FK Kasımpaşa CANLI nereden izlenir? Çorum FK Kasımpaşa maçı hangi kanalda, nereden izlenir?",
         "summary": "Çorum FK Kasımpaşa CANLI nereden izlenir? Çorum FK Kasımpaşa maçı hangi kanalda, nereden izlenir? Haberler",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdGEyaDFZOHp4ZWhfSXJvYlBQOU11M0hFNTRBRjMyR1FiTml1dGhfUGltNnY0Y2xCTWFvbzJZSmI4eVZBNE5GZzUzNF9DWUpVNGltcWZaSzJ5SHlRc2ZzMTM5TWdTaDE1ZzdqWVRTRkRfWlNsQWFJQVhKUEc4UG4ycWNpWk9GMmxDUDZlamZfNnBtMnk0R044VFpEdjhOQdIBmwFBVV95cUxQUy1FRlpqcF9hSlhVVFVfZkY0dGlsRUhiNUxuX0RjYVI5R0FXOFNiZHo3MFMySmRDcGZIa2hhQXd4Sk1PeEpsRGxsVGo4ZTZTVDhuck5KTEdVdXM4MWoyOUxMMkdhVS11RUl2U2JqUVhRSEhNM2JjWGVWeW5CdkU4U1RkZjl4NmNqbm9xR0ZiOEdHQng4YTRHMkxqcw?oc=5",
-        "date": "Sat, 22 Aug 2026 16:11:19 GMT",
+        "date": "Sat, 22 Aug 2026 16:31:24 GMT",
         "source": "Haberler",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Çorum FK - Kasımpaşa maçı hangi kanalda? CANLI İZLE",
-        "summary": "Çorum FK - Kasımpaşa maçı hangi kanalda? CANLI İZLE Alanya Postası",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOWdGeXVQa01HdzR2MC1oWFJPWjd0U3FzRFRZUkxKbHZqazcwTm9aZHhkaE1SVS1WeVEtU2h4U3lreVQya0Q3MG9DNzRhdExBekh0NXdiX01VdjdZakI2WjBDbDJJdUpQX0dDVHo1aDIwRTQwWVB6M28zM2c0MGVTZTRraVlwNTRw?oc=5",
-        "date": "Sat, 22 Aug 2026 16:01:00 GMT",
-        "source": "Alanya Postası",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -207,11 +219,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Arca Çorum FK - Kasımpaşa maçı CANLI | Trendyol Süper Lig CANLI MAÇ",
-        "summary": "Arca Çorum FK - Kasımpaşa maçı CANLI | Trendyol Süper Lig CANLI MAÇ Fotomaç Trendyol Süper Lig: Çorum FK: 0 - Kasımpaşa: 1 (Maç sonucu) İhlas Haber Ajansı İhlas Haber Ajansı 🚨 Paşa Çorum'da Benedyczak'la kazandı... (ÖZET) Çorum FK - Kasımpaşa maç sonucu 0-1 Fanatik",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQenFYZlc5cUFyZ2xSbWVaZk5Lc3poQTZLc0toSHhuT3QzZFROcURMUTQ3VDFnejRYay1vaVoyOW9YNlVsR2dmaWo1Y1JFbUVEX2lOSExuU0M1RUo1Q1lCU0NGd1FuTzBWZnE2WGVnOTg4S21vVGNGM1h0akY0U0RnNzhncEF4TGRtV2xNUUF6RU5jUFRySmNVbWFmU1ZGc0JFQ2t2TXYzUFgxcllOZGx3?oc=5",
-        "date": "Sat, 22 Aug 2026 15:50:18 GMT",
-        "source": "Fotomaç",
+        "title": "Arca Çorum FK-Kasımpaşa CANLI | Trendyol Süper Lig 2. hafta",
+        "summary": "Arca Çorum FK-Kasımpaşa CANLI | Trendyol Süper Lig 2. hafta A Spor Kasımpaşa tek golle güldü Fotomaç 🚨 Paşa Çorum'da Benedyczak'la kazandı... (ÖZET) Çorum FK - Kasımpaşa maç sonucu 0-1 Fanatik",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUZkb1NuUDRvT3dKaU9Sck9UUXZSX3NZVlJqTnZjMms3RGYyNm5BS2hMbTVIaS1xRTluYjlOajZwT2w0RGxWUTVqQTR6NVFHS0FWUDJPYUF5Yk9mTnpDcXVHc1NuMExFdXV5Vk9LTkpKLTBqZ0UxRjFFRWhzMUlTdVByVzdraHdOeVRpZ1hEQUdONGNFVl83azNabjJkaGlzV1NMTHV0S0ZKdmJGT1RCSVRR?oc=5",
+        "date": "Sat, 22 Aug 2026 15:51:05 GMT",
+        "source": "A Spor",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -303,18 +315,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK'nin Süper Lig'deki ilk iç saha maçı öncesi stat hazırlandı",
-        "summary": "Çorum FK'nin Süper Lig'deki ilk iç saha maçı öncesi stat hazırlandı Anadolu Ajansı",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPczVDSThTN0I1eU41cWxBZENMTmhISEJtU0Jab0ZlZ2VoWVMzV0FxTzNmaTh6TFRFTVhvaktDWGExam0tMndqLTkzSFlmanF2a05OWGRKNDZlM3k1cWVMdFc5UWJNQ25pbkd1eWFtQmJCRVZBQTNocmJCazJ0OHhNRmd5UV9nNVFOcnNrUVVkZWZpOU15WnJtY1ZkeHRucENi?oc=5",
-        "date": "Sat, 22 Aug 2026 09:02:51 GMT",
-        "source": "Anadolu Ajansı",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Çorum FK Kasımpaşa'yı boş tribünler önünde ağırlıyor",
         "summary": "Çorum FK Kasımpaşa'yı boş tribünler önünde ağırlıyor Nefes Gazetesi",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSTM3MWhtWFNkVzdoTzVhQkRFeGxzb09pNGtvZjlPdzdMV3BDUEpYQWQ0MXhZUlpWTWZqajY4Zy00V212R0xIRk5WNDRkVlFhRlg0TUhhcWxsTlB0c1dBY2YtWVNEbGRvWkt6YXJNYktBZ193N3BxTFRHc2p4VDNhTlpMUlgwNDJkNmdj0gGQAUFVX3lxTE1WQVkxUGpuRzJzV24wVFVYSnpLQjVKYnB6anpCQnJWXzNiUWlnbXhuZ25vdTVPaWh5ZzlOMkgxd29GejhwR180c3BjT2ducnRaaUxzVVZ0Q2pWbkNaMG1lc3k0V0VQWUJNRWRpTGYyV280RGVqdERrb3ZoWjdIc285d2pub0U5a3pFZFB6YldmMQ?oc=5",
@@ -327,11 +327,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "CANLI | Arca Çorum FK - Kasımpaşa maç anlatımı! Maç ne zaman? Saat kaçta ve hangi kanalda? - 22 Ağustos 2026",
-        "summary": "CANLI | Arca Çorum FK - Kasımpaşa maç anlatımı! Maç ne zaman? Saat kaçta ve hangi kanalda? - 22 Ağustos 2026 Mynet",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQzNmQTVyNnJNanc3TUNJLVpnWHI4ZDlyU09PUlRhNFlWZ2tvdEZ0clM4VG9aN0o0X2h5bldCWWxtc25KUVlpVXozLVNqODdTbzJSX1llcmh6cFRtVWtJd3dkYTM2U1M4VGpNZHVJbWsxcVoxWkhLay1rWWRETmRBajBSSzBDakJlek5TdVM3NWdNZ2tRRjdkeHRwdEM4bXZXbmkwX3c1X0lqaU9CMGt2MktUTWQ1WUxvazF1N2o3SEJ1XzlwWUYyYlVSeERsUGxQ?oc=5",
-        "date": "Sat, 22 Aug 2026 02:24:02 GMT",
-        "source": "Mynet",
+        "title": "Çorum FK, ilk iç saha maçında seyircisiz!",
+        "summary": "Çorum FK, ilk iç saha maçında seyircisiz! Sporx.com",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYW1HTU82X3hTckRRcXlMckktdFJ0QnR1WE55U3JuSUNYaXJwQmhaT1laX3A3a3ZQR1puLUtjVVlnck9tQWxrQTgzc052cTM4SkZxTTZFTi1zem9ZSmREMl9YTmNfOU5mLTB5aTRjajRoMFFSMWFILU5iMUVGTGJidEFWZ9IBhgFBVV95cUxQQ2d6MDBhVmxVQ1Y0N0ctZ0R4dzFkb2t5QW5pbzE3cm9JRDBERGU5Sl9zQnQyS0Z2TzdaSTJNZWFZQmV3UHRfZmVuc1NOd3I3QmI2YnctenNYeXFCOXJlQWZPTFhNZkdYc2FsSzFGMndFTzNYUS1jYkpSRVV5eXBFbmw1b2VYdw?oc=5",
+        "date": "Fri, 21 Aug 2026 08:35:00 GMT",
+        "source": "Sporx.com",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -366,30 +366,82 @@
     "milli": [],
     "superlig": [
       {
-        "title": "İsmail Kartal'dan Kerem ve Asensio açıklaması!",
-        "summary": "Trendyol Süper Lig'in 2. haftasında konuk ettiği TÜMOSAN Konyaspor'u 4-2 yenen Fenerbahçe'de teknik direktör İsmail Kartal, iyi bir galibiyete imza attıklarını belirtti. Kartal ayrıca, Marco Asensio ve...Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/22/ismail-kartaldan-kerem-ve-asensio-aciklamasi",
-        "date": "Sun, 23 Aug 2026 00:47:07 +0300",
-        "source": "Sabah Spor",
+        "title": "Fenerbahçe-Konyaspor maçı sonrası Lyon göndermesi: Asıl galibiyet orada!",
+        "summary": "Fenerbahçe, Süper Lig'in 2. haftasında Konyaspor'u 4-2 mağlup etti ve Şampiyonlar Ligi play-off turu rövanşında oynayacağı Lyon müsabakası öncesi rahat bir nefes aldı. Hürriyet spor yazarları, maç sonrası Fenerbahçe'yi değerlendirdi.",
+        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahce-konyaspor-maci-sonrasi-lyon-gondermesi-asil-galibiyet-orada-43282123",
+        "date": "Sun, 23 Aug 2026 04:48:00 Z",
+        "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/965de1/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/fenerbahce-konyaspor-macinin-ardindan-1787435125794.jpeg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a7b869858e588ff03cd6c.jpg",
         "category": "superlig",
-        "image": "https://iasbh.tmgrup.com.tr/965de1/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/fenerbahce-konyaspor-macinin-ardindan-1787435125794.jpeg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a7b869858e588ff03cd6c.jpg"
       },
       {
-        "title": "İlhan Palut: \"Yemememiz gereken goller yedik\"",
-        "summary": "Trendyol Süper Lig'in 2. haftasında Fenerbahçe'ye deplasmanda 4-2 mağlup olan TÜMOSAN Konyaspor'da teknik direktör İlhan Palut, kaybetmelerine karşın takımdan iyi sinyaller aldığını söyledi.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/22/ilhan-palut-yemememiz-gereken-goller-yedik",
-        "date": "Sun, 23 Aug 2026 00:44:08 +0300",
-        "source": "Sabah Spor",
+        "title": "Süper Lig'de süper pazar!",
+        "summary": "İki şampiyon adayı, Trabzonspor ve Beşiktaş, Trendyol Süper Lig'de bugün 2. hafta karşılaşmalarına çıkıyor.",
+        "link": "https://www.hurriyet.com.tr/sporarena/super-ligde-super-pazar-43282106",
+        "date": "Sun, 23 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/dacbaa/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/ilhan-palut-1787434896447.jpeg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg",
         "category": "superlig",
-        "image": "https://iasbh.tmgrup.com.tr/dacbaa/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/ilhan-palut-1787434896447.jpeg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/57bbf91967b0a930747c6900.jpg"
+      },
+      {
+        "title": "Fenerbahçe Kadıköy'de kazandı! Greenwood'dan harika performans",
+        "summary": "Trendyol Süper Lig'in 2. haftasında Fenerbahçe konuk ettiği TÜMOSAN Konyaspor'u 4-2'lik skorla mağlup etti. Bu sezon ligde ilk puanlarını alan Fenerbahçe 3 puana yükselirken, Konyaspor ise 0 puanda kaldı...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/fenerbahce-kadikoyde-kazandi-greenwooddan-harika-performans",
+        "date": "Sun, 23 Aug 2026 01:50:33 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/8afa5f/1200/675/0/57/800/507?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahce-kadikoyde-farkli-kazandi-greenwooddan-harika-performans-1787430263527.jpeg",
+        "category": "superlig",
+        "image": "https://iaftm.tmgrup.com.tr/8afa5f/1200/675/0/57/800/507?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahce-kadikoyde-farkli-kazandi-greenwooddan-harika-performans-1787430263527.jpeg"
+      },
+      {
+        "title": "İsmail Kartal: Savunmaya takviye olacak!",
+        "summary": "Fenerbahçe, Trendyol Süper Lig'in 2. haftasında sahasında TÜMOSAN Konyapsor'u 4-2 mağlup etti. Sarı-lacivertli ekipte Teknik Direktör İsmail Kartal, mücadele sonrası açıklamalarda bulundu. İşte o sözler...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/ismail-kartal-savunmaya-takviye-olacak",
+        "date": "Sun, 23 Aug 2026 01:50:31 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/7c5b99/1200/675/0/156/1500/999?u=https://iftm.tmgrup.com.tr/2026/08/23/ismail-kartal-daha-yolun-basindayiz-1787433886552.jpeg",
+        "category": "superlig",
+        "image": "https://iaftm.tmgrup.com.tr/7c5b99/1200/675/0/156/1500/999?u=https://iftm.tmgrup.com.tr/2026/08/23/ismail-kartal-daha-yolun-basindayiz-1787433886552.jpeg"
+      },
+      {
+        "title": "Fenerbahçe'de sakatlık şoku! Sedyeyle ayrıldı",
+        "summary": "Trendyol Süper Lig'in 2. haftasında Fenerbahçe ile Konyaspor karşı karşıya geldi. Sarı-lacivertlilerin sahasında oynanan mücadelede Kerem Aktürkoğlu sakatlık yaşadı.Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/fenerbahcede-sakatlik-soku-sedyeyle-ayrildi",
+        "date": "Sun, 23 Aug 2026 01:50:25 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/cd3bec/1200/675/0/240/1280/960?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahcede-sakatlik-soku-sedyeyle-ayrildi-1787428442619.jpeg",
+        "category": "superlig",
+        "image": "https://iaftm.tmgrup.com.tr/cd3bec/1200/675/0/240/1280/960?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahcede-sakatlik-soku-sedyeyle-ayrildi-1787428442619.jpeg"
+      },
+      {
+        "title": "Fenerbahçe-TÜMOSAN Konyaspor maçında VAR'dan penaltı kararı!",
+        "summary": "Trendyol Süper Lig 2. Hafta karşılaşmasında Fenerbahçe evinde Konyaspor'u ağırladı. Maçta 20. dakikada penaltı kararı verildi.Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/fenerbahce-tumosan-konyaspor-macinda-vardan-penalti-karari",
+        "date": "Sun, 23 Aug 2026 01:50:23 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/454bde/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahce-tumosan-konyaspor-macinda-vardan-penalti-karari-1787425940611.jpeg",
+        "category": "superlig",
+        "image": "https://iaftm.tmgrup.com.tr/454bde/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahce-tumosan-konyaspor-macinda-vardan-penalti-karari-1787425940611.jpeg"
       },
       {
         "title": "İlhan Palut: '4-2 kaybettik ama sinyaller iyi!'",
@@ -405,90 +457,51 @@
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a17aede691a4aa8c65eac.jpg"
       },
       {
-        "title": "İsmail Kartal: Savunmaya takviye olacak!",
-        "summary": "Fenerbahçe, Trendyol Süper Lig'in 2. haftasında sahasında TÜMOSAN Konyapsor'u 4-2 mağlup etti. Sarı-lacivertli ekipte Teknik Direktör İsmail Kartal, mücadele sonrası açıklamalarda bulundu. İşte o sözler...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/ismail-kartal-savunmaya-takviye-olacak",
-        "date": "Sat, 22 Aug 2026 23:49:48 +0300",
+        "title": "Fırtına galibiyet peşinde! Başakşehir maçının muhtemel 11'i belli oldu",
+        "summary": "Trendyol Süper Lig 2. hafta mücadelesinde bu akşam sahasında Başakşehir'i konuk edecek olan Trabzonspor, kötü gidişe son vermek istiyor. İşte Fatih Tekke'nin muhtemel 11'i...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/trabzonspor/2026/08/23/firtina-galibiyet-pesinde-basaksehir-macinin-muhtemel-11i-belli-oldu",
+        "date": "Sat, 22 Aug 2026 23:42:44 +0300",
         "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/7c5b99/1200/675/0/156/1500/999?u=https://iftm.tmgrup.com.tr/2026/08/23/ismail-kartal-daha-yolun-basindayiz-1787433886552.jpeg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/815dbe/1200/675/0/102/600/440?u=https://iftm.tmgrup.com.tr/2026/08/22/tek-hedef-3-puan-1787431350780.jpeg",
         "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/7c5b99/1200/675/0/156/1500/999?u=https://iftm.tmgrup.com.tr/2026/08/23/ismail-kartal-daha-yolun-basindayiz-1787433886552.jpeg"
-      },
-      {
-        "title": "Fenerbahçe Kadıköy'de kazandı! Greenwood'dan harika performans",
-        "summary": "Trendyol Süper Lig'in 2. haftasında Fenerbahçe konuk ettiği TÜMOSAN Konyaspor'u 4-2'lik skorla mağlup etti. Bu sezon ligde ilk puanlarını alan Fenerbahçe 3 puana yükselirken, Konyaspor ise 0 puanda kaldı...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/fenerbahce-kadikoyde-kazandi-greenwooddan-harika-performans",
-        "date": "Sat, 22 Aug 2026 23:30:18 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/8afa5f/1200/675/0/57/800/507?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahce-kadikoyde-farkli-kazandi-greenwooddan-harika-performans-1787430263527.jpeg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/8afa5f/1200/675/0/57/800/507?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahce-kadikoyde-farkli-kazandi-greenwooddan-harika-performans-1787430263527.jpeg"
-      },
-      {
-        "title": "Fenerbahçe'de sakatlık şoku! Sedyeyle ayrıldı",
-        "summary": "Trendyol Süper Lig'in 2. haftasında Fenerbahçe ile Konyaspor karşı karşıya geldi. Sarı-lacivertlilerin sahasında oynanan mücadelede Kerem Aktürkoğlu sakatlık yaşadı.Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/fenerbahcede-sakatlik-soku-sedyeyle-ayrildi",
-        "date": "Sat, 22 Aug 2026 22:55:09 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/cd3bec/1200/675/0/240/1280/960?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahcede-sakatlik-soku-sedyeyle-ayrildi-1787428442619.jpeg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/cd3bec/1200/675/0/240/1280/960?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahcede-sakatlik-soku-sedyeyle-ayrildi-1787428442619.jpeg"
-      },
-      {
-        "title": "Fenerbahçe-TÜMOSAN Konyaspor maçında VAR'dan penaltı kararı!",
-        "summary": "Trendyol Süper Lig 2. Hafta karşılaşmasında Fenerbahçe evinde Konyaspor'u ağırladı. Maçta 20. dakikada penaltı kararı verildi.Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/fenerbahce-tumosan-konyaspor-macinda-vardan-penalti-karari",
-        "date": "Sat, 22 Aug 2026 22:13:18 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/454bde/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahce-tumosan-konyaspor-macinda-vardan-penalti-karari-1787425940611.jpeg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/454bde/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahce-tumosan-konyaspor-macinda-vardan-penalti-karari-1787425940611.jpeg"
-      },
-      {
-        "title": "Son dakika haberi: Fenerbahçe, Konyaspor’u 4 golle geçti! Mason Greenwood yıldızlaştı…",
-        "summary": "Son dakika haberi: Fenerbahçe, Trendyol Süper Lig'in 2. haftasında sahasında TÜMOSAN Konyaspor’u 4-2’lik skorla mağlup etti. Sarı-lacivertlilerin yıldızı Mason Greenwood, 2 gol – 1 asistle mücadelede öne...Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/22/fenerbahce-tumosan-konyaspor-canli-kanarya-konyasporu-konuk-ediyor-iste-ismail-kartalin-11i",
-        "date": "Sat, 22 Aug 2026 17:13:37 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/d89717/1200/675/0/0/2048/1151?u=https://isbh.tmgrup.com.tr/sbh/2026/08/22/fenerbahce-tumosan-konyaspor-canli-kanarya-konyasporu-konuk-ediyor-ilk-yari-oynaniyor-1787425469564.jpg",
-        "category": "superlig",
-        "image": "https://iasbh.tmgrup.com.tr/d89717/1200/675/0/0/2048/1151?u=https://isbh.tmgrup.com.tr/sbh/2026/08/22/fenerbahce-tumosan-konyaspor-canli-kanarya-konyasporu-konuk-ediyor-ilk-yari-oynaniyor-1787425469564.jpg"
+        "image": "https://iaftm.tmgrup.com.tr/815dbe/1200/675/0/102/600/440?u=https://iftm.tmgrup.com.tr/2026/08/22/tek-hedef-3-puan-1787431350780.jpeg"
       }
     ],
     "transfer": [
       {
-        "title": "Fenerbahçe'de Jayden Oosterwolde, Roma yolcusu!",
-        "summary": "Fenerbahçe'nin 25 yaşındaki Hollandalı Jayden Oosterwolde, İtalya Serie A Ligi ekiplerinden Roma'ya transfer oluyor.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/22/fenerbahcede-jayden-oosterwolde-roma-yolcusu",
-        "date": "Sun, 23 Aug 2026 01:34:01 +0300",
-        "source": "Sabah Spor",
+        "title": "Trabzonspor, ön liberoya Fabinho'yu getiriyor!",
+        "summary": "Anlaşmaya varılan Brezilyalı yıldızın bugün İstanbul'da olması bekleniyor.",
+        "link": "https://www.hurriyet.com.tr/sporarena/trabzonspor-on-liberoya-fabinhoyu-getiriyor-43282109",
+        "date": "Sun, 23 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/4d1514/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/1787437768749.jpeg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a32e8de691a4aa8c65f6d.jpg",
         "category": "transfer",
-        "image": "https://iasbh.tmgrup.com.tr/4d1514/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/1787437768749.jpeg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a32e8de691a4aa8c65f6d.jpg"
+      },
+      {
+        "title": "Lucas Torreira için resmi tekliflerini ilettiler! İtalya'nın bir başka kulübü daha transfer için devrede",
+        "summary": "Galatasaray transfer haberleri | Transferde Aleksey Batrakov transferiyle sessizliğini bozan Galatasaray'da Lucas Torreira için de sıcak gelişmeler yaşanmaya devam ediyor. Takımdan ayrılmak istediği konuşulan...Devamı için tıklayınız",
+        "link": "https://www.aspor.com.tr/galatasaray/2026/08/22/lucas-torreira-icin-resmi-tekliflerini-ilettiler-italyanin-bir-baska-kulubu-daha-transfer-icin-devrede",
+        "date": "Sun, 23 Aug 2026 01:50:29 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/634874/1200/675/0/44/800/494?u=https://iftm.tmgrup.com.tr/2026/08/22/lucas-torreira-icin-resmi-tekliflerini-ilettiler-italyanin-bir-baska-kulubu-daha-transfer-icin-devrede-1787383670795.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/634874/1200/675/0/44/800/494?u=https://iftm.tmgrup.com.tr/2026/08/22/lucas-torreira-icin-resmi-tekliflerini-ilettiler-italyanin-bir-baska-kulubu-daha-transfer-icin-devrede-1787383670795.jpeg"
       },
       {
         "title": "Oosterwolde için anlaşma tamam! İşte opsiyon bedeli...",
         "summary": "Fenerbahçe'de forma giyen Jayden Oosterwolde ile ilgili sıcak gelişme... Dünyaca ünlü muhabirin iddiasına göre, Hollandalı oyuncu için İtalyan ekibi Roma ile sözlü anlaşmaya varıldı. İşte detaylar... (FENERAHÇE...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/oosterwolde-icin-anlasma-tamam-iste-opsiyon-bedeli",
-        "date": "Sun, 23 Aug 2026 01:21:41 +0300",
+        "date": "Sun, 23 Aug 2026 01:50:27 +0300",
         "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
@@ -496,6 +509,97 @@
         "feedImage": "https://iaftm.tmgrup.com.tr/ff633d/1200/675/0/156/1500/999?u=https://iftm.tmgrup.com.tr/2026/08/23/oosterwolde-icin-anlasma-tamam-iste-opsiyon-bedeli-1787437263399.jpg",
         "category": "transfer",
         "image": "https://iaftm.tmgrup.com.tr/ff633d/1200/675/0/156/1500/999?u=https://iftm.tmgrup.com.tr/2026/08/23/oosterwolde-icin-anlasma-tamam-iste-opsiyon-bedeli-1787437263399.jpg"
+      },
+      {
+        "title": "Beşiktaş'tan Joe Willock için resmi teklif! Karar Newcastle'ın",
+        "summary": "Yeni sezon öncesi orta saha takviyesi için çalışmalarını sürdüren Beşiktaş, gündemindeki İngiliz yıldız için harekete geçti. Siyah-beyazlıların transferde yaptığı hamle sonrası gözler Newcastle'a çevrildi...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/besiktas/2026/08/22/besiktastan-joe-willock-icin-resmi-teklif-karar-newcastlein",
+        "date": "Sun, 23 Aug 2026 01:50:18 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/5febba/1200/675/0/117/1500/960?u=https://iftm.tmgrup.com.tr/2026/08/22/besiktastan-joe-willock-icin-resmi-teklif-karar-newcastlein-1787423172560.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/5febba/1200/675/0/117/1500/960?u=https://iftm.tmgrup.com.tr/2026/08/22/besiktastan-joe-willock-icin-resmi-teklif-karar-newcastlein-1787423172560.jpeg"
+      },
+      {
+        "title": "Demirovic adım adım Galatasaray'a! Stuttgart o teklife 'Tamam' dedi",
+        "summary": "Osimhen'e alternatif bir golcü transferi için çalışmalarını sürdüren Galatasaray, mutlu sona çok yaklaştı. Stuttgart forması giyen Ermedin Demirovic'i kadrosuna katmak isteyen sarı-kırmızılılar, kulübü...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/08/23/demirovic-adim-adim-galatasaraya-stuttgart-o-teklife-tamam-dedi",
+        "date": "Sun, 23 Aug 2026 01:47:50 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/1fea95/1200/675/0/212/1638/1134?u=https://iftm.tmgrup.com.tr/2026/08/23/demirovic-adim-adim-galatasaraya-stuttgart-o-teklife-tamam-dedi-1787438793273.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/1fea95/1200/675/0/212/1638/1134?u=https://iftm.tmgrup.com.tr/2026/08/23/demirovic-adim-adim-galatasaraya-stuttgart-o-teklife-tamam-dedi-1787438793273.jpeg"
+      },
+      {
+        "title": "Icardi Fiorentina'ya",
+        "summary": "Galatasaray'ın yeni sözleşme teklifini kabul etmeyip ayrılan Mauro İcardi, İtalya'ya dönüyor. Calciomercato'nun geçtiği habere göre; Lazio'nun hedefinde olan Tangocu'yu, Fiorentina da radarına aldı. Floransa...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/galatasaray/icardi-fiorentinaya-7646641",
+        "date": "Sun, 23 Aug 2026 01:28:31 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/ec5ff2/1200/675/0/96/560/411?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/icardi-fiorentinaya-1787437698386.jpeg",
+        "category": "transfer",
+        "image": "https://iasbh.tmgrup.com.tr/ec5ff2/1200/675/0/96/560/411?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/icardi-fiorentinaya-1787437698386.jpeg"
+      },
+      {
+        "title": "Torreira'nın peşini bırakmıyorlar",
+        "summary": "Galatasaray'da Lucas Torreira için transfer iddialarının ardı arkası kesilmiyor. Adı eski takımı Fiorentina ile anılan Uruguaylı orta sahayı bu kez de bir başka İtalyan takımı istiyor. Serie Aekibi Venezia,...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/galatasaray/torreiranin-pesini-birakmiyorlar-7646640",
+        "date": "Sun, 23 Aug 2026 01:27:52 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/bb501d/1200/675/0/72/642/433?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/torreiranin-pesini-birakmiyorlar-1787437664755.jpeg",
+        "category": "transfer",
+        "image": "https://iasbh.tmgrup.com.tr/bb501d/1200/675/0/72/642/433?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/torreiranin-pesini-birakmiyorlar-1787437664755.jpeg"
+      },
+      {
+        "title": "Mutlu son çok yakın!",
+        "summary": "Galatasaray, 28 yaşındaki golcü için Stuttgart ile 18 milyon Euro bonservise el sıkıştı. Bosnalı oyuncu da Frankfurt yerine Aslan’ı seçtiDevamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/galatasaray/mutlu-son-cok-yakin-7646639",
+        "date": "Sun, 23 Aug 2026 01:27:05 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/57c32f/1200/675/0/18/456/275?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/mutlu-son-cok-yakin-1787437614445.jpeg",
+        "category": "transfer",
+        "image": "https://iasbh.tmgrup.com.tr/57c32f/1200/675/0/18/456/275?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/mutlu-son-cok-yakin-1787437614445.jpeg"
+      },
+      {
+        "title": "Sarr gemileri yaktı",
+        "summary": "Galatasaray, Crystal Palace'ta oynayan İsmaila Sarr'ı da bitirmek üzere. Fransız basınından Foot Mercato'nun haberine göre; Galatasaray'a gelme arzusunu kulübüne ileten Senegalli oyuncu, Aslan ile anlaşmaya...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/galatasaray/sarr-gemileri-yakti-7646635",
+        "date": "Sun, 23 Aug 2026 01:14:39 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/8e71a7/1200/675/0/0/770/433?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/sarr-gemileri-yakti-1787436871122.jpeg",
+        "category": "transfer",
+        "image": "https://iasbh.tmgrup.com.tr/8e71a7/1200/675/0/0/770/433?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/sarr-gemileri-yakti-1787436871122.jpeg"
+      },
+      {
+        "title": "Fenerbahçe'de Hakan Çalhanoğlu sesleri! Ailesiyle İstanbul'da yaşamak istiyor",
+        "summary": "Fenerbahçe'nin uzun süredir transfer gündeminde olan Hakan Çalhanoğlu hakkında flaş bir gelişme yaşandı. Sarı-lacivertliler Çalhanoğlu için harekete geçerken milli futbolcunun da transfere sıcak baktığı...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/23/fenerbahcede-hakan-calhanoglu-sesleri-ailesiyle-istanbulda-yasamak-istiyor",
+        "date": "Sun, 23 Aug 2026 00:40:03 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/a94c74/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/08/23/calhanoglu-plani-1787434791949.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/a94c74/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/08/23/calhanoglu-plani-1787434791949.jpeg"
       },
       {
         "title": "Greenwood, Kadıköy'de yıldızlaştı! Kariyerinde bir ilk",
@@ -511,95 +615,17 @@
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a0a6bde691a4aa8c65e71.jpg"
       },
       {
-        "title": "Championship roundup: Nuno admits West Ham ‘let down’ fans with Charlton defeat",
-        "summary": "Wolves sink teeth into Preston; Blackburn stun Boro Southampton’s late show leaves Stoke pointless Charlton maintained their perfect start to the Championship season with a 2-1 victory at West Ham in a pulsating London derby to pile more pressure on the Hammers manager, Nuno Espírito Santo. Lloyd Jones and Tyreece Campbell put Charlton 2-0 ahead before Joel Piroe, signed on loan from Leeds, marked his first appearance for the home side with a goal that set up a frantic finish. Taty Castellanos then missed a stoppage-time penalty for West Ham that would have salvaged a point. Continue reading...",
-        "link": "https://www.theguardian.com/football/2026/aug/22/championship-roundup-millwall-norwich-west-ham-norwich-charlton",
-        "date": "Sat, 22 Aug 2026 19:36:20 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/f145beb588a9c94075b83c96078efa2ad7959d8e/133_0_2406_1925/master/2406.jpg?width=140&quality=85&auto=format&fit=max&s=3fccfbfca7725816c68ba30acef93d55",
-        "category": "transfer",
-        "image": "https://i.guim.co.uk/img/media/f145beb588a9c94075b83c96078efa2ad7959d8e/133_0_2406_1925/master/2406.jpg?width=140&quality=85&auto=format&fit=max&s=3fccfbfca7725816c68ba30acef93d55"
-      },
-      {
-        "title": "Beşiktaş'tan Joe Willock için resmi teklif! Karar Newcastle'ın",
-        "summary": "Yeni sezon öncesi orta saha takviyesi için çalışmalarını sürdüren Beşiktaş, gündemindeki İngiliz yıldız için harekete geçti. Siyah-beyazlıların transferde yaptığı hamle sonrası gözler Newcastle'a çevrildi...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/besiktas/2026/08/22/besiktastan-joe-willock-icin-resmi-teklif-karar-newcastlein",
-        "date": "Sat, 22 Aug 2026 21:25:43 +0300",
+        "title": "Trabzonspor'dan orta sahaya Fabinho hamlesi!",
+        "summary": "Trabzonspor'un transfer gündemine deneyimli bir orta saha oyuncusu daha eklendi. İşte o isim ve gelişmenin detayları...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/trabzonspor/2026/08/23/fabinho-geliyor",
+        "date": "Sat, 22 Aug 2026 23:36:28 +0300",
         "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/5febba/1200/675/0/117/1500/960?u=https://iftm.tmgrup.com.tr/2026/08/22/besiktastan-joe-willock-icin-resmi-teklif-karar-newcastlein-1787423172560.jpeg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/42ea6a/1200/675/0/0/1024/575?u=https://iftm.tmgrup.com.tr/2026/08/22/fabinho-geliyor-1787430972521.jpeg",
         "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/5febba/1200/675/0/117/1500/960?u=https://iftm.tmgrup.com.tr/2026/08/22/besiktastan-joe-willock-icin-resmi-teklif-karar-newcastlein-1787423172560.jpeg"
-      },
-      {
-        "title": "Galatasaraylıları heyecanlandıran transfer gelişmesi! Ismaila Sarr…",
-        "summary": "Son dakika Galatasaray transfer haberleri: Transfer çalışmalarını hızlandıran Galatasaray'da gündeme gelen isimlerden biri de Ismaila Sarr olmuştu. Crystal Palace'ın Everton mücadelesi öncesi Senegalli...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2026/08/22/galatasaraylilari-heyecanlandiran-transfer-gelismesi-ismaila-sarr",
-        "date": "Sat, 22 Aug 2026 17:02:33 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/0b2123/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/08/22/galatasaraylilari-heyecanlandiran-transfer-gelismesi-ismaila-sarr-1787407330519.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/0b2123/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/08/22/galatasaraylilari-heyecanlandiran-transfer-gelismesi-ismaila-sarr-1787407330519.jpeg"
-      },
-      {
-        "title": "Fenerbahçe'de bir ayrılık daha! Yeni takımı herkesi şaşırttı",
-        "summary": "Son dakika Fenerbahçe transfer haberleri: Yaz transfer dönemi için çalışmalarını sürdüren Fenerbahçe'de hareketli günler yaşanıyor. Dominik Livakovic, Jayden Oosterwolde ve Anderson Talisca ile yollarını...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/08/22/fenerbahcede-bir-ayrilik-daha-yeni-takimi-herkesi-sasirtti",
-        "date": "Sat, 22 Aug 2026 16:10:25 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/cdabd5/1200/675/0/0/1920/1080?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahcede-bir-ayrilik-daha-yeni-takimi-herkesi-sasirtti-1787404158574.jpg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/cdabd5/1200/675/0/0/1920/1080?u=https://iftm.tmgrup.com.tr/2026/08/22/fenerbahcede-bir-ayrilik-daha-yeni-takimi-herkesi-sasirtti-1787404158574.jpg"
-      },
-      {
-        "title": "Lucas Torreira için resmi tekliflerini ilettiler! İtalya'nın bir başka kulübü daha transfer için devrede",
-        "summary": "Galatasaray transfer haberleri | Transferde Aleksey Batrakov transferiyle sessizliğini bozan Galatasaray'da Lucas Torreira için de sıcak gelişmeler yaşanmaya devam ediyor. Takımdan ayrılmak istediği konuşulan...Devamı için tıklayınız",
-        "link": "https://www.aspor.com.tr/galatasaray/2026/08/22/lucas-torreira-icin-resmi-tekliflerini-ilettiler-italyanin-bir-baska-kulubu-daha-transfer-icin-devrede",
-        "date": "Sat, 22 Aug 2026 01:45:04 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/634874/1200/675/0/44/800/494?u=https://iftm.tmgrup.com.tr/2026/08/22/lucas-torreira-icin-resmi-tekliflerini-ilettiler-italyanin-bir-baska-kulubu-daha-transfer-icin-devrede-1787383670795.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/634874/1200/675/0/44/800/494?u=https://iftm.tmgrup.com.tr/2026/08/22/lucas-torreira-icin-resmi-tekliflerini-ilettiler-italyanin-bir-baska-kulubu-daha-transfer-icin-devrede-1787383670795.jpeg"
-      },
-      {
-        "title": "Papers: Arsenal pair Arteta and Berta in 'frequent contact' with Alvarez",
-        "summary": "The top stories and transfer rumours from Sunday's newspapers...",
-        "link": "https://www.skysports.com/football/news/12040/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk",
-        "date": "Sat, 22 Aug 2026 22:00:00 BST",
-        "source": "Sky Sports",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "transfer",
-        "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824"
-      },
-      {
-        "title": "Men’s transfer window summer 2026: all deals from Europe’s top five leagues",
-        "summary": "All the latest Premier League, La Liga, Bundesliga, Ligue 1 and Serie A deals and a club-by-club guide Women’s transfer window interactive guide Continue reading...",
-        "link": "https://www.theguardian.com/football/ng-interactive/2026/jun/08/mens-transfer-window-summer-2026-all-deals-from-europes-top-five-leagues",
-        "date": "Thu, 13 Aug 2026 10:29:11 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/f712d64e7de2b9fc315d3d0fb3234eb15a96a172/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a68d85949be5d0fbcc1dc272a5d1499d",
-        "category": "transfer",
-        "image": "https://i.guim.co.uk/img/media/f712d64e7de2b9fc315d3d0fb3234eb15a96a172/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a68d85949be5d0fbcc1dc272a5d1499d"
+        "image": "https://iaftm.tmgrup.com.tr/42ea6a/1200/675/0/0/1024/575?u=https://iftm.tmgrup.com.tr/2026/08/22/fabinho-geliyor-1787430972521.jpeg"
       }
     ],
     "worldcup": [],
@@ -620,10 +646,62 @@
     ],
     "general": [
       {
+        "title": "Relive: Keegan's Newcastle lose thriller to Liverpool",
+        "summary": "BBC Sport looks back at one of the Premier League's best ever games as Newcastle, then managed by Kevin Keegan, lost a thriller to Liverpool. Both clubs will pay tribute to Keegan before their Premier League opener at St James' Park.",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c4gvjep9wr2o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 23 Aug 2026 05:17:21 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/2a61/live/ba82a210-9a5f-11f1-b792-a710e56a11dc.jpg"
+      },
+      {
+        "title": "Hull'dan Premier Lig'e harika dönüş!",
+        "summary": "Acun Ilıcalı'nın sahibi olduğu Tigers (Kaplanlar), sezona Manchester United zaferiyle başladı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/hulldan-premier-lige-harika-donus-43282107",
+        "date": "Sun, 23 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a304dde691a4aa8c65f63.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a304dde691a4aa8c65f63.jpg"
+      },
+      {
+        "title": "Lucas Torreira'nın ayrılık faturası 20 milyon Euro!",
+        "summary": "Galatasaray, İtalyan kulüplerinin talip olduğu Lucas Torreira'nın fiyatını belirledi.",
+        "link": "https://www.hurriyet.com.tr/sporarena/lucas-torreiranin-ayrilik-faturasi-20-milyon-euro-43282104",
+        "date": "Sun, 23 Aug 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a2ed3de691a4aa8c65f55.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a2ed3de691a4aa8c65f55.jpg"
+      },
+      {
+        "title": "Women’s Super League 2026-27 preview No 2: Aston Villa",
+        "summary": "Defensive tightness and replacing a key goal scorer are Natalia Arroyo’s focus in her second season in charge Guardian writers’ predicted position: 9th (NB: this is not necessarily Sophie Downey’s prediction but the average of our writers’ tips) Last season’s position: 9th Continue reading...",
+        "link": "https://www.theguardian.com/football/2026/aug/23/womens-super-league-2026-27-preview-no-2-aston-villa",
+        "date": "Sat, 22 Aug 2026 23:01:15 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/ea2ccd9d5f0732c4bd1bc49fcf05869ef137d5bd/1301_0_6503_5203/master/6503.jpg?width=140&quality=85&auto=format&fit=max&s=444f845c62a68bdc8d46ae8c479285a8",
+        "category": "general",
+        "image": "https://i.guim.co.uk/img/media/ea2ccd9d5f0732c4bd1bc49fcf05869ef137d5bd/1301_0_6503_5203/master/6503.jpg?width=140&quality=85&auto=format&fit=max&s=444f845c62a68bdc8d46ae8c479285a8"
+      },
+      {
         "title": "İlhan Palut'tan Adil Demirbağ için Fenerbahçe iddiasına yanıt!",
         "summary": "TÜMOSAN Konyaspor teknik direktörü İlhan Palut, basın toplantısında Adil Demirbağ'ın Fenerbahçe ile anılması yönündeki soruyu cevapladı.Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/konyaspor/2026/08/22/ilhan-paluttan-adil-demirbag-icin-fenerbahce-iddiasina-yanit",
-        "date": "Sun, 23 Aug 2026 01:15:21 +0300",
+        "date": "Sun, 23 Aug 2026 01:50:21 +0300",
         "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
@@ -631,6 +709,71 @@
         "feedImage": "https://iaftm.tmgrup.com.tr/234996/1200/675/0/30/1500/873?u=https://iftm.tmgrup.com.tr/2026/08/23/ilhan-paluttan-adil-demirbag-icin-fenerbahce-iddiasina-yanit-1787436916776.jpg",
         "category": "general",
         "image": "https://iaftm.tmgrup.com.tr/234996/1200/675/0/30/1500/873?u=https://iftm.tmgrup.com.tr/2026/08/23/ilhan-paluttan-adil-demirbag-icin-fenerbahce-iddiasina-yanit-1787436916776.jpg"
+      },
+      {
+        "title": "Savunmaya takviye olacak",
+        "summary": "“Defansa bir oyuncu alacağız. Yönetimimiz yoğun bir uğraş içerisinde. Asensio’yu sakatlık riskinden dolayı kenara aldık. Takımda da ayrılacak kimse yok.“Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/fenerbahce/savunmaya-takviye-olacak-7646651",
+        "date": "Sun, 23 Aug 2026 01:39:16 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/e5f42c/1200/675/0/186/1241/885?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/savunmaya-takviye-olacak-1787438298355.jpeg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/e5f42c/1200/675/0/186/1241/885?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/savunmaya-takviye-olacak-1787438298355.jpeg"
+      },
+      {
+        "title": "Travma geçirdi hastaneye gitti",
+        "summary": "Fenerbahçe'de milli futbolcu Kerem Aktürkoğlu sakatlandı. Konyalı Uğurcan ile girdiği ikili mücadelede kafasına darbe alan oyuncu, sahadan sedyeyle çıktı. Ambulansla hastaneye kaldırılan Kerem'in, sorulan...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/fenerbahce/travma-gecirdi-hastaneye-gitti-7646649",
+        "date": "Sun, 23 Aug 2026 01:37:01 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/f6dd5b/1200/675/0/32/516/322?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/travma-gecirdi-hastaneye-gitti-1787438225083.jpeg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/f6dd5b/1200/675/0/32/516/322?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/travma-gecirdi-hastaneye-gitti-1787438225083.jpeg"
+      },
+      {
+        "title": "Hull City müthiş başladı!",
+        "summary": "Acun Ilıcalı'nın sahibi olduğu Hull City, Premier Lig'e dönüşünü tarihi bir galibiyetle taçlandırdı. İlk maçında Manchester United'ı konuk eden Hull City, rakibini 2-0 yendi. Karşılaşmaya etkili başlayan...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/23/hull-city-muthis-basladi",
+        "date": "Sun, 23 Aug 2026 01:36:20 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/0b1454/1200/675/0/23/625/375?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/hull-city-muthis-basladi-1787438153727.jpeg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/0b1454/1200/675/0/23/625/375?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/hull-city-muthis-basladi-1787438153727.jpeg"
+      },
+      {
+        "title": "Fener ışık saçtı",
+        "summary": "Vedat Muriqi’in ağları bulan vuruşuna Colley karşılık verdi. Kaçırdığı penaltıyı tamamlayan Greenwood, toplamda iki kez fileleri havalandırdı. Sarı-lacivertlilerin 3. golü Asensio’dan gelirken konuk ekipten...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/fenerbahce/fener-isik-sacti-7646644",
+        "date": "Sun, 23 Aug 2026 01:33:59 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/59fa81/1200/675/0/315/1895/1384?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/fener-isik-sacti-1787437974760.jpeg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/59fa81/1200/675/0/315/1895/1384?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/fener-isik-sacti-1787437974760.jpeg"
+      },
+      {
+        "title": "İngiliz anahtarı",
+        "summary": "Lyon maçındaki golüyle F.Bahçe’yi ayakta tutan Greenwood, dün gecenin de kilit ismiydi. Yıldız futbolcu 2 gol ve 1 asistle galibiyetin baş mimarı olduDevamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/fenerbahce/ingiliz-anahtari-7646643",
+        "date": "Sun, 23 Aug 2026 01:31:24 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/226638/1200/675/0/66/817/526?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/ingiliz-anahtari-1787437866361.jpeg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/226638/1200/675/0/66/817/526?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/ingiliz-anahtari-1787437866361.jpeg"
       },
       {
         "title": "Oosterwolde'den 'Fenerbahçe'de kalacak mısın?' sorusuna yanıt!",
@@ -672,19 +815,6 @@
         "image": "https://i.guim.co.uk/img/media/ddedb6c0d646644e3f8465b77144a3df13cfb7e9/293_68_2414_1931/master/2414.jpg?width=140&quality=85&auto=format&fit=max&s=d04e8ea80b5f9ddbef02af1d6a8ef314"
       },
       {
-        "title": "Vedat Muriqi ve Mason Greenwood'tan galibiyet sözleri: \"Birbirimize duyduğumuz güven çok fazla\"",
-        "summary": "Fenerbahçe'nin yıldızları Mason Greenwood, Marco Asensio ve Vedat Muriqi, 4-2 kazanılan TÜMOSAN Konyaspor maçının ardından açıklamalarda bulundu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/22/vedat-muriqi-ve-mason-greenwoodtan-galibiyet-sozleri-birbirimize-duydugumuz-guven-cok-fazla",
-        "date": "Sun, 23 Aug 2026 00:28:40 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/9bcb6f/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/vedat-muriqi-ve-mason-greenwoodtan-galibiyet-sozleri-1787433920059.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/9bcb6f/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/vedat-muriqi-ve-mason-greenwoodtan-galibiyet-sozleri-1787433920059.jpeg"
-      },
-      {
         "title": "Vedat Muriqi: 'Lyon'dan kaliteliyiz!'",
         "summary": "Fenerbahçe'de Vedat Muriqi, Mason Greenwood ve Marco Asensio, Konyaspor maçının ardından açıklamalarda bulundu.",
         "link": "https://www.hurriyet.com.tr/sporarena/vedat-muriqi-lyondan-kaliteliyiz-43282051",
@@ -696,19 +826,6 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a1403de691a4aa8c65e93.jpg",
         "category": "general",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a1403de691a4aa8c65e93.jpg"
-      },
-      {
-        "title": "Almanya Süper Kupası'nda zafer Bayern Münih'in!",
-        "summary": "Bayern Münih, Borussia Dortmund'u 2-1 mağlup ederek Almanya Süper Kupası'nın sahibi oldu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/22/almanya-super-kupasinda-zafer-bayern-munihin",
-        "date": "Sun, 23 Aug 2026 00:23:20 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/6d732d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/almanya-super-kupasinda-zafer-bayern-munihin-1787433744452.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/6d732d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/23/almanya-super-kupasinda-zafer-bayern-munihin-1787433744452.jpeg"
       },
       {
         "title": "İsmail Kartal: 'Eksiklerimiz var, yolun başındayız'",
@@ -724,32 +841,6 @@
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a11eeb506f6e33737ff26.jpg"
       },
       {
-        "title": "Arda Güler'den Bellingham'a nefis asist! İşte o anlar",
-        "summary": "Milli futbolcumuz Arda Güler, Real Madrid'in, Espanyol deplasmanına konuk olduğu lig mücadelesinde Jude Bellingham'ın golünün pasını veren isim oldu. İşte o anlar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/ispanyalaliga/2026/08/22/arda-gulerden-bellinghama-nefis-asist-iste-o-anlar",
-        "date": "Sun, 23 Aug 2026 00:14:15 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/8af884/1200/675/0/11/800/461?u=https://iftm.tmgrup.com.tr/2026/08/23/arda-gulerden-bellinghama-nefis-asist-iste-o-anlar-1787433238127.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/8af884/1200/675/0/11/800/461?u=https://iftm.tmgrup.com.tr/2026/08/23/arda-gulerden-bellinghama-nefis-asist-iste-o-anlar-1787433238127.jpeg"
-      },
-      {
-        "title": "European football: Inter speed past Monza, Bayern beat Dortmund in Supercup",
-        "summary": "De Bruyne scores as Napoli strike late to beat Genoa Michael Olise leads Bayern Munich to 2-1 victory Inter kicked off their ⁠Serie A title defence with a 4-1 home win against ⁠Monza, ​after the promoted side recovered from conceding an early ⁠goal to go in level at the break before the ⁠champions turned on the style. Hakan Calhanoglu ​put Inter ahead ‌in the ‌sixth minute, but the hosts were ‌far too complacent after taking the lead and Gustavo Varela equalised for the visitors just before the half-hour. Inter began the second half as ‌they had the first, with Piotr Zielinski scoring three minutes ​after the break, before Pio Esposito and Yann Bisseck wrapped up the win for Cristian Chivu’s side. Continue reading...",
-        "link": "https://www.theguardian.com/football/2026/aug/22/european-football-inter-napoli-real-madrid",
-        "date": "Sat, 22 Aug 2026 21:06:51 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/ce5c45984b64e2ae86200d8ea41e1ef811ea360c/624_0_3120_2496/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=60b48a7d84187166153711594e3b94cf",
-        "category": "general",
-        "image": "https://i.guim.co.uk/img/media/ce5c45984b64e2ae86200d8ea41e1ef811ea360c/624_0_3120_2496/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=60b48a7d84187166153711594e3b94cf"
-      },
-      {
         "title": "Bayern Münih sezona Süper Kupa zaferiyle başladı!",
         "summary": "Bayern Münih, Almanya Süper Kupa finalinde Borussia Dortmund'u 2-1 mağlup ederek yeni sezona kupayla başladı.",
         "link": "https://www.hurriyet.com.tr/sporarena/bayern-munih-sezona-super-kupa-zaferiyle-basladi-43282037",
@@ -761,71 +852,6 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a088bde691a4aa8c65e5d.jpg",
         "category": "general",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6a8a088bde691a4aa8c65e5d.jpg"
-      },
-      {
-        "title": "Vedat Muriqi, Fenerbahçe'ye golle döndü!",
-        "summary": "Fenerbahçe'nin Kosovalı forveti Vedat Muriqi, sarı-lacivertlilerdeki 2. sezonunda ilk golünü Konyaspor'a karşı attı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/22/vedat-muriqi-fenerbahceye-golle-dondu",
-        "date": "Sat, 22 Aug 2026 23:37:48 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/682a27/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/22/vedat-muriqi-fenerbahceye-golle-dondu-1787431015202.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/682a27/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/22/vedat-muriqi-fenerbahceye-golle-dondu-1787431015202.jpeg"
-      },
-      {
-        "title": "Muğla derbisinde gol sesi çıkmadı!",
-        "summary": "Trendyol 1. Lig’in 3. haftasında Bodrum FK ile Muğlaspor, Muğla derbisinde 0-0 berabere kaldı. İki takım da gördükleri kırmızı kartlar sonrası mücadeleyi 10 kişi tamamladı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/22/mugla-derbisinde-gol-sesi-cikmadi",
-        "date": "Sat, 22 Aug 2026 23:36:13 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/ae1d4e/1200/675/0/0/798/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/22/bodrum-futbol-kulubu-muglaspor-0-0-1787430948806.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/ae1d4e/1200/675/0/0/798/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/22/bodrum-futbol-kulubu-muglaspor-0-0-1787430948806.jpeg"
-      },
-      {
-        "title": "Kerem Aktürkoğlu, sahayı sedyeyle terk etti! Fenerbahçe'den açıklama geldi...",
-        "summary": "Fenerbahçe’nin Konyaspor ile oynadığı maçta Kerem Aktürkoğlu, hava topu mücadelesi sonrası yerde kalırken, sahayı sedyeyle terk etti.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/08/22/kerem-akturkoglu-sahayi-sedyeyle-terk-etti-fenerbahceden-aciklama-geldi",
-        "date": "Sat, 22 Aug 2026 23:23:04 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/14ebf4/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/22/kerem-akturkoglu-sahayi-sedyeyle-terk-etti-fenerbahceden-aciklama-geldi-1787430135516.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/14ebf4/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/08/22/kerem-akturkoglu-sahayi-sedyeyle-terk-etti-fenerbahceden-aciklama-geldi-1787430135516.jpeg"
-      },
-      {
-        "title": "Tote bags & derby wins - how Pressley has defied Dundee expectations",
-        "summary": "Steven Pressley says he is \"immensely proud\" of his Dundee players as the head coach's redemption arc continues with another derby victory.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c86n6j1x36zo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 22 Aug 2026 20:20:34 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0322/live/2dcdf080-9e66-11f1-9bd3-c34451aabc05.jpg"
-      },
-      {
-        "title": "De Zerbi learns cash alone cannot fix Spurs' losing mentality",
-        "summary": "Spurs head coach Roberto De Zerbi discovers cash is no cure for a losing mentality as they crash to a heavy defeat at Brentford, says chief football writer Phil McNulty.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cd696j44jqyo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 22 Aug 2026 20:16:00 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c40f/live/f8337350-9e5b-11f1-92d9-fda6ee78d386.jpg"
       }
     ]
   },
@@ -7449,6 +7475,617 @@
             "D",
             "L"
           ]
+        }
+      },
+      {
+        "id": 558603,
+        "homeId": 586,
+        "awayId": 100,
+        "home": "Torino",
+        "away": "Roma",
+        "homeCrest": "https://crests.football-data.org/586.png",
+        "awayCrest": "https://crests.football-data.org/100.png",
+        "date": "2026-09-13T10:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 4,
+        "league": "SA",
+        "leagueName": "Serie A",
+        "leagueFlag": "🇮🇹",
+        "homeForm": [],
+        "awayForm": [],
+        "homeGoalAvg": "0.0",
+        "awayGoalAvg": "0.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 65,
+            "draw": 13,
+            "away": 22
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Torino, %65 ihtimalle bu maçın favorisi. Roma deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [],
+          "awayForm": []
+        }
+      },
+      {
+        "id": 560578,
+        "homeId": 1076,
+        "awayId": 397,
+        "home": "Coventry City",
+        "away": "Brighton Hove",
+        "homeCrest": "https://crests.football-data.org/1076.png",
+        "awayCrest": "https://crests.football-data.org/397.png",
+        "date": "2026-09-13T13:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 4,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "L"
+        ],
+        "awayForm": [],
+        "homeGoalAvg": "0.0",
+        "awayGoalAvg": "0.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 3,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 20,
+            "draw": 12,
+            "away": 68
+          },
+          "favorite": "away",
+          "text": "Brighton Hove, deplasmanda olmasına rağmen %68 ile bir adım önde. Coventry City son haftalarda form kaybında, bu da işini zorlaştırıyor.",
+          "homeForm": [
+            "L"
+          ],
+          "awayForm": []
+        }
+      },
+      {
+        "id": 558602,
+        "homeId": 7397,
+        "awayId": 112,
+        "home": "Como 1907",
+        "away": "Parma",
+        "homeCrest": "https://crests.football-data.org/7397.png",
+        "awayCrest": "https://crests.football-data.org/112.png",
+        "date": "2026-09-13T13:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 4,
+        "league": "SA",
+        "leagueName": "Serie A",
+        "leagueFlag": "🇮🇹",
+        "homeForm": [
+          "D"
+        ],
+        "awayForm": [
+          "L"
+        ],
+        "homeGoalAvg": "1.0",
+        "awayGoalAvg": "0.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 4,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 79,
+            "draw": 8,
+            "away": 13
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Como 1907, %79 ihtimalle bu maçın favorisi. Parma deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [
+            "D"
+          ],
+          "awayForm": [
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 558605,
+        "homeId": 5890,
+        "awayId": 5911,
+        "home": "Lecce",
+        "away": "Monza",
+        "homeCrest": "https://crests.football-data.org/5890.png",
+        "awayCrest": "https://crests.football-data.org/5911.png",
+        "date": "2026-09-13T13:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 4,
+        "league": "SA",
+        "leagueName": "Serie A",
+        "leagueFlag": "🇮🇹",
+        "homeForm": [],
+        "awayForm": [
+          "L"
+        ],
+        "homeGoalAvg": "0.0",
+        "awayGoalAvg": "1.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 5,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 81,
+            "draw": 7,
+            "away": 12
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Lecce, %81 ihtimalle bu maçın favorisi. Monza deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [],
+          "awayForm": [
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 559685,
+        "homeId": 521,
+        "awayId": 531,
+        "home": "Lille",
+        "away": "Troyes",
+        "homeCrest": "https://crests.football-data.org/521.png",
+        "awayCrest": "https://crests.football-data.org/531.png",
+        "date": "2026-09-13T13:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 4,
+        "league": "FL1",
+        "leagueName": "Ligue 1",
+        "leagueFlag": "🇫🇷",
+        "homeForm": [],
+        "awayForm": [
+          "D"
+        ],
+        "homeGoalAvg": "0.0",
+        "awayGoalAvg": "0.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 5,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 48,
+            "draw": 19,
+            "away": 33
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Lille, %48 ihtimalle bu maçın favorisi. Troyes deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [],
+          "awayForm": [
+            "D"
+          ]
+        }
+      },
+      {
+        "id": 565799,
+        "homeId": 721,
+        "awayId": 7,
+        "home": "RB Leipzig",
+        "away": "HSV",
+        "homeCrest": "https://crests.football-data.org/721.png",
+        "awayCrest": "https://crests.football-data.org/7.png",
+        "date": "2026-09-13T13:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 3,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
+        "homeForm": [],
+        "awayForm": [],
+        "homeGoalAvg": "0.0",
+        "awayGoalAvg": "0.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 8
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 65,
+            "draw": 13,
+            "away": 22
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan RB Leipzig, %65 ihtimalle bu maçın favorisi. HSV deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [],
+          "awayForm": []
+        }
+      },
+      {
+        "id": 559686,
+        "homeId": 535,
+        "awayId": 546,
+        "home": "Le Mans",
+        "away": "RC Lens",
+        "homeCrest": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
+        "awayCrest": "https://crests.football-data.org/546.png",
+        "date": "2026-09-13T15:15:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 4,
+        "league": "FL1",
+        "leagueName": "Ligue 1",
+        "leagueFlag": "🇫🇷",
+        "homeForm": [
+          "D"
+        ],
+        "awayForm": [
+          "W"
+        ],
+        "homeGoalAvg": "2.0",
+        "awayGoalAvg": "5.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 26,
+            "draw": 16,
+            "away": 58
+          },
+          "favorite": "away",
+          "text": "RC Lens, deplasmanda olmasına rağmen %58 ile bir adım önde. RC Lens gol ortalaması yüksek (5.0) ancak savunmada zorlanıyor.",
+          "homeForm": [
+            "D"
+          ],
+          "awayForm": [
+            "W"
+          ]
+        }
+      },
+      {
+        "id": 560580,
+        "homeId": 66,
+        "awayId": 65,
+        "home": "Man United",
+        "away": "Man City",
+        "homeCrest": "https://crests.football-data.org/66.png",
+        "awayCrest": "https://crests.football-data.org/65.png",
+        "date": "2026-09-13T15:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 4,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "L"
+        ],
+        "awayForm": [],
+        "homeGoalAvg": "0.0",
+        "awayGoalAvg": "0.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 28,
+            "draw": 17,
+            "away": 55
+          },
+          "favorite": "away",
+          "text": "Man City, deplasmanda olmasına rağmen %55 ile bir adım önde. Man United son haftalarda form kaybında, bu da işini zorlaştırıyor.",
+          "homeForm": [
+            "L"
+          ],
+          "awayForm": []
+        }
+      },
+      {
+        "id": 565800,
+        "homeId": 719,
+        "awayId": 5,
+        "home": "Elversberg",
+        "away": "Bayern",
+        "homeCrest": "https://crests.football-data.org/719.png",
+        "awayCrest": "https://crests.football-data.org/5.png",
+        "date": "2026-09-13T15:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 3,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
+        "homeForm": [],
+        "awayForm": [],
+        "homeGoalAvg": "0.0",
+        "awayGoalAvg": "0.0",
+        "headToHead": null,
+        "analysis": {
+          "winProbability": {
+            "home": 65,
+            "draw": 13,
+            "away": 22
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Elversberg, %65 ihtimalle bu maçın favorisi. Bayern deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [],
+          "awayForm": []
+        }
+      },
+      {
+        "id": 558599,
+        "homeId": 113,
+        "awayId": 103,
+        "home": "Napoli",
+        "away": "Bologna",
+        "homeCrest": "https://crests.football-data.org/113.png",
+        "awayCrest": "https://crests.football-data.org/103.png",
+        "date": "2026-09-13T16:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 4,
+        "league": "SA",
+        "leagueName": "Serie A",
+        "leagueFlag": "🇮🇹",
+        "homeForm": [
+          "W"
+        ],
+        "awayForm": [],
+        "homeGoalAvg": "2.0",
+        "awayGoalAvg": "0.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 3,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 86,
+            "draw": 5,
+            "away": 9
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Napoli, %86 ihtimalle bu maçın favorisi. Napoli hücumda etkili; maç başına 2.0 gol buluyor.",
+          "homeForm": [
+            "W"
+          ],
+          "awayForm": []
+        }
+      },
+      {
+        "id": 558600,
+        "homeId": 110,
+        "awayId": 98,
+        "home": "Lazio",
+        "away": "Milan",
+        "homeCrest": "https://crests.football-data.org/110.png",
+        "awayCrest": "https://crests.football-data.org/98.png",
+        "date": "2026-09-13T18:45:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 4,
+        "league": "SA",
+        "leagueName": "Serie A",
+        "leagueFlag": "🇮🇹",
+        "homeForm": [],
+        "awayForm": [],
+        "homeGoalAvg": "0.0",
+        "awayGoalAvg": "0.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 65,
+            "draw": 13,
+            "away": 22
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Lazio, %65 ihtimalle bu maçın favorisi. Milan deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [],
+          "awayForm": []
+        }
+      },
+      {
+        "id": 559691,
+        "homeId": 512,
+        "awayId": 524,
+        "home": "Brest",
+        "away": "PSG",
+        "homeCrest": "https://crests.football-data.org/512.png",
+        "awayCrest": "https://crests.football-data.org/524.png",
+        "date": "2026-09-13T18:45:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 4,
+        "league": "FL1",
+        "leagueName": "Ligue 1",
+        "leagueFlag": "🇫🇷",
+        "homeForm": [
+          "D"
+        ],
+        "awayForm": [],
+        "homeGoalAvg": "2.0",
+        "awayGoalAvg": "0.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 76,
+            "draw": 9,
+            "away": 15
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Brest, %76 ihtimalle bu maçın favorisi. Brest hücumda etkili; maç başına 2.0 gol buluyor.",
+          "homeForm": [
+            "D"
+          ],
+          "awayForm": []
         }
       }
     ],
