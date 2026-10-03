@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-10-03T01:55:33.008Z",
+  "updatedAt": "2026-10-03T10:18:31.455Z",
   "news": {
     "corumsporhaber": [
+      {
+        "title": "Bomba gibi geliyor",
+        "summary": "Bomba gibi geliyor Çorum Haber Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4QVBfckwwSGhKaEVUVVJreWlUWDR5YVBpSmtKcWdId3U5NE96V19GWS1TV0Z2cy01VDMxVXZwMlFocmNrWXFIbEttd1dVNks1NXRr?oc=5",
+        "date": "Sat, 03 Oct 2026 10:01:00 GMT",
+        "source": "Çorum Haber Gazetesi",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK’da kamp sona erdi",
+        "summary": "Çorum FK’da kamp sona erdi Çorum Haber Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WZDEwWk8wVUxYSnRlV0kyX2ZvVnZFQ0tYTVFJbE9wMFBkZnF3eDBvdl9UQmFEbjZQNk9SN0pYLUx6bnNjTWw5Y0NmRnQ2Tm9ZNWlzUXoxdWxfT0p1dnlV?oc=5",
+        "date": "Sat, 03 Oct 2026 09:45:00 GMT",
+        "source": "Çorum Haber Gazetesi",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Antalya kampı sona erdi",
+        "summary": "Antalya kampı sona erdi corumhakimiyet.net",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZeTNoQ29JbkN2MEVSdml6UE01aVJ3cG1seUtiSUEwU1pGa0dtUGJQZmdCSlV4Qm9mdTQtTTZaQVRIRy1fTXdxVWg3Y3RjVjZDQk5IaHN3WEZ1MFgwU1lJM1dSOTM?oc=5",
+        "date": "Sat, 03 Oct 2026 09:45:00 GMT",
+        "source": "corumhakimiyet.net",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Antalyaspor Hazırlık Maçında Çorum FK'yı 2 Golle Geçti",
+        "summary": "Antalyaspor Hazırlık Maçında Çorum FK'yı 2 Golle Geçti Akdeniz Gerçek",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcW40aXhLVGJkeTNGTU1BZi1zYV9ON0ZibzA0QzJxd0tla1NQaTFDcnhLc0dzcjVURllwUmFvSml3TXNlYVQzRlBiU3ZQY2tfN2NTUW1DSTJKVW9IVU1faUs5VWFsSDBLc3hnVGlwX3pxWkZyelRaTmt1NFNSZ3VOcnV0ZVhlaDh5WlQyRms3akdtalU0ZlVieXRKc2V5Y0hETDlj?oc=5",
+        "date": "Sat, 03 Oct 2026 07:09:51 GMT",
+        "source": "Akdeniz Gerçek",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Ahmet Yiğit Yıldırım’a Arca Çorum FK Forması hediye edildi",
+        "summary": "Ahmet Yiğit Yıldırım’a Arca Çorum FK Forması hediye edildi Yayla Haber",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOEhka01OLTRqdGlkeUZXTS1lejA4bXhuZkJUMGtGMC1mby05WkxEb25FVUQ1dVRsQVVrVXNyYlNzUkx5ckgyLVUyWklOcnpGVU5nRXFsMXlZNFJLbFRsZm0tUE83Z3J1czVLaHhZcW9YTkhrWGl0c0NQdmhwbzZNeXlTa3ZHZjk0NnBIRkJQV0HSAZYBQVVfeXFMTlZ4blQ3ZjZYSmN1MnJQNGZDV0FSS091VGlWOV82UHZZeElUblZXM3ZPYUZ6bTl0Nk02UkZNNF82T25TS2ZFM0syYWxpMjkyWlp1WmRFU0hvOE5LY09jX29taktMczRtRGFGcHNxdm11SVdrUmdEb0UtNDdrT2JBcXNTOWhnVXNTZ2tndEsycVJNWUVQNGVR?oc=5",
+        "date": "Sat, 03 Oct 2026 06:30:00 GMT",
+        "source": "Yayla Haber",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Gelişim’de rakip Ankara ve Bolu",
+        "summary": "Gelişim’de rakip Ankara ve Bolu Çorum Haber Gazetesi",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05OWU4dDdsbF9BOGZBcHhjWkVORlNQS1ZBU0JXdHdGdGRhcW5BblhiUmxSZ0xnbkpqczI3cWlaSFJZbmNGZ0RpZGEyTlZQTm1XbEFvQU9KN0xjcDNPSWtQeFlidDBzQQ?oc=5",
+        "date": "Sat, 03 Oct 2026 02:59:00 GMT",
+        "source": "Çorum Haber Gazetesi",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
       {
         "title": "Antalyaspor, Çorum FK'yı 2-1 mağlup etti; Çorum'un 5 milli oyuncusu yoktu",
         "summary": "Antalyaspor, Çorum FK'yı 2-1 mağlup etti; Çorum'un 5 milli oyuncusu yoktu Son Dakika",
@@ -28,10 +100,10 @@
       },
       {
         "title": "Çorum FK 1.Lig ekibine mağlup oldu",
-        "summary": "Çorum FK 1.Lig ekibine mağlup oldu Çorum Hakimiyet",
+        "summary": "Çorum FK 1.Lig ekibine mağlup oldu corumhakimiyet.net",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4TEgwUmJNNUFnanh3MkFtakpPNzRLVEhlQTk2MGZPWXVrOGtnaC1aTzJxTUx5aDZrWWJuXzN1ZTJyVjM2MVphbTN0dm1JRVFrcXQ3TEpBbDFzaHVKZTM3UG1IWmllS0wzT3pDQ0k4aURjZw?oc=5",
         "date": "Fri, 02 Oct 2026 18:55:00 GMT",
-        "source": "Çorum Hakimiyet",
+        "source": "corumhakimiyet.net",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -100,10 +172,10 @@
       },
       {
         "title": "Antalyaspor, Çorum FK’yı 2-1 mağlup etti!",
-        "summary": "Antalyaspor, Çorum FK’yı 2-1 mağlup etti! Akdenizmanset",
+        "summary": "Antalyaspor, Çorum FK’yı 2-1 mağlup etti! akdenizmanset.com.tr",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JN0oxeG5QRGVmeVgweVpzOUZwVDhTR2gxZmVWMGN0TlBETkdKVFc4TFd1UGJWZV9XckZZU1B1SXZuQVBYR3VVQWFKTTBPT1NwZDMtNW5JUE9tUmxFeXJOY01SUmt5T05zNWFXMWxpVmhiSFUwSXBacTV6bw?oc=5",
         "date": "Fri, 02 Oct 2026 16:09:00 GMT",
-        "source": "Akdenizmanset",
+        "source": "akdenizmanset.com.tr",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -112,10 +184,10 @@
       },
       {
         "title": "Çorum FK bu ay evinde sadece 1 maç oynayacak",
-        "summary": "Çorum FK bu ay evinde sadece 1 maç oynayacak Çorum Hakimiyet",
+        "summary": "Çorum FK bu ay evinde sadece 1 maç oynayacak corumhakimiyet.net",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDhlZjlSWHNFSUUxSUgyNkZ5SU1tNVNjbWwxaWRHdGZCakVtUTE0MF9aTWFlRVQwWDQ2WE45RTBDUVhkeFEwQlpuX2pSV1JCeHdMUEZUa1BvQ2k4TWxtUEZOVThrMGFLUWZwcGFWLU4tR2w0anZCWGF1UW9kSmtEdQ?oc=5",
         "date": "Fri, 02 Oct 2026 13:59:00 GMT",
-        "source": "Çorum Hakimiyet",
+        "source": "corumhakimiyet.net",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -147,30 +219,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Arca Çorum FK Antalya kampında çalışmalarını sürdürüyor",
-        "summary": "Arca Çorum FK Antalya kampında çalışmalarını sürdürüyor LEBLEBİ TV",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmliLXdlQjR6UXVyMktvNnJ6NlJ3TUFfODN6d2lxcUkxUDRScGJZai1DT1Qwa1pCREY0S01EZlF5WlhvZ1Fmd1RDYktwMEhvUERtcnJPWFplLTNKeVhpTS1Qc1pJWUtfR2taOHRRZmpoYUVyV1ptdHV5bHhucThxUU9falI?oc=5",
-        "date": "Fri, 02 Oct 2026 06:04:00 GMT",
-        "source": "LEBLEBİ TV",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "A. Çorum FK - Eyüpspor 02 Ekim 2026 - Saat Kaçta Başlıyor? - TV Rehberi",
-        "summary": "A. Çorum FK - Eyüpspor 02 Ekim 2026 - Saat Kaçta Başlıyor? - TV Rehberi Hürriyet",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbTdWaXNaUlFOcHRWbmxtU3hycF9Md3BSbmdjWm9kazlzbGtRb1A3cGY5cUFuQzgzTDJvRmN5c0pkWXVWbE9XNmJDUTBFRElPSWxiSTl3NHl4bzd5MWFfbXlLXzg1OXNpTXVIWEZKX0w2eDNuWDFxNDBETGJCWVlFQ1JKcW5rRlBzZFE?oc=5",
-        "date": "Fri, 02 Oct 2026 03:45:45 GMT",
-        "source": "Hürriyet",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Çorum FK, Antalyaspor maçı öncesi Antalya'da duran top çalışması yaptı",
         "summary": "Çorum FK, Antalyaspor maçı öncesi Antalya'da duran top çalışması yaptı Son Dakika",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUmdfYTdmanJucTZmcUR3cEVFQjlUc1RxcjhDeHYyTDlxUHEwYVcwaVFLMHF3Y1JzXzIzbktkVG1NUGdQTnVyWkNxQTZaMFNFb01ZU0JjNnhucU1lTUJQSVNFQWZkT3RfT1ExRGlSaDBlV0FZYXpVamhqT1hyZHhWLUZ2X3BJUTN3S2dFNzhxa1drYVNNRm0yNzEySHNEZ9IBnAFBVV95cUxPdUticV9pXzE5ZFp3bG80UXAtNFBLRTlESk1GU05KV2hBREdtV2xrX1BaQlE3VXVuak5ybzBXSnMzdFcyMTdkWmNxNE9QaERfV2w3V2pkMjUxQk9reWVPTE9Zc1FkaDNMcW1fRDJvWkQ1dE9LNVMwTmhhaUluVElRYWk5c2lQREZzcEdXRm9jeWFsNk5POFNmRWc5UUY?oc=5",
@@ -184,34 +232,10 @@
       },
       {
         "title": "Çorum FK, Antalya’da hazırlıklarını sürdürdü İhlas Haber Ajansı",
-        "summary": "Çorum FK, Antalya’da hazırlıklarını sürdürdü İhlas Haber Ajansı İhlas Haber Ajansı Çorum FK-Antalya maçının saati belli oldu Çorum Hakimiyet Çorum FK'de Burak Yılmaz'ın ekibine Avrupa'dan takviye Haber 7",
+        "summary": "Çorum FK, Antalya’da hazırlıklarını sürdürdü İhlas Haber Ajansı İhlas Haber Ajansı",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXlBaXphVTNLLXBFeENOZDY1MjI2STZ5WXowVGVtOEVQQTVMSGFVQ2ZiazZ5dlZ4RTdVU2JqT1dRMzVTMFplRGRaajRsTkV6TENIQjJuY3d3RnRCQThYRGRIS19HcGN3NW5yX3d4WXBFb0pQbDlzU1FHejFpZ0tXR1V4VEhtcHFlRjFIbllyN3pYdmtaeVE?oc=5",
         "date": "Thu, 01 Oct 2026 17:28:15 GMT",
         "source": "İhlas Haber Ajansı",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Merzifonspor ile Arca Çorum FK yenişemedi",
-        "summary": "Merzifonspor ile Arca Çorum FK yenişemedi Çorum Hakimiyet",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mMWVfVEt0U0V4NzJ3X2p6emx5RF9kd0RQbFAxcm50VGRwZjE3b2FsV2psQ2RoZVh0Y1hELThXRUJBZllldVlRRkZQWVV1M3FJZWVfckd6ZU1IaXJaLTgya2VwUUNZa0h4YWhXUWxSM2UwOElMMmpjQUsyblE?oc=5",
-        "date": "Thu, 01 Oct 2026 15:30:00 GMT",
-        "source": "Çorum Hakimiyet",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Hızlı hücumda Çorum FK farkı",
-        "summary": "Hızlı hücumda Çorum FK farkı Çorum Haber Gazetesi",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PZGV4ak1yRHBuVTJNOUZ1LVh3amx6NXBFS3dNOU1POVluNlBsWHFwaUpKdlVfUEtLR2F0alRVcUIyLVowR3hZU2hpZjRmM1VJekVoWkl6ck9mTTBQeDhxRg?oc=5",
-        "date": "Thu, 01 Oct 2026 13:46:00 GMT",
-        "source": "Çorum Haber Gazetesi",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -243,23 +267,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Çorum FK’nın Antalya kampında son çalışma nasıl geçti?",
-        "summary": "Çorum FK’nın Antalya kampında son çalışma nasıl geçti? Yayla Haber",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONjhLUXl4OVV2ci1EaENtRGtwZC1iVU1aSk5CaHNtM3ZQVkJYMHZqV0pNNkpUS3JRR2VUZm43VmVzS0FWWDRCSzM5bFZULV9qNUpUQllFUzlaMjBxLXRwQl9ETVF4WTdoSEFRQTNmU1BMN25ESGVPMlY3ZE9nTVFIQUZ6aEZLSkx3UHfSAY8BQVVfeXFMTk5Vd2pxZTctV19SaWMzYWJpbWJlY3pvUmJ4ZWk0MHM1M1JOREt2clIwcGZsTE50TnBkQ0FLSFFETHpTa0tzWjNKUDFGWnM4am1VMzhsd1E1RzV6a0NhV1ZGc3haVDB5Slg4SEcxWlctaDVwRElFbE93VUVJMFRpOGJGRmtTMVNpZU9aaWdlMkE?oc=5",
-        "date": "Wed, 30 Sep 2026 17:52:00 GMT",
-        "source": "Yayla Haber",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Kaleyi kapatamıyoruz",
-        "summary": "Kaleyi kapatamıyoruz Çorum Haber Gazetesi",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ITjA1VlZwcHRRZjg0NE1mNGJDX2NYRWo5T05hbzR1UENMRUQ4b0JMbFpadWt2Znd4Q0dIdTFmM3Y5ZlpqQ3NKZl9DUl8wWGVTWUluaE53?oc=5",
-        "date": "Wed, 30 Sep 2026 12:29:00 GMT",
-        "source": "Çorum Haber Gazetesi",
+        "title": "Çorum FK'de Burak Yılmaz'ın ekibine Avrupa'dan takviye",
+        "summary": "Çorum FK'de Burak Yılmaz'ın ekibine Avrupa'dan takviye Haber 7",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmJqM3dyaVhUMXJENng3YTRPOU5kemF2NGZRWjhaYUljZ2U3VC1nMjNEcjMxbk5UNzNwdDBsRFBMRk91QldGc1FvS294TlYwYnBnOXNaa0NiWEhhUDBTVXJXZ3RSaFpPTGQ5Z0lLcHVCX3NLRDNaU1JleUNhSVZIRkdLYUNmdWFjMmxGNXRoTVJzZk90d1NKdDh1YU8zdjhW0gGnAUFVX3lxTE1NVXNsLVVBS0JDRVFDUFlnUUZXVEtvRE5MNU9ybXdLeGtSRkFiTThjTEQxMlhRb1JFS3BXVURMbkszNjRIaTV5ZjhRWEVBdU5EdUJmcEhKb2tWNmEzc2dVQVlhQkxEbm01N3dqVzlMSmMwbWNsV1lkOUs0WHdTRnBhS1pxWDNVUjZLNGZFeEpnejJaS0RDbXY1b09JSmVJSmRCbVJ5Smtr?oc=5",
+        "date": "Wed, 30 Sep 2026 14:17:00 GMT",
+        "source": "Haber 7",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -303,30 +315,6 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Milyon dolarlık düğün! Çorum FK Asbaşkanı Turhan Mildon, Trump'ın eski avukatıyla evlendi",
-        "summary": "Milyon dolarlık düğün! Çorum FK Asbaşkanı Turhan Mildon, Trump'ın eski avukatıyla evlendi Son Dakika",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkhTR09kMkRWaDhjUVlWb0hnVUFKeVZ3ZWV1ZmllUFVfc2VJQTNjRXBqcjJoMzgtUmMxcW1GRXB0T1BUM29WdWlzU3RfcmRXTlA5dGlEWXlnNFpKajNmek9ZM0FmeDdBeHFRN2hXaF9nczh1ZjBYeEhVRVBQY050akFVVnNXNlRwcTNsNnRTUVhHUjNtOGxLY0F30gGYAUFVX3lxTFB3cm5ZZ1RWZkxzSTdZc2tULWhyU05iMjZQYVZrT3FzcVFKd1E4SDBreUN2V0JJZUNVbXdCaDN3aDdWcEJMbWdjc3p3TkhGa0pxeWxKMmZNOXM4T2JYUm9uaERMZ21oQXZ4YVAtWWt2b20wUW1UQ202T2tYcFhaMmwxZkxRbXBhdVlFM1pDdVN4cFRvQ2o5REFM?oc=5",
-        "date": "Sun, 27 Sep 2026 08:54:49 GMT",
-        "source": "Son Dakika",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Uğur Uçar'ın Çorum FK'dan ayrılığının perde arkasında yaşananlar ortaya çıktı",
-        "summary": "Uğur Uçar'ın Çorum FK'dan ayrılığının perde arkasında yaşananlar ortaya çıktı NTVSpor",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUluMFVndjhZYXRYbDU4UDZiQnhHQlAyaGhkMFdUT3NZWVNCZ1RSTzRiempFX3NzMkVNYTZPeC1DdU96bjd0bUs1Q3Juei1NZHd4WUJtTTFFMXRFVHZ6Y0dtWTd4TmVhRkVndjhrSnRtNEVNZUdCVy1rTjZDMUFkWEozTi13U081MHNGbnc1NUVyV05BdmQ4REd0NnVod2ptcUIzY2tQY1Rnal9FN3NIZzVqRXR0OTZNSzgxRNIBwgFBVV95cUxPNFVudmZERHhQTFpyNzVlRzRWMXY4UmJHRDg3d2pfLXNNX19oM09OWFhRZEZyVFhRQlhUVlVETHl3R1lYZWNmS2NfbW9ITWFlRG52ZENDQ1ZzTVNtT1A4R3pEd2NzcWNyTzdScExrN0FLUG9fNWx5X0RXV2djcGRGWkpDTG53WDRMdGVqV3FTaG1MYTdTRVhlVjlrcHJjaXJMaS1pOFdRYzhuRGJLS093eHVJQjNrMFZVdXhYX2JrcEViUQ?oc=5",
-        "date": "Sat, 26 Sep 2026 19:26:46 GMT",
-        "source": "NTVSpor",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "Arca Çorum FK yeni teknik direktörünü resmen duyurdu",
         "summary": "Arca Çorum FK yeni teknik direktörünü resmen duyurdu beinsports.com.tr",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdk8xbUc0bUQ1TkpFTHB4OEU1LXdrUVRHcG9TeG5VRGQ1SjVIUlV3Z3F1WURDLURqWUtzc09qQS1RcXRrSzQwSzQ2UEpjb0VwMHJ1eWFrNVRmT19pVDdLeTVVcm5qZEZPcVpTM3NSOTkzVXFmaE9CcktXWnNvM3QyLWdOZzlSamx0eFphZg?oc=5",
@@ -340,10 +328,10 @@
       },
       {
         "title": "Çorum FK'de teknik direktör Uğur Uçar ile yollar ayrıldı",
-        "summary": "Çorum FK'de teknik direktör Uğur Uçar ile yollar ayrıldı Anadolu Ajansı",
+        "summary": "Çorum FK'de teknik direktör Uğur Uçar ile yollar ayrıldı aa.com.tr",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnhoRUQxTVdvWkt1S0Z5T2UtRGJqRDNDZlJHdTNaQ0dZM1FPYVdDeDNpNlNIdUs0d2FEcE5VaTNkQ1drV3JPdzh3elctSHBLWEhWdW9VTHRCMjBYUDdDSEtIYWhyMVZyQXlLTk42QmNoSlZMN2U3Y2JIXzA2VjQxT25DczlweXY4dFdBZWljd1VJbGFCZGN6UQ?oc=5",
         "date": "Thu, 24 Sep 2026 07:00:00 GMT",
-        "source": "Anadolu Ajansı",
+        "source": "aa.com.tr",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -361,143 +349,246 @@
         "category": "corumsporhaber",
         "feedImage": null,
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Şampiyonlardan sonra en değerli takım: Çorum FK!",
+        "summary": "Şampiyonlardan sonra en değerli takım: Çorum FK! Yeni Mesaj",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOFFyQ0tzWlQxTFdJWndvMDNJUUMxbGRsNm50LXRaVl9USXFXVXVmb2ttRVVKR1c0VVNuSUEtcjZYZXdVYWNsdTl2U2tMY293NW1TZUhmTWQ3X3JMbXQzY2RBU0hlU2NpMURXTlRndHZtOWJ0bmxLR2RlZ2lWZHdCMkJSZWFEWEs4THNKUVY3NkV2QQ?oc=5",
+        "date": "Mon, 07 Sep 2026 07:00:00 GMT",
+        "source": "Yeni Mesaj",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       }
     ],
     "milli": [
       {
-        "title": "Edin Dzeko, Bosna Hersek Milli Takımı'na veda etti!",
-        "summary": "Bosna Hersek'in \"yaşayan efsanesi\" olarak bilinen ve Boşnaklar tarafından \"Elmas\" olarak isimlendirilen Edin Dzeko, milli takımla son kez sahaya çıktı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/edin-dzeko-bosna-hersek-milli-takimina-veda-etti-43327844",
-        "date": "Fri, 02 Oct 2026 22:07:53 Z",
+        "title": "Arda Güler ve Barış Alper Yılmaz, A Milli Takım kampından ayrıldı!",
+        "summary": "TFF, İtalya maçı öncesi cezalı duruma düşen Arda Güler ve Barış Alper Yılmaz'ın A Milli Futbol Takımı'nın kampından ayrıldığını açıkladı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/arda-guler-ve-baris-alper-yilmaz-a-milli-takim-kampindan-ayrildi-43328261",
+        "date": "Sat, 03 Oct 2026 10:10:49 Z",
         "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac02b2e934ff28433ad4e87.jpg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0d49f83386a49177b1bfc.jpg",
         "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac02b2e934ff28433ad4e87.jpg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0d49f83386a49177b1bfc.jpg"
       },
       {
-        "title": "Romelu Lukaku'dan Fenerbahçe açıklaması: 'Yerimi kazanmak için döneceğim!'",
-        "summary": "Fenerbahçe'nin Belçikalı santraforu Romelu Lukaku, Türkiye maçının ardından açıklamalarda bulundu. Lukaku, \"milli takımdaki yerimi kazanmak için Fenerbahçe’ye geri döneceğim.\" dedi.",
-        "link": "https://www.hurriyet.com.tr/sporarena/romelu-lukakudan-fenerbahce-aciklamasi-yerimi-kazanmak-icin-donecegim-43327837",
-        "date": "Fri, 02 Oct 2026 21:49:13 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac026d7934ff28433ad4e5e.jpg",
-        "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac026d7934ff28433ad4e5e.jpg"
-      },
-      {
-        "title": "Vincenzo Montella: 'Kimsenin suçu yok, deneyim kazanıyoruz'",
-        "summary": "A Milli Takım Teknik Direktörü Vincenzo Montella, Belçika'ya 3-0 yenildikleri maçın ardından konuştu.",
-        "link": "https://www.hurriyet.com.tr/sporarena/vincenzo-montella-kimsenin-sucu-yok-deneyim-kazaniyoruz-43327830",
-        "date": "Fri, 02 Oct 2026 21:05:42 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac01c9af37c929b3db240f4.jpg",
-        "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac01c9af37c929b3db240f4.jpg"
-      },
-      {
-        "title": "Arda Güler'den Milli Takım'a kötü haber!",
-        "summary": "Belçika maçının 90+2. dakikasında sarı kart gören Arda Güler, A Milli Takım’ın İtalya ile oynayacağı maçta cezalı duruma düşmesinden kaynaklı forma giyemeyecek.",
-        "link": "https://www.hurriyet.com.tr/sporarena/arda-gulerden-milli-takima-kotu-haber-43327821",
-        "date": "Fri, 02 Oct 2026 20:57:15 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac01a9d934ff28433ad4e30.jpg",
-        "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac01a9d934ff28433ad4e30.jpg"
-      },
-      {
-        "title": "Belçika-Türkiye maçının kırılma anı: Merih Demiral boş kaleyi kaçırdı!",
-        "summary": "UEFA Uluslar Ligi'nin 3. hafta maçında Belçika'ya 3-0 mağlup olan A Milli Futbol Takımı'nda Merih Demiral'ın ilk yarıda değerlendiremediği beraberlik pozisyonu gündem oldu.",
-        "link": "https://www.hurriyet.com.tr/sporarena/belcika-turkiye-macinin-kirilma-ani-merih-demiral-bos-kaleyi-kacirdi-43327809",
-        "date": "Fri, 02 Oct 2026 20:38:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0121b934ff28433ad4dd7.jpg",
-        "category": "milli",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0121b934ff28433ad4dd7.jpg"
-      },
-      {
-        "title": "Vincenzo Montella: Ruhumuzu yansıtacağımız bir maç olacak!",
-        "summary": "A Milli Futbol Takımı Teknik Direktörü Vincenzo Montella, Belçika maçı öncesi konuştu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/02/vincenzo-montella-ruhumuzu-yansitacagimiz-bir-mac-olacak",
-        "date": "Fri, 02 Oct 2026 21:17:50 +0300",
+        "title": "İtalya - Türkiye maçına Polonyalı hakem",
+        "summary": "Turkuvaz Medya'nın yayıncılığını üstlendiği UEFA Uluslar Ligi'nde heyecan sürüyor. A Milli Futbol Takımımız'ın İtalya ile oynayacağı mücadelenin hakemi açıklandı. İşte detaylar...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/03/italya-turkiye-macina-polonyali-hakem",
+        "date": "Sat, 03 Oct 2026 13:09:00 +0300",
         "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/e92b6a/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/vincenzo-montella-ruhumuzu-yansitacagimiz-bir-mac-olacak-1790965066972.jpeg",
+        "feedImage": "https://iasbh.tmgrup.com.tr/7b74fe/1200/675/0/0/1075/604?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/italya-turkiye-macina-polonyali-hakem-1791022128270.jpg",
         "category": "milli",
-        "image": "https://iasbh.tmgrup.com.tr/e92b6a/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/vincenzo-montella-ruhumuzu-yansitacagimiz-bir-mac-olacak-1790965066972.jpeg"
+        "image": "https://iasbh.tmgrup.com.tr/7b74fe/1200/675/0/0/1075/604?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/italya-turkiye-macina-polonyali-hakem-1791022128270.jpg"
       },
       {
-        "title": "MAÇ ÖZETİ İZLE | A Milli Futbol Takımı, Belçika deplasmanına takıldı! 3 maçta puanla tanışamadık",
-        "summary": "UEFA Uluslar Ligi A Ligi 1. Grup’un 3. haftasında Belçika ile Türkiye karşı karşıya geldi. Dev müsabaka ATV ekranlarından şifresiz olarak yayınlandı. Bizim Çocuklar, Belçika deplasmanında 3-0 mağlup oldu...Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/02/mac-ozeti-izle-a-milli-futbol-takimi-belcika-deplasmanina-takildi-3-macta-puanla-tanisamadik",
-        "date": "Fri, 02 Oct 2026 19:09:23 +0300",
-        "source": "Sabah Spor",
+        "title": "Belçika - Türkiye maçı sonrası Nihat Kahveci'den Montella'ya tepki: 'Arda Güler'in anası ağladı!'",
+        "summary": "A Milli Takım, UEFA Uluslar Ligi A Ligi Grup 1'deki üçüncü hafta maçında Belçika'ya deplasmanda 3-0 mağlup oldu. Nihat Kahveci, maçın ardından değerlendirmelerde bulundu.",
+        "link": "https://www.hurriyet.com.tr/sporarena/belcika-turkiye-maci-sonrasi-nihat-kahveciden-montellaya-tepki-arda-gulerin-anasi-agladi-43327976",
+        "date": "Sat, 03 Oct 2026 07:50:41 Z",
+        "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/477b00/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/atv-canli-yayin-izle-uluslar-liginde-belcika-turkiye-maci-bir-gol-daha-geldi-1790972352764.jpeg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0b3c583386a49177b1b27.jpg",
         "category": "milli",
-        "image": "https://iasbh.tmgrup.com.tr/477b00/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/atv-canli-yayin-izle-uluslar-liginde-belcika-turkiye-maci-bir-gol-daha-geldi-1790972352764.jpeg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0b3c583386a49177b1b27.jpg"
       },
       {
-        "title": "Dzeko'nun vedası için köfte sayıları 10'dan 11'e yükseltildi!",
-        "summary": "Edin Dzeko'nun milli takıma veda maçı öncesi Bosna Hersek'te köfteciler 10'lu sattıkları köfteleri 11'li satmaya başladı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/02/dzekonun-vedasi-icin-kofte-sayilari-10dan-11e-yukseltildi",
-        "date": "Fri, 02 Oct 2026 17:19:23 +0300",
-        "source": "Sabah Spor",
+        "title": "Fenerbahçe'de büyük şok! Milli takımda sakatlandı ve...",
+        "summary": "Fenerbahçe lige verilen milli arada çalışmalarına devam ederken şok bir haberle sarsıldı. Sarı lacivertlilerin o yıldızının milli takımda sakatlandığı ve durumunun gelecek ayrıntılı sağlık raporu sonrası...Devamı için tıklayınız",
+        "link": "https://www.aspor.com.tr/fenerbahce/2026/10/03/fenerbahcede-buyuk-sok-milli-takimda-sakatlandi-ve",
+        "date": "Sat, 03 Oct 2026 10:08:20 +0300",
+        "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/aa1345/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/dzekonun-vedasi-icin-kofte-sayilari-10dan-11e-yukseltildi-1790950705220.jpeg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/60da90/1200/675/94/0/818/407?u=https://iftm.tmgrup.com.tr/2026/10/03/1791011032565.jpg",
         "category": "milli",
-        "image": "https://iasbh.tmgrup.com.tr/aa1345/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/dzekonun-vedasi-icin-kofte-sayilari-10dan-11e-yukseltildi-1790950705220.jpeg"
+        "image": "https://iaftm.tmgrup.com.tr/60da90/1200/675/94/0/818/407?u=https://iftm.tmgrup.com.tr/2026/10/03/1791011032565.jpg"
+      },
+      {
+        "title": "FIFA sıralamamız değişti! İşte Milli Takım'ın Belçika mağlubiyeti sonrası yeri",
+        "summary": "UEFA Uluslar Ligi'nde heyecan devam ediyor. A Milli Futbol Takımımız, A Ligi 1. Grup 3. maçında deplasmanda Belçika'ya 3-0 mağlup oldu. Alınan bu sonucun ardından tüm gözler Türkiye'nin, FIFA dünya sıralamasına...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/millitakim/2026/10/03/fifa-siralamamiz-degisti-iste-milli-takimin-belcika-maglubiyeti-sonrasi-yeri",
+        "date": "Sat, 03 Oct 2026 09:38:29 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/4b55d8/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/03/fifa-siralamamiz-degisti-iste-milli-takimin-belcika-maglubiyeti-sonrasi-yeri-1791009450587.jpeg",
+        "category": "milli",
+        "image": "https://iaftm.tmgrup.com.tr/4b55d8/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/03/fifa-siralamamiz-degisti-iste-milli-takimin-belcika-maglubiyeti-sonrasi-yeri-1791009450587.jpeg"
+      },
+      {
+        "title": "Trabzonspor'a Mohamed Salah müjdesi!",
+        "summary": "Trabzonspor'un yıldız oyuncusu Mohamed Salah, Mısır Milli Takımı kampından ayrılıp Trabzon'a gelecek.",
+        "link": "https://www.hurriyet.com.tr/sporarena/trabzonspora-mohamed-salah-mujdesi-43327942",
+        "date": "Sat, 03 Oct 2026 06:28:12 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac09ffd83386a49177b1a94.jpg",
+        "category": "milli",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac09ffd83386a49177b1a94.jpg"
+      },
+      {
+        "title": "Levent Tüzemen'den sert eleştiri! \"Montella tek kelimeyle dağılmış!\"",
+        "summary": "Dünya Kupası sonrası kan kaybetmeye devam eden A Milli Takım'da eleştirilerin hedefi Vincenzo Montella oldu. Sahadaki kaos futbolu ve kadro tercihleri büyük tepki toplarken TFF'ye ayrılık çağrısı yapıldı....Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/millitakim/2026/10/03/levent-tuzemenden-sert-elestiri-montella-tek-kelimeyle-dagilmis",
+        "date": "Sat, 03 Oct 2026 09:14:23 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/5ec8fb/1200/675/0/213/2048/1365?u=https://iftm.tmgrup.com.tr/2026/10/03/levent-tuzemenden-sert-elestiri-montella-tek-kelimeyle-dagilmis-1791008019435.jpg",
+        "category": "milli",
+        "image": "https://iaftm.tmgrup.com.tr/5ec8fb/1200/675/0/213/2048/1365?u=https://iftm.tmgrup.com.tr/2026/10/03/levent-tuzemenden-sert-elestiri-montella-tek-kelimeyle-dagilmis-1791008019435.jpg"
+      },
+      {
+        "title": "A Milli Takım'a 2 şok birden! O yıldızlar İtalya maçında yok",
+        "summary": "A Milli Takımımız, UEFA Uluslar A Ligi'ndeki 3. maçında deplasmanda Belçika'ya 3-0 mağlup oldu. Uluslar Ligi'nde henüz puanla tanışamayan Ay-yıldızlı ekipte, İtalya maçı öncesi iki şok gelişme yaşandı....Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/millitakim/2026/10/03/a-milli-takima-2-sok-birden-o-yildizlar-italya-macinda-yok",
+        "date": "Sat, 03 Oct 2026 08:30:12 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/6e4cbd/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/03/a-milli-takima-2-sok-birden-o-yildizlar-italya-macinda-yok-1791005370409.jpeg",
+        "category": "milli",
+        "image": "https://iaftm.tmgrup.com.tr/6e4cbd/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/03/a-milli-takima-2-sok-birden-o-yildizlar-italya-macinda-yok-1791005370409.jpeg"
+      },
+      {
+        "title": "Orkun Kökçü için olay iddia! Belçika maçında oynamama sebebi ortaya çıktı",
+        "summary": "A Milli Takım'ın Belçika ile oynayacağı maç öncesinde 'ayak parmağındaki ağrısı arttığı' gerekçesiyle aday kadrodan çıkarılan ve Beşiktaş'a dönen Orkun Kökçü ilgili dikkat çeken bir iddia orta atıldı. İşte detaylar...",
+        "link": "https://www.hurriyet.com.tr/sporarena/orkun-kokcu-icin-olay-iddia-belcika-macinda-oynamama-sebebi-ortaya-cikti-43327909",
+        "date": "Sat, 03 Oct 2026 04:47:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac088c69c703bb40ba4d0bc.jpg",
+        "category": "milli",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac088c69c703bb40ba4d0bc.jpg"
+      },
+      {
+        "title": "Spor yazarları Belçika-Türkiye maçını değerlendirdi",
+        "summary": "A Milli Futbol Takımı, UEFA Uluslar A Ligi 1. Grup'taki üçüncü maçında deplasmanda karşılaştığı Belçika'ya 3-0'lık skorla yenildi. Ay-yıldızlılar, bu sonuçla Uluslar A Ligi 1. Grup'taki üçüncü maçında...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/millitakim/2026/10/03/spor-yazarlari-belcika-turkiye-macini-degerlendirdi",
+        "date": "Sat, 03 Oct 2026 07:33:34 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/a1594c/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/03/spor-yazarlari-belcika-turkiye-macini-degerlendirdi-1791001943130.jpeg",
+        "category": "milli",
+        "image": "https://iaftm.tmgrup.com.tr/a1594c/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/03/spor-yazarlari-belcika-turkiye-macini-degerlendirdi-1791001943130.jpeg"
+      },
+      {
+        "title": "Belçika yenilgisinin ardından Montella'ya sert eleştiriler: 'Tazminatını Bodrum'daki villalarla ödesinler!' , 'Bu takıma verebileceği bir şey kalmadı, misyonu çoktan bitti!'",
+        "summary": "A Milli Futbol Takımımımız, UEFA Uluslar A Ligi 1. Grup'taki üçüncü maçında dün akşam deplasmanda karşılaştığı Belçika'ya mağlup olarak sahadan bir kez daha puansız ayrıldı. Gruptaki puansız tek takım olarak son sırada yer alan Ay-yıldızlıların sergilediği performansı ve teknik direktör Vincenzo Montella'nın genel görüntüsünü Hürriyet yazarları Uğur Meleke ve Güntekin Onay bugünkü köşe yazılarında değerlendirdi.",
+        "link": "https://www.hurriyet.com.tr/sporarena/belcika-yenilgisinin-ardindan-montellaya-sert-elestiriler-tazminatini-bodrumdaki-villalarla-odesinler-bu-takima-43327908",
+        "date": "Sat, 03 Oct 2026 04:23:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac083379c703bb40ba4d094.jpg",
+        "category": "milli",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac083379c703bb40ba4d094.jpg"
+      },
+      {
+        "title": "Türkiye'nin çeyrek final şansı var mı? İşte tüm ihtimaller",
+        "summary": "A Milli Futbol Takımı'nın UEFA Uluslar Ligi'ndeki hesapları üçüncü maçların ardından yeniden şekillendi. Belçika deplasmanından 3-0 mağlup ayrılan Türkiye, ilk üç karşılaşma sonunda puanla tanışamazken...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/millitakim/2026/10/02/turkiyenin-ceyrek-final-sansi-var-mi-iste-tum-ihtimaller",
+        "date": "Sat, 03 Oct 2026 01:48:11 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/a66169/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/03/turkiyenin-ceyrek-final-sansi-var-mi-iste-tum-ihtimaller-1790975369867.jpeg",
+        "category": "milli",
+        "image": "https://iaftm.tmgrup.com.tr/a66169/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/03/turkiyenin-ceyrek-final-sansi-var-mi-iste-tum-ihtimaller-1790975369867.jpeg"
       }
     ],
     "superlig": [
       {
-        "title": "Onvo Antalyaspor-Trabzonspor maçının ardından flaş değerlendirme",
-        "summary": "Trendyol Süper Lig'in son haftasında Onvo Antalyaspor'a konuk olan Trabzonspor, mücadeleyi 2-0 kazanarak kapanışı galibiyet ile yaptı. Mücadelenin ardından bordo mavililer için dikkat çeken bir değerlendirme...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/trabzonspor/2025/05/31/onvo-antalyaspor-trabzonspor-macinin-ardindan-flas-degerlendirme",
-        "date": "Sat, 31 May 2025 09:01:15 +0300",
-        "source": "Fotomaç",
+        "title": "Göztepe hücumda istikrarı arıyor",
+        "summary": "Süper Lig'de milli aranın ardından 7'nci haftada Eyüpspor deplasmanına çıkacak 3 puana sahip 17'nci sıradaki Göztepe, hücumda henüz istikrarı yakalayamadı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/03/goztepe-hucumda-istikrari-ariyor",
+        "date": "Sat, 03 Oct 2026 12:01:01 +0300",
+        "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/ee5eb1/1200/675/0/30/800/481?u=https://iftm.tmgrup.com.tr/2025/05/31/onvo-antalyaspor-trabzonspor-macinin-ardindan-flas-degerlendirme-1748670851188.jpeg",
+        "feedImage": "https://iasbh.tmgrup.com.tr/0a5460/1200/675/0/56/640/416?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/goztepe-hucumda-istikrari-ariyor-1791018054572.jpg",
         "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/ee5eb1/1200/675/0/30/800/481?u=https://iftm.tmgrup.com.tr/2025/05/31/onvo-antalyaspor-trabzonspor-macinin-ardindan-flas-degerlendirme-1748670851188.jpeg"
+        "image": "https://iasbh.tmgrup.com.tr/0a5460/1200/675/0/56/640/416?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/goztepe-hucumda-istikrari-ariyor-1791018054572.jpg"
       },
       {
-        "title": "Spor yazarları Galatasaray - RAMS Başakşehir maçını değerlendirdi",
-        "summary": "Son dakika Galatasaray haberleri: Trendyol Süper Lig'in 38. haftasında Galatasaray ile RAMS Başakşehir karşı karşıya geldi. Sarı-kırmızılılar mücadeleden 2-0'lık skorla ayrılarak sezona galibiyetle veda...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/spor-yazarlari-galatasaray-rams-basaksehir-macini-degerlendirdi",
-        "date": "Sat, 31 May 2025 08:46:02 +0300",
+        "title": "Galatasaray'a İtalyan sağ bek! Transferde flaş gelişme",
+        "summary": "Süper Lig devlerinden Galatasaray'da flaş gelişmeler yaşanmaya devam ediyor. Cimbom'un son olarak gündemine gelen İtalyan yıldız transferde büyük yankı uyandırdı. İşte detaylar...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/10/03/aslandan-kayode-atagi",
+        "date": "Sat, 03 Oct 2026 00:24:35 +0300",
         "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/540328/1200/675/0/9/800/459?u=https://iftm.tmgrup.com.tr/2025/05/31/spor-yazarlari-galatasaray-rams-basaksehir-macini-degerlendirdi-1748670326394.jpg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/9ddfb0/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/03/aslandan-kayode-atagi-1790976125748.jpeg",
         "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/540328/1200/675/0/9/800/459?u=https://iftm.tmgrup.com.tr/2025/05/31/spor-yazarlari-galatasaray-rams-basaksehir-macini-degerlendirdi-1748670326394.jpg"
+        "image": "https://iaftm.tmgrup.com.tr/9ddfb0/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/03/aslandan-kayode-atagi-1790976125748.jpeg"
       }
     ],
     "transfer": [
+      {
+        "title": "Croatia v England to be mainly full despite fan ban; Manchester City latest – matchday live",
+        "summary": "All the latest before Saturday’s Nations League action Today’s fixtures | Latest tables | And you can mail us A morning quiz question: which Spurs player has the most goals this season? The answer is Oliver Irow, on loan at Plymouth: four goals across seven appearances v Tottenham’s two goals in the Premier League after five matches. Continue reading...",
+        "link": "https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live",
+        "date": "Sat, 03 Oct 2026 09:58:30 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/a90cb911c72e31f9a3e4c28cbf2e43ee0c37023b/313_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ea3b8d47019ddf43cc45d7cd5935aeab",
+        "category": "transfer",
+        "image": "https://i.guim.co.uk/img/media/a90cb911c72e31f9a3e4c28cbf2e43ee0c37023b/313_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ea3b8d47019ddf43cc45d7cd5935aeab"
+      },
+      {
+        "title": "Trabzonspor, Mustafa Eskihellaç ile nikah tazeledi!",
+        "summary": "Trabzonspor Kulübü, deneyimli bek oyuncusu Mustafa Eskihellaç'nı sözleşmesini uzattı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/03/trabzonspor-mustafa-eskihellac-ile-nikah-tazeledi",
+        "date": "Sat, 03 Oct 2026 09:12:22 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/d65ba7/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/trabzonspor-mustafa-eskihellac-ile-nikah-tazeledi-1791007801543.jpg",
+        "category": "transfer",
+        "image": "https://iasbh.tmgrup.com.tr/d65ba7/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/trabzonspor-mustafa-eskihellac-ile-nikah-tazeledi-1791007801543.jpg"
+      },
+      {
+        "title": "İtalyanlar duyurdu: Galatasaray, Bruno Fernandes transferinde iki devi geride bıraktı!",
+        "summary": "Galatasaray, Manchester United'le sözleşme uzatma konusunda anlaşma sağlayamayan Portekizli yıldız orta saha oyuncusu Bruno Fernandes'i transfer etme noktasında iki İtalyan devini geride bırakmış durumda. İşte detaylar...",
+        "link": "https://www.hurriyet.com.tr/sporarena/italyanlar-duyurdu-galatasaray-bruno-fernandes-transferinde-iki-devi-geride-birakti-43327911",
+        "date": "Sat, 03 Oct 2026 05:10:28 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac08e439c703bb40ba4d127.jpg",
+        "category": "transfer",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac08e439c703bb40ba4d127.jpg"
+      },
       {
         "title": "Which clubs did Man City's 'inflated' money flow to in transfer market?",
         "summary": "BBC Sport follows the trail of transfer money flowing to other clubs during Manchester City's period of financial rule-breaking.",
@@ -512,17 +603,17 @@
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/b049/live/fcba9170-bdbd-11f1-b7d8-31573a2bd831.jpg"
       },
       {
-        "title": "Robbie Savage steps up to take Peterborough job: ‘All I want is a chance’",
-        "summary": "Savage leaves Forest Green to take League One role ‘Excitement is the word I can use,’ say MacAnthony Robbie Savage has been confirmed as the new manager of League One strugglers Peterborough. Savage has left his role at National League side Forest Green Rovers and signed a long-term contract at Posh, who are currently second from bottom and sacked Luke Williams last month. His appointment marks his first Football League role since retiring as a player in 2011, and Savage said he is relishing the opportunity to prove any doubters wrong. Continue reading...",
-        "link": "https://www.theguardian.com/football/2026/oct/02/robbie-savage-peterborough-manager-job-understands-reservations",
-        "date": "Fri, 02 Oct 2026 12:11:20 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/63d8194bb7f4b28794f986f83ecf0c0b16dda46a/606_162_1262_1010/master/1262.jpg?width=140&quality=85&auto=format&fit=max&s=22791309a1de39e23ed316adc1f1c8e1",
+        "title": "Galatasaray'da Leroy Sane gelişmesi! Devre arasında...",
+        "summary": "Galatasaray'da sergilediği performansla beklentilerin altında kalan Leroy Sane için sürpriz bir talip çıktı. Suudi Arabistan ekibinin Alman futbolcu için ara transfer döneminde resmi teklif sunmaya hazırlandığı...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/10/03/galatasarayda-leroy-sane-gelismesi-devre-arasinda",
+        "date": "Sat, 03 Oct 2026 01:05:05 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/be08ad/1200/675/0/0/2047/1151?u=https://iftm.tmgrup.com.tr/2026/10/03/galatasarayda-leroy-sane-gelismesi-devre-arasinda-1790978664917.jpg",
         "category": "transfer",
-        "image": "https://i.guim.co.uk/img/media/63d8194bb7f4b28794f986f83ecf0c0b16dda46a/606_162_1262_1010/master/1262.jpg?width=140&quality=85&auto=format&fit=max&s=22791309a1de39e23ed316adc1f1c8e1"
+        "image": "https://iaftm.tmgrup.com.tr/be08ad/1200/675/0/0/2047/1151?u=https://iftm.tmgrup.com.tr/2026/10/03/galatasarayda-leroy-sane-gelismesi-devre-arasinda-1790978664917.jpg"
       },
       {
         "title": "What does Man City guilty verdict mean for their squad?",
@@ -538,84 +629,6 @@
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/f9c7/live/372ea260-be45-11f1-beff-83dd12d67cca.jpg"
       },
       {
-        "title": "Barış Alper Yılmaz'ın babasından flaş transfer açıklaması!",
-        "summary": "Galatasaray'ın başarılı futbolcusu Barış Alper Yılmaz'ın geleceği büyük merak konusu haline gelirken yıldız ismin babasından dikkat çeken bir transfer açıklaması geldi. İşte o sözler...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/baris-alper-yilmazin-babasindan-flas-transfer-aciklamasi",
-        "date": "Sat, 31 May 2025 11:06:21 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/91a580/1200/675/0/0/1320/742?u=https://iftm.tmgrup.com.tr/2025/05/31/baris-alper-yilmazin-babasindan-flas-transfer-aciklamasi-1748678696062.jpg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/91a580/1200/675/0/0/1320/742?u=https://iftm.tmgrup.com.tr/2025/05/31/baris-alper-yilmazin-babasindan-flas-transfer-aciklamasi-1748678696062.jpg"
-      },
-      {
-        "title": "TRANSFER HABERİ | Avrupa'da Uğurcan Çakır düellosu! Trabzonspor'un kapısını çaldılar",
-        "summary": "Trabzonspor'da özellikle bu sezon gösterdiği performans ile beğeni toplayan Uğurcan Çakır, Avrupa takımlarının radarına girdi. Fransız basını, bordo mavili ekibin kapısının yetenekli eldiven için çalındığını...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/trabzonspor/2025/05/31/transfer-haberi-avrupada-ugurcan-cakir-duellosu-trabzonsporun-kapisini-caldilar",
-        "date": "Sat, 31 May 2025 10:11:50 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/3b2cc9/1200/675/0/18/1500/861?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberi-avrupada-ugurcan-cakir-duellosu-trabzonsporun-kapisini-caldilar-1748675078934.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/3b2cc9/1200/675/0/18/1500/861?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberi-avrupada-ugurcan-cakir-duellosu-trabzonsporun-kapisini-caldilar-1748675078934.jpeg"
-      },
-      {
-        "title": "Fenerbahçe'den Fransa'ya transfer çıkarması! 2 oyuncu için çalışmalar başladı",
-        "summary": "Önümüzdeki sezon mutlu sona ulaşarak taraftarlarına şampiyonluk müjdelemek isteyen Fenerbahçe'de yaz transfer dönemi çalışmaları hız kazandı. Sarı lacivertli yönetim, Fransa Ligue 1'de mücadele eden 2...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/fenerbahceden-fransaya-transfer-cikarmasi-2-oyuncu-icin-calismalar-basladi",
-        "date": "Sat, 31 May 2025 09:49:28 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/4dd707/1200/675/0/0/659/371?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahceden-fransaya-transfer-cikarmasi-2-oyuncu-icin-calismalar-basladi-1748674143934.jpg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/4dd707/1200/675/0/0/659/371?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahceden-fransaya-transfer-cikarmasi-2-oyuncu-icin-calismalar-basladi-1748674143934.jpg"
-      },
-      {
-        "title": "GALATASARAY HABERİ: Transferi Lemina bitirecek! Arkadaşını getiriyor...",
-        "summary": "Son dakika spor haberleri: Galatasaray'da yeni sezonun ilk transferi sağ bek olacak gibi duruyor. Sarı kırmızılılarda aranan isim ise İngiltere'de bulundu. Bu transferin detayında ise Lemina başrolde yer...Devamı için tıklayınız",
-        "link": "https://www.aspor.com.tr/galatasaray/2025/05/31/galatasaray-haberi-transferi-lemina-bitirecek-arkadasini-getiriyor",
-        "date": "Sat, 31 May 2025 09:39:15 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/42af5a/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-transferi-lemina-bitirecek-arkadasini-getiriyor-1748673511492.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/42af5a/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-transferi-lemina-bitirecek-arkadasini-getiriyor-1748673511492.jpeg"
-      },
-      {
-        "title": "GALATASARAY HABERİ: Osimhen'le kritik transfer görüşmesi! 1 hafta içinde...",
-        "summary": "Galatasaray'ın yıldız golcüsü Victor Osimhen hakkında önemli gelişmeler yaşanıyor. Sarı-kırmızılı yönetimin Osimhen için tüm şartları zorlarken Nijeryalı futbolcunun kararını 1 hafta içinde vereceği öne...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/galatasaray-haberi-osimhenle-kritik-transfer-gorusmesi-1-hafta-icinde",
-        "date": "Sat, 31 May 2025 06:51:18 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/342fe9/1200/675/0/28/800/479?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-osimhenle-kritik-transfer-gorusmesi-1-hafta-icinde-1748644230862.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/342fe9/1200/675/0/28/800/479?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-osimhenle-kritik-transfer-gorusmesi-1-hafta-icinde-1748644230862.jpeg"
-      },
-      {
-        "title": "TRANSFER HABERLERİ | Fenerbahçe'de hedef Mitrovic! Avrupa'ya dönmek istiyor",
-        "summary": "Fenerbahçe'de gelecek sezonun transfer çalışmaları sürüyor. Sarı-lacivertlilerin golcü transferi yapmak istediği ve kariyerini Suudi Arabistan'da sürdüren Aleksandar Mitrovic için resmi girişimlere başladığı...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/transfer-haberleri-fenerbahcede-hedef-mitrovic-avrupaya-donmek-istiyor",
-        "date": "Sat, 31 May 2025 06:51:18 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/c6ee39/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberleri-fenerbahcede-hedef-mitrovic-avrupaya-donmek-istiyor-1748644534352.jpeg",
-        "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/c6ee39/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberleri-fenerbahcede-hedef-mitrovic-avrupaya-donmek-istiyor-1748644534352.jpeg"
-      },
-      {
         "title": "Papers: Man Utd to consider legal action if Gabriel leaves",
         "summary": "The top stories and transfer rumours from Saturday's newspapers...",
         "link": "https://www.skysports.com/football/news/12040/13594537/man-utd-to-consider-legal-action-if-jj-gabriel-leaves-as-bayern-munich-barcelona-and-real-madrid-chase-youngster-paper-talk",
@@ -627,36 +640,206 @@
         "feedImage": null,
         "category": "transfer",
         "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824"
-      },
-      {
-        "title": "Man City sponsor's 2015 statement raises questions about appeal strategy",
-        "summary": "Manchester City’s strategy in their bid to clear their name after being found guilty of breaking more than 100 of the Premier League's rules has been brought into question by a statement their main sponsor Etihad Airways submitted to the US government in 2015.",
-        "link": "https://www.skysports.com/football/news/12040/13594496/man-city-appeal-clubs-strategy-brought-into-question-by-2015-statement-main-sponsor-etihad-airways-submitted-to-us-government",
-        "date": "Fri, 02 Oct 2026 19:20:00 BST",
-        "source": "Sky Sports",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "transfer",
-        "image": "https://e0.365dm.com/26/10/1600x900/skysports-etihad-stadium-manchester-city_7365589.jpg?20261001103602"
       }
     ],
     "worldcup": [],
-    "magazine": [],
+    "magazine": [
+      {
+        "title": "Decline and fall: who will believe in Raheem Sterling now?",
+        "summary": "Former England winger could face a prison term next month and his career collapse raises many questions In another world, where careers broke in different directions, Raheem Sterling would be in this England squad now, playing for the manager, Thomas Tuchel, who made him the No 1 target of the new Chelsea era after the Todd Boehly-Clearlake Capital takeover. He is 16 months younger than Harry Kane, who continues to break records as England’s captain and hit a personal high of 73 goals last season. Sterling, meanwhile, is without a club and awaiting sentencing after pleading guilty at Basingstoke magistrates court to dangerous driving and possession of nitrous oxide after an incident that witnesses feared might kill someone. Continue reading...",
+        "link": "https://www.theguardian.com/football/2026/oct/03/decline-and-fall-who-will-believe-in-raheem-sterling-now",
+        "date": "Sat, 03 Oct 2026 05:00:51 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/921267a4d8d5c3e4989a81a97c9d6757e1e5563e/0_0_4958_3966/master/4958.jpg?width=140&quality=85&auto=format&fit=max&s=360377afe3a613fcb4f911caaf12814c",
+        "category": "magazine",
+        "image": "https://i.guim.co.uk/img/media/921267a4d8d5c3e4989a81a97c9d6757e1e5563e/0_0_4958_3966/master/4958.jpg?width=140&quality=85&auto=format&fit=max&s=360377afe3a613fcb4f911caaf12814c"
+      }
+    ],
     "general": [
       {
-        "title": "Mark van Bommel: 'Türkiye elinden gelenin fazlasını yaptı!'",
-        "summary": "UEFA Uluslar A Ligi 1. Grup üçüncü maçında sahasında Türkiye'yi 3-0 mağlup eden Belçika'nın teknik direktörü Mark van Bommel, Türkiye'nin elinden geleni yaptığını ancak kendilerinin iyi oynayarak galip geldiklerini söyledi.",
-        "link": "https://www.hurriyet.com.tr/sporarena/mark-van-bommel-turkiye-elinden-gelenin-fazlasini-yapti-43327845",
-        "date": "Fri, 02 Oct 2026 22:10:30 Z",
+        "title": "Beşiktaş'ın borcu açıklandı!",
+        "summary": "Beşiktaş Kulübü'nün 31 Mayıs 2026 tarihi itibarıyla borcunun 27 milyar 521 milyon 43 bin 773 lira olarak açıklandı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/besiktasin-borcu-aciklandi-43328247",
+        "date": "Sat, 03 Oct 2026 09:55:02 Z",
         "source": "Hürriyet",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac02bcf934ff28433ad4e91.jpg",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0d0e883386a49177b1bee.jpg",
         "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac02bcf934ff28433ad4e91.jpg"
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0d0e883386a49177b1bee.jpg"
+      },
+      {
+        "title": "Beşiktaş'ın toplam borcu açıklandı!",
+        "summary": "Beşiktaş Kulübünün 2026 Yılı İdari ve Mali Olağan Genel Kurul Toplantısı yapıldı. Siyah-beyazlı kulübün borcu da açıklandı. İşte detaylar...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/03/besiktasin-toplam-borcu-aciklandi",
+        "date": "Sat, 03 Oct 2026 12:47:54 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/a7e6b5/1200/675/0/83/800/533?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/besiktasin-toplam-borcu-aciklandi-1791020770369.jpeg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/a7e6b5/1200/675/0/83/800/533?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/besiktasin-toplam-borcu-aciklandi-1791020770369.jpeg"
+      },
+      {
+        "title": "Galatasaray, 121. kuruluş yıl dönümünü kutladı",
+        "summary": "Galatasaray Spor Kulübü’nün kuruluşunun 121. yıl dönümü kapsamındaki kutlamaları Galatasaray Lisesi’nde gerçekleştirildi.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/03/galatasaray-121-kurulus-yil-donumunu-kutladi",
+        "date": "Sat, 03 Oct 2026 12:39:30 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/8eb365/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/galatasaray-121-kurulus-yil-donumunu-kutladi-1791020333036.jpeg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/8eb365/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/galatasaray-121-kurulus-yil-donumunu-kutladi-1791020333036.jpeg"
+      },
+      {
+        "title": "Uluslar Ligi’nde İngiltere deplasmanda Hırvatistan’ı mağlup eder, İspanya evinde farklı kazanır! İşte Misli’de günün en çok oynanan maçları",
+        "summary": "İddaa programı içerisinde yer alan günün en çok oynanan bahislerini ve Misli yazarlarının bu maçlar için yaptığı yorumları sizler için derledik.",
+        "link": "https://www.hurriyet.com.tr/sporarena/uluslar-liginde-ingiltere-deplasmanda-hirvatistani-maglup-eder-ispanya-evinde-farkli-kazanir-iste-mislide-gunun-en-cok-43328199",
+        "date": "Sat, 03 Oct 2026 09:12:16 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0c69e9c703bb40ba4d299.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0c69e9c703bb40ba4d299.jpg"
+      },
+      {
+        "title": "Second Israel game won't be a friendly - Hallgrimsson",
+        "summary": "Republic of Ireland head coach Heimir Hallgrimsson admits Sunday's second game against Israel is \"not going to be a friendly\" following comments from the latter's camp after last week's match in Hungary.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq77075x5xv7o?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 03 Oct 2026 09:04:15 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2c42/live/deaffb90-bded-11f1-8307-556ed6258238.jpg"
+      },
+      {
+        "title": "Beşiktaş Başkanı Serdal Adalı'dan dikkat çeken MHK sözleri! \"İşaret eden bizdik\"",
+        "summary": "Beşiktaş Başkanı Serdal Adalı kulübün genel kurul toplantısında açıklamalarda bulundu. Başkan Adalı kulübün içinde bulunduğu maddi durum ve MHK hakkında çarpıcı açıklamalarda bulundu. İşte detaylar...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/besiktas/2026/10/03/besiktas-baskani-serdal-adalidan-dikkat-ceken-mhk-sozleri-isaret-eden-bizdik",
+        "date": "Sat, 03 Oct 2026 11:22:52 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/b6a834/1200/675/0/0/509/286?u=https://iftm.tmgrup.com.tr/2026/10/03/serdal-adalidan-dikkat-ceken-mhk-sozleri-isaret-eden-bizdik-1791018937021.jpeg",
+        "category": "general",
+        "image": "https://iaftm.tmgrup.com.tr/b6a834/1200/675/0/0/509/286?u=https://iftm.tmgrup.com.tr/2026/10/03/serdal-adalidan-dikkat-ceken-mhk-sozleri-isaret-eden-bizdik-1791018937021.jpeg"
+      },
+      {
+        "title": "Beşiktaş'ta olağan idari ve mali genel kurul toplantısı başladı",
+        "summary": "Beşiktaş Kulübü’nün Olağan İdari ve Mali Genel Kurul Toplantısı, Haliç Kongre Merkezi'nde start verdi.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/03/besiktasta-olagan-idari-ve-mali-genel-kurul-toplantisi-basladi",
+        "date": "Sat, 03 Oct 2026 10:52:47 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/08d497/1200/675/0/28/800/479?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/besiktasta-olagan-idari-ve-mali-genel-kurul-toplantisi-basladi-1791013954247.jpg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/08d497/1200/675/0/28/800/479?u=https://isbh.tmgrup.com.tr/sbh/2026/10/03/besiktasta-olagan-idari-ve-mali-genel-kurul-toplantisi-basladi-1791013954247.jpg"
+      },
+      {
+        "title": "İspanya, Uluslar Ligi’nde Çekya’yı ağırlıyor! Maçın heyecanı canlı sohbet ile Misli’de",
+        "summary": "UEFA Uluslar Ligi A Ligi 3. Grup üçüncü maçında İspanya, sahasında Çekya ile karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
+        "link": "https://www.hurriyet.com.tr/sporarena/ispanya-uluslar-liginde-cekyayi-agirliyor-macin-heyecani-canli-sohbet-ile-mislide-43328013",
+        "date": "Sat, 03 Oct 2026 07:23:01 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0a9959c703bb40ba4d1e3.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0a9959c703bb40ba4d1e3.jpg"
+      },
+      {
+        "title": "Galatasaray Kulübü Başkanı Dursun Özbek açıklamalarda bulundu! \"Lig başlayacak ortada MHK yok\"",
+        "summary": "Galatasaray Kulübü Başkanı Dursun Özbek, Feriköy Mezarlığı'nda Ali Sami Yen'in kabrini ziyaretinin ardından açıklamalarda bulundu. İşte o açıklama:Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2026/10/03/galatasaray-kulubu-baskani-dursun-ozbek-aciklamalarda-bulundu-lig-baslayacak-ortada-mhk-yok",
+        "date": "Sat, 03 Oct 2026 10:14:55 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/c265ea/1200/675/0/0/1277/718?u=https://iftm.tmgrup.com.tr/2026/10/03/galatasaray-kulubu-baskani-dursun-ozbek-aciklamalarda-bulundu-lig-baslayacak-ortada-mhk-yok-1791013043091.jpeg",
+        "category": "general",
+        "image": "https://iaftm.tmgrup.com.tr/c265ea/1200/675/0/0/1277/718?u=https://iftm.tmgrup.com.tr/2026/10/03/galatasaray-kulubu-baskani-dursun-ozbek-aciklamalarda-bulundu-lig-baslayacak-ortada-mhk-yok-1791013043091.jpeg"
+      },
+      {
+        "title": "İngiltere, Uluslar Ligi’nde Hırvatistan'a konuk oluyor! Maçın heyecanı canlı sohbet ile Misli’de",
+        "summary": "UEFA Uluslar Ligi A Ligi 3. Grup üçüncü maçında İngiltere, deplasmanda Hırvatistan'la karşı karşıya gelecek. Maçın heyecanı canlı sohbet ile Misli'de yaşanacak.",
+        "link": "https://www.hurriyet.com.tr/sporarena/ingiltere-uluslar-liginde-hirvatistana-konuk-oluyor-macin-heyecani-canli-sohbet-ile-mislide-43327982",
+        "date": "Sat, 03 Oct 2026 07:09:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0a9959c703bb40ba4d1e1.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0a9959c703bb40ba4d1e1.jpg"
+      },
+      {
+        "title": "Thrown in with Giggs and Beckham: how Manchester United tried to get Billy Kenny",
+        "summary": "Former Everton midfielder, known as the ‘Goodison Gazza’, recalls being made to feel special by Alex Ferguson in this autobiography extract “So this is the scouser ya been goin’ on aboot then …” My face turned Manchester United red. Scanning the room full of smiles and staring eyes, I identified the mystery Scottish voice as the man who’d just become the first player to score more than 20 league goals for the club since George Best in the 1960s. “Good answer,” replied Brian McClair after following up on my smile and nod by asking whether I supported Everton or Liverpool. “Ye’ll dee well ’ere laddie.” Brian Kidd had just introduced me to the Man United first team by silencing the room to draw attention to my presence. “Lads, this is Billy from up the road,” he said. I was still starstruck from seeing all these famous faces as my chauffeur for the day, Eric Harrison, pulled up in the car park at The Cliff a few minutes earlier. Paul McGrath. Mark Hughes. Bryan Robson. Kevin Moran. Norman Whiteside. I ticked them all off in my head. Thank fuck I was developing an ear for everyday Glaswegian because after a bit of piss-taking from the first-teamers about being a scouser, I found myself",
+        "link": "https://www.theguardian.com/football/2026/oct/03/billy-kenny-ryan-giggs-david-beckham-manchester-united-autobiography",
+        "date": "Sat, 03 Oct 2026 07:00:53 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/f4a286df811f62f6bf154d9e2432026c62bc3a66/651_0_4108_3286/master/4108.jpg?width=140&quality=85&auto=format&fit=max&s=bf5e8c9ab55817f292ae663bb6d6c6a3",
+        "category": "general",
+        "image": "https://i.guim.co.uk/img/media/f4a286df811f62f6bf154d9e2432026c62bc3a66/651_0_4108_3286/master/4108.jpg?width=140&quality=85&auto=format&fit=max&s=bf5e8c9ab55817f292ae663bb6d6c6a3"
+      },
+      {
+        "title": "Hırvatistan- İngiltere maçları karşılıklı gollere sahne oluyor! Almeria, son maçlarda formda… İşte Misli’den günün tüyoları!",
+        "summary": "Golcü takımlar, sağlam savunmalar ve seri galibiyetler… Misli editörlerinin hazırladığı günün tüyolarıyla bahis keyfi zirveye çıkıyor. Karşılaşmaların heyecanı Misli’de yaşanıyor!",
+        "link": "https://www.hurriyet.com.tr/sporarena/hirvatistan-ingiltere-maclari-karsilikli-gollere-sahne-oluyor-almeria-son-maclarda-formda-iste-misliden-gunun-tuyolari-43327980",
+        "date": "Sat, 03 Oct 2026 06:52:21 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0a60e9c703bb40ba4d1ab.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac0a60e9c703bb40ba4d1ab.jpg"
+      },
+      {
+        "title": "The student playing in La Liga: Introvert Rodri's unique rise to top",
+        "summary": "Rodri is already playing a key role at Barcelona after turning down Real Madrid this summer. Guillem Balague looks at his journey so far.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ck5ywwpxe1gno?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 03 Oct 2026 06:32:05 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/6e99/live/1c2848d0-b9b4-11f1-929f-f1f9c2e672cb.jpg"
+      },
+      {
+        "title": "Learning from Arteta and inspiring youngsters - Wilshere on management",
+        "summary": "Luton Town manager Jack Wilshere speaks about being back where he started as an eight-year-old and the lessons he learned from his time at Arsenal.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c65y51nvn24wo?at_medium=RSS&at_campaign=rss",
+        "date": "Sat, 03 Oct 2026 05:19:13 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2fe4/live/ac690b50-bcd4-11f1-babe-4199b0e7ccea.png"
       },
       {
         "title": "Who has 'no ceiling' as Northern Ireland shine in Nations League?",
@@ -672,47 +855,8 @@
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/a472/live/b51a26e0-bea4-11f1-a22a-011993fe1af2.jpg"
       },
       {
-        "title": "Fransa 1-1 İtalya (UEFA Uluslar Ligi)",
-        "summary": "Türkiye'nin de yer aldığı UEFA Uluslar A Ligi 1. Grup'un üçüncü maçında Fransa, sahasında karşılaştığı İtalya ile 1-1 berabere kaldı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/fransa-1-1-italya-uefa-uluslar-ligi-43327831",
-        "date": "Fri, 02 Oct 2026 21:09:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac01d89934ff28433ad4e42.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac01d89934ff28433ad4e42.jpg"
-      },
-      {
-        "title": "Arsenal shelve plans for major expansion of Emirates Stadium",
-        "summary": "Club opt for improvements in hospitality and retail An increase to 60,704 capacity had been considered Arsenal have shelved plans for a major expansion of the Emirates Stadium, opting for a programme of smaller improvements as the club’s owners review the Premier League champions’ wider operation. Arsenal set up a working group led by the chief executive, Richard Garlick, in 2024 to examine the feasibility of increasing the 60,704 capacity, with some reports they could temporarily hold home matches at Wembley. But the club has decided against major redevelopment and will concentrate on what it described as the “continued evolution” of their home since 2006. Continue reading...",
-        "link": "https://www.theguardian.com/football/2026/oct/02/arsenal-shelve-plans-for-major-expansion-of-emirates-stadium",
-        "date": "Fri, 02 Oct 2026 20:10:12 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/386c7dab46c6ed906a5dd2e80431ea75b8dc001a/446_0_4890_3910/master/4890.jpg?width=140&quality=85&auto=format&fit=max&s=2b41b4fa72d5f530d79acaba81d2015e",
-        "category": "general",
-        "image": "https://i.guim.co.uk/img/media/386c7dab46c6ed906a5dd2e80431ea75b8dc001a/446_0_4890_3910/master/4890.jpg?width=140&quality=85&auto=format&fit=max&s=2b41b4fa72d5f530d79acaba81d2015e"
-      },
-      {
-        "title": "Dusan Alimpijevic: EuroLeague bu konuda acımasız bir zemin!",
-        "summary": "Beşiktaş Başantrenörü Dusan Alimpijevic, Barcelona maçından sonra konuştu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/basketbol/2026/10/02/dusan-alimpijevic-euroleague-bu-konuda-acimasiz-bir-zemin",
-        "date": "Fri, 02 Oct 2026 22:50:06 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/456848/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/dusan-alimpijevic-euroleague-bu-konuda-acimasiz-bir-zemin-1790970572572.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/456848/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/dusan-alimpijevic-euroleague-bu-konuda-acimasiz-bir-zemin-1790970572572.jpeg"
-      },
-      {
         "title": "Manchester City whistleblower Rui Pinto to leave Portugal over safety fears",
-        "summary": "Pinto has witness protection status removed His lawyers will appeal and say his situation is ‘critical’ Rui Pinto has revealed he is preparing to leave Portugal because he fears for his safety after being informed that his participation in the country’s witness protection programme has been terminated. The Football Leaks founder claimed he has received “multiple death threats” and is facing “the serious risk of an assassination attempt against me” after being informed of the decision by Portuguese authorities on Wednesday. That came two days after Manchester City were found guilty of 115 charges by an independent commission – an investigation that was prompted by Pinto’s leaks of thousands of private documents. Continue reading...",
+        "summary": "Pinto has witness protection status removed His lawyers will appeal and say his situation is ‘critical’ Rui Pinto has revealed he is preparing to leave Portugal because he fears for his safety after being informed that his participation in the country’s witness protection programme has been terminated. The Football Leaks founder claimed he has received “multiple death threats” and is facing “the serious risk of an assassination attempt against me” after being informed of the decision by Portuguese authorities on Wednesday. That came two days after Manchester City were found guilty of more than 100 charges by an independent commission – an investigation that was prompted by Pinto’s leaks of thousands of private documents. Continue reading...",
         "link": "https://www.theguardian.com/football/2026/oct/02/manchester-city-whistleblower-rui-pinto-leave-portugal-over-safety-fears",
         "date": "Fri, 02 Oct 2026 19:43:59 GMT",
         "source": "The Guardian",
@@ -722,136 +866,6 @@
         "feedImage": "https://i.guim.co.uk/img/media/d54beac4807b69bc9cbd57da11cb7793ea0d116a/1361_0_6831_5464/master/6831.jpg?width=140&quality=85&auto=format&fit=max&s=8f54b3b761edc946cc8187018353b1e8",
         "category": "general",
         "image": "https://i.guim.co.uk/img/media/d54beac4807b69bc9cbd57da11cb7793ea0d116a/1361_0_6831_5464/master/6831.jpg?width=140&quality=85&auto=format&fit=max&s=8f54b3b761edc946cc8187018353b1e8"
-      },
-      {
-        "title": "Man City whistleblower set to lose protection amid fears for life",
-        "summary": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester City set to lose his witness protection despite fears for his life.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 02 Oct 2026 19:26:13 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c09c/live/ec8c2630-be8d-11f1-888b-4d28ea12c7e2.jpg"
-      },
-      {
-        "title": "Beşiktaş, EuroLeague'de Barcelona'ya mağlup!",
-        "summary": "Beşiktaş, EuroLeague'in üçüncü haftasında İstanbul'da Barcelona karşısında parkeden 95-82 mağlup ayrıldı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/basketbol/2026/10/02/besiktas-euroleaguede-barcelonaya-maglup",
-        "date": "Fri, 02 Oct 2026 22:17:20 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/e333f6/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/besiktas-euroleaguede-barcelonaya-maglup-1790968602035.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/e333f6/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/besiktas-euroleaguede-barcelonaya-maglup-1790968602035.jpeg"
-      },
-      {
-        "title": "Bosna Hersek ile İsveç puanları paylaştı! İşte goller",
-        "summary": "Turkuvaz Medya aracılığıyla yayınlanan 2026-2027 UEFA Uluslar Ligi sezonunun üçüncü hafta programında yer alan mücadelede Bosna-Hersek ve İsveç karşı karşıya geldi. A Para'dan canlı yayınlanan maç 1-1...Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/02/a-para-canli-izle-bosna-hersek-isvec-maci-canli-izle",
-        "date": "Fri, 02 Oct 2026 21:22:16 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/40243b/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/a-para-canli-izle-bosna-hersek-isvec-maci-canli-izle-1790969808244.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/40243b/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/a-para-canli-izle-bosna-hersek-isvec-maci-canli-izle-1790969808244.jpeg"
-      },
-      {
-        "title": "Dev maçta kazanan çıkmadı! Fransa ile İtalya yenişemedi! İşte goller",
-        "summary": "Uluslar Ligi A Ligi 1. Grupta Fransa, sahasında İtalya ile karşılaştı. A Spor’dan canlı yayınlanan mücadele 1-1 sona erdi. İşte maçta atılan goller...Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/02/a-spor-canli-izle-uefa-uluslar-ligi-fransa-italya-maci-sifresiz-izle",
-        "date": "Fri, 02 Oct 2026 21:17:26 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/8b5223/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/a-spor-canli-izle-uefa-uluslar-ligi-fransa-italya-maci-sifresiz-izle-1790968876103.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/8b5223/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/02/a-spor-canli-izle-uefa-uluslar-ligi-fransa-italya-maci-sifresiz-izle-1790968876103.jpeg"
-      },
-      {
-        "title": "Pickford in spotlight against Croatia with England position under threat from Trafford",
-        "summary": "Goalkeeper returns for Saturday’s Nations League match but is under pressure to respond with strength of competition growing For England’s first meeting with Luka Modric you have to go back 20 years. Croatia were managed by Slaven Bilic, who has returned for a second spell in charge of the national team, and dominated in Zagreb. They eased to a 2-0 win, Steve McClaren’s doomed attempt to qualify for Euro 2008 took a turn for the worse and, as well as Modric giving England’s midfield the runaround, the game was remembered best for a horror mistake from the Three Lions No 1. Paul Robinson must have wanted the ground to swallow him up when he kicked at thin air and let Gary Neville’s backpass bobble into the net. Robinson, his aura diminished, never really recovered. The goalkeeper made 10 more appearances but after another crucial error against Russia in October 2007, he never won another cap. Continue reading...",
-        "link": "https://www.theguardian.com/football/2026/oct/02/jordan-pickford-england-croatia-nations-league-james-trafford",
-        "date": "Fri, 02 Oct 2026 18:00:36 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/017521a8bb29b5be4694ec9b84896cff9244934d/306_0_4880_3905/master/4880.jpg?width=140&quality=85&auto=format&fit=max&s=fd135ae95693b60f64fe2a9e61ac4d7d",
-        "category": "general",
-        "image": "https://i.guim.co.uk/img/media/017521a8bb29b5be4694ec9b84896cff9244934d/306_0_4880_3905/master/4880.jpg?width=140&quality=85&auto=format&fit=max&s=fd135ae95693b60f64fe2a9e61ac4d7d"
-      },
-      {
-        "title": "Etihad’s statements on funding appear to contradict Manchester City’s defence",
-        "summary": "Airline denied links to Abu Dhabi government in 2015 FA confirms it has powers to take disciplinary action Manchester City’s defence in their appeal against the independent commission’s guilty verdict in more than 100 charges of financial rule breaches appears to be contradicted by previous statements made by their main sponsor, Etihad Airways, to the US government. A key element of City’s appeal, which was confirmed by the club on Friday, is understood to be based on their claim that commercial contracts, which the commission concluded were part-funded by their owner, were in fact paid for by the Abu Dhabi government. Continue reading...",
-        "link": "https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal",
-        "date": "Fri, 02 Oct 2026 17:58:20 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/db7f45adfadc9cfa0f3a066188bc7f6b87caa1ca/336_0_3341_2674/master/3341.jpg?width=140&quality=85&auto=format&fit=max&s=c0d94998b9fe697fe835bf8894d23339",
-        "category": "general",
-        "image": "https://i.guim.co.uk/img/media/db7f45adfadc9cfa0f3a066188bc7f6b87caa1ca/336_0_3341_2674/master/3341.jpg?width=140&quality=85&auto=format&fit=max&s=c0d94998b9fe697fe835bf8894d23339"
-      },
-      {
-        "title": "Serdal Adalı'dan flaş öneri: 'Ligler ertelensin!'",
-        "summary": "Beşiktaş Başkanı Serdal Adalı, “Hakemler Dosyası” ile ilgili dikkat çeken açıklamalarda bulundu. Adalı, gerekmesi halinde liglerin ertelenmesi gerektiğini dile getirdi.",
-        "link": "https://www.hurriyet.com.tr/sporarena/serdal-adalidan-flas-oneri-ligler-ertelensin-43327604",
-        "date": "Fri, 02 Oct 2026 15:54:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6abfd384934ff28433ad4ce7.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6abfd384934ff28433ad4ce7.jpg"
-      },
-      {
-        "title": "Tuchel would never rule out players not in top flight",
-        "summary": "England boss Thomas Tuchel says he would \"never rule out\" selecting someone who is not playing in the top flight, should Manchester City be relegated.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cqd095z49gjvo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 02 Oct 2026 15:05:31 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/30e8/live/840f8520-be65-11f1-b36c-81ad410b221e.jpg"
-      },
-      {
-        "title": "Ferguson 'terrified' before 'fantastic' return to Man Utd after brain haemorrhage",
-        "summary": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his 85th birthday.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 02 Oct 2026 05:25:13 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a31/live/d7e8e0c0-bd51-11f1-b976-539055889f76.png"
-      },
-      {
-        "title": "Fenerbahçe'de Dzeko ve Tadic için neden veda töreni düzenlenmedi? İşte o flaş gerçek",
-        "summary": "Fenerbahçe'de Edin Dzeko ve Dusan Tadic için veda töreni düzenlenmemesi gündeme oturdu. Konuyla ilgili flaş gerçek ortaya çıktı. İşte detaylar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/fenerbahcede-dzeko-ve-tadic-icin-neden-veda-toreni-duzenlenmedi-iste-o-flas-gercek",
-        "date": "Sat, 31 May 2025 13:25:40 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/590bc8/1200/675/0/33/559/348?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahcede-dzeko-ve-tadic-icin-neden-veda-toreni-duzenlenmedi-iste-o-flas-gercek-1748687047041.jpg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/590bc8/1200/675/0/33/559/348?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahcede-dzeko-ve-tadic-icin-neden-veda-toreni-duzenlenmedi-iste-o-flas-gercek-1748687047041.jpg"
       }
     ]
   },
@@ -8298,28 +8312,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "homeGoalAvg": "1.4",
-        "awayGoalAvg": "2.6",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 29,
@@ -8370,28 +8367,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [
-          "D",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "D",
-          "L",
-          "L"
-        ],
-        "homeGoalAvg": "1.8",
-        "awayGoalAvg": "2.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 52,
@@ -8442,28 +8422,11 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "D",
-          "L",
-          "L"
-        ],
-        "homeGoalAvg": "1.0",
-        "awayGoalAvg": "0.6",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 81,
@@ -8514,28 +8477,11 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "D",
-          "W",
-          "L"
-        ],
-        "homeGoalAvg": "2.4",
-        "awayGoalAvg": "1.8",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 0,
-          "awayWins": 0,
-          "total": 3
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 56,
@@ -8586,26 +8532,11 @@
         "league": "BL1",
         "leagueName": "Bundesliga",
         "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "W",
-          "L",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "W",
-          "L"
-        ],
-        "homeGoalAvg": "2.5",
-        "awayGoalAvg": "2.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 47,
@@ -8654,26 +8585,11 @@
         "league": "BL1",
         "leagueName": "Bundesliga",
         "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "L",
-          "D",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "D",
-          "L"
-        ],
-        "homeGoalAvg": "1.5",
-        "awayGoalAvg": "0.8",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 3,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 41,
@@ -8722,27 +8638,11 @@
         "league": "BL1",
         "leagueName": "Bundesliga",
         "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "W",
-          "W"
-        ],
-        "homeGoalAvg": "2.0",
-        "awayGoalAvg": "2.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 0,
-          "awayWins": 0,
-          "total": 2
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 41,
@@ -8792,26 +8692,11 @@
         "league": "BL1",
         "leagueName": "Bundesliga",
         "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "homeGoalAvg": "0.8",
-        "awayGoalAvg": "0.5",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 82,
@@ -8860,26 +8745,11 @@
         "league": "BL1",
         "leagueName": "Bundesliga",
         "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "L",
-          "D",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "L",
-          "D"
-        ],
-        "homeGoalAvg": "2.8",
-        "awayGoalAvg": "1.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 4,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 91,
@@ -8928,28 +8798,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [
-          "L",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "D",
-          "D",
-          "D",
-          "W"
-        ],
-        "homeGoalAvg": "1.2",
-        "awayGoalAvg": "1.2",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 47,
@@ -9000,28 +8853,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [
-          "W",
-          "L",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "D",
-          "L",
-          "L",
-          "L"
-        ],
-        "homeGoalAvg": "0.2",
-        "awayGoalAvg": "1.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 3,
-          "awayWins": 0,
-          "total": 7
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 45,
@@ -9072,28 +8908,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [
-          "L",
-          "L",
-          "W",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "W",
-          "D",
-          "L"
-        ],
-        "homeGoalAvg": "1.8",
-        "awayGoalAvg": "1.2",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 47,
@@ -9144,11 +8963,51 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "D"
+        ],
+        "homeGoalAvg": "1.4",
+        "awayGoalAvg": "0.8",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 4,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 61,
+            "draw": 15,
+            "away": 24
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Toulouse, %61 ihtimalle bu maçın favorisi. Troyes deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [
+            "W",
+            "D",
+            "L",
+            "D",
+            "L"
+          ],
+          "awayForm": [
+            "L",
+            "L",
+            "L",
+            "W",
+            "D"
+          ]
+        }
       },
       {
         "id": 558564,
@@ -9176,28 +9035,11 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": [
-          "D",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "D",
-          "W",
-          "W"
-        ],
-        "homeGoalAvg": "1.0",
-        "awayGoalAvg": "2.2",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 5,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 26,
@@ -9248,28 +9090,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [
-          "L",
-          "D",
-          "L",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "D",
-          "L",
-          "L"
-        ],
-        "homeGoalAvg": "2.0",
-        "awayGoalAvg": "0.4",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 82,
@@ -9320,28 +9145,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "homeGoalAvg": "0.8",
-        "awayGoalAvg": "2.2",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 3,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 27,
@@ -9392,27 +9200,11 @@
         "league": "BL1",
         "leagueName": "Bundesliga",
         "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "L",
-          "D"
-        ],
-        "homeGoalAvg": "2.4",
-        "awayGoalAvg": "2.3",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 67,
@@ -9462,28 +9254,11 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "L",
-          "D",
-          "L",
-          "L"
-        ],
-        "homeGoalAvg": "1.6",
-        "awayGoalAvg": "0.8",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 72,
@@ -9534,11 +9309,51 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "W",
+          "W",
+          "D"
+        ],
+        "homeGoalAvg": "1.4",
+        "awayGoalAvg": "1.6",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 28,
+            "draw": 17,
+            "away": 55
+          },
+          "favorite": "away",
+          "text": "Deplasmandaki Paris FC, son 5 maçta 3 galibiyetle çıkışta; %55 ile favori. RC Lens son haftalarda form kaybında, bu da işini zorlaştırıyor.",
+          "homeForm": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "L"
+          ],
+          "awayForm": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "D"
+          ]
+        }
       },
       {
         "id": 564724,
@@ -9566,28 +9381,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "D",
-          "W",
-          "W"
-        ],
-        "homeGoalAvg": "2.0",
-        "awayGoalAvg": "1.6",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 3,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 46,
