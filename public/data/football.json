@@ -1,37 +1,13 @@
 {
-  "updatedAt": "2026-10-09T21:32:15.734Z",
+  "updatedAt": "2026-10-10T02:17:56.481Z",
   "news": {
     "corumsporhaber": [
-      {
-        "title": "Gaziantep FK camiasında beklenen haber geldi",
-        "summary": "Gaziantep FK camiasında beklenen haber geldi Gaziantep Oluşum Gazetesi",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR21RdktCbVdCNlZxUlRVMER1N0RVX0lOQXM3QjBWNlhueUNLMEZWU2xIVnhKZXZ2eHlpNUVmaWo2NVVDTnlqZmVtTEwySG9WTlhabFAwUFpiQ1AwWVA1VlF3dWRyQWtGXzkybkVSRnRFU0tlLVdpMHJ4M1U5RmR3NzBoT0tpSHJleDZKcXROTlVUQWt1VWfSAZsBQVVfeXFMTUh1OEFmMFltU3ctbTJQQnJuZWFqdmdmbWNqVlNqc2ROYnhNZVRrQ2ZDTjN5REVGRHpIZk81Y2wxU281MzA4aHRhdHFscWtpQlVHbmN1SXVwNkVwUkxrZEtWbWlGSi1kMVhUYUZOYjNMM0c3ZnltQkE5aUxvb2ZFT0F1WU1MSHROQk5JWGFsZ1FWV01fNnozUXNLRjA?oc=5",
-        "date": "Fri, 09 Oct 2026 15:59:00 GMT",
-        "source": "Gaziantep Oluşum Gazetesi",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
       {
         "title": "Gaziantep FK'nın yıldızları taraftarla buluştu!",
         "summary": "Gaziantep FK'nın yıldızları taraftarla buluştu! Sabah",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlZSckI2SUtkZlA5Zk5aSE54U3dnaU5XaS12SDRwMzAzeFBhRGhuVkxsUDF6OUdaWTQxYzliUDRtWUNKQVQ2azlxeGRacVFqR3NZUEdMQURxX0FYVkZLc1owbmZKVloyOWtKTGZGN3NNSEtEbjFhb1FiaGJjN0ZYOWpKZ3dvbEZ3MzN2d1JZdkhEZURUV1c4LdIBmwFBVV95cUxNdW16R1RWM2pnY292dUw4cW1fY0xCT1R4a1RsbWNValhBeUhEYmpfcXVJTE95dkVPQ2xfVEM2SHRUeUJMbmtIQzVyNWVFOHMwS0lyWWFzaUVGak5mSk9SWm1ZdUkyaDl5Tmc4SnU4NE4wUWNMS1l2QmJxWXk5TDc2LTRnS0FtZTVMNWhheHNPdVVZeERObkRrWmtuOA?oc=5",
         "date": "Fri, 09 Oct 2026 14:18:35 GMT",
         "source": "Sabah",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Futbolcular taraftarla imza gününde buluştu",
-        "summary": "Futbolcular taraftarla imza gününde buluştu Saray Medya",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObS1xN29VRzRwRzc0TlhZcEtiR1BIYVZjakdDUFpUVkVaS2dBeDNNV1VZcFpLQmh1NjFXZHZFS25xNnMtMlNXZHdCUUYxTEdid1FkbzhKRnVxdmo0VFlIdHp0aEJmcDBmcmRESGFEdF9ISk5lZTFXRHpsZm1ucFRHeEVyZk1TZUlYa2pZMA?oc=5",
-        "date": "Fri, 09 Oct 2026 13:57:00 GMT",
-        "source": "Saray Medya",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -75,22 +51,10 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Gaziantep FK'da tek hedef galibiyet",
-        "summary": "Gaziantep FK'da tek hedef galibiyet Gaziantep Oluşum Gazetesi",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1VraWMwMDRoZWhRTGxMLVBmR3RvZ2c3SmdERjA5bmxXWlJrU1pmWEVIbXUtYTEwZmlabDk4QXRaWkRTN24zMG1WV3p6bktmRU85ZkE2djBfcWhza2J2ZnI3eEVaTkZxYjJ4MVpFc0cwNVRyNGhDVTQ5Y0k4dkJkcVBzdlFMcVZG0gGOAUFVX3lxTFBkU0xZWnBKUGk4SzJGUDZ4YzY0N0oyeU5laVVNem1LRGkxTjFIVGVaNC1Xd3duZjd6dFQ0bnNhak1tUENnelp5V0o0ZTlXdlBERWcyQUVDRkVGQ0phd2xkNUhtNHh4Tk5NSWtNRV9DWV9TaU9kN1dfV1VxMEdNU3JWb0UzSHFycWlCSHVJQUE?oc=5",
-        "date": "Fri, 09 Oct 2026 08:25:00 GMT",
-        "source": "Gaziantep Oluşum Gazetesi",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Gaziantep FK - A. Çorum FK 09 Ekim 2026 - Saat Kaçta Başlıyor? - TV Rehberi",
-        "summary": "Gaziantep FK - A. Çorum FK 09 Ekim 2026 - Saat Kaçta Başlıyor? - TV Rehberi Hürriyet",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX1piSEpxTXRmNFFUaVN2QXVMUmtnU1p5TDVMVWtYcHhVTlFyN1JLYVFPa3JMcGZvZTEzNThDTXo4M0RwaW5DdkdYM2xWTU8xYjcyWEstSUoxdWhkWk9ETXAtenBKaUpqbkUzakZscFp0SWg5WjhLanlPWHR3Y1lqSWxwSmtubGo4OEdWNmgydw?oc=5",
-        "date": "Fri, 09 Oct 2026 02:02:45 GMT",
+        "title": "A. Çorum FK - C. Alanyaspor 09 Ekim 2026 - Saat Kaçta Başlıyor? - TV Rehberi",
+        "summary": "A. Çorum FK - C. Alanyaspor 09 Ekim 2026 - Saat Kaçta Başlıyor? - TV Rehberi Hürriyet",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOakk0R0NQMEFrRUhYMXhiUkRRMXdlTVFIbUp2QTkzcmxkSkFhUktMQ3ZyRkk3U0oxM3ZMWG9Hal9kRFNMWkpzaWU1Zk5RVGFuTzNfUUktVDRxemJDejg0M1JoRG1GcWItNzlzUDVtSUd6cTgwSk53MThOcjA5ckJULVBidmNLYnZJUXlaQ0VuWQ?oc=5",
+        "date": "Fri, 09 Oct 2026 03:34:39 GMT",
         "source": "Hürriyet",
         "flag": "🔴⚫",
         "lang": "tr",
@@ -112,7 +76,7 @@
       },
       {
         "title": "Çorum FK'da Burak Yılmaz depremi",
-        "summary": "Çorum FK'da Burak Yılmaz depremi Halk TV Burak Yılmaz'dan Cengiz Ünder ve Çağlar Söyüncü'ye gözdağı! \"Sahada babamı bile tanımam!\" Yeni Akit Gazetesi Burak Yılmaz: 'Daha takım olamadığımızı düşünüyorum' Hürriyet Gaziantep FK'da Çorum FK hazırlıkları devam etti! Sabah 'Yeni hoca ile puan kayıplarını telafi edeceğiz' Çorum Hakimiyet Çorum FK'da Burak Yılmaz resti çekti: İstemiyorum Gazete Vatan Yılmaz: \"Çorum'da büyük hayallerim var\" Çorum Haber Gazetesi Gaziantep FK, Çorum FK maçı hazırlığında 1 ",
+        "summary": "Çorum FK'da Burak Yılmaz depremi Halk TV Çorum FK'da Burak Yılmaz resti çekti: İstemiyorum Gazete Vatan Gaziantep FK'da Çorum FK hazırlıkları devam etti! Sabah Burak Yılmaz: 'Daha takım olamadığımızı düşünüyorum' Hürriyet Burak Yılmaz'dan Cengiz Ünder ve Çağlar Söyüncü'ye gözdağı! \"Sahada babamı bile tanımam!\" Yeni Akit Gazetesi Yılmaz: \"Çorum'da büyük hayallerim var\" Çorum Haber Gazetesi Gaziantep FK, Çorum FK maçı hazırlığında 1 saat 10 dakikalık antrenman yaptı Haberler 'Çorum maçı bizim için",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5Bek9wUHBSMi1oWk94SGdRYThicDVrd3pQeHItRUNNT0M1ZERDRkdLV1MzVFppcVQ0ZERCMXVadTJfUFI2UEg0Mm1FWXF3aHpYb0NhbFZZUDZaQUtXcEl4azhwazl0VW44eFg0cW83TGtqanNnWUE?oc=5",
         "date": "Thu, 08 Oct 2026 18:08:00 GMT",
         "source": "Halk TV",
@@ -195,35 +159,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
-        "title": "Gaziantep FK-Çorum FK maçı bilet fiyatları belli oldu",
-        "summary": "Gaziantep FK-Çorum FK maçı bilet fiyatları belli oldu LEBLEBİ TV",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZi1IWWlJZG5fQnJDUTVUQlJDVWdfNWRvWTNiYzFfNHV4NFlGNlNNbUNuU096dWJidTc3WGkwOWJybmFCbk94NTZKVDhJN0dPZ0pRVU90dENxS3FRVVo1cWNWM0QzZTJkeDFNalppNmpHXzZFc2k5ZXVKMEZnN0hoWFdR?oc=5",
-        "date": "Wed, 07 Oct 2026 13:23:00 GMT",
-        "source": "LEBLEBİ TV",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
         "title": "ÇORUM FK MAÇI SEREMONİ PAKETİ SATIŞTA",
         "summary": "ÇORUM FK MAÇI SEREMONİ PAKETİ SATIŞTA gaziantepfk.org",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16Zldwdk5zbWVwOVFMZG0xOGdDcU1BblI2X3lsLUJMWU0xWDBiSUtHWlF6YkVSTi1KT3o1eC1PaFF5NGVnOGFyZ25Idlc5c3c2a0d4dFpid2tZbWtwV3FXZTVVV0gzRXNUQUl3VzlCYkVMMndwNFdNX0c0NjRqVVk?oc=5",
         "date": "Wed, 07 Oct 2026 08:12:26 GMT",
         "source": "gaziantepfk.org",
-        "flag": "🔴⚫",
-        "lang": "tr",
-        "category": "corumsporhaber",
-        "feedImage": null,
-        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
-      },
-      {
-        "title": "Çorum FK, Gaziantep FK maçı öncesi harekete geçti",
-        "summary": "Çorum FK, Gaziantep FK maçı öncesi harekete geçti Gazete Vatan",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUFlDU2hmS0c3d2FXQzBTLUtVOC1KenNjSW1DVmZrZFNXdzN1QXozdGlfZ2VFTFhkTU1FVmNUdEFFMzlsR2dHYXI5U1ZiaUVhN1NUM2kwN1ZkczlFVXVEYUR0dmdFazdlQzRBSVkzRkJaZ1Q2MWNzaERwS3pEMmRNQXUzLVZkdVZqUTVSZFZkTzBUdjc0eWxGUQ?oc=5",
-        "date": "Wed, 07 Oct 2026 07:33:16 GMT",
-        "source": "Gazete Vatan",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -255,6 +195,18 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
+        "title": "Arca Çorum FK, deplasmanda oynayacağı Gaziantep FK maçına Çorum'da hazırlanıyor",
+        "summary": "Arca Çorum FK, deplasmanda oynayacağı Gaziantep FK maçına Çorum'da hazırlanıyor Haberler",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNczZ4Z2M2dTNQMmVsQkNOemVXRHdpa3hTYjNSb2E0M0oxeE1LZ2ZNX1dHWFgycWRkTndUOVlWUV9JWXhSMU0wazRWR1B0YUlERFk1NkRSQk9IakJ0NHRQcFFJYUxQcGMxRUI4bE9fV28tazlha0Q5ZmR3NnJsQm5hMkk3d3I1aS1VRk8xUS04WHNudDA3dThKbjU5MjTSAZsBQVVfeXFMT3RSbTJYOS1ad2ljUEx0ckZrRENyczB5T19fbktWb2xmV1dWZ2xoWWMwTVV2anZ6NzhJZlhUMk9heE5kTm11NjY2MGlzZGZ4Szg1d0l6cnEtTF9rSkhlNU83U2x6aF9VdXpCQ1pVclB6SVhzOWl3V1lMUU9Oa1MwbUdJbUFBVnNSY1l0dFcxY2VGNnNMQ3Q0Wlc5aUU?oc=5",
+        "date": "Tue, 06 Oct 2026 20:13:35 GMT",
+        "source": "Haberler",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
         "title": "Çorum FK, AZ Alkmaar'dan Alexandre Penetra'yı renklerine bağladı",
         "summary": "Çorum FK, AZ Alkmaar'dan Alexandre Penetra'yı renklerine bağladı Mackolik.com",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSk9tdkJJa3g5SFBHaW54NmJLSDcyM0NRaHNnUTYtdjZ0b2ZTMzNCeXNETVIxMnpJLXM1UmRlWWMwak0wWEdfQlFsMkVlMHZ3d1I4UmVxT1lJeXN1SHRtS0RnOG04QkNHckZ5RDZZZ0tmS2ZySUkyajRURXNnRDJvVU5rV0duS21ocHlCbGpLUzZDNE1WWjlEVmdIa0ltRWl3MEhKMHV6amZVRzg4cEluUVFJNjBYN1lydEhJdDMwN0ZZRUlOWVY1RWhZV2xEWWxTMThrSEV1UDNxSHhlXzlN?oc=5",
@@ -279,6 +231,18 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
+        "title": "Çorum FK, Gaziantep FK hazırlıklarını sürdürdü İhlas Haber Ajansı",
+        "summary": "Çorum FK, Gaziantep FK hazırlıklarını sürdürdü İhlas Haber Ajansı İhlas Haber Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWlNRZzFqNnllV0M3QjVjZmxwbUxPUElDMGY3UGR4WGQ5UDJUeGlHSm81RVVNX3RYMTVYaFp4U1pjby0zVlp3VWI1OUIxTVlMdmItOWJmQ1F4NERSRmRpZ3dtMkJyaGNsRnVSWEUtTFpxM2NhMVpKbDdXcG9fLVBrUXlLUmVCaFgzSjZsOTdhSEpzSEtQS1lqYTln?oc=5",
+        "date": "Tue, 06 Oct 2026 18:37:24 GMT",
+        "source": "İhlas Haber Ajansı",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
         "title": "Çorum FK, Gaziantep FK deplasmanı için Burak Yılmaz yönetiminde antrenman yaptı",
         "summary": "Çorum FK, Gaziantep FK deplasmanı için Burak Yılmaz yönetiminde antrenman yaptı Haberler",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT25pVlJwY1NHMjB1MEJucjhpMlFFVzJ5bWhESDQtbkwzdW5LaU9XT0lqZU1ZSEtaZzdEc2MxRzc0cERBaWhIbmR4MGwxSFdMMWJXYXg2VTNjNG1CMTIyYjRZVnFLQnRzSS1QUEFmMllhWlpmVU1XRDRFc3QxYXAzTzlDRHZZTjZ2SlZFRHlOVGs1em9Gc2traEFJUC1OZ9IBnAFBVV95cUxOa3lYWEhtVWtTTFhNQ3ZPMmpLdGZmOFlrNnZieWZyeS1JYkpyTHJvczZnWTdGQUNUVXJGbjFoemItMzFDZzFBaWxCSURqTEV6TmpldDR2WGp5bnpoV0FBZnVRam04dzFZQU44dkR0S3ZiamxHRU02bzlOakZjWEpEQm8zY19QdEY1Z2dJWi11QTl1ZGFsYnFiZ010Q3M?oc=5",
@@ -291,11 +255,35 @@
         "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
       },
       {
+        "title": "Trump, Çorum'a dünür oldu! Çorum FK Asbaşkanı, Donald Trump’ın eski danışmanıyla evlendi",
+        "summary": "Trump, Çorum'a dünür oldu! Çorum FK Asbaşkanı, Donald Trump’ın eski danışmanıyla evlendi Fanatik",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeWQ3c0djLTBnbHpkdjgxcTA3Z1NFUE0wc3piTHE5d1B4eDBLV2RQX05HeVctZWVBUTVhUXlDMDNtYzRLdk1QRjhNSkhWNWhqMHJRbWlQQWpIZUhxdkZKVkNSc3ZOUmJ0MjFFY3RvNVhsQ0xZQkxQcWRnNW95ZWdfeTViU3JlZXlRSGl2ajJ5aktlUkpCMkUzRHloQVYzSVI0OW9vb2poWGVkR0NKMThpWGMzdzBDMnQxLVJMdXN2SGlTRTNSZzkwYUhUUFRFRXc?oc=5",
+        "date": "Sun, 27 Sep 2026 07:00:00 GMT",
+        "source": "Fanatik",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
         "title": "Uğur Uçar'ın Çorum FK'dan ayrılığının perde arkasında yaşananlar ortaya çıktı",
         "summary": "Uğur Uçar'ın Çorum FK'dan ayrılığının perde arkasında yaşananlar ortaya çıktı NTVSpor",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaUluMFVndjhZYXRYbDU4UDZiQnhHQlAyaGhkMFdUT3NZWVNCZ1RSTzRiempFX3NzMkVNYTZPeC1DdU96bjd0bUs1Q3Juei1NZHd4WUJtTTFFMXRFVHZ6Y0dtWTd4TmVhRkVndjhrSnRtNEVNZUdCVy1rTjZDMUFkWEozTi13U081MHNGbnc1NUVyV05BdmQ4REd0NnVod2ptcUIzY2tQY1Rnal9FN3NIZzVqRXR0OTZNSzgxRNIBwgFBVV95cUxPNFVudmZERHhQTFpyNzVlRzRWMXY4UmJHRDg3d2pfLXNNX19oM09OWFhRZEZyVFhRQlhUVlVETHl3R1lYZWNmS2NfbW9ITWFlRG52ZENDQ1ZzTVNtT1A4R3pEd2NzcWNyTzdScExrN0FLUG9fNWx5X0RXV2djcGRGWkpDTG53WDRMdGVqV3FTaG1MYTdTRVhlVjlrcHJjaXJMaS1pOFdRYzhuRGJLS093eHVJQjNrMFZVdXhYX2JrcEViUQ?oc=5",
         "date": "Sat, 26 Sep 2026 07:00:00 GMT",
         "source": "NTVSpor",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "ÇORUM FK MAÇI HAZIRLIKLARI BAŞLADI",
+        "summary": "ÇORUM FK MAÇI HAZIRLIKLARI BAŞLADI gaziantepfk.org",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wdkJnVV92WmRzdzhKVWxRMDluYjhSWlJtdHl5dl9hZFZXQmw2bVB2NVJQWlVFajBiUWJhTVdOTXhvOXNjb204SS1FLWtqd0tkY1FncjlMV01MQnJLVWhZQlVMd2piX1JBbTFnQjBQWTU1UEl1RXJBZDdaOA?oc=5",
+        "date": "Fri, 25 Sep 2026 16:35:44 GMT",
+        "source": "gaziantepfk.org",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -356,6 +344,18 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYnhoRUQxTVdvWkt1S0Z5T2UtRGJqRDNDZlJHdTNaQ0dZM1FPYVdDeDNpNlNIdUs0d2FEcE5VaTNkQ1drV3JPdzh3elctSHBLWEhWdW9VTHRCMjBYUDdDSEtIYWhyMVZyQXlLTk42QmNoSlZMN2U3Y2JIXzA2VjQxT25DczlweXY4dFdBZWljd1VJbGFCZGN6UQ?oc=5",
         "date": "Thu, 24 Sep 2026 07:00:00 GMT",
         "source": "Anadolu Ajansı",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK’da beklenmedik teknik direktör ayrılığı - Uğur Uçar’ın yaklaşık 7 aylık görevi sona erdi",
+        "summary": "Çorum FK’da beklenmedik teknik direktör ayrılığı - Uğur Uçar’ın yaklaşık 7 aylık görevi sona erdi Transfermarkt",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbC1ZVnZxTjNNTEM3XzE2VlJEQkZQOGJscjMyempvUTBGVmVfWHZXOXA2LWJ6aEg2d0NVYnRLcWRXcHRmR1VFZGhxUnpFTkt0elA2a2c3b3RLYTlDSEwzc2txTjVXVTVwZVgzandMZ0hOQ1FOS0pkNlVZQzQycDBuMkR6Z2pWSDY5NjMtb01MSUpWLXU2REVMbEhYRE9iX2NuWk1zRm5ySW5qZjMxMzlIVnNzTDlqcWM0Q2xYOFZNZnJLYnZKQVpyTHk3dTJqVlZHZDFTZGcyeTFMOHc?oc=5",
+        "date": "Thu, 24 Sep 2026 07:00:00 GMT",
+        "source": "Transfermarkt",
         "flag": "🔴⚫",
         "lang": "tr",
         "category": "corumsporhaber",
@@ -523,19 +523,6 @@
         "image": "https://iaftm.tmgrup.com.tr/aee630/1200/675/0/77/2048/1229?u=https://iftm.tmgrup.com.tr/2026/10/09/galatasaray-son-nefeste-galip-1791572637362.jpg"
       },
       {
-        "title": "Son dakika: Galatasaray son dakikada kazandı! Kırmızı karta rağmen Kasımpaşa’ya takılmadı",
-        "summary": "Süper Lig’in 7. haftasında Galatasaray ile Kasımpaşa karşı karşıya geldi. Rams Park’ta oynanan maçı kazanan taraf 3-1’lik skorla Galatasaray oldu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/09/son-dakika-galatasaray-son-dakikada-kazandi-kirmizi-karta-ragmen-kasimpasaya-takilmadi",
-        "date": "Fri, 09 Oct 2026 18:01:17 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/ef1113/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/canli-super-ligde-galatasaray-kasimpasa-maci-kirmizi-kart-karari-bir-gol-daha-geldi-1791572116976.jpeg",
-        "category": "superlig",
-        "image": "https://iasbh.tmgrup.com.tr/ef1113/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/canli-super-ligde-galatasaray-kasimpasa-maci-kirmizi-kart-karari-bir-gol-daha-geldi-1791572116976.jpeg"
-      },
-      {
         "title": "Fenerbahçe'nin Rizespor maçı kamp kadrosu belli oldu! O isim kadroda",
         "summary": "Fenerbahçe, Trendyol Süper Lig'in 7. haftasında deplasmanda Çaykur Rizespor'a konuk olacak. Mücadele öncesi sarı lacivertlilerin kamp kadrosu açıklandı. İşte ayrıntılar...Devamı için tıklayınız",
         "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/09/fenerbahcenin-rizespor-maci-kamp-kadrosu-belli-oldu-o-isim-kadroda",
@@ -590,19 +577,6 @@
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac94b10ad0afbfd26bbbf5e.jpg"
       },
       {
-        "title": "Rui Pinto to remain under witness protection after U-turn by Portuguese authorities",
-        "summary": "CPES will now allow Pinto to challenge original decision Whistleblower to receive risk assessment reports Rui Pinto will remain under witness protection for the time being after Portuguese authorities suspended the decision to end it. The special security programmes commission (CPES) acknowledged he should have been given an opportunity to present his case before the decision was taken. The Manchester City whistleblower can now challenge the withdrawal of his protection, with the commission expected to reconsider the matter. In a statement signed by the Ministry of Justice, the CPES was said to have recognised that Pinto had not been adequately informed of the grounds for terminating the programme or given the opportunity to exercise his right to challenge the decision. Continue reading...",
-        "link": "https://www.theguardian.com/football/2026/oct/09/rui-pinto-remain-under-witness-protection-u-turn-portuguese-authorities-manchester-city-whistleblower",
-        "date": "Fri, 09 Oct 2026 14:32:39 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/84c6fccc1f668a7df763a0ddf21e4e7aec9528f5/325_0_6080_4866/master/6080.jpg?width=140&quality=85&auto=format&fit=max&s=76ede3ec35eb50d50554287bb9c90c85",
-        "category": "transfer",
-        "image": "https://i.guim.co.uk/img/media/84c6fccc1f668a7df763a0ddf21e4e7aec9528f5/325_0_6080_4866/master/6080.jpg?width=140&quality=85&auto=format&fit=max&s=76ede3ec35eb50d50554287bb9c90c85"
-      },
-      {
         "title": "Is £70m Baleba ready for his Man Utd exam?",
         "summary": "Manchester United's £70m summer signing Carlos Baleba is expected to make his debut against Tottenham Hotspur at Old Trafford",
         "link": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&at_campaign=rss",
@@ -616,17 +590,17 @@
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/440f/live/1d2280c0-c34b-11f1-9a39-31b474234113.jpg"
       },
       {
-        "title": "Everton owner The Friedkin Group exploring sale of club after two years",
-        "summary": "Owner looking at investment options including sale Transfer window raised questions over commitment Everton’s owner, The Friedkin Group, is looking to sell the club less than two years after taking over from Farhad Moshiri. The Houston-based company confirmed in a statement on Friday that it was seeking fresh investment in Everton but was also open to relinquishing control should a suitable buyer be found. No timescale has been placed on a sale but TFG is confident of attracting a buyer quickly and potentially concluding a deal this season. Continue reading...",
-        "link": "https://www.theguardian.com/football/2026/oct/09/everton-owner-friedkin-group-exploring-sale-club",
-        "date": "Fri, 09 Oct 2026 07:43:02 GMT",
-        "source": "The Guardian",
-        "flag": "🗞️",
+        "title": "Papers: Man Utd forced into transfer market in January?",
+        "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+        "link": "https://www.skysports.com/football/news/12040/13597035/man-utd-may-be-forced-into-transfer-market-in-january-paper-talk",
+        "date": "Fri, 09 Oct 2026 22:30:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "lang": "en",
         "cat": "en",
-        "feedImage": "https://i.guim.co.uk/img/media/0d99be231fb4a8694df159b4ddb32e8cdd6a2e46/12_146_5791_4633/master/5791.jpg?width=140&quality=85&auto=format&fit=max&s=cf164a233db5d59d230af6d1f3426854",
+        "feedImage": null,
         "category": "transfer",
-        "image": "https://i.guim.co.uk/img/media/0d99be231fb4a8694df159b4ddb32e8cdd6a2e46/12_146_5791_4633/master/5791.jpg?width=140&quality=85&auto=format&fit=max&s=cf164a233db5d59d230af6d1f3426854"
+        "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824"
       }
     ],
     "worldcup": [
@@ -646,6 +620,84 @@
     ],
     "magazine": [],
     "general": [
+      {
+        "title": "Man City whistleblower to remain in witness protection",
+        "summary": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester City will remain under witness protection after authorities in Portugal suspend the decision to end it.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 09 Oct 2026 22:59:32 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/14fa/live/90b2c580-c432-11f1-ba89-3b6b48238d10.jpg"
+      },
+      {
+        "title": "Scottie Wilbekin: Deplasmanda kazanmak kolay değil!",
+        "summary": "Beşiktaş forması giyen Scottie Wilbekin, Baskonia maçını yorumladı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/basketbol/2026/10/09/scottie-wilbekin-deplasmanda-kazanmak-kolay-degil",
+        "date": "Sat, 10 Oct 2026 01:13:09 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/177194/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/scottie-wilbekin-deplasmanda-kazanmak-kolay-degil-1791583982439.jpg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/177194/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/scottie-wilbekin-deplasmanda-kazanmak-kolay-degil-1791583982439.jpg"
+      },
+      {
+        "title": "Devon Dotson: Bugün herkes katkı verdi!",
+        "summary": "Beşiktaş forması giyen Devon Dotson, Baskonia maçından sonra konuştu.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/basketbol/2026/10/09/devon-dotson-bugun-herkes-katki-verdi",
+        "date": "Sat, 10 Oct 2026 01:09:35 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/7cb55d/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/devon-dotson-bugun-herkes-katki-verdi-1791583742640.jpg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/7cb55d/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/devon-dotson-bugun-herkes-katki-verdi-1791583742640.jpg"
+      },
+      {
+        "title": "Dusan Alimpijevic: Çocuklarla gerçekten çok gurur duyuyorum!",
+        "summary": "Beşiktaş Başantrenörü Dusan Alimpijevic, Baskonia maçından sonra konuştu.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/basketbol/2026/10/09/dusan-alimpijevic-cocuklarla-gercekten-cok-gurur-duyuyorum",
+        "date": "Sat, 10 Oct 2026 01:05:47 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/fca55b/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/dusan-alimpijevic-cocuklarla-gercekten-cok-gurur-duyuyorum-1791583539365.jpg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/fca55b/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/10/dusan-alimpijevic-cocuklarla-gercekten-cok-gurur-duyuyorum-1791583539365.jpg"
+      },
+      {
+        "title": "Arteta's conscience clear over Man City charges",
+        "summary": "Mikel Arteta says his conscience is clear over Manchester City's rule breaches during a period when he was assistant manager at the club.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c6d93ql8jvdko?at_medium=RSS&at_campaign=rss",
+        "date": "Fri, 09 Oct 2026 21:30:52 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9ba1/live/1f3fa640-c40d-11f1-838e-6d1d6d701264.jpg"
+      },
+      {
+        "title": "Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’",
+        "summary": "United manager Carrick rues missing out on ‘emotion in the moment’ while Iraola says he understands why Liverpool fans are angry Continue reading...",
+        "link": "https://www.theguardian.com/football/2026/oct/09/premier-league-managers-reaction-manchester-city-verdict",
+        "date": "Fri, 09 Oct 2026 21:30:05 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/6d42d64d1ee7d127ec5e18afd0f6a3577f0fd8ac/1714_0_5712_4572/master/5712.jpg?width=140&quality=85&auto=format&fit=max&s=7831b79a8df4bc94dd271546da1b9fc1",
+        "category": "general",
+        "image": "https://i.guim.co.uk/img/media/6d42d64d1ee7d127ec5e18afd0f6a3577f0fd8ac/1714_0_5712_4572/master/5712.jpg?width=140&quality=85&auto=format&fit=max&s=7831b79a8df4bc94dd271546da1b9fc1"
+      },
       {
         "title": "West Ham’s penalty pain costs them top spot in Championship after QPR draw",
         "summary": "The QPR goalkeeper Pierce Charles made a stunning double save from a Jarrod Bowen penalty in stoppage time to secure a 1-1 draw at West Ham. The 21-year-old, who kept four clean sheets and saved a penalty for Northern Ireland over the international break, pulled off more heroics to deny the Hammers top spot in the Championship. Bowen had already equalised for West Ham, cancelling out a hugely controversial first-half penalty from Nicolas Madsen. But the Hammers captain saw his spot-kick saved and Charles then somehow pushed the rebound from Arne Engels on to the crossbar. Continue reading...",
@@ -668,9 +720,9 @@
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iftm.tmgrup.com.tr/Defaults/Upload/ftm-default-1754911393144.png",
+        "feedImage": "https://iaftm.tmgrup.com.tr/f0cf27/1200/675/0/20/2048/1172?u=https://iftm.tmgrup.com.tr/2026/10/10/mustafa-culcu-yorumladi-torreiranin-kirmizisi-1791579739448.jpg",
         "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/942f49/1200/675/0/0/1920/1080?u=https://iftm.tmgrup.com.tr/2026/10/09/mustafa-culcu-yorumladi-torreiranin-kirmizisi-1791579345603.jpeg"
+        "image": "https://iaftm.tmgrup.com.tr/f0cf27/1200/675/0/20/2048/1172?u=https://iftm.tmgrup.com.tr/2026/10/10/mustafa-culcu-yorumladi-torreiranin-kirmizisi-1791579739448.jpg"
       },
       {
         "title": "Beşiktaş, Baskonia deplasmanında galip!",
@@ -751,19 +803,6 @@
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac94674ad0afbfd26bbbf46.jpg"
       },
       {
-        "title": "Ismail Jakobs’tan Barcelona maçı sözleri!",
-        "summary": "Galatasaraylı futbolcu Ismail Jakobs, Kasımpaşa maçından sonra konuştu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/09/ismail-jakobstan-barcelona-maci-sozleri",
-        "date": "Fri, 09 Oct 2026 22:38:39 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/74667d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/ismail-jakobstan-barcelona-maci-sozleri-1791574716975.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/74667d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/ismail-jakobstan-barcelona-maci-sozleri-1791574716975.jpeg"
-      },
-      {
         "title": "Yunus Akgün: Barcelona maçında zafer istiyoruz!",
         "summary": "Galatasaraylı futbolcu Yunus Akgün, Kasımpaşa maçındaki galibiyeti değerlendirdi.Devamı için tıklayınız",
         "link": "https://www.sabah.com.tr/spor/futbol/2026/10/09/yunus-akgun-barcelona-macinda-zafer-istiyoruz",
@@ -788,71 +827,6 @@
         "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac94105ad0afbfd26bbbf34.jpg",
         "category": "general",
         "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac94105ad0afbfd26bbbf34.jpg"
-      },
-      {
-        "title": "Barış Alper Yılmaz: Aile içinde ufak problemler olabiliyor!",
-        "summary": "Galatasaraylı futbolcu Barış Alper Yılmaz, Kasımpaşa maçından sonra konuştu.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/09/baris-alper-yilmaz-aile-icinde-ufak-problemler-olabiliyor",
-        "date": "Fri, 09 Oct 2026 22:26:55 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/4a668b/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/baris-alper-yilmaz-aile-icinde-ufak-problemler-olabiliyor-1791573990345.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/4a668b/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/09/baris-alper-yilmaz-aile-icinde-ufak-problemler-olabiliyor-1791573990345.jpeg"
-      },
-      {
-        "title": "Mario Lemina, Galatasaray'a golle döndü!",
-        "summary": "Galatasaray’ın Gabonlu futbolcusu Mario Lemina, sakatlığının ardından Kasımpaşa maçıyla 35 gün sonra görev aldı ve bu sezonki ilk golünü kaydetti.",
-        "link": "https://www.hurriyet.com.tr/sporarena/mario-lemina-galatasaraya-golle-dondu-43336028",
-        "date": "Fri, 09 Oct 2026 19:22:36 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac93ed0ad0afbfd26bbbf2c.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ac93ed0ad0afbfd26bbbf2c.jpg"
-      },
-      {
-        "title": "Galatasaray 10 kişi kaldı!",
-        "summary": "Galatasaray-Kasımpaşa maçının 65. dakikasında Lucas Torreira, VAR incelemesinin ardından direkt kırmızı kart gördü. İşte o pozisyon...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2026/10/09/galatasaray-10-kisi-kaldi",
-        "date": "Fri, 09 Oct 2026 21:29:11 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/a22b82/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/09/galatasaray-10-kisi-kaldi-1791571122736.png",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/a22b82/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/09/galatasaray-10-kisi-kaldi-1791571122736.png"
-      },
-      {
-        "title": "Galatasaray taraftarından Kerem Demirbay’a tepki!",
-        "summary": "Galatasaray-Kasımpaşa maçında sarı-kırmızılı taraftarlar, Kerem Demirbay'a ıslık ve yuhalamalar ile tepki gösterdi. İşte detaylar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2026/10/09/galatasaray-taraftarindan-kerem-demirbaya-tepki",
-        "date": "Fri, 09 Oct 2026 20:47:56 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/42d2fc/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/09/galatasaray-taraftarindan-kerem-demirbaya-tepki-1791568057054.png",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/42d2fc/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/09/galatasaray-taraftarindan-kerem-demirbaya-tepki-1791568057054.png"
-      },
-      {
-        "title": "İspanya'da galibiyet Beşiktaş'ın!",
-        "summary": "EuroLeague'in 4. haftasında Baskonia'ya konuk olan Beşiktaş, karşılaşmayı 92-84 kazandı. İşte mücadelenin detayları...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/euroleague/2026/10/09/ispanyada-galibiyet-besiktasin",
-        "date": "Fri, 09 Oct 2026 20:27:22 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/ee7f72/1200/675/0/385/1365/1150?u=https://iftm.tmgrup.com.tr/2026/10/09/baskonia-besiktas-canli-euroleague-1791578282013.jpg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/ee7f72/1200/675/0/385/1365/1150?u=https://iftm.tmgrup.com.tr/2026/10/09/baskonia-besiktas-canli-euroleague-1791578282013.jpg"
       }
     ]
   },
@@ -11229,6 +11203,1512 @@
             "W",
             "L",
             "L"
+          ]
+        }
+      },
+      {
+        "id": 560626,
+        "homeId": 61,
+        "awayId": 66,
+        "home": "Chelsea",
+        "away": "Man United",
+        "homeCrest": "https://crests.football-data.org/61.png",
+        "awayCrest": "https://crests.football-data.org/66.png",
+        "date": "2026-10-31T12:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "homeGoalAvg": "2.0",
+        "awayGoalAvg": "2.4",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 4,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 36,
+            "draw": 22,
+            "away": 42
+          },
+          "favorite": "away",
+          "text": "İki takım da benzer formda; bu maçta beraberlik ihtimali öne çıkıyor (%22). Chelsea hücumda etkili; maç başına 2.0 gol buluyor.",
+          "homeForm": [
+            "L",
+            "D",
+            "L",
+            "W",
+            "W"
+          ],
+          "awayForm": [
+            "D",
+            "L",
+            "W",
+            "D",
+            "W"
+          ]
+        }
+      },
+      {
+        "id": 564730,
+        "homeId": 88,
+        "awayId": 78,
+        "home": "Levante",
+        "away": "Atleti",
+        "homeCrest": "https://crests.football-data.org/88.png",
+        "awayCrest": "https://crests.football-data.org/78.png",
+        "date": "2026-10-31T13:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 11,
+        "league": "PD",
+        "leagueName": "La Liga",
+        "leagueFlag": "🇪🇸",
+        "homeForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "W",
+          "L",
+          "L"
+        ],
+        "homeGoalAvg": "1.6",
+        "awayGoalAvg": "2.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 4,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 33,
+            "draw": 20,
+            "away": 47
+          },
+          "favorite": "away",
+          "text": "Deplasmandaki Atleti, son 5 maçta 3 galibiyetle çıkışta; %47 ile favori.",
+          "homeForm": [
+            "L",
+            "L",
+            "D",
+            "W",
+            "D"
+          ],
+          "awayForm": [
+            "W",
+            "W",
+            "W",
+            "L",
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 558539,
+        "homeId": 103,
+        "awayId": 5911,
+        "home": "Bologna",
+        "away": "Monza",
+        "homeCrest": "https://crests.football-data.org/103.png",
+        "awayCrest": "https://crests.football-data.org/5911.png",
+        "date": "2026-10-31T14:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 10,
+        "league": "SA",
+        "leagueName": "Serie A",
+        "leagueFlag": "🇮🇹",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 565839,
+        "homeId": 18,
+        "awayId": 29,
+        "home": "M'gladbach",
+        "away": "SC Paderborn",
+        "homeCrest": "https://crests.football-data.org/18.png",
+        "awayCrest": "https://crests.football-data.org/29.png",
+        "date": "2026-10-31T14:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 8,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
+        "homeForm": [
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "D"
+        ],
+        "homeGoalAvg": "1.5",
+        "awayGoalAvg": "0.8",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 6
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 14,
+            "draw": 8,
+            "away": 78
+          },
+          "favorite": "away",
+          "text": "SC Paderborn, deplasmanda olmasına rağmen %78 ile bir adım önde. M'gladbach son haftalarda form kaybında, bu da işini zorlaştırıyor.",
+          "homeForm": [
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "awayForm": [
+            "W",
+            "L",
+            "L",
+            "D"
+          ]
+        }
+      },
+      {
+        "id": 565840,
+        "homeId": 6,
+        "awayId": 721,
+        "home": "Schalke",
+        "away": "RB Leipzig",
+        "homeCrest": "https://crests.football-data.org/6.png",
+        "awayCrest": "https://crests.football-data.org/721.png",
+        "date": "2026-10-31T14:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 8,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "homeGoalAvg": "0.8",
+        "awayGoalAvg": "2.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 38,
+            "draw": 23,
+            "away": 39
+          },
+          "favorite": "away",
+          "text": "İki takım da benzer formda; bu maçta beraberlik ihtimali öne çıkıyor (%23). RB Leipzig gol ortalaması yüksek (2.0) ancak savunmada zorlanıyor.",
+          "homeForm": [
+            "D",
+            "W",
+            "D",
+            "L"
+          ],
+          "awayForm": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        }
+      },
+      {
+        "id": 565842,
+        "homeId": 16,
+        "awayId": 17,
+        "home": "Augsburg",
+        "away": "Freiburg",
+        "homeCrest": "https://crests.football-data.org/16.png",
+        "awayCrest": "https://crests.football-data.org/17.png",
+        "date": "2026-10-31T14:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 8,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "W"
+        ],
+        "homeGoalAvg": "2.8",
+        "awayGoalAvg": "3.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 36,
+            "draw": 21,
+            "away": 43
+          },
+          "favorite": "away",
+          "text": "Deplasmandaki Freiburg, son 4 maçta 3 galibiyetle çıkışta; %43 ile favori. Augsburg hücumda etkili; maç başına 2.8 gol buluyor.",
+          "homeForm": [
+            "L",
+            "D",
+            "W",
+            "W"
+          ],
+          "awayForm": [
+            "D",
+            "W",
+            "W",
+            "W"
+          ]
+        }
+      },
+      {
+        "id": 565843,
+        "homeId": 12,
+        "awayId": 2,
+        "home": "Bremen",
+        "away": "Hoffenheim",
+        "homeCrest": "https://crests.football-data.org/12.png",
+        "awayCrest": "https://crests.football-data.org/2.png",
+        "date": "2026-10-31T14:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 8,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
+        "homeForm": [
+          "D",
+          "W",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "homeGoalAvg": "2.0",
+        "awayGoalAvg": "1.8",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 67,
+            "draw": 12,
+            "away": 21
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Bremen, %67 ihtimalle bu maçın favorisi. Hoffenheim gol ortalaması yüksek (1.8) ancak savunmada zorlanıyor.",
+          "homeForm": [
+            "D",
+            "W",
+            "D",
+            "W",
+            "L"
+          ],
+          "awayForm": [
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 565847,
+        "homeId": 3,
+        "awayId": 10,
+        "home": "Leverkusen",
+        "away": "Stuttgart",
+        "homeCrest": "https://crests.football-data.org/3.png",
+        "awayCrest": "https://crests.football-data.org/10.png",
+        "date": "2026-10-31T14:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 8,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
+        "homeForm": [
+          "W",
+          "D",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "L"
+        ],
+        "homeGoalAvg": "2.5",
+        "awayGoalAvg": "1.8",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 4,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 52,
+            "draw": 18,
+            "away": 30
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Leverkusen, %52 ihtimalle bu maçın favorisi. Stuttgart gol ortalaması yüksek (1.8) ancak savunmada zorlanıyor.",
+          "homeForm": [
+            "W",
+            "D",
+            "W",
+            "L"
+          ],
+          "awayForm": [
+            "L",
+            "L",
+            "W",
+            "W",
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 560623,
+        "homeId": 65,
+        "awayId": 397,
+        "home": "Man City",
+        "away": "Brighton Hove",
+        "homeCrest": "https://crests.football-data.org/65.png",
+        "awayCrest": "https://crests.football-data.org/397.png",
+        "date": "2026-10-31T15:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "W"
+        ],
+        "homeGoalAvg": "2.6",
+        "awayGoalAvg": "3.2",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 3,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 46,
+            "draw": 20,
+            "away": 34
+          },
+          "favorite": "home",
+          "text": "Ev sahibi Man City, son 5 maçta 5 galibiyetle formda ve %46 ile favori görünüyor. Man City hücumda etkili; maç başına 2.6 gol buluyor.",
+          "homeForm": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "awayForm": [
+            "W",
+            "W",
+            "D",
+            "L",
+            "W"
+          ]
+        }
+      },
+      {
+        "id": 560624,
+        "homeId": 1044,
+        "awayId": 341,
+        "home": "Bournemouth",
+        "away": "Leeds United",
+        "homeCrest": "https://crests.football-data.org/bournemouth.png",
+        "awayCrest": "https://crests.football-data.org/341.png",
+        "date": "2026-10-31T15:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "L",
+          "D",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "D",
+          "W"
+        ],
+        "homeGoalAvg": "1.2",
+        "awayGoalAvg": "1.4",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 7
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 28,
+            "draw": 17,
+            "away": 55
+          },
+          "favorite": "away",
+          "text": "Leeds United, deplasmanda olmasına rağmen %55 ile bir adım önde. Bournemouth son haftalarda form kaybında, bu da işini zorlaştırıyor.",
+          "homeForm": [
+            "L",
+            "D",
+            "D",
+            "D",
+            "L"
+          ],
+          "awayForm": [
+            "D",
+            "W",
+            "D",
+            "D",
+            "W"
+          ]
+        }
+      },
+      {
+        "id": 560625,
+        "homeId": 1076,
+        "awayId": 71,
+        "home": "Coventry City",
+        "away": "Sunderland",
+        "homeCrest": "https://crests.football-data.org/1076.png",
+        "awayCrest": "https://crests.football-data.org/71.png",
+        "date": "2026-10-31T15:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "L"
+        ],
+        "homeGoalAvg": "0.2",
+        "awayGoalAvg": "1.2",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 5,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 35,
+            "draw": 21,
+            "away": 44
+          },
+          "favorite": "away",
+          "text": "Sunderland, deplasmanda olmasına rağmen %44 ile bir adım önde. Coventry City son haftalarda form kaybında, bu da işini zorlaştırıyor.",
+          "homeForm": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "L"
+          ],
+          "awayForm": [
+            "L",
+            "L",
+            "D",
+            "W",
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 560629,
+        "homeId": 322,
+        "awayId": 349,
+        "home": "Hull City",
+        "away": "Ipswich Town",
+        "homeCrest": "https://crests.football-data.org/322.png",
+        "awayCrest": "https://crests.football-data.org/349.png",
+        "date": "2026-10-31T15:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "L",
+          "D",
+          "D",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "homeGoalAvg": "1.2",
+        "awayGoalAvg": "1.4",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 54,
+            "draw": 17,
+            "away": 29
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Hull City, %54 ihtimalle bu maçın favorisi.",
+          "homeForm": [
+            "L",
+            "D",
+            "D",
+            "W",
+            "W"
+          ],
+          "awayForm": [
+            "L",
+            "W",
+            "L",
+            "L",
+            "W"
+          ]
+        }
+      },
+      {
+        "id": 560630,
+        "homeId": 402,
+        "awayId": 351,
+        "home": "Brentford",
+        "away": "Nottingham",
+        "homeCrest": "https://crests.football-data.org/402.png",
+        "awayCrest": "https://crests.football-data.org/351.png",
+        "date": "2026-10-31T15:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "W",
+          "D",
+          "D",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "D",
+          "L"
+        ],
+        "homeGoalAvg": "2.0",
+        "awayGoalAvg": "0.8",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 3,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 60,
+            "draw": 15,
+            "away": 25
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Brentford, %60 ihtimalle bu maçın favorisi. Brentford hücumda etkili; maç başına 2.0 gol buluyor.",
+          "homeForm": [
+            "W",
+            "D",
+            "D",
+            "D",
+            "W"
+          ],
+          "awayForm": [
+            "L",
+            "W",
+            "D",
+            "D",
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 564735,
+        "homeId": 87,
+        "awayId": 558,
+        "home": "Rayo Vallecano",
+        "away": "Celta",
+        "homeCrest": "https://crests.football-data.org/87.png",
+        "awayCrest": "https://crests.football-data.org/558.png",
+        "date": "2026-10-31T15:15:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 11,
+        "league": "PD",
+        "leagueName": "La Liga",
+        "leagueFlag": "🇪🇸",
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "D",
+          "D",
+          "D",
+          "L"
+        ],
+        "homeGoalAvg": "1.8",
+        "awayGoalAvg": "1.4",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 5,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 41,
+            "draw": 22,
+            "away": 37
+          },
+          "favorite": "home",
+          "text": "İki takım da benzer formda; bu maçta beraberlik ihtimali öne çıkıyor (%22). Rayo Vallecano hücumda etkili; maç başına 1.8 gol buluyor.",
+          "homeForm": [
+            "D",
+            "W",
+            "L",
+            "W",
+            "L"
+          ],
+          "awayForm": [
+            "W",
+            "D",
+            "D",
+            "D",
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 559646,
+        "homeId": 522,
+        "awayId": 529,
+        "home": "Nice",
+        "away": "Stade Rennais",
+        "homeCrest": "https://crests.football-data.org/522.png",
+        "awayCrest": "https://crests.football-data.org/529.png",
+        "date": "2026-10-31T16:15:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "FL1",
+        "leagueName": "Ligue 1",
+        "leagueFlag": "🇫🇷",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 558542,
+        "homeId": 115,
+        "awayId": 100,
+        "home": "Udinese",
+        "away": "Roma",
+        "homeCrest": "https://crests.football-data.org/115.png",
+        "awayCrest": "https://crests.football-data.org/100.png",
+        "date": "2026-10-31T17:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 10,
+        "league": "SA",
+        "leagueName": "Serie A",
+        "leagueFlag": "🇮🇹",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 560627,
+        "homeId": 73,
+        "awayId": 354,
+        "home": "Tottenham",
+        "away": "Crystal Palace",
+        "homeCrest": "https://crests.football-data.org/73.png",
+        "awayCrest": "https://crests.football-data.org/354.png",
+        "date": "2026-10-31T17:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "L",
+          "D",
+          "D",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "homeGoalAvg": "0.4",
+        "awayGoalAvg": "1.2",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 0,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 36,
+            "draw": 21,
+            "away": 43
+          },
+          "favorite": "away",
+          "text": "Crystal Palace, deplasmanda olmasına rağmen %43 ile bir adım önde. Tottenham son haftalarda form kaybında, bu da işini zorlaştırıyor.",
+          "homeForm": [
+            "L",
+            "D",
+            "D",
+            "L",
+            "L"
+          ],
+          "awayForm": [
+            "D",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 564736,
+        "homeId": 90,
+        "awayId": 84,
+        "home": "Real Betis",
+        "away": "Málaga",
+        "homeCrest": "https://crests.football-data.org/90.png",
+        "awayCrest": "https://crests.football-data.org/84.png",
+        "date": "2026-10-31T17:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 11,
+        "league": "PD",
+        "leagueName": "La Liga",
+        "leagueFlag": "🇪🇸",
+        "homeForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "D",
+          "D"
+        ],
+        "homeGoalAvg": "1.6",
+        "awayGoalAvg": "0.6",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 0,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 77,
+            "draw": 9,
+            "away": 14
+          },
+          "favorite": "home",
+          "text": "Ev sahibi Real Betis, son 5 maçta 4 galibiyetle formda ve %77 ile favori görünüyor. Málaga deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [
+            "D",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "awayForm": [
+            "D",
+            "L",
+            "L",
+            "D",
+            "D"
+          ]
+        }
+      },
+      {
+        "id": 565845,
+        "homeId": 5,
+        "awayId": 4,
+        "home": "Bayern",
+        "away": "Dortmund",
+        "homeCrest": "https://crests.football-data.org/5.png",
+        "awayCrest": "https://crests.football-data.org/4.png",
+        "date": "2026-10-31T17:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 8,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "homeGoalAvg": "3.8",
+        "awayGoalAvg": "2.4",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 3,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 46,
+            "draw": 20,
+            "away": 34
+          },
+          "favorite": "home",
+          "text": "Ev sahibi Bayern, son 5 maçta 4 galibiyetle formda ve %46 ile favori görünüyor. Bayern hücumda etkili; maç başına 3.8 gol buluyor.",
+          "homeForm": [
+            "W",
+            "W",
+            "W",
+            "D",
+            "W"
+          ],
+          "awayForm": [
+            "D",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        }
+      },
+      {
+        "id": 558548,
+        "homeId": 98,
+        "awayId": 108,
+        "home": "Milan",
+        "away": "Inter",
+        "homeCrest": "https://crests.football-data.org/98.png",
+        "awayCrest": "https://crests.football-data.org/108.png",
+        "date": "2026-10-31T19:45:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 10,
+        "league": "SA",
+        "leagueName": "Serie A",
+        "leagueFlag": "🇮🇹",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 559640,
+        "homeId": 523,
+        "awayId": 532,
+        "home": "Olympique Lyon",
+        "away": "Angers SCO",
+        "homeCrest": "https://crests.football-data.org/523.png",
+        "awayCrest": "https://crests.football-data.org/532.png",
+        "date": "2026-10-31T19:45:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "FL1",
+        "leagueName": "Ligue 1",
+        "leagueFlag": "🇫🇷",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 559641,
+        "homeId": 525,
+        "awayId": 512,
+        "home": "Lorient",
+        "away": "Brest",
+        "homeCrest": "https://crests.football-data.org/525.png",
+        "awayCrest": "https://crests.football-data.org/512.png",
+        "date": "2026-10-31T19:45:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "FL1",
+        "leagueName": "Ligue 1",
+        "leagueFlag": "🇫🇷",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 559643,
+        "homeId": 531,
+        "awayId": 535,
+        "home": "Troyes",
+        "away": "Le Mans",
+        "homeCrest": "https://crests.football-data.org/531.png",
+        "awayCrest": "https://crests.football-data.org/535.png",
+        "date": "2026-10-31T19:45:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "FL1",
+        "leagueName": "Ligue 1",
+        "leagueFlag": "🇫🇷",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 560628,
+        "homeId": 58,
+        "awayId": 63,
+        "home": "Aston Villa",
+        "away": "Fulham",
+        "homeCrest": "https://crests.football-data.org/58.png",
+        "awayCrest": "https://crests.football-data.org/63.png",
+        "date": "2026-10-31T20:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 9,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "D",
+          "L",
+          "L",
+          "L"
+        ],
+        "homeGoalAvg": "1.4",
+        "awayGoalAvg": "1.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 0,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 72,
+            "draw": 10,
+            "away": 18
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Aston Villa, %72 ihtimalle bu maçın favorisi. Fulham deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [
+            "W",
+            "L",
+            "W",
+            "D",
+            "L"
+          ],
+          "awayForm": [
+            "D",
+            "D",
+            "L",
+            "L",
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 564732,
+        "homeId": 81,
+        "awayId": 263,
+        "home": "Barça",
+        "away": "Alavés",
+        "homeCrest": "https://crests.football-data.org/81.png",
+        "awayCrest": "https://crests.football-data.org/263.png",
+        "date": "2026-10-31T20:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": null,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 11,
+        "league": "PD",
+        "leagueName": "La Liga",
+        "leagueFlag": "🇪🇸",
+        "homeForm": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "L",
+          "W",
+          "W"
+        ],
+        "homeGoalAvg": "4.8",
+        "awayGoalAvg": "1.4",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 63,
+            "draw": 14,
+            "away": 23
+          },
+          "favorite": "home",
+          "text": "Ev sahibi Barça, son 5 maçta 5 galibiyetle formda ve %63 ile favori görünüyor. Barça hücumda etkili; maç başına 4.8 gol buluyor.",
+          "homeForm": [
+            "W",
+            "W",
+            "W",
+            "W",
+            "W"
+          ],
+          "awayForm": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "W"
           ]
         }
       }
