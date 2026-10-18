@@ -1,9 +1,448 @@
 {
-  "updatedAt": "2026-10-18T00:50:46.654Z",
+  "updatedAt": "2026-10-18T09:30:13.403Z",
   "news": {
-    "corumsporhaber": [],
+    "corumsporhaber": [
+      {
+        "title": "ARCA ÇORUM FK ERYAMAN SPOR",
+        "summary": "ARCA ÇORUM FK ERYAMAN SPOR TFF",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Bclc0U0pSRk1EdWc4d1UyWURwQ1YyQXpXdWM3WFBQdFZIYV9lZzJ4VW1FZVlYRTRQNU96czFFM3BmLTEzS0FOWmFuRDY5SU5JU2ZVNzVUVE90cU45VG1uM2NwSzctdw?oc=5",
+        "date": "Sun, 18 Oct 2026 06:37:35 GMT",
+        "source": "TFF",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "A. Çorum FK - Ç. Rizespor 18 Ekim 2026 - Saat Kaçta Başlıyor? - TV Rehberi",
+        "summary": "A. Çorum FK - Ç. Rizespor 18 Ekim 2026 - Saat Kaçta Başlıyor? - TV Rehberi Hürriyet",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXpBZ242ZEhVUzh3VkVmd2VzQ0I0RXF3SlRPdFUyUVpFZkc5RmpKdTBaVGYxeWJ1bk9sNnBHR3dlV1dwaUVZSTZqcEFHck95dGZ3OGcyTDdiMHJvaEtyMGZYZmxyajlwNGFIU2twN2FlTTRFRm9kaGxCckJHV2JlRXpaRE90WkhZc2hWUw?oc=5",
+        "date": "Sun, 18 Oct 2026 02:33:18 GMT",
+        "source": "Hürriyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "ÖZET | Arca Çorum FK 2-1 Çaykur Rizespor",
+        "summary": "ÖZET | Arca Çorum FK 2-1 Çaykur Rizespor beinsports.com.tr",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wLTdMQW80ZHkxQWZ3dFdpLW04a1Rrb1l1Nk9jVTdUZHhlQU5nR0R2NHZkV2dQOS10Qkg2bTdBaVZyZElkYnhkU054ZmVSV05FNzlNcm04cE53RllkRXk3WU5jM19LVUJxQ2NMVEV3?oc=5",
+        "date": "Fri, 16 Oct 2026 20:26:53 GMT",
+        "source": "beinsports.com.tr",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK cephesinde galibiyet sevinci",
+        "summary": "Çorum FK cephesinde galibiyet sevinci NTVSpor",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSnBXLTIxdGl0ZDNwekhXa1NFUDBfVkRvTENvVHlycnlWWENVbFFnNWN2cXhoQUdPZ2N3WFYyZEFVZi1LalZ5cHBLVFFkdDg3N1IxV1RXeno4TnBVVkNyTE1rYmtzaW5ndHl4OTl1RllxVVJqUUlKUTdFTW9lN1BWV9IBhgFBVV95cUxPQmY4TkZkclpLRDFrVFhWOHJxWUplbENNVm0xWVdWNlhrVmFCOHdsTWNXQjkxQUIzbklEV1BEeHNXU0lqS2ROOFBydURVTVF5NGs2NGN2eTJlNUlESUsxZndVSThwY2dLbTNXbWRucTRoaks0Z2NiT0tQY3NUTnJWWWtKZlZmUQ?oc=5",
+        "date": "Fri, 16 Oct 2026 20:06:24 GMT",
+        "source": "NTVSpor",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Arca Çorum FK cephesinden galibiyet açıklaması",
+        "summary": "Arca Çorum FK cephesinden galibiyet açıklaması beinsports.com.tr",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb3ZZckQ2aGlnbGRYM0I2a3JNSzU5Vl9ZZGhweDBhOTV3cjhnSWR3UXAyVU4tMmZhMXMyTlAzZGhreDdrZUF5YjV4a1JlcWtzTW9wakxzM0lxbV9UYUZLWVhUVHk4b0dJUjgzcTdBVjBNSDBZSEIzOF9vY25CQloyR3l2Y1c?oc=5",
+        "date": "Fri, 16 Oct 2026 20:02:12 GMT",
+        "source": "beinsports.com.tr",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Burak Yılmaz'ın Çorum'u geriden gelerek kazandı! Çorum FK - Çaykur Rizespor maç sonucu: 2-1",
+        "summary": "Burak Yılmaz'ın Çorum'u geriden gelerek kazandı! Çorum FK - Çaykur Rizespor maç sonucu: 2-1 Fanatik",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcE1kd0l0SEVpcGtEV0FJWUxzeGVTOEFBQUNKWnFtU3FhZkxucWNobUROc1dMaVcwTlltR281RGRUWUVqZ1NMT3lYQ3FQVVItYkRNTy1yTEgzS0ttNl9WTGdicjB2VGN6WlFJd3hVMUlhNlI4bFBUaW14dm9qT29FbXVUaUU2cXZvVXZCVm9jQXJQZGFtLXFLTWdHbzRkQWhHbW9FZEhXbk5hNEM3NVNiTm5MZ00tUlpjaHJOZzUyc0U0Nmp5NzlVMmJySGJ0YS0tQ0E?oc=5",
+        "date": "Fri, 16 Oct 2026 19:35:00 GMT",
+        "source": "Fanatik",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK 2-1 Çaykur Rizespor (Süper Lig)",
+        "summary": "Çorum FK 2-1 Çaykur Rizespor (Süper Lig) Hürriyet",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeUc0R2o2R3BuZjJsOUZhUGpXRVFYVDZ4WGpIeHpLRl9KTG1SbEJkUmNwQWlnakQ1LUJMTml4czJKSEs5NUlIdnR0MDNlS3AzWk1yTjd0eG5BSklibkU2Mm5LR1cyc2Q2R2JCTWtEMVVScC1PZ2x0VTRMckRCSHc1T1hYX1NRYzlBRk1neG9R?oc=5",
+        "date": "Fri, 16 Oct 2026 19:30:25 GMT",
+        "source": "Hürriyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Süper Lig'de 8. haftanın açılış maçında Çorum FK, konuk ettiği Çaykur Rizespor'u 2-1 yendi",
+        "summary": "Süper Lig'de 8. haftanın açılış maçında Çorum FK, konuk ettiği Çaykur Rizespor'u 2-1 yendi Anadolu Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGlfZnlyd2x2cmdkZ0xoWDNsajNWd3ZNaUJMSGxOS3VtUVo2NmdtampScTNBNmdCSFZiU2tuNjZMb2tPRmpZV3dGVHF2blRGaWlXM2dnTHBHSG1jMjRSQURqQnF5c0IyY0dYcE1vdTZoZ3BLU0dvbUdfbU5IeFEzRWpTN2VCN2Yxb1h2eVduWDZCZHI1WUhrRlNWZ0xmRkVqdFlfU0w2TDlfNEJKYXh3Z3dvUFJnUUVSZWMtZXFfSWR3QQ?oc=5",
+        "date": "Fri, 16 Oct 2026 19:14:44 GMT",
+        "source": "Anadolu Ajansı",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK, Rizespor'u 2 golle geçti! Süper Lig'de seriye bağladı - Adana Demirspor - Spor Haberleri",
+        "summary": "Çorum FK, Rizespor'u 2 golle geçti! Süper Lig'de seriye bağladı - Adana Demirspor - Spor Haberleri Milliyet",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb1Uzb25kVkRmWk5kcmFLbDFLZ2NzS2ZMTnFvQTNSTmlsOWJmZWNBaW1lcFJsc2h3REs0OVBZX01nY3FDZm0yZDgyMHNoZkNRNU9IUTdIX1hhZC1XQVFMWTFYMkM5R0ZUclowc0E1SGZPa0NFclowTi1QbkFEV3M3OTIxS0VDVVFFdzV2UWxMRG5Hdy1mM2MwaXAxR2t2dFU1MEpYdQ?oc=5",
+        "date": "Fri, 16 Oct 2026 19:09:00 GMT",
+        "source": "Milliyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK: 2 - Çaykur Rizespor: 1 | MAÇ SONUCU",
+        "summary": "Çorum FK: 2 - Çaykur Rizespor: 1 | MAÇ SONUCU Habertürk",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNi1vaTE1SmlkZmpUeE9PbkFrQzBnQzc4S2xZdmxER2EtbWZRajBKUnB3WjVObjRNclpsNU13cXZUamVzUm5BVUhDeW9abDM4azQ4dk9PUjdjSjhoWmZwQkQxQ1hLZjJrVVhQcF9JSUF0WDRIa01qR0tPZ0FjNkQwNmhQcGg?oc=5",
+        "date": "Fri, 16 Oct 2026 18:59:44 GMT",
+        "source": "Habertürk",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Arca Çorum FK - Çaykur Rizespor Maç Özeti (Video)",
+        "summary": "Arca Çorum FK - Çaykur Rizespor Maç Özeti (Video) beinsports.com.tr",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMUVDMkdrUGxhRGFETl9XbjBSUmpjYU1DZTY0REVvUHBSV0owdXJjODJieXJDMzhkcnJGQ2doZ0VOdVBSNVBpWkNkQ01nN2gyc05FdEJhTjZpZ0dKQmRzNFBzZWVBME1HU0hsT3ZPLVZtd2NnTDV6eHNpakFvS1hCb01XUFVwelVkVVpPTGY4OEp4WWpURmpCbEZpbVg0UHVCRFFRYjA2RDdnVjA?oc=5",
+        "date": "Fri, 16 Oct 2026 18:57:11 GMT",
+        "source": "beinsports.com.tr",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK, Çaykur Rizespor karşısında 2 golle güldü",
+        "summary": "Çorum FK, Çaykur Rizespor karşısında 2 golle güldü Cumhuriyet",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGtFeElCbzloV1BDNF9IaXBBWWVoNEJDdVNSaGlrOVFqUl80bWhvaW1tRENfR25BejhIdkRMNWJtMGhXQmg3M2JPa3o3Zm4zSWM3V2pJSkgweGFEOXR0MHc3YkxWa20tWk9iaTJ2aDJjVEhCMDFveVl2bG1lOFZKZ0VvT1hlRl82SXB6cWVLNGsyd19VWWNR?oc=5",
+        "date": "Fri, 16 Oct 2026 18:57:00 GMT",
+        "source": "Cumhuriyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK, Rizespor'u geriden gelerek mağlup etti!",
+        "summary": "Çorum FK, Rizespor'u geriden gelerek mağlup etti! Sabah",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdmxoT2dSMUhSWjlIcTVaMzZCYzZzajgyZ3VLa1VnSE1FYXR4dVE4NDdMYWdneTlGTEoxeHhGMV9MWFJ2VnJXbll5UDgzdm1OdjZITFA2N3ZaeHFCUWk1Z2ZsOG1RZGJodXptQ09TaXUwVlkydHd1bURwQTU4NVV3RXc0QzAtcTFRNmdFRUV2WExVRlRyN3lLQ1dB0gGcAUFVX3lxTE9sZnNyMVpzcDdCR3RXVGRZSldENUU1WlhuVlU2TjlibHVyYnVXMzkxNHNVUTFvYmpMNkJraEtrdG94RGRmOUUyYTZ1Z2FRaDVUY2dIVzI3V0pBT0VkQmc0LV91eHdQY3VJb3hxT0lqSWRCWk9DTkpYUGt1eVlPQzlJeFFIZklXWkg5RGpZb0dwWGdVYmxLaHlYcFY1bg?oc=5",
+        "date": "Fri, 16 Oct 2026 18:53:42 GMT",
+        "source": "Sabah",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK, Rizespor'u son düzlükte yıktı!",
+        "summary": "Çorum FK, Rizespor'u son düzlükte yıktı! Sporx.com Çorum FK'da Cengiz Ünder yine sahnede: 2 gollü galibiyet NTVSpor Çorum FK yardımcı hocasından Burak Yılmaz sözleri Haber 7 Canlı anlatım: Çorum FK - Çaykur Rizespor (Süper Lig) Hürriyet Çorum FK'da Cengiz Ünder olay oldu: Burak Yılmaz'ın acısını talimatla alıyorlar Gazete Vatan Arca Çorum FK - Çaykur Rizespor maçının ardından Habertürk Çorum FK-Rizespor | CANLI Fotomaç Çorum FK galibiyete ikinci yarı ulaştı! Burak Yılmaz yönetiminde 2’de 2 Sözcü",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU2o1bzk4ZzJoSFFyOExFYVRnaElLUFhwdm5Idlc0SDFKaFVUMWRwaWk0OHJUc2NJRHdwMnJVMjF4d1N0OUJzSDBDSzJyalNCbVB4WTBYSE5vUkRvRHZfb1hwWkVJb0luWEJzTEMzT3RnU1RvOXpwQ1pwRlNxREtxWnR30gGEAUFVX3lxTE1sMkxIUmJzenNqU25zN0wyNGU0cjY2WWVFQVhXTllDYnhtTmRqNkN0VTQ0LURlVjVYMVVGbWhoQTZVTFd4aU56WV8xWEdNZ25kY1dMdTQ1LWxDZGJkaVk3WmVwVWZYdG4tci04QkowRVBtSEVYSGlRQ2hfd1VBOWdxS1hMdw?oc=5",
+        "date": "Fri, 16 Oct 2026 18:52:00 GMT",
+        "source": "Sporx.com",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK, Çaykur Rizespor karşısında hata yapmadı; Burak Yılmaz'la 2'de 2 yaptı!",
+        "summary": "Çorum FK, Çaykur Rizespor karşısında hata yapmadı; Burak Yılmaz'la 2'de 2 yaptı! T24",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWkJTOFdHTDA4Z2N5NWF2MlNzbUJqVXdUcF9tZnl0VmF3WHdXdW5vUjAxdm52T0x4YnVpdV9xQzdWS0VpNFpzb1FEN0E5NlpIc3RNT2pGM2lCcFVaSFZ1TjZGcWtHVE1Bejc1dVM2RmxDem11RVpiRFh2aGVRMVNrZVl5UVp3X29OZW9VQkJpLXJ0ZDhETFloUlF0M0RFaU5kMF85NndZUnVNd0E?oc=5",
+        "date": "Fri, 16 Oct 2026 18:52:00 GMT",
+        "source": "T24",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK - Çaykur Rizespor: 2-1 Maç sonucu, maç özeti (Yazılı)",
+        "summary": "Çorum FK - Çaykur Rizespor: 2-1 Maç sonucu, maç özeti (Yazılı) Ajansspor",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPekNGYzVRdXVyRzNVUTkxcktsSEMzMkFWd2diNVJXNlY0amFlOVVYWm03SER1bE9DQlFpVTJYZG1jaDRVV2hvRjBfV2pHeXM4a29OSUJyNzFhRVVDOVk0SEszcXBRblRDZE44LV81T2x5UG9Kc3pJVXM2SG5zaGFvYl9oT1pQZERDQ3JYc2w5Zjd3VC1Denc?oc=5",
+        "date": "Fri, 16 Oct 2026 18:51:52 GMT",
+        "source": "Ajansspor",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK evinde Çaykur Rizespor'u mağlup etti",
+        "summary": "Çorum FK evinde Çaykur Rizespor'u mağlup etti Mackolik.com",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUTkxRFJsMkczTVJfdlhMamh4ajBjWVZ1eUM3Ql9BMDNUNF9BbldhTWpxRzBDVFJGOGlIMGlyXzJleVVXUGk5SE1TeTlVTWZ3SVZoSVR4aDBjTjRHZThPSlh0SmViRmdCUkJzZkx3WWJrWHN4WHg1Q1FKYS1tU3hLdzRqcG9oODVGbnpNVlVMdk5JTDJEMldydG9vSDNPb3VfYktUcEN1MTNaN05ZNklObXBQT2ExdFJCeTM2dUdHT3pvTVFrenZ5OWlvVGgzaVByNUxvS0FzNkl6VGRtUlM5ek0zaw?oc=5",
+        "date": "Fri, 16 Oct 2026 18:51:18 GMT",
+        "source": "Mackolik.com",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "🚨CANLI | Çorum FK - Çaykur Rizespor maçı (Süper Lig 8. hafta)",
+        "summary": "🚨CANLI | Çorum FK - Çaykur Rizespor maçı (Süper Lig 8. hafta) Fanatik",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUt0d0VVVzU2bW4wTzU2MFpHTmJMOEp5cHdSRktRRjhaX3dfR1FSY1prYk9xZ2JaWmpSeHk4S2lpd1BDLTJBcTBva0hzRHNjeC1STkRnbVdJZXY0T0RweEt3MFFfTXdKNTZmcng4VkxQbzVWRUdheUFWVFNfSzJFd2RPYXdQVW9jaEdhYkxqUTMtcml6bGNIZTAxamcxZ3hRSVlYZ2txOA?oc=5",
+        "date": "Fri, 16 Oct 2026 18:26:34 GMT",
+        "source": "Fanatik",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK - Çaykur Rizespor maçı canlı izle: Çorum FK - Çaykur Rizespor maçı canlı hangi kanalda, nereden izlenir? Çorum FK - Çaykur Rizespor maç kadrosu, ilk 11 | Futbol Haberleri",
+        "summary": "Çorum FK - Çaykur Rizespor maçı canlı izle: Çorum FK - Çaykur Rizespor maçı canlı hangi kanalda, nereden izlenir? Çorum FK - Çaykur Rizespor maç kadrosu, ilk 11 | Futbol Haberleri GZT",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeWZkYjNmRFZHUDdsd0ZScm84RTROT05oakFDSlU0ZFVDZm1XWFA4XzYwUTdvZGp0VFhadU04Y0dmRHYwTlIwckFZVUdqSzRGTUh2ZTgyZlYwRk82Nl9PYjJtWFpIb3lZUGdxTjE3LTdNYUpGTWIxUmRRcGpPSHNBNmtxRklYd1F4VDFQQjNySG1PdldSUldRQ21ROU8taEZhUTNQNmFLVnpqV0kzamFlV0R2bVpCQk1zWEFBNFhKTk5jLUVSR2kxaF8tYXkxVDFuSHZEQzBrVUhFOEN4UGRnMkhXd0ZBQTRBYUlWRTM0WlBEU3E2WVBCOU5ZZG1hYjBfcW85SWRQX1BGd0NfcHVqbw?oc=5",
+        "date": "Fri, 16 Oct 2026 16:14:53 GMT",
+        "source": "GZT",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "SON DAKİKA: Çorum FK Çaykur Rizespor maçı ŞİFRESİZ İZLE, Çorum Rize link",
+        "summary": "SON DAKİKA: Çorum FK Çaykur Rizespor maçı ŞİFRESİZ İZLE, Çorum Rize link Sporx.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUWtwM3ZTM1RkLU1neXhiTlFhd2VabmhzQzF4eHBfYTZWcXo2dDJJUS1wdlRSc1hnUkY1NmV5dWxqVUdKQVNmcGw3bU03eVpFZF93ZnNlVHJ3NENDY3czWlROemJQd1JnZGREUm5wcGI2QW9jcmIzd2Y3YURGWmRwLU45SDlGclExQmpJdEg2QUcxRnJQemtMNUhYblI5UVY0UDBFZmtONlR2VkJP?oc=5",
+        "date": "Fri, 16 Oct 2026 16:00:00 GMT",
+        "source": "Sporx.com",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK - Çaykur Rizespor CANLI BEIN SPORTS İZLE || Çorum - Rizespor maçı şifresiz canlı izleme linki var mı?",
+        "summary": "Çorum FK - Çaykur Rizespor CANLI BEIN SPORTS İZLE || Çorum - Rizespor maçı şifresiz canlı izleme linki var mı? Yeni Şafak",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSDNuLU0ydDM2VXBrZFl6QXBlZF83YWhhODA5bF9JUERjX215SXBidlF5dHU5LVV1dEZoWmRhakxFN3VOcFl5RXFpTXp1bWttTEhCZkU5cm5QWEZ5NjhzY01HOTFKZW5DYS0wUW44bWJRQjhST21LdUlUQ19uaTNDQnZVaFM0d2szeHlOZUJTS0JhcFRRcEJ3OHctSVlvS0liNVBvYWw3RGk0bjhHSDJ6azRfMHNXZVN5NXBGWnJmenE3VzY2R1c5ei1JT1dFQjdJR29PQ0Jnb2U?oc=5",
+        "date": "Fri, 16 Oct 2026 16:00:00 GMT",
+        "source": "Yeni Şafak",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK - Çaykur Rizespor maçı ne zaman, saat kaçta hangi kanalda?",
+        "summary": "Çorum FK - Çaykur Rizespor maçı ne zaman, saat kaçta hangi kanalda? Fanatik",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdEF1dVFJV1JLcUd6cXdjTXh0MVpVQmRYV0RLaTdNX05mS3c0c0NMcUF2ajNmeUNadVY3U3R4ZDVTVjQyUTRiRVVlZlJrV2ItZEE5N05qOVRhYktBMENNVkViZkRtT3k5RDlxVS1Ga0dZQmNXYm9CeEU4TUtHZmJfVEZPTlhmd0dqdjlibFRFMmdsM2hyWFNiWlprMXdkNjRmUDQ3eWJnalNXbHpjU2swRmdhS2g?oc=5",
+        "date": "Fri, 16 Oct 2026 15:59:00 GMT",
+        "source": "Fanatik",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK-Çaykur Rizespor maçı hangi kanalda, saat kaçta?",
+        "summary": "Çorum FK-Çaykur Rizespor maçı hangi kanalda, saat kaçta? birgun.net",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDJNaE1hVTNLVlVfQ0E0ZElTalo5N2pVdXJmN01hcXVDaGZQNDdZdGplT09TYlFBV0cxaGdna0NjUnNXMnVkTXZ0ZWpDYUJ5ZFB1UjJFZWk1dlZsM0t2eDJKbEVObW5fN1Nob09Fb05OZVdqR0czdUt1akxYTWxhVm9BNHRocnpyWWxZT0NxNmtMeS1l?oc=5",
+        "date": "Fri, 16 Oct 2026 15:00:00 GMT",
+        "source": "birgun.net",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Arca Çorum FK – Çaykur Rizespor maçı ne zamaz? Hangi kanalda?",
+        "summary": "Arca Çorum FK – Çaykur Rizespor maçı ne zamaz? Hangi kanalda? Kanal 3 Tv",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNem9xc0NhbVlCVVYwX3ZObENqTlZxazFDaGREZGtXQkplNG9FQk1CcUlPS1RiV1JndGpBc3FMRW5ZdTNUb0FKWFV2SFJ4dmRTN2NNUlY2QnN2dHRMOTRIQkJ1MWk5cUNlV0Q4MFk2SmpNY2Y1LUJ1Qk9jVTF0d0tqOXJCSzg2dThkcE5tdQ?oc=5",
+        "date": "Fri, 16 Oct 2026 08:55:34 GMT",
+        "source": "Kanal 3 Tv",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Fenerbahçe’de Alanyaspor maçında hangi oyuncular forma giyemeyecek? Eksik isimler belli oldu",
+        "summary": "Fenerbahçe’de Alanyaspor maçında hangi oyuncular forma giyemeyecek? Eksik isimler belli oldu Yeni Şafak",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV3ZJVUJqMTZPR3BxVThoSG9NaEx1Q0VBaHVhTGhuNEZVcXh1ZEtSa1lkcFBpS0tCaHFUVWx4aXFMVjFvMjNQazBLc293c0VXSWQwR3hVbWpZZ0VvMFRUYmgtTEtVZDlZZHR4YTB4V0NhZW1seG9NVGR2VFdXNzBIUGFlSEFEWVNac1NFWXUwQUlhUHdoNGc3TnlEOXZudThmVTQzM1BkbXpKQjJKV3J2UW1rRXQwejJEMXZmU1pYV2ZTUk94cXBXOGZMODJxYjRpQ3c?oc=5",
+        "date": "Fri, 16 Oct 2026 06:37:59 GMT",
+        "source": "Yeni Şafak",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK Çaykur Rizespor maçı ne zaman saat kaçta hangi kanalda?",
+        "summary": "Çorum FK Çaykur Rizespor maçı ne zaman saat kaçta hangi kanalda? Hürriyet",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1ppZlloU3A4aldvcUFReEVSekpEeHZtMUdrVURFVmtoc2xzSkg3eENuZ0pmRERnSEpuWk5fQm5EVnNucTNlemZjRnBlVnRycWtsemt2Z2dMaXp5UUd4ZU9WeENCZ19YcnJLY3dtQjZSdGhSMjd3bmxSOEcwN2drcWoxZkdnWXI0TWpRSVR0cHg1VVBCb0xVbW5ncU12TDQ5UWQ0aldlWmZxeEcxekdr?oc=5",
+        "date": "Fri, 16 Oct 2026 04:41:00 GMT",
+        "source": "Hürriyet",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK, Çaykur Rizespor'u konuk edecek",
+        "summary": "Çorum FK, Çaykur Rizespor'u konuk edecek Anadolu Ajansı",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KeDdvTFlRcHlWZ2FWZ19mWFkyNEF4akE4V29BdktMZVJkSmVwRnRLdVI0Ni1wVUlpbWNKODVpb2k4UjY4ZjY4em1nUkZhbXljUTBwWUVFR2VUTDF6OFUxTnZZYUVpWnpoN1NCYUZaTkpPUEo0RlNLdzhVNmk?oc=5",
+        "date": "Thu, 15 Oct 2026 23:49:55 GMT",
+        "source": "Anadolu Ajansı",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK - Tüm oyuncular | Sayfa 5",
+        "summary": "Çorum FK - Tüm oyuncular | Sayfa 5 Transfermarkt",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObFBhQ25yTXJvRlRSNUVLaXhZbWdhblZVZHlWV29jcVJoS0Q5RWJkaE5tVmxXNHotZ016NGVTazdXcmhFLTd4UG9SeE1JUU5QR2JRUTZOYnhiY0R5TDd2RTZvbHlRUHVZLU9uNUZpTHRqeVpENmxxZXBEdkNTS2U2Ml9OdlByWHc1NU1fNGd3?oc=5",
+        "date": "Thu, 15 Oct 2026 09:54:06 GMT",
+        "source": "Transfermarkt",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "ÖZET | Gaziantep FK 0-3 Arca Çorum FK",
+        "summary": "ÖZET | Gaziantep FK 0-3 Arca Çorum FK beinsports.com.tr",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wQzhPT2lPWFJxNTh3YWY5VTc3SEtMcGJ3aHh2cWpkTzh2RGt3X1NiZk51YmRaTzdfOHFuWnpESlZ4MFBlVUdPcTJXeEM5SGhFVndYVHZzN0hEclkxcmk1NFFMRHJra1BhbWc?oc=5",
+        "date": "Sun, 11 Oct 2026 15:42:29 GMT",
+        "source": "beinsports.com.tr",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      },
+      {
+        "title": "Çorum FK'de hedef uyum: iyi oyuncular var, takım hâlen şekilleniyor",
+        "summary": "Çorum FK'de hedef uyum: iyi oyuncular var, takım hâlen şekilleniyor Aksiyon.com.TR",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdzNQVnpzT1Z1ZzJldWM4SFJrR3FWY2dIUkk4dWpDZklRZHVRRC1tMGkzQWJqUkN2NmphWUJTTUFhRkNlOFktWnNFV2cta0VFTm5xNU56RWkwLWE3SF92TU84Z3NKM2ZrVC1yeUNCYkNhXzNCYWp2eUZNT19PbDUzX1hOUXhZaDdPdkc0TGpIXzNpXy13cUpzUXQ5cWptY2s30gGmAUFVX3lxTE91dHJyUE1qbWtxUV9ZeG8zLUE3UnFDRU1hUlJESFFhQnExTzJiYmwwLUxtbGlJYWJwekRGeEs5SkpXRUs0dHlPNTJta09CZFNxZE9FbmNtbEtmdmpBMjB3c3U1ZTJ6NXNLMEdncnZnX1UtYTdNcEhLVnZyV3o2REo1Ymh6dXJ3d2lVWnhPOHlvbzYtQ3UwdlFKMWZUX1YyQzQ5YTJsRGc?oc=5",
+        "date": "Thu, 08 Oct 2026 07:00:00 GMT",
+        "source": "Aksiyon.com.TR",
+        "flag": "🔴⚫",
+        "lang": "tr",
+        "category": "corumsporhaber",
+        "feedImage": null,
+        "image": "https://upload.wikimedia.org/wikipedia/tr/3/37/%C3%87orum_FK.png"
+      }
+    ],
     "milli": [],
     "superlig": [
+      {
+        "title": "Trabzonspor ile Beşiktaş, 144. randevuda",
+        "summary": "Trendyol Süper Lig’in 8. hafta kapanış müsabakasında yarın (19 Ekim cumartesi günü) karşı karşıya gelecek Beşiktaş ile Trabzonspor, 144. kez rakip olacak.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/18/trabzonspor-ile-besiktas-144-randevuda",
+        "date": "Sun, 18 Oct 2026 10:06:13 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/944a68/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/trabzonspor-ile-besiktas-144-randevuda-1792307170542.jpeg",
+        "category": "superlig",
+        "image": "https://iasbh.tmgrup.com.tr/944a68/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/trabzonspor-ile-besiktas-144-randevuda-1792307170542.jpeg"
+      },
+      {
+        "title": "Nihat Kahveci'den Fenerbahçeli yıldıza övgü: 'Maşallah diyorum!'",
+        "summary": "Fenerbahçe, Süper Lig 8. hafta maçında Alanyaspor'u 3-0 mağlup etti. Nihat Kahveci, maçın ardından değerlendirmelerde bulundu.",
+        "link": "https://www.hurriyet.com.tr/sporarena/nihat-kahveciden-fenerbahceli-yildiza-ovgu-masallah-diyorum-43345874",
+        "date": "Sun, 18 Oct 2026 07:05:29 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad46fb4fb23dcac958228aa.jpg",
+        "category": "superlig",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad46fb4fb23dcac958228aa.jpg"
+      },
+      {
+        "title": "Süper Lig'de Beşiktaş ile Trabzonspor derbide kozlarını paylaşacak!",
+        "summary": "Trendyol Süper Lig'in 7. haftasında Trabzonspor ile Beşiktaş, 19 Ekim Pazartesi günü karşı karşıya gelecek. Papara Park'ta oynanacak müsabaka, saat 20.00'de başlayacak.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/18/super-ligde-besiktas-ile-trabzonspor-derbide-kozlarini-paylasacak",
+        "date": "Sun, 18 Oct 2026 09:09:29 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/30d6a8/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/super-ligde-besiktas-ile-trabzonspor-derbide-kozlarini-paylasacak-1792303763046.jpeg",
+        "category": "superlig",
+        "image": "https://iasbh.tmgrup.com.tr/30d6a8/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/super-ligde-besiktas-ile-trabzonspor-derbide-kozlarini-paylasacak-1792303763046.jpeg"
+      },
+      {
+        "title": "Gençlerbirliği-Galatasaray maçını yazdılar: Avrupa'da çöktü! Lig, rakip yetersiz",
+        "summary": "Süper Lig'in 8. haftasında Galatasaray, deplasmanda Gençlerbirliği ile karşı karşıya geldi. Mücadeleyi sarı kırmızılılar 1-0 kazandı. Hürriyet'in usta yazarları, müsabakayı değerlendirdi.",
+        "link": "https://www.hurriyet.com.tr/sporarena/genclerbirligi-galatasaray-macini-yazdilar-avrupada-coktu-lig-rakip-yetersiz-43345797",
+        "date": "Sun, 18 Oct 2026 04:52:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad450ce9266704a560f644f.jpg",
+        "category": "superlig",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad450ce9266704a560f644f.jpg"
+      },
+      {
+        "title": "Eyüpspor'a bir darbe de Erzurumspor'dan geldi",
+        "summary": "Süper Lig'in son sırasına demir atan Eyüpspor, Erzurum deplasmanından da eli boş döndüamp;hellip; Üst üste iki maçtır kaybetmeyen Dadaşlar, 19'da Cardoso'nun golüyle skor üstünlüğünü ele aldı. Takımın iki...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/18/eyupspora-bir-darbe-de-erzurumspordan-geldi",
+        "date": "Sun, 18 Oct 2026 00:38:36 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/ce3d1d/1200/675/0/47/673/425?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/eyupspora-bir-darbe-de-erzurumspordan-geldi-1792273109046.jpeg",
+        "category": "superlig",
+        "image": "https://iasbh.tmgrup.com.tr/ce3d1d/1200/675/0/47/673/425?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/eyupspora-bir-darbe-de-erzurumspordan-geldi-1792273109046.jpeg"
+      },
+      {
+        "title": "Konya'yı tek golle geçen Amed inadını sürdürdü",
+        "summary": "Süper Lig'in yeni ekibi Amed Sportif Faaliyetler, Konyaspor engelini tek golle geçerek zirve iddiasını bir kez daha ortaya koydu. Tek yenilgisini ikinci haftada Kocaeli'den alan Diyarbakır temsilcisine...Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/18/konyayi-tek-golle-gecen-amed-inadini-surdurdu",
+        "date": "Sun, 18 Oct 2026 00:33:00 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/4c429e/1200/675/0/0/1284/723?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/konyayi-tek-golle-gecen-amed-inadini-surdurdu-1792272768103.jpeg",
+        "category": "superlig",
+        "image": "https://iasbh.tmgrup.com.tr/4c429e/1200/675/0/0/1284/723?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/konyayi-tek-golle-gecen-amed-inadini-surdurdu-1792272768103.jpeg"
+      },
       {
         "title": "Galatasaray'da Okan Buruk, 150.maçına çıktı!",
         "summary": "Galatasaray Teknik Direktörü Okan Buruk, Gençlerbirliği maçıyla beraber sarı-kırmızılı ekibin başında Süper Lig'deki 150’nci maçını geride bıraktı.Devamı için tıklayınız",
@@ -18,201 +457,110 @@
         "image": "https://iasbh.tmgrup.com.tr/3cb886/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/galatasarayda-okan-buruk-150macina-cikti-1792272307540.jpeg"
       },
       {
-        "title": "İsmail Kartal: \"3 puan aldık, mutluyuz\"",
-        "summary": "Trendyol Süper Lig'in 8. haftasında konuk ettiği Corendon Alanyaspor'u 3-0 yenen Fenerbahçe'de teknik direktör İsmail Kartal, aldıkları 3 puan için mutlu olduklarını söyledi.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/17/ismail-kartal-3-puan-aldik-mutluyuz",
-        "date": "Sat, 17 Oct 2026 22:15:54 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/f77a60/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/ismail-kartal-1792264463589.jpeg",
-        "category": "superlig",
-        "image": "https://iasbh.tmgrup.com.tr/f77a60/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/ismail-kartal-1792264463589.jpeg"
-      },
-      {
-        "title": "Joao Pereira: \"Antrenmanlarda çalıştığımız alanları bulamadık\"",
-        "summary": "Trendyol Süper Lig'in 8. haftasında deplasmanda Fenerbahçe'ye 3-0 yenilen Corendon Alanyaspor'da teknik direktör Joao Pereira, antrenmanlarda çalıştıkları alanları bulamadıklarını ve sürekli savunma yapmak...Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/17/joao-pereira-antrenmanlarda-calistigimiz-alanlari-bulamadik",
-        "date": "Sat, 17 Oct 2026 22:13:41 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/7a3d02/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/joao-pereira-1792264348244.jpeg",
-        "category": "superlig",
-        "image": "https://iasbh.tmgrup.com.tr/7a3d02/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/joao-pereira-1792264348244.jpeg"
-      },
-      {
-        "title": "İşte Marco Asensio'nun stadyumdan ayrılış anı!",
-        "summary": "Trendyol Süper Lig'in 8. haftasında Fenerbahçe, evinde Corendon Alanyaspor'u 3-0 mağlup etti. Sarı-lacivertlilerde sakatlığı sebebiyle forma giymeyen Marco Asensio stadyumdan böyle ayrıldı. İşte o anlar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/video-haber/videoizle/marco-asensio-stadyumdan-boyle-ayrildi",
-        "date": "Sat, 17 Oct 2026 22:13:16 +0300",
+        "title": "Onvo Antalyaspor-Trabzonspor maçının ardından flaş değerlendirme",
+        "summary": "Trendyol Süper Lig'in son haftasında Onvo Antalyaspor'a konuk olan Trabzonspor, mücadeleyi 2-0 kazanarak kapanışı galibiyet ile yaptı. Mücadelenin ardından bordo mavililer için dikkat çeken bir değerlendirme...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/trabzonspor/2025/05/31/onvo-antalyaspor-trabzonspor-macinin-ardindan-flas-degerlendirme",
+        "date": "Sat, 31 May 2025 09:01:15 +0300",
         "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/130378/1200/675/0/0/1500/844?u=https://iftm.tmgrup.com.tr/2026/10/17/marco-asensio-stadyumdan-boyle-ayrildi-1792264336265.jpeg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/ee5eb1/1200/675/0/30/800/481?u=https://iftm.tmgrup.com.tr/2025/05/31/onvo-antalyaspor-trabzonspor-macinin-ardindan-flas-degerlendirme-1748670851188.jpeg",
         "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/130378/1200/675/0/0/1500/844?u=https://iftm.tmgrup.com.tr/2026/10/17/marco-asensio-stadyumdan-boyle-ayrildi-1792264336265.jpeg"
+        "image": "https://iaftm.tmgrup.com.tr/ee5eb1/1200/675/0/30/800/481?u=https://iftm.tmgrup.com.tr/2025/05/31/onvo-antalyaspor-trabzonspor-macinin-ardindan-flas-degerlendirme-1748670851188.jpeg"
       },
       {
-        "title": "İsmail Kartal'dan Alanyaspor maçı sonrası iyi oyun vurgusu! \"Daha farklı kazanabilirdik!\"",
-        "summary": "Trendyol Süper Lig'in 8. haftasında evinde Alanyaspor'u 3-0 mağlup eden Fenerbahçe'de teknik direktör İsmail Kartal, mücadele sonrası açıklamalarda bulundu. İşte açıklamanın detayları.Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/ismail-kartaldan-alanyaspor-maci-sonrasi-iyi-oyun-vurgusu-daha-farkli-kazanabilirdik",
-        "date": "Sat, 17 Oct 2026 21:33:40 +0300",
+        "title": "Spor yazarları Galatasaray - RAMS Başakşehir maçını değerlendirdi",
+        "summary": "Son dakika Galatasaray haberleri: Trendyol Süper Lig'in 38. haftasında Galatasaray ile RAMS Başakşehir karşı karşıya geldi. Sarı-kırmızılılar mücadeleden 2-0'lık skorla ayrılarak sezona galibiyetle veda...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/spor-yazarlari-galatasaray-rams-basaksehir-macini-degerlendirdi",
+        "date": "Sat, 31 May 2025 08:46:02 +0300",
         "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/3f2d37/1200/675/0/51/800/501?u=https://iftm.tmgrup.com.tr/2026/10/17/ismail-kartaldan-alanyaspor-maci-sonrasi-iyi-oyun-vurgusu-daha-farkli-kazanabilirdik-1792262423473.jpeg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/540328/1200/675/0/9/800/459?u=https://iftm.tmgrup.com.tr/2025/05/31/spor-yazarlari-galatasaray-rams-basaksehir-macini-degerlendirdi-1748670326394.jpg",
         "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/3f2d37/1200/675/0/51/800/501?u=https://iftm.tmgrup.com.tr/2026/10/17/ismail-kartaldan-alanyaspor-maci-sonrasi-iyi-oyun-vurgusu-daha-farkli-kazanabilirdik-1792262423473.jpeg"
-      },
-      {
-        "title": "Fenerbahçe, ligde son 4 maçta kalesini gole kapadı!",
-        "summary": "Corendon Alanyaspor karşısında gol yemeyen Fenerbahçe, Trendyol Süper Lig'de üst üste 4. maçında da rakiplerine gol izni vermedi.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/17/fenerbahce-ligde-son-4-macta-kalesini-gole-kapadi",
-        "date": "Sat, 17 Oct 2026 21:31:46 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/0de9a0/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/fenerbahce-ligde-son-4-macta-kalesini-gole-kapadi-1792261823489.jpeg",
-        "category": "superlig",
-        "image": "https://iasbh.tmgrup.com.tr/0de9a0/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/fenerbahce-ligde-son-4-macta-kalesini-gole-kapadi-1792261823489.jpeg"
-      },
-      {
-        "title": "İşte Trendyol Süper Lig'de güncel puan durumu! (8. hafta)",
-        "summary": "Trendyol Süper Lig'de heyecan 8. hafta maçlarıyla devam ediyor. İşte cumartesi günü oynanan karşılaşmaların ardından oluşan puan durumu...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galeri/anasayfa/iste-trendyol-super-ligde-guncel-puan-durumu-8-hafta",
-        "date": "Sat, 17 Oct 2026 21:00:46 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/a18627/1200/675/39/0/705/375?u=https://iftm.tmgrup.com.tr/2026/10/17/iste-trendyol-super-ligde-guncel-puan-durumu-8-hafta-1792259996849.jpg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/a18627/1200/675/39/0/705/375?u=https://iftm.tmgrup.com.tr/2026/10/17/iste-trendyol-super-ligde-guncel-puan-durumu-8-hafta-1792259996849.jpg"
-      },
-      {
-        "title": "Fenerbahçe evinde kazandı!",
-        "summary": "Trendyol Süper Lig'in 8. haftasında Fenerbahçe, konuk ettiği Corendon Alanyaspor'u mağlup etti. İşte detaylar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/fenerbahce-evinde-kazandi-sari-lacivertliler-konuk-ettigi-alanyasporu-maglup-etti",
-        "date": "Sat, 17 Oct 2026 20:54:29 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/cec295/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/17/fenerbahce-evinde-kazandi-sari-lacivertliler-konuk-ettigi-alanyasporu-maglup-etti-1792259728162.jpeg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/cec295/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/17/fenerbahce-evinde-kazandi-sari-lacivertliler-konuk-ettigi-alanyasporu-maglup-etti-1792259728162.jpeg"
-      },
-      {
-        "title": "Fenerbahçe'de İrfan Can Kahveci'nin talihsiz gecesi! 3 golü de iptal edildi",
-        "summary": "Trendyol Süper Lig'in 8. haftasında Alanyaspor'u konuk eden Fenerbahçe'de İrfan Can Kahveci, karşılaşmanın en talihsiz isimlerinden biri oldu. Ligde çıktığı son 2 maçta 4 gole katkı sağlayan milli futbolcu, Kadıköy'de topu 3 kez ağlarla buluşturdu ancak hiçbir golü geçerlilik kazanmadı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-irfan-can-kahvecinin-talihsiz-gecesi-3-golu-de-iptal-edildi-43345620",
-        "date": "Sat, 17 Oct 2026 17:42:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3b3679266704a560f62c5.jpg",
-        "category": "superlig",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3b3679266704a560f62c5.jpg"
-      },
-      {
-        "title": "Fenerbahçe-Corendon Alanyaspor maçında üst üste 2 gol iptal edildi! İşte o pozisyonlar",
-        "summary": "Trendyol Süper Lig'in 8. haftasında Fenerbahçe, sahasında Corendon Alanyaspor'u konuk ediyor. Karşılaşmanın 2. yarısının başında üst üste 2 gol iptal edildi. İşte o pozisyonlar...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/fenerbahce-corendon-alanyaspor-macinda-ust-uste-2-gol-iptal-edildi-iste-o-pozisyonlar",
-        "date": "Sat, 17 Oct 2026 20:20:34 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/7bf433/1200/675/0/41/800/491?u=https://iftm.tmgrup.com.tr/2026/10/17/fenerbahce-corendon-alanyaspor-macinda-ust-uste-2-gol-iptal-edildi-iste-o-pozisyonlar-1792258074932.jpeg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/7bf433/1200/675/0/41/800/491?u=https://iftm.tmgrup.com.tr/2026/10/17/fenerbahce-corendon-alanyaspor-macinda-ust-uste-2-gol-iptal-edildi-iste-o-pozisyonlar-1792258074932.jpeg"
-      },
-      {
-        "title": "Fenerbahçe penaltı kazandı, gol iptal edildi! İşte o anlar",
-        "summary": "Trendyol Süper Lig'in 8. haftasında Fenerbahçe ve Alanyaspor karşı karşıya geldi. Maçın 16. dakikasında Fenerbahçe penaltı kazandı.Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/fenerbahce-penalti-kazandi-iste-o-an",
-        "date": "Sat, 17 Oct 2026 19:30:12 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/020d75/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/17/fenerbahce-penalti-kazandi-gol-iptal-edildi-iste-o-anlar-1792255256180.jpeg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/020d75/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2026/10/17/fenerbahce-penalti-kazandi-gol-iptal-edildi-iste-o-anlar-1792255256180.jpeg"
-      },
-      {
-        "title": "Okan Buruk'tan maç sonu TFF'ye çağrı: 'Saha yüzünden sakatlık verdik'",
-        "summary": "Galatasaray Teknik Direktörü Okan Buruk, Gençlerbirliği'ni 1-0 mağlup ettikleri maçın ardından konuştu.",
-        "link": "https://www.hurriyet.com.tr/sporarena/okan-buruktan-mac-sonu-tffye-cagri-saha-yuzunden-sakatlik-verdik-43345532",
-        "date": "Sat, 17 Oct 2026 15:36:52 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad395fdfb23dcac95822694.jpg",
-        "category": "superlig",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad395fdfb23dcac95822694.jpg"
-      },
-      {
-        "title": "Okan Buruk'tan Leao açıklaması! Oyundan alınmasının sebebi...",
-        "summary": "Son dakika Galatasaray haberleri: Trendyol Süper Lig'in 8. haftasında deplasmanda Gençlerbirliği'ni 1-0 mağlup eden Galatasaray'da teknik direktör Okan Buruk, mücadele sonrası açıklamalarda bulundu. Buruk,...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2026/10/17/okan-buruktan-leao-aciklamasi-oyundan-alinmasinin-sebebi",
-        "date": "Sat, 17 Oct 2026 18:31:57 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/313b9d/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/17/okan-buruktan-leao-aciklamasi-oyundan-alinmasinin-sebebi-1792251265775.jpeg",
-        "category": "superlig",
-        "image": "https://iaftm.tmgrup.com.tr/313b9d/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/17/okan-buruktan-leao-aciklamasi-oyundan-alinmasinin-sebebi-1792251265775.jpeg"
-      },
-      {
-        "title": "Galatasaray'da derbi öncesi Leao alarmı! 16 dakika sonra oyundan çıktı",
-        "summary": "Trendyol Süper Lig'in 8. haftasında Gençlerbirliği ile deplasmanda karşılaşan Galatasaray'da Rafael Leao, yaşadığı sakatlık nedeniyle oyuna girdikten yalnızca 16 dakika sonra kenara geldi. Yerine giren Deniz Gül ise galibiyet golüne imza attı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/galatasarayda-derbi-oncesi-leao-alarmi-16-dakika-sonra-oyundan-cikti-43345522",
-        "date": "Sat, 17 Oct 2026 15:19:00 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad392029266704a560f6211.jpg",
-        "category": "superlig",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad392029266704a560f6211.jpg"
+        "image": "https://iaftm.tmgrup.com.tr/540328/1200/675/0/9/800/459?u=https://iftm.tmgrup.com.tr/2025/05/31/spor-yazarlari-galatasaray-rams-basaksehir-macini-degerlendirdi-1748670326394.jpg"
       }
     ],
     "transfer": [
       {
-        "title": "İlkay Gündoğan'dan Okan Buruk sözlerine açıklama! \"Yanlış anlaşılma oldu\"",
-        "summary": "Okan Buruk hakkındaki açıklamaları gündem olan İlkay Gündoğan, yaşanan durumun bir yanlış anlaşılmadan ibaret olduğunu söyledi. Kendini her zaman hazır tuttuğunu belirten tecrübeli yıldız, teknik direktörün...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/galatasaray/2026/10/17/ilkay-gundogandan-okan-buruk-sozlerine-aciklama-yanlis-anlasilma-oldu",
-        "date": "Sat, 17 Oct 2026 19:23:03 +0300",
+        "title": "Barış Alper Yılmaz'ın babasından flaş transfer açıklaması!",
+        "summary": "Galatasaray'ın başarılı futbolcusu Barış Alper Yılmaz'ın geleceği büyük merak konusu haline gelirken yıldız ismin babasından dikkat çeken bir transfer açıklaması geldi. İşte o sözler...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/baris-alper-yilmazin-babasindan-flas-transfer-aciklamasi",
+        "date": "Sat, 31 May 2025 11:06:21 +0300",
         "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/3fac11/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/10/17/ilkay-gundogandan-okan-buruk-sozlerine-aciklama-yanlis-anlasilma-oldu-1792254147841.jpeg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/91a580/1200/675/0/0/1320/742?u=https://iftm.tmgrup.com.tr/2025/05/31/baris-alper-yilmazin-babasindan-flas-transfer-aciklamasi-1748678696062.jpg",
         "category": "transfer",
-        "image": "https://iaftm.tmgrup.com.tr/3fac11/1200/675/0/0/1500/843?u=https://iftm.tmgrup.com.tr/2026/10/17/ilkay-gundogandan-okan-buruk-sozlerine-aciklama-yanlis-anlasilma-oldu-1792254147841.jpeg"
+        "image": "https://iaftm.tmgrup.com.tr/91a580/1200/675/0/0/1320/742?u=https://iftm.tmgrup.com.tr/2025/05/31/baris-alper-yilmazin-babasindan-flas-transfer-aciklamasi-1748678696062.jpg"
       },
       {
-        "title": "İlkay Gündoğan, sözlerine açıklık getirdi: 'Yanlış anlaşılma oldu!'",
-        "summary": "Galatasaray'da İlkay Gündoğan, Uğurcan Çakır ve Deniz Gül, Gençlerbirliği galibiyetinin ardından açıklamalarda bulundu.",
-        "link": "https://www.hurriyet.com.tr/sporarena/ilkay-gundogan-sozlerine-aciklik-getirdi-yanlis-anlasilma-oldu-43345526",
-        "date": "Sat, 17 Oct 2026 15:36:00 Z",
-        "source": "Hürriyet",
+        "title": "TRANSFER HABERİ | Avrupa'da Uğurcan Çakır düellosu! Trabzonspor'un kapısını çaldılar",
+        "summary": "Trabzonspor'da özellikle bu sezon gösterdiği performans ile beğeni toplayan Uğurcan Çakır, Avrupa takımlarının radarına girdi. Fransız basını, bordo mavili ekibin kapısının yetenekli eldiven için çalındığını...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/trabzonspor/2025/05/31/transfer-haberi-avrupada-ugurcan-cakir-duellosu-trabzonsporun-kapisini-caldilar",
+        "date": "Sat, 31 May 2025 10:11:50 +0300",
+        "source": "Fotomaç",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3962c9266704a560f622d.jpg",
+        "feedImage": "https://iaftm.tmgrup.com.tr/3b2cc9/1200/675/0/18/1500/861?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberi-avrupada-ugurcan-cakir-duellosu-trabzonsporun-kapisini-caldilar-1748675078934.jpeg",
         "category": "transfer",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3962c9266704a560f622d.jpg"
+        "image": "https://iaftm.tmgrup.com.tr/3b2cc9/1200/675/0/18/1500/861?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberi-avrupada-ugurcan-cakir-duellosu-trabzonsporun-kapisini-caldilar-1748675078934.jpeg"
+      },
+      {
+        "title": "Fenerbahçe'den Fransa'ya transfer çıkarması! 2 oyuncu için çalışmalar başladı",
+        "summary": "Önümüzdeki sezon mutlu sona ulaşarak taraftarlarına şampiyonluk müjdelemek isteyen Fenerbahçe'de yaz transfer dönemi çalışmaları hız kazandı. Sarı lacivertli yönetim, Fransa Ligue 1'de mücadele eden 2...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/fenerbahceden-fransaya-transfer-cikarmasi-2-oyuncu-icin-calismalar-basladi",
+        "date": "Sat, 31 May 2025 09:49:28 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/4dd707/1200/675/0/0/659/371?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahceden-fransaya-transfer-cikarmasi-2-oyuncu-icin-calismalar-basladi-1748674143934.jpg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/4dd707/1200/675/0/0/659/371?u=https://iftm.tmgrup.com.tr/2025/05/31/fenerbahceden-fransaya-transfer-cikarmasi-2-oyuncu-icin-calismalar-basladi-1748674143934.jpg"
+      },
+      {
+        "title": "GALATASARAY HABERİ: Transferi Lemina bitirecek! Arkadaşını getiriyor...",
+        "summary": "Son dakika spor haberleri: Galatasaray'da yeni sezonun ilk transferi sağ bek olacak gibi duruyor. Sarı kırmızılılarda aranan isim ise İngiltere'de bulundu. Bu transferin detayında ise Lemina başrolde yer...Devamı için tıklayınız",
+        "link": "https://www.aspor.com.tr/galatasaray/2025/05/31/galatasaray-haberi-transferi-lemina-bitirecek-arkadasini-getiriyor",
+        "date": "Sat, 31 May 2025 09:39:15 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/42af5a/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-transferi-lemina-bitirecek-arkadasini-getiriyor-1748673511492.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/42af5a/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-transferi-lemina-bitirecek-arkadasini-getiriyor-1748673511492.jpeg"
+      },
+      {
+        "title": "GALATASARAY HABERİ: Osimhen'le kritik transfer görüşmesi! 1 hafta içinde...",
+        "summary": "Galatasaray'ın yıldız golcüsü Victor Osimhen hakkında önemli gelişmeler yaşanıyor. Sarı-kırmızılı yönetimin Osimhen için tüm şartları zorlarken Nijeryalı futbolcunun kararını 1 hafta içinde vereceği öne...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/galatasaray/2025/05/31/galatasaray-haberi-osimhenle-kritik-transfer-gorusmesi-1-hafta-icinde",
+        "date": "Sat, 31 May 2025 06:51:18 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/342fe9/1200/675/0/28/800/479?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-osimhenle-kritik-transfer-gorusmesi-1-hafta-icinde-1748644230862.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/342fe9/1200/675/0/28/800/479?u=https://iftm.tmgrup.com.tr/2025/05/31/galatasaray-haberi-osimhenle-kritik-transfer-gorusmesi-1-hafta-icinde-1748644230862.jpeg"
+      },
+      {
+        "title": "TRANSFER HABERLERİ | Fenerbahçe'de hedef Mitrovic! Avrupa'ya dönmek istiyor",
+        "summary": "Fenerbahçe'de gelecek sezonun transfer çalışmaları sürüyor. Sarı-lacivertlilerin golcü transferi yapmak istediği ve kariyerini Suudi Arabistan'da sürdüren Aleksandar Mitrovic için resmi girişimlere başladığı...Devamı için tıklayınız",
+        "link": "https://www.fotomac.com.tr/fenerbahce/2025/05/31/transfer-haberleri-fenerbahcede-hedef-mitrovic-avrupaya-donmek-istiyor",
+        "date": "Sat, 31 May 2025 06:51:18 +0300",
+        "source": "Fotomaç",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iaftm.tmgrup.com.tr/c6ee39/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberleri-fenerbahcede-hedef-mitrovic-avrupaya-donmek-istiyor-1748644534352.jpeg",
+        "category": "transfer",
+        "image": "https://iaftm.tmgrup.com.tr/c6ee39/1200/675/0/0/800/450?u=https://iftm.tmgrup.com.tr/2025/05/31/transfer-haberleri-fenerbahcede-hedef-mitrovic-avrupaya-donmek-istiyor-1748644534352.jpeg"
       },
       {
         "title": "Papers: Gyokeres keen to leave Arsenal",
@@ -228,8 +576,35 @@
         "image": "https://e0.365dm.com/26/08/1600x900/skysports-paper-talk-football_7317647.jpg?20260809160824"
       }
     ],
-    "worldcup": [],
+    "worldcup": [
+      {
+        "title": "McDermott: We cannot chase and change despite RLWC outlook",
+        "summary": "England head coach Brian McDermott made a marked point that his side would be trying to find a \"point of difference\" in this World Cup through a new playing style.",
+        "link": "https://www.skysports.com/rugby-league/news/12040/13600527/rugby-league-world-cup-2026-brian-mcdermott-on-englands-erratic-ends-and-not-chasing-points-with-progression-out-of-their-hands",
+        "date": "Sun, 18 Oct 2026 08:15:00 BST",
+        "source": "Sky Sports",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "worldcup",
+        "image": "https://e0.365dm.com/26/10/1600x900/skysports-rugby-league-england_7379590.jpg?20261018083921"
+      }
+    ],
     "magazine": [
+      {
+        "title": "Wigan pine for FA Cup glory as not even victory can lift them off foot of League One",
+        "summary": "Gary Caldwell, club captain in 2013 and now manager, needs much more than Saturday’s win over Reading to disperse the clouds If the 2013 FA Cup final represented a blip for the Sheikh Mansour-era Manchester City in their quest for total domination of English football, it was a historic moment for their conquerors, Wigan Athletic. Memories of that famous day at Wembley still endure for Latics’ supporters despite the relegation from the Premier League that followed. Yet watching the modern-day Wigan, who remain bottom of League One despite a 1-0 win over Reading on Saturday, makes the toppling of City in a Cup final seem an epoch ago. The club, perhaps understandably, continue to hark back to their halcyon days. Last season they brought back Gary Caldwell – club captain in 2013 – for his second stint as manager, having led the club to promotion from this division in 2015-16. Choosing to swap Exeter for a return to the Latics last season was seen as a risky move by Caldwell, considering the shoestring budget imposed upon him by Mike Danson, the owner who is keen to sell. Continue reading...",
+        "link": "https://www.theguardian.com/football/2026/oct/18/wigan-pine-for-fa-cup-glory-as-not-even-victory-can-lift-them-off-foot-of-league-one",
+        "date": "Sun, 18 Oct 2026 07:00:54 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/25ced1d77cb1ad008ff3637db8ab275d9d529141/118_17_1197_957/master/1197.jpg?width=140&quality=85&auto=format&fit=max&s=c2ca74c3fb15faded629de013ff6b150",
+        "category": "magazine",
+        "image": "https://i.guim.co.uk/img/media/25ced1d77cb1ad008ff3637db8ab275d9d529141/118_17_1197_957/master/1197.jpg?width=140&quality=85&auto=format&fit=max&s=c2ca74c3fb15faded629de013ff6b150"
+      },
       {
         "title": "Haaland nets double as Man City go six points clear at the top",
         "summary": "Manchester City go six points clear at the top of the Premier League as Enzo Maresca's side record a seventh straight league victory with a 3-2 win over Ipswich at the Etihad.",
@@ -259,17 +634,186 @@
     ],
     "general": [
       {
-        "title": "Adana’da bir eve el yapımı patlayıcı atıldı",
-        "summary": "Olay, saat 23.00 sıralarında merkez Yüreğir ilçesine bağlı Koza Mahallesi 1697 Sokak’ta meydana geldi. İddiaya göre, kimliği belirsiz kişi ya da kişiler, Ali T.’nin evinin kapısına el yapımı patlayıcı (EYP) attıktan sonra kaçtı. Patlamanın etkisiyle evin camları ve kapıları kırılırken, içeride bulunan 2’si çocuk 5 kişi panikle dışarı çıktı. İhbar üzerine olay yerine polis ve sağlık ekipleri sevk edildi. Sağlık ekipleri, tedbir amaçlı 5 kişinin sağlık kontrolünü yaptı. Polis çevrede güvenlik önlemi alırken, bölgeye özel harekat polisleri de sevk edildi. Polis, şüpheli ya da şüphelilerin yakalanması için geniş çaplı arama çalışması başlattı. Fransa'da sokaklar yangın yeri! Araçlar ve iş yerleri ateşe verildi Soykırımcı İsrailliler Avrupalı diplomatların araçlarına saldırdı: Belçika'dan sert tepki",
-        "link": "",
-        "date": "Sat, 17 Oct 2026 22:11:46  Z",
-        "source": "Milliyet",
+        "title": "Galatasaray'dan Rafael Leao açıklaması! Son durumu belli oldu",
+        "summary": "Galatasaray, Gençlerbirliği maçında sakatlanarak oyundan çıkan Rafael Leao ile ilgili açıklama yaptı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/18/galatasaraydan-rafael-leao-aciklamasi-son-durumu-belli-oldu",
+        "date": "Sun, 18 Oct 2026 12:11:11 +0300",
+        "source": "Sabah Spor",
         "flag": "🇹🇷",
         "lang": "tr",
         "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/c330a6/1200/675/0/0/712/400?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/galatasaraydan-rafael-leao-aciklamasi-son-durumu-belli-oldu-1792314646993.jpg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/c330a6/1200/675/0/0/712/400?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/galatasaraydan-rafael-leao-aciklamasi-son-durumu-belli-oldu-1792314646993.jpg"
+      },
+      {
+        "title": "Real Madrid, Sevilla'yı ağırlıyor! Maçın heyecanı canlı yayın ile Misli'de",
+        "summary": "İspanya La Liga'da 9. haftasında Real Madrid, Santiago Bernabeu'da Sevilla'yı konuk edecek. Maçın heyecanı canlı yayın ve canlı sohbet ile Misli'de yaşanacak.",
+        "link": "https://www.hurriyet.com.tr/sporarena/real-madrid-sevillayi-agirliyor-macin-heyecani-canli-yayin-ile-mislide-43345988",
+        "date": "Sun, 18 Oct 2026 09:01:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad48a829266704a560f6724.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad48a829266704a560f6724.jpg"
+      },
+      {
+        "title": "Fenerbahçe - Slavia Prag maçının hakemi belli oldu!",
+        "summary": "UEFA Şampiyonlar Ligi'nde Fenerbahçe ile Slavia Prag arasında oynanacak karşılaşmayı İspanyol hakem Ricardo de Burgos yönetecek.",
+        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahce-slavia-prag-macinin-hakemi-belli-oldu-43345983",
+        "date": "Sun, 18 Oct 2026 08:31:17 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad48370fb23dcac958229a3.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad48370fb23dcac958229a3.jpg"
+      },
+      {
+        "title": "Fenerbahçe-Slavia Prag maçının hakemi belli oldu!",
+        "summary": "UEFA Şampiyonlar Ligi 3. hafta maçında Fenerbahçe ile Slavia Prag karşı karşıya gelecek. Kritik mücadelede düdük çalacak hakem açıklandı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/18/fenerbahce-slavia-prag-macinin-hakemi-belli-oldu",
+        "date": "Sun, 18 Oct 2026 11:30:23 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/30a0a3/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/fenerbahce-slavia-prag-macinin-hakemi-belli-oldu-1792312223581.jpeg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/30a0a3/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/fenerbahce-slavia-prag-macinin-hakemi-belli-oldu-1792312223581.jpeg"
+      },
+      {
+        "title": "Arda Turan'dan Shakhtar Donetsk açıklaması: 'Bana güvendikleri sürece onlara yardım etmeye hazırım!'",
+        "summary": "Ukrayna Premier Ligi'nin 9. haftasında Shakhtar Donetsk, evinde Kolos Kovalivka'yı 2-1 yendi. Arda Turan, galibiyetin ardından açıklamalarda bulundu.",
+        "link": "https://www.hurriyet.com.tr/sporarena/arda-turandan-shakhtar-donetsk-aciklamasi-bana-guvendikleri-surece-onlara-yardim-etmeye-hazirim-43345941",
+        "date": "Sun, 18 Oct 2026 08:26:35 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad47fb4fb23dcac95822954.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad47fb4fb23dcac95822954.jpg"
+      },
+      {
+        "title": "Beşiktaş ile Trabzonspor, 144. kez karşılaşacak",
+        "summary": "Rekabette 53 yılı aşkın sürede oynanan 143 mücadelenin 57'sinden siyah-beyazlı ekip, 49'undan ise bordo-mavili takım galip ayrıldı.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/18/besiktas-ile-trabzonspor-144-kez-karsilasacak",
+        "date": "Sun, 18 Oct 2026 11:13:33 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/dec768/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/besiktas-ile-trabzonspor-144-kez-karsilasacak-1792311210957.jpeg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/dec768/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/besiktas-ile-trabzonspor-144-kez-karsilasacak-1792311210957.jpeg"
+      },
+      {
+        "title": "Fenerbahçe'nin Alanyaspor maçında verilmeyen golü doğru mu? 'Fena bir hata!'",
+        "summary": "Fenerbahçe'nin Alanyaspor karşısında aldığı 3-0'lık galibiyet sonrası maçın hakemi ve VAR kararları, eski hakemler tarafından değerlendirildi.",
+        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahcenin-alanyaspor-macinda-verilmeyen-golu-dogru-mu-fena-bir-hata-43345955",
+        "date": "Sun, 18 Oct 2026 08:11:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad47eff9266704a560f667b.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad47eff9266704a560f667b.jpg"
+      },
+      {
+        "title": "Martinez 'back in a few weeks' after operation",
+        "summary": "Chelsea goalkeeper Emiliano Martinez says he will be fit in a few weeks after being injured in the win at Everton.",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cked3vl198eyo?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 18 Oct 2026 07:25:23 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
         "feedImage": null,
         "category": "general",
-        "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?w=1200&q=85"
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/56d8/live/4dee7c90-cac1-11f1-b152-e3e2b94189a6.jpg"
+      },
+      {
+        "title": "‘I suffer a lot’: Villarreal owner Fernando Roig on not enjoying games and the prospect of Liverpool",
+        "summary": "It will be a tense time for club’s president despite the Champions League game at Anfield offering a symbol of how far they have come The first time Fernando Roig watched Villarreal play as their president, he sat in the stand at a tiny whitewashed ground that had concrete fever and was half empty. It was a Sunday night in the second division, they lost 3-0 to Badajoz, and he didn’t enjoy it much. But then, he doesn’t ever enjoy it much. Even on Tuesday at Anfield, he will not: into his 30th year, the longest presidency in Europe, that is about the only thing that hasn’t changed. More than 1,000 games and still it happens. “I don’t get nervous. It’s worse: I get worried, very anxious,” he says. “I suffer a lot. Continue reading...",
+        "link": "https://www.theguardian.com/football/2026/oct/18/fernando-roig-villarreal-liverpool-champions-league",
+        "date": "Sun, 18 Oct 2026 07:00:53 GMT",
+        "source": "The Guardian",
+        "flag": "🗞️",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": "https://i.guim.co.uk/img/media/fc34918b6beebf00eb5ce1989b3ca297e7f09219/459_309_1402_1122/master/1402.jpg?width=140&quality=85&auto=format&fit=max&s=bfa0d4709a942abee92f504219c4ebad",
+        "category": "general",
+        "image": "https://i.guim.co.uk/img/media/fc34918b6beebf00eb5ce1989b3ca297e7f09219/459_309_1402_1122/master/1402.jpg?width=140&quality=85&auto=format&fit=max&s=bfa0d4709a942abee92f504219c4ebad"
+      },
+      {
+        "title": "Beşiktaş'ta savunma hattı Trabzonspor maçında değişecek!",
+        "summary": "Bu sezon savunma tandeminde sık sık değişiklik yapan Beşiktaş teknik direktörü Vincenzo Italiano, Trabzonspor deplasmanında da yine bir dokunuş yapacak.Devamı için tıklayınız",
+        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/18/besiktasta-trabzonspor-macinda-savunma-degisecek",
+        "date": "Sun, 18 Oct 2026 09:21:30 +0300",
+        "source": "Sabah Spor",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://iasbh.tmgrup.com.tr/78e45e/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/besiktasta-trabzonspor-macinda-savunma-degisecek-1792304458652.jpg",
+        "category": "general",
+        "image": "https://iasbh.tmgrup.com.tr/78e45e/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/18/besiktasta-trabzonspor-macinda-savunma-degisecek-1792304458652.jpg"
+      },
+      {
+        "title": "Kirby 'stressed' by abrupt Vidosic exit from Brighton",
+        "summary": "Former England striker Fran Kirby says the departure of Brighton head coach Dario Vidosic on the eve of the season left her feeling \"stressed\" and \"disappointed\".",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cjly05yn12w5o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 18 Oct 2026 05:49:25 GMT",
+        "source": "BBC Sport",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "lang": "en",
+        "cat": "en",
+        "feedImage": null,
+        "category": "general",
+        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/87d7/live/5703fb40-c7db-11f1-9a39-31b474234113.jpg"
+      },
+      {
+        "title": "Fenerbahçe-Alanyaspor maçını yazdılar: Kültürel santrforlardan!",
+        "summary": "Fenerbahçe'nin 3-0'lık Alanyaspor galibiyetini, Hürriyet'in usta kalemleri değerlendirdi.",
+        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahce-alanyaspor-macini-yazdilar-kulturel-santrforlardan-43345804",
+        "date": "Sun, 18 Oct 2026 05:12:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad4551c9266704a560f646c.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad4551c9266704a560f646c.jpg"
+      },
+      {
+        "title": "Galatasaray ve Fenerbahçe maçındaki hakem yönetimini Fırat Aydınus değerlendirdi!",
+        "summary": "Fırat Aydınus, Fenerbahçe-Alanyaspor ve Gençlerbirliği-Galatasaray, maçındaki hakemlerin performansını mercek altına aldı.",
+        "link": "https://www.hurriyet.com.tr/sporarena/galatasaray-ve-fenerbahce-macindaki-hakem-yonetimini-firat-aydinus-degerlendirdi-43345758",
+        "date": "Sun, 18 Oct 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad45bbc9266704a560f64e8.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad45bbc9266704a560f64e8.jpg"
+      },
+      {
+        "title": "Miretti ve Oh'a kritik görev!",
+        "summary": "Beşiktaş Teknik Direktörü İtaliano, sakatlığı nedeniyle Trabzon maçında oynamayacak olan Orkun’un yerine Miretti’ye şans verecek",
+        "link": "https://www.hurriyet.com.tr/sporarena/miretti-ve-oha-kritik-gorev-43345736",
+        "date": "Sun, 18 Oct 2026 04:00:00 Z",
+        "source": "Hürriyet",
+        "flag": "🇹🇷",
+        "lang": "tr",
+        "cat": "tr",
+        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3ee2ac628bee4419ef19b.jpg",
+        "category": "general",
+        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3ee2ac628bee4419ef19b.jpg"
       },
       {
         "title": "Galatasaray'ın rakibi Lille'e Brest çelmesi!",
@@ -296,175 +840,6 @@
         "feedImage": null,
         "category": "general",
         "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9a6d/live/3f1a6520-ca68-11f1-bc2e-018d645d8d21.png"
-      },
-      {
-        "title": "Wirtz delivers but remains Liverpool's conundrum",
-        "summary": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 20:07:40 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/dd8e/live/95495ef0-ca64-11f1-a8e8-d5fafa9ef723.jpg"
-      },
-      {
-        "title": "İsmail Kartal'dan flaş Asensio açıklaması! \"Gereğini yaparım\"",
-        "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Alanyaspor maçı sonrası basın toplantısında İspanyol yıldız Marco Asensio hakkında açıklamalarda bulundu. İşte açıklamadan öne çıkan sözler.Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/17/ismail-kartaldan-flas-asensio-aciklamasi-geregini-yaparim",
-        "date": "Sat, 17 Oct 2026 23:03:17 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/39549b/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/17/ismail-kartaldan-flas-asensio-aciklamasi-geregini-yaparim-1792268246377.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/39549b/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/17/ismail-kartaldan-flas-asensio-aciklamasi-geregini-yaparim-1792268246377.jpeg"
-      },
-      {
-        "title": "Romelu Lukaku: \"İlk golüm için mutluyum\"",
-        "summary": "Fenerbahçe’nin Belçikalı golcüsü Romelu Lukaku, ilk golünü attığı için mutlu olduğunu ve tüm takımın kendisine çok güzel destek verdiğini söyledi.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/17/romelu-lukaku-ilk-golum-icin-mutluyum",
-        "date": "Sat, 17 Oct 2026 22:53:08 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/ca3cf9/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/romelu-lukaku-ilk-golum-icin-mutluyum-1792266740451.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/ca3cf9/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/romelu-lukaku-ilk-golum-icin-mutluyum-1792266740451.jpeg"
-      },
-      {
-        "title": "Mustafa Çulcu yorumladı! İrfan Can Kahveci'nin 2. golünde karar...",
-        "summary": "Fotomaç Gazetesi yazarı ve A Spor yorumcusu Mustafa Çulcu, Fenerbahçe - Corendon Alanyaspor maçının tartışmalı pozisyonlarını 90+1 programında yorumladı. Çulcu, sarı-lacivertlilerde İrfan Can Kahveci'nin...Devamı için tıklayınız",
-        "link": "https://www.fotomac.com.tr/video-haber/videoizle/mustafa-culcu-yorumladi-irfan-can-kahvecinin-2-golunde-karar",
-        "date": "Sat, 17 Oct 2026 22:42:09 +0300",
-        "source": "Fotomaç",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iaftm.tmgrup.com.tr/f04127/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/17/mustafa-culcu-yorumladi-irfan-can-kahvecinin-2-golunde-karar-1792266071462.jpeg",
-        "category": "general",
-        "image": "https://iaftm.tmgrup.com.tr/f04127/1200/675/0/0/800/449?u=https://iftm.tmgrup.com.tr/2026/10/17/mustafa-culcu-yorumladi-irfan-can-kahvecinin-2-golunde-karar-1792266071462.jpeg"
-      },
-      {
-        "title": "Manzambi heads Villa to victory at Newcastle",
-        "summary": "Johan Manzambi heads the winner for Aston Villa against Newcastle, marking manager Unai Emery's 100th Premier League victory.",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 19:12:02 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9bb3/live/c78b6ee0-ca59-11f1-a64c-550be9e3c66b.jpg"
-      },
-      {
-        "title": "Liverpool come from behind to beat nine-man Brentford",
-        "summary": "Liverpool come from behind to beat Brentford 2-1 at the Gtech Community Stadium as the hosts finish with nine men after red cards for Yehor Yarmoliuk and Vitaly Janelt.",
-        "link": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 19:00:13 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d2c2/live/26507ec0-ca50-11f1-bc2e-018d645d8d21.jpg"
-      },
-      {
-        "title": "Neto scores twice as Chelsea win at Everton",
-        "summary": "Pedro Neto scores twice for Chelsea as they beat Everton 2-0 at the Hill Dickinson Stadium, in a game overshadowed by a nasty head injury to Emiliano Martinez.",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cq146nz03k16o?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 19:00:03 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/0d70/live/2edc6960-ca4f-11f1-bc2e-018d645d8d21.jpg"
-      },
-      {
-        "title": "Romelu Lukaku: 'Adaptasyon sürecim bitti!'",
-        "summary": "Fenerbahçe'de Romelu Lukaku, Levent Mercan ve Matteo Guendouzi, Alanyaspor galibiyetinin ardından açıklamalarda bulundu.",
-        "link": "https://www.hurriyet.com.tr/sporarena/romelu-lukaku-adaptasyon-surecim-bitti-43345649",
-        "date": "Sat, 17 Oct 2026 18:55:02 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3c4839266704a560f632f.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3c4839266704a560f632f.jpg"
-      },
-      {
-        "title": "İsmail Kartal: 'Daha fazla atabilirdik, planımız iyi işledi'",
-        "summary": "Fenerbahçe Teknik Direktörü İsmail Kartal, Alanyaspor'u 3-0 mağlup ettikleri maçın ardından konuştu.",
-        "link": "https://www.hurriyet.com.tr/sporarena/ismail-kartal-daha-fazla-atabilirdik-planimiz-iyi-isledi-43345662",
-        "date": "Sat, 17 Oct 2026 18:46:01 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3c266fb23dcac958226e1.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3c266fb23dcac958226e1.jpg"
-      },
-      {
-        "title": "Mert Hakan Yandaş, 568 gün sonra sahada!",
-        "summary": "Fenerbahçe'de Mert Hakan Yandaş, 568 gün sonra sarı-lacivertli formayla resmi bir maça çıktı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/17/mert-hakan-yandas-568-gun-sonra-sahada",
-        "date": "Sat, 17 Oct 2026 21:31:11 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/25328d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/mert-hakan-yandas-568-gun-sonra-sahada-1792261824997.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/25328d/1200/675/0/0/800/449?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/mert-hakan-yandas-568-gun-sonra-sahada-1792261824997.jpeg"
-      },
-      {
-        "title": "Mason Greenwood, 2. kez penaltı kaçırdı!",
-        "summary": "Fenerbahçe’nin İngiliz futbolcusu Mason Greenwood, Alanyaspor maçında kaçırdığı penaltıyla birlikte bu sezon 2. kez penaltıdan yararlanamadı.Devamı için tıklayınız",
-        "link": "https://www.sabah.com.tr/spor/futbol/2026/10/17/mason-greenwood-2-kez-penalti-kacirdi",
-        "date": "Sat, 17 Oct 2026 21:29:15 +0300",
-        "source": "Sabah Spor",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://iasbh.tmgrup.com.tr/76e225/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/mason-greenwood-2-kez-penalti-kacirdi-1792261733633.jpeg",
-        "category": "general",
-        "image": "https://iasbh.tmgrup.com.tr/76e225/1200/675/0/0/800/450?u=https://isbh.tmgrup.com.tr/sbh/2026/10/17/mason-greenwood-2-kez-penalti-kacirdi-1792261733633.jpeg"
-      },
-      {
-        "title": "Fenerbahçe'de sahne ilk kez Romelu Lukaku'nun! Siftahı Kadıköy'de yaptı",
-        "summary": "Fenerbahçe’nin Belçikalı forveti Romelu Lukaku, bu sezonki ilk golünü Alanyaspor'a karşı attı.",
-        "link": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-sahne-ilk-kez-romelu-lukakunun-siftahi-kadikoyde-yapti-43345643",
-        "date": "Sat, 17 Oct 2026 18:15:30 Z",
-        "source": "Hürriyet",
-        "flag": "🇹🇷",
-        "lang": "tr",
-        "cat": "tr",
-        "feedImage": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3bad49266704a560f62ff.jpg",
-        "category": "general",
-        "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6ad3bad49266704a560f62ff.jpg"
-      },
-      {
-        "title": "Boos and bananas on day of defiance at Man City",
-        "summary": "Manchester City fans boo the Premier League anthem before watching their side move six points clear at the top of the table.",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9vgr6vj4mnyo?at_medium=RSS&at_campaign=rss",
-        "date": "Sat, 17 Oct 2026 18:02:39 GMT",
-        "source": "BBC Sport",
-        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "lang": "en",
-        "cat": "en",
-        "feedImage": null,
-        "category": "general",
-        "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ecba/live/d20cec20-ca51-11f1-852c-2b93a8fc4799.png"
       }
     ]
   },
@@ -527,14 +902,14 @@
         }
       },
       {
-        "id": 565814,
-        "homeId": 1,
-        "awayId": 18,
-        "home": "1. FC Köln",
-        "away": "M'gladbach",
-        "homeCrest": "https://crests.football-data.org/1.png",
-        "awayCrest": "https://crests.football-data.org/18.png",
-        "date": "2026-10-11T13:30:00Z",
+        "id": 560594,
+        "homeId": 322,
+        "awayId": 62,
+        "home": "Hull City",
+        "away": "Everton",
+        "homeCrest": "https://crests.football-data.org/322.png",
+        "awayCrest": "https://crests.football-data.org/62.png",
+        "date": "2026-10-11T13:00:00Z",
         "status": "TIMED",
         "timeframe": "upcoming",
         "score": null,
@@ -545,50 +920,139 @@
         "halfAway": null,
         "winner": null,
         "venue": null,
-        "referee": "Florian Badstübner",
+        "referee": "Michael Salisbury",
         "stage": "REGULAR_SEASON",
         "group": null,
-        "matchday": 5,
-        "league": "BL1",
-        "leagueName": "Bundesliga",
-        "leagueFlag": "🇩🇪",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null,
+        "matchday": 6,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "L",
+          "D",
+          "L",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "D"
+        ],
+        "homeGoalAvg": "1.0",
+        "awayGoalAvg": "1.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 3,
+          "awayWins": 0,
+          "total": 10
+        },
         "analysis": {
           "winProbability": {
-            "home": 85,
-            "draw": 6,
-            "away": 9
+            "home": 35,
+            "draw": 21,
+            "away": 44
           },
-          "favorite": "home",
-          "text": "Ev sahibi avantajını kullanan 1. FC Köln, %85 ihtimalle bu maçın favorisi. M'gladbach deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "favorite": "away",
+          "text": "Everton, deplasmanda olmasına rağmen %44 ile bir adım önde. Hull City son haftalarda form kaybında, bu da işini zorlaştırıyor.",
           "homeForm": [
             "L",
-            "W",
+            "D",
             "L",
             "D",
+            "D"
+          ],
+          "awayForm": [
+            "L",
+            "D",
+            "W",
+            "D",
+            "D"
+          ]
+        }
+      },
+      {
+        "id": 560596,
+        "homeId": 354,
+        "awayId": 351,
+        "home": "Crystal Palace",
+        "away": "Nottingham",
+        "homeCrest": "https://crests.football-data.org/354.png",
+        "awayCrest": "https://crests.football-data.org/351.png",
+        "date": "2026-10-11T13:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": "Peter Bankes",
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 6,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "W",
+          "D",
+          "L",
+          "W",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "D",
+          "D"
+        ],
+        "homeGoalAvg": "1.8",
+        "awayGoalAvg": "1.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 6,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 53,
+            "draw": 18,
+            "away": 29
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Crystal Palace, %53 ihtimalle bu maçın favorisi. Crystal Palace hücumda etkili; maç başına 1.8 gol buluyor.",
+          "homeForm": [
+            "W",
+            "D",
+            "L",
+            "W",
             "L"
           ],
           "awayForm": [
             "L",
             "L",
-            "L",
-            "L",
-            "L"
+            "W",
+            "D",
+            "D"
           ]
         }
       },
       {
-        "id": 565816,
-        "homeId": 17,
-        "awayId": 6,
-        "home": "Freiburg",
-        "away": "Schalke",
-        "homeCrest": "https://crests.football-data.org/17.png",
-        "awayCrest": "https://crests.football-data.org/6.png",
+        "id": 560598,
+        "homeId": 64,
+        "awayId": 65,
+        "home": "Liverpool",
+        "away": "Man City",
+        "homeCrest": "https://crests.football-data.org/64.png",
+        "awayCrest": "https://crests.football-data.org/65.png",
         "date": "2026-10-11T15:30:00Z",
         "status": "TIMED",
         "timeframe": "upcoming",
@@ -600,415 +1064,17 @@
         "halfAway": null,
         "winner": null,
         "venue": null,
-        "referee": "Martin Petersen",
-        "stage": "REGULAR_SEASON",
-        "group": null,
-        "matchday": 5,
-        "league": "BL1",
-        "leagueName": "Bundesliga",
-        "leagueFlag": "🇩🇪",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null,
-        "analysis": {
-          "winProbability": {
-            "home": 67,
-            "draw": 13,
-            "away": 20
-          },
-          "favorite": "home",
-          "text": "Ev sahibi Freiburg, son 5 maçta 4 galibiyetle formda ve %67 ile favori görünüyor. Freiburg hücumda etkili; maç başına 2.8 gol buluyor.",
-          "homeForm": [
-            "W",
-            "D",
-            "W",
-            "W",
-            "W"
-          ],
-          "awayForm": [
-            "L",
-            "L",
-            "D",
-            "W",
-            "D"
-          ]
-        }
-      },
-      {
-        "id": 565828,
-        "homeId": 19,
-        "awayId": 1,
-        "home": "Frankfurt",
-        "away": "1. FC Köln",
-        "homeCrest": "https://crests.football-data.org/19.png",
-        "awayCrest": "https://crests.football-data.org/1.png",
-        "date": "2026-10-16T18:30:00Z",
-        "status": "TIMED",
-        "timeframe": "upcoming",
-        "score": null,
-        "halfTime": null,
-        "fullHome": null,
-        "fullAway": null,
-        "halfHome": null,
-        "halfAway": null,
-        "winner": null,
-        "venue": null,
-        "referee": "Benjamin Brand",
+        "referee": "Chris Kavanagh",
         "stage": "REGULAR_SEASON",
         "group": null,
         "matchday": 6,
-        "league": "BL1",
-        "leagueName": "Bundesliga",
-        "leagueFlag": "🇩🇪",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null,
-        "analysis": {
-          "winProbability": {
-            "home": 56,
-            "draw": 16,
-            "away": 28
-          },
-          "favorite": "home",
-          "text": "Ev sahibi avantajını kullanan Frankfurt, %56 ihtimalle bu maçın favorisi. 1. FC Köln deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
-          "homeForm": [
-            "W",
-            "L",
-            "D",
-            "W",
-            "L"
-          ],
-          "awayForm": [
-            "L",
-            "W",
-            "L",
-            "D",
-            "L"
-          ]
-        }
-      },
-      {
-        "id": 565821,
-        "homeId": 28,
-        "awayId": 4,
-        "home": "Union Berlin",
-        "away": "Dortmund",
-        "homeCrest": "https://crests.football-data.org/28.png",
-        "awayCrest": "https://crests.football-data.org/4.png",
-        "date": "2026-10-17T13:30:00Z",
-        "status": "TIMED",
-        "timeframe": "upcoming",
-        "score": null,
-        "halfTime": null,
-        "fullHome": null,
-        "fullAway": null,
-        "halfHome": null,
-        "halfAway": null,
-        "winner": null,
-        "venue": null,
-        "referee": "Daniel Schlager",
-        "stage": "REGULAR_SEASON",
-        "group": null,
-        "matchday": 6,
-        "league": "BL1",
-        "leagueName": "Bundesliga",
-        "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "D",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "D",
-          "W",
-          "W"
-        ],
-        "homeGoalAvg": "0.4",
-        "awayGoalAvg": "1.2",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 10
-        },
-        "analysis": {
-          "winProbability": {
-            "home": 22,
-            "draw": 13,
-            "away": 65
-          },
-          "favorite": "away",
-          "text": "Dortmund, deplasmanda olmasına rağmen %65 ile bir adım önde. Union Berlin son haftalarda form kaybında, bu da işini zorlaştırıyor.",
-          "homeForm": [
-            "D",
-            "W",
-            "L",
-            "L",
-            "L"
-          ],
-          "awayForm": [
-            "D",
-            "L",
-            "D",
-            "W",
-            "W"
-          ]
-        }
-      },
-      {
-        "id": 565822,
-        "homeId": 7,
-        "awayId": 10,
-        "home": "HSV",
-        "away": "Stuttgart",
-        "homeCrest": "https://crests.football-data.org/7.png",
-        "awayCrest": "https://crests.football-data.org/10.png",
-        "date": "2026-10-17T13:30:00Z",
-        "status": "TIMED",
-        "timeframe": "upcoming",
-        "score": null,
-        "halfTime": null,
-        "fullHome": null,
-        "fullAway": null,
-        "halfHome": null,
-        "halfAway": null,
-        "winner": null,
-        "venue": null,
-        "referee": "Robert Hartmann",
-        "stage": "REGULAR_SEASON",
-        "group": null,
-        "matchday": 6,
-        "league": "BL1",
-        "leagueName": "Bundesliga",
-        "leagueFlag": "🇩🇪",
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "homeForm": [
           "W",
           "W",
-          "W",
           "L",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "L",
-          "L"
-        ],
-        "homeGoalAvg": "1.2",
-        "awayGoalAvg": "1.2",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 10
-        },
-        "analysis": {
-          "winProbability": {
-            "home": 44,
-            "draw": 21,
-            "away": 35
-          },
-          "favorite": "home",
-          "text": "Ev sahibi HSV, son 5 maçta 3 galibiyetle formda ve %44 ile favori görünüyor.",
-          "homeForm": [
-            "W",
-            "W",
-            "W",
-            "L",
-            "L"
-          ],
-          "awayForm": [
-            "L",
-            "W",
-            "W",
-            "L",
-            "L"
-          ]
-        }
-      },
-      {
-        "id": 565823,
-        "homeId": 12,
-        "awayId": 29,
-        "home": "Bremen",
-        "away": "SC Paderborn",
-        "homeCrest": "https://crests.football-data.org/12.png",
-        "awayCrest": "https://crests.football-data.org/29.png",
-        "date": "2026-10-17T13:30:00Z",
-        "status": "TIMED",
-        "timeframe": "upcoming",
-        "score": null,
-        "halfTime": null,
-        "fullHome": null,
-        "fullAway": null,
-        "halfHome": null,
-        "halfAway": null,
-        "winner": null,
-        "venue": null,
-        "referee": "Robert Schröder",
-        "stage": "REGULAR_SEASON",
-        "group": null,
-        "matchday": 6,
-        "league": "BL1",
-        "leagueName": "Bundesliga",
-        "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "D",
-          "D",
-          "W",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "L",
-          "W",
-          "L",
-          "L"
-        ],
-        "homeGoalAvg": "2.2",
-        "awayGoalAvg": "1.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 9
-        },
-        "analysis": {
-          "winProbability": {
-            "home": 67,
-            "draw": 12,
-            "away": 21
-          },
-          "favorite": "home",
-          "text": "Ev sahibi avantajını kullanan Bremen, %67 ihtimalle bu maçın favorisi. Bremen hücumda etkili; maç başına 2.2 gol buluyor.",
-          "homeForm": [
-            "D",
-            "D",
-            "W",
-            "D",
-            "W"
-          ],
-          "awayForm": [
-            "D",
-            "L",
-            "W",
-            "L",
-            "L"
-          ]
-        }
-      },
-      {
-        "id": 565824,
-        "homeId": 719,
-        "awayId": 16,
-        "home": "Elversberg",
-        "away": "Augsburg",
-        "homeCrest": "https://crests.football-data.org/719.png",
-        "awayCrest": "https://crests.football-data.org/16.png",
-        "date": "2026-10-17T13:30:00Z",
-        "status": "TIMED",
-        "timeframe": "upcoming",
-        "score": null,
-        "halfTime": null,
-        "fullHome": null,
-        "fullAway": null,
-        "halfHome": null,
-        "halfAway": null,
-        "winner": null,
-        "venue": null,
-        "referee": "Florian Exner",
-        "stage": "REGULAR_SEASON",
-        "group": null,
-        "matchday": 6,
-        "league": "BL1",
-        "leagueName": "Bundesliga",
-        "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "W",
-          "L",
-          "D",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "L",
-          "D",
-          "W"
-        ],
-        "homeGoalAvg": "1.8",
-        "awayGoalAvg": "2.6",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 0,
-          "awayWins": 0,
-          "total": 2
-        },
-        "analysis": {
-          "winProbability": {
-            "home": 47,
-            "draw": 20,
-            "away": 33
-          },
-          "favorite": "home",
-          "text": "Ev sahibi avantajını kullanan Elversberg, %47 ihtimalle bu maçın favorisi. Augsburg gol ortalaması yüksek (2.6) ancak savunmada zorlanıyor.",
-          "homeForm": [
-            "W",
-            "L",
-            "D",
-            "L",
-            "W"
-          ],
-          "awayForm": [
-            "L",
-            "D",
-            "L",
-            "D",
-            "W"
-          ]
-        }
-      },
-      {
-        "id": 565829,
-        "homeId": 6,
-        "awayId": 15,
-        "home": "Schalke",
-        "away": "Mainz",
-        "homeCrest": "https://crests.football-data.org/6.png",
-        "awayCrest": "https://crests.football-data.org/15.png",
-        "date": "2026-10-17T13:30:00Z",
-        "status": "TIMED",
-        "timeframe": "upcoming",
-        "score": null,
-        "halfTime": null,
-        "fullHome": null,
-        "fullAway": null,
-        "halfHome": null,
-        "halfAway": null,
-        "winner": null,
-        "venue": null,
-        "referee": "Richard Hempel",
-        "stage": "REGULAR_SEASON",
-        "group": null,
-        "matchday": 6,
-        "league": "BL1",
-        "leagueName": "Bundesliga",
-        "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "L",
-          "L",
-          "D",
           "W",
           "D"
         ],
@@ -1016,29 +1082,29 @@
           "W",
           "L",
           "W",
-          "L",
+          "W",
           "W"
         ],
-        "homeGoalAvg": "0.8",
+        "homeGoalAvg": "1.8",
         "awayGoalAvg": "2.8",
         "headToHead": {
           "homeWins": 0,
-          "draws": 3,
+          "draws": 2,
           "awayWins": 0,
           "total": 10
         },
         "analysis": {
           "winProbability": {
-            "home": 32,
-            "draw": 19,
-            "away": 49
+            "home": 37,
+            "draw": 22,
+            "away": 41
           },
           "favorite": "away",
-          "text": "Deplasmandaki Mainz, son 5 maçta 3 galibiyetle çıkışta; %49 ile favori. Mainz gol ortalaması yüksek (2.8) ancak savunmada zorlanıyor.",
+          "text": "İki takım da benzer formda; bu maçta beraberlik ihtimali öne çıkıyor (%22). Man City gol ortalaması yüksek (2.8) ancak savunmada zorlanıyor.",
           "homeForm": [
+            "W",
+            "W",
             "L",
-            "L",
-            "D",
             "W",
             "D"
           ],
@@ -1046,19 +1112,379 @@
             "W",
             "L",
             "W",
-            "L",
+            "W",
             "W"
           ]
         }
       },
       {
-        "id": 565825,
-        "homeId": 5,
-        "awayId": 721,
-        "home": "Bayern",
-        "away": "RB Leipzig",
-        "homeCrest": "https://crests.football-data.org/5.png",
-        "awayCrest": "https://crests.football-data.org/721.png",
+        "id": 560597,
+        "homeId": 1076,
+        "awayId": 67,
+        "home": "Coventry City",
+        "away": "Newcastle",
+        "homeCrest": "https://crests.football-data.org/1076.png",
+        "awayCrest": "https://crests.football-data.org/67.png",
+        "date": "2026-10-12T19:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": "John Brooks",
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 6,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "W",
+          "W",
+          "L",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "D"
+        ],
+        "homeGoalAvg": "1.0",
+        "awayGoalAvg": "1.2",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 59,
+            "draw": 16,
+            "away": 25
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Coventry City, %59 ihtimalle bu maçın favorisi. Newcastle deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [
+            "W",
+            "W",
+            "L",
+            "L",
+            "L"
+          ],
+          "awayForm": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "D"
+          ]
+        }
+      },
+      {
+        "id": 560603,
+        "homeId": 62,
+        "awayId": 61,
+        "home": "Everton",
+        "away": "Chelsea",
+        "homeCrest": "https://crests.football-data.org/62.png",
+        "awayCrest": "https://crests.football-data.org/61.png",
+        "date": "2026-10-17T11:30:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": "Paul Tierney",
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 7,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "homeGoalAvg": "1.0",
+        "awayGoalAvg": "2.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 38,
+            "draw": 23,
+            "away": 39
+          },
+          "favorite": "away",
+          "text": "İki takım da benzer formda; bu maçta beraberlik ihtimali öne çıkıyor (%23). Chelsea gol ortalaması yüksek (2.0) ancak savunmada zorlanıyor.",
+          "homeForm": [
+            "L",
+            "D",
+            "W",
+            "D",
+            "D"
+          ],
+          "awayForm": [
+            "W",
+            "W",
+            "L",
+            "D",
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 560602,
+        "homeId": 63,
+        "awayId": 322,
+        "home": "Fulham",
+        "away": "Hull City",
+        "homeCrest": "https://crests.football-data.org/63.png",
+        "awayCrest": "https://crests.football-data.org/322.png",
+        "date": "2026-10-17T14:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": "Chris Kavanagh",
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 7,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "W",
+          "L",
+          "D",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "D",
+          "D"
+        ],
+        "homeGoalAvg": "1.0",
+        "awayGoalAvg": "1.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 57,
+            "draw": 16,
+            "away": 27
+          },
+          "favorite": "home",
+          "text": "Ev sahibi avantajını kullanan Fulham, %57 ihtimalle bu maçın favorisi. Hull City deplasmanda son maçlarda istikrarsız bir görüntü veriyor.",
+          "homeForm": [
+            "W",
+            "L",
+            "D",
+            "D",
+            "L"
+          ],
+          "awayForm": [
+            "L",
+            "D",
+            "L",
+            "D",
+            "D"
+          ]
+        }
+      },
+      {
+        "id": 560610,
+        "homeId": 65,
+        "awayId": 349,
+        "home": "Man City",
+        "away": "Ipswich Town",
+        "homeCrest": "https://crests.football-data.org/65.png",
+        "awayCrest": "https://crests.football-data.org/349.png",
+        "date": "2026-10-17T14:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": "Farai Hallam",
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 7,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "L"
+        ],
+        "homeGoalAvg": "2.8",
+        "awayGoalAvg": "1.4",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 61,
+            "draw": 15,
+            "away": 24
+          },
+          "favorite": "home",
+          "text": "Ev sahibi Man City, son 5 maçta 4 galibiyetle formda ve %61 ile favori görünüyor. Man City hücumda etkili; maç başına 2.8 gol buluyor.",
+          "homeForm": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "awayForm": [
+            "L",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        }
+      },
+      {
+        "id": 560611,
+        "homeId": 402,
+        "awayId": 64,
+        "home": "Brentford",
+        "away": "Liverpool",
+        "homeCrest": "https://crests.football-data.org/402.png",
+        "awayCrest": "https://crests.football-data.org/64.png",
+        "date": "2026-10-17T14:00:00Z",
+        "status": "TIMED",
+        "timeframe": "upcoming",
+        "score": null,
+        "halfTime": null,
+        "fullHome": null,
+        "fullAway": null,
+        "halfHome": null,
+        "halfAway": null,
+        "winner": null,
+        "venue": null,
+        "referee": "John Brooks",
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 7,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "D"
+        ],
+        "homeGoalAvg": "1.8",
+        "awayGoalAvg": "1.8",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 1,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 36,
+            "draw": 22,
+            "away": 42
+          },
+          "favorite": "away",
+          "text": "İki takım da benzer formda; bu maçta beraberlik ihtimali öne çıkıyor (%22). Liverpool gol ortalaması yüksek (1.8) ancak savunmada zorlanıyor.",
+          "homeForm": [
+            "L",
+            "D",
+            "W",
+            "D",
+            "D"
+          ],
+          "awayForm": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "D"
+          ]
+        }
+      },
+      {
+        "id": 560607,
+        "homeId": 67,
+        "awayId": 58,
+        "home": "Newcastle",
+        "away": "Aston Villa",
+        "homeCrest": "https://crests.football-data.org/67.png",
+        "awayCrest": "https://crests.football-data.org/58.png",
         "date": "2026-10-17T16:30:00Z",
         "status": "TIMED",
         "timeframe": "upcoming",
@@ -1070,56 +1496,56 @@
         "halfAway": null,
         "winner": null,
         "venue": null,
-        "referee": "Tobias Stieler",
+        "referee": "Jarred Gillett",
         "stage": "REGULAR_SEASON",
         "group": null,
-        "matchday": 6,
-        "league": "BL1",
-        "leagueName": "Bundesliga",
-        "leagueFlag": "🇩🇪",
+        "matchday": 7,
+        "league": "PL",
+        "leagueName": "Premier League",
+        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "homeForm": [
+          "L",
+          "L",
           "W",
-          "D",
-          "D",
-          "W",
-          "W"
+          "L",
+          "D"
         ],
         "awayForm": [
-          "L",
           "W",
           "W",
-          "L",
-          "W"
+          "D",
+          "W",
+          "L"
         ],
-        "homeGoalAvg": "4.0",
+        "homeGoalAvg": "1.2",
         "awayGoalAvg": "2.6",
         "headToHead": {
           "homeWins": 0,
-          "draws": 2,
+          "draws": 1,
           "awayWins": 0,
           "total": 10
         },
         "analysis": {
           "winProbability": {
-            "home": 49,
-            "draw": 19,
-            "away": 32
+            "home": 24,
+            "draw": 15,
+            "away": 61
           },
-          "favorite": "home",
-          "text": "Ev sahibi Bayern, son 5 maçta 3 galibiyetle formda ve %49 ile favori görünüyor. RB Leipzig gol ortalaması yüksek (2.6) ancak savunmada zorlanıyor.",
+          "favorite": "away",
+          "text": "Deplasmandaki Aston Villa, son 5 maçta 3 galibiyetle çıkışta; %61 ile favori. Newcastle son haftalarda form kaybında, bu da işini zorlaştırıyor.",
           "homeForm": [
+            "L",
+            "L",
             "W",
-            "D",
-            "D",
-            "W",
-            "W"
+            "L",
+            "D"
           ],
           "awayForm": [
-            "L",
             "W",
             "W",
-            "L",
-            "W"
+            "D",
+            "W",
+            "L"
           ]
         }
       },
@@ -1142,7 +1568,7 @@
         "halfAway": null,
         "winner": null,
         "venue": null,
-        "referee": null,
+        "referee": "Marco Guida",
         "stage": "REGULAR_SEASON",
         "group": null,
         "matchday": 7,
@@ -11477,11 +11903,51 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "W",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "homeGoalAvg": "1.2",
+        "awayGoalAvg": "2.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 32,
+            "draw": 19,
+            "away": 49
+          },
+          "favorite": "away",
+          "text": "Deplasmandaki Lazio, son 5 maçta 4 galibiyetle çıkışta; %49 ile favori.",
+          "homeForm": [
+            "L",
+            "L",
+            "W",
+            "D",
+            "W"
+          ],
+          "awayForm": [
+            "W",
+            "W",
+            "D",
+            "W",
+            "W"
+          ]
+        }
       },
       {
         "id": 564738,
@@ -11509,28 +11975,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [
-          "D",
-          "D",
-          "W",
-          "L",
-          "D"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "W",
-          "D",
-          "W"
-        ],
-        "homeGoalAvg": "1.2",
-        "awayGoalAvg": "2.4",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 3,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 35,
@@ -11581,28 +12030,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [
-          "W",
-          "D",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "L",
-          "W",
-          "D"
-        ],
-        "homeGoalAvg": "1.8",
-        "awayGoalAvg": "1.8",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 3,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 36,
@@ -11653,28 +12085,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [
-          "L",
-          "L",
-          "L",
-          "D",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "L",
-          "D",
-          "L"
-        ],
-        "homeGoalAvg": "1.0",
-        "awayGoalAvg": "2.0",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 31,
@@ -11725,28 +12140,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "L",
-          "D",
-          "D",
-          "D"
-        ],
-        "homeGoalAvg": "1.4",
-        "awayGoalAvg": "1.2",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 8
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 65,
@@ -11797,28 +12195,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "L",
-          "D",
-          "W",
-          "D",
-          "D"
-        ],
-        "homeGoalAvg": "2.8",
-        "awayGoalAvg": "1.8",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 3,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 56,
@@ -11869,11 +12250,51 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "D",
+          "W"
+        ],
+        "homeGoalAvg": "1.0",
+        "awayGoalAvg": "1.8",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 3,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 27,
+            "draw": 16,
+            "away": 57
+          },
+          "favorite": "away",
+          "text": "Milan, deplasmanda olmasına rağmen %57 ile bir adım önde. Genoa son haftalarda form kaybında, bu da işini zorlaştırıyor.",
+          "homeForm": [
+            "L",
+            "W",
+            "L",
+            "D",
+            "L"
+          ],
+          "awayForm": [
+            "D",
+            "W",
+            "D",
+            "D",
+            "W"
+          ]
+        }
       },
       {
         "id": 558538,
@@ -11901,11 +12322,51 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "L",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        "awayForm": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "W"
+        ],
+        "homeGoalAvg": "1.6",
+        "awayGoalAvg": "1.2",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 0,
+          "awayWins": 0,
+          "total": 6
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 38,
+            "draw": 23,
+            "away": 39
+          },
+          "favorite": "away",
+          "text": "İki takım da benzer formda; bu maçta beraberlik ihtimali öne çıkıyor (%23). Monza son haftalarda form kaybında, bu da işini zorlaştırıyor.",
+          "homeForm": [
+            "L",
+            "W",
+            "L",
+            "D",
+            "L"
+          ],
+          "awayForm": [
+            "W",
+            "L",
+            "L",
+            "L",
+            "W"
+          ]
+        }
       },
       {
         "id": 559636,
@@ -11933,11 +12394,51 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "W"
+        ],
+        "awayForm": [
+          "D",
+          "L",
+          "W",
+          "L",
+          "W"
+        ],
+        "homeGoalAvg": "2.0",
+        "awayGoalAvg": "1.0",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 4,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 56,
+            "draw": 17,
+            "away": 27
+          },
+          "favorite": "home",
+          "text": "Ev sahibi Stade Rennais, son 5 maçta 4 galibiyetle formda ve %56 ile favori görünüyor. Stade Rennais hücumda etkili; maç başına 2.0 gol buluyor.",
+          "homeForm": [
+            "W",
+            "L",
+            "W",
+            "W",
+            "W"
+          ],
+          "awayForm": [
+            "D",
+            "L",
+            "W",
+            "L",
+            "W"
+          ]
+        }
       },
       {
         "id": 565855,
@@ -11965,28 +12466,11 @@
         "league": "BL1",
         "leagueName": "Bundesliga",
         "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "L",
-          "W",
-          "L",
-          "D",
-          "L"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "W",
-          "L"
-        ],
-        "homeGoalAvg": "1.0",
-        "awayGoalAvg": "2.8",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 26,
@@ -12037,28 +12521,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [
-          "W",
-          "W",
-          "L",
-          "W",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "L",
-          "W",
-          "L"
-        ],
-        "homeGoalAvg": "1.8",
-        "awayGoalAvg": "1.8",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 5,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 53,
@@ -12109,11 +12576,51 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "D",
+          "D"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "D",
+          "W",
+          "W"
+        ],
+        "homeGoalAvg": "1.2",
+        "awayGoalAvg": "1.8",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 3,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 29,
+            "draw": 17,
+            "away": 54
+          },
+          "favorite": "away",
+          "text": "Deplasmandaki Monaco, son 5 maçta 3 galibiyetle çıkışta; %54 ile favori.",
+          "homeForm": [
+            "L",
+            "L",
+            "W",
+            "D",
+            "D"
+          ],
+          "awayForm": [
+            "D",
+            "W",
+            "D",
+            "W",
+            "W"
+          ]
+        }
       },
       {
         "id": 559632,
@@ -12141,11 +12648,51 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "W",
+          "D",
+          "W",
+          "D"
+        ],
+        "homeGoalAvg": "1.8",
+        "awayGoalAvg": "1.8",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 3,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 39,
+            "draw": 23,
+            "away": 38
+          },
+          "favorite": "home",
+          "text": "İki takım da benzer formda; bu maçta beraberlik ihtimali öne çıkıyor (%23). Brest hücumda etkili; maç başına 1.8 gol buluyor.",
+          "homeForm": [
+            "D",
+            "W",
+            "L",
+            "L",
+            "W"
+          ],
+          "awayForm": [
+            "L",
+            "W",
+            "D",
+            "W",
+            "D"
+          ]
+        }
       },
       {
         "id": 559633,
@@ -12237,28 +12784,11 @@
         "league": "PL",
         "leagueName": "Premier League",
         "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": [
-          "L",
-          "D",
-          "D",
-          "L",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "D",
-          "W",
-          "L"
-        ],
-        "homeGoalAvg": "1.2",
-        "awayGoalAvg": "2.6",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 31,
@@ -12309,28 +12839,11 @@
         "league": "BL1",
         "leagueName": "Bundesliga",
         "leagueFlag": "🇩🇪",
-        "homeForm": [
-          "W",
-          "D",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "D",
-          "W",
-          "L",
-          "L",
-          "L"
-        ],
-        "homeGoalAvg": "2.8",
-        "awayGoalAvg": "0.4",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 4,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 89,
@@ -12381,11 +12894,51 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "W",
+          "L",
+          "W",
+          "D",
+          "W"
+        ],
+        "awayForm": [
+          "L",
+          "D",
+          "L",
+          "W",
+          "W"
+        ],
+        "homeGoalAvg": "3.2",
+        "awayGoalAvg": "1.6",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 53,
+            "draw": 18,
+            "away": 29
+          },
+          "favorite": "home",
+          "text": "Ev sahibi Inter, son 5 maçta 3 galibiyetle formda ve %53 ile favori görünüyor. Como 1907 gol ortalaması yüksek (1.6) ancak savunmada zorlanıyor.",
+          "homeForm": [
+            "W",
+            "L",
+            "W",
+            "D",
+            "W"
+          ],
+          "awayForm": [
+            "L",
+            "D",
+            "L",
+            "W",
+            "W"
+          ]
+        }
       },
       {
         "id": 564742,
@@ -12413,28 +12966,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [
-          "D",
-          "W",
-          "D",
-          "D",
-          "D"
-        ],
-        "awayForm": [
-          "D",
-          "D",
-          "L",
-          "L",
-          "D"
-        ],
-        "homeGoalAvg": "1.4",
-        "awayGoalAvg": "1.4",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 2,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 69,
@@ -12485,28 +13021,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [
-          "D",
-          "W",
-          "L",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "L",
-          "W",
-          "L",
-          "D",
-          "D"
-        ],
-        "homeGoalAvg": "1.8",
-        "awayGoalAvg": "0.6",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 4,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 64,
@@ -12557,11 +13076,51 @@
         "league": "BL1",
         "leagueName": "Bundesliga",
         "leagueFlag": "🇩🇪",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "L",
+          "L",
+          "D",
+          "W",
+          "D"
+        ],
+        "homeGoalAvg": "1.8",
+        "awayGoalAvg": "0.8",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 2,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 37,
+            "draw": 22,
+            "away": 41
+          },
+          "favorite": "away",
+          "text": "İki takım da benzer formda; bu maçta beraberlik ihtimali öne çıkıyor (%22). Hoffenheim hücumda etkili; maç başına 1.8 gol buluyor.",
+          "homeForm": [
+            "L",
+            "L",
+            "W",
+            "L",
+            "L"
+          ],
+          "awayForm": [
+            "L",
+            "L",
+            "D",
+            "W",
+            "D"
+          ]
+        }
       },
       {
         "id": 558529,
@@ -12589,11 +13148,51 @@
         "league": "SA",
         "leagueName": "Serie A",
         "leagueFlag": "🇮🇹",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
+        "homeForm": [
+          "L",
+          "D",
+          "W",
+          "L",
+          "L"
+        ],
+        "awayForm": [
+          "D",
+          "W",
+          "L",
+          "D",
+          "W"
+        ],
+        "homeGoalAvg": "1.4",
+        "awayGoalAvg": "1.6",
+        "headToHead": {
+          "homeWins": 0,
+          "draws": 3,
+          "awayWins": 0,
+          "total": 10
+        },
+        "analysis": {
+          "winProbability": {
+            "home": 32,
+            "draw": 19,
+            "away": 49
+          },
+          "favorite": "away",
+          "text": "Juventus, deplasmanda olmasına rağmen %49 ile bir adım önde. Fiorentina son haftalarda form kaybında, bu da işini zorlaştırıyor.",
+          "homeForm": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "L"
+          ],
+          "awayForm": [
+            "D",
+            "W",
+            "L",
+            "D",
+            "W"
+          ]
+        }
       },
       {
         "id": 559630,
@@ -12653,28 +13252,11 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "awayForm": [
-          "W",
-          "W",
-          "W",
-          "W",
-          "W"
-        ],
-        "homeGoalAvg": "2.2",
-        "awayGoalAvg": "4.4",
-        "headToHead": {
-          "homeWins": 0,
-          "draws": 1,
-          "awayWins": 0,
-          "total": 10
-        },
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null,
         "analysis": {
           "winProbability": {
             "home": 38,
@@ -12830,38 +13412,6 @@
         "headToHead": null
       },
       {
-        "id": 560607,
-        "homeId": 67,
-        "awayId": 58,
-        "home": "Newcastle",
-        "away": "Aston Villa",
-        "homeCrest": "https://crests.football-data.org/67.png",
-        "awayCrest": "https://crests.football-data.org/58.png",
-        "date": "2026-10-17T16:30:00Z",
-        "status": "FINISHED",
-        "timeframe": "past",
-        "score": "0-1",
-        "halfTime": "0-1",
-        "fullHome": 0,
-        "fullAway": 1,
-        "halfHome": 0,
-        "halfAway": 1,
-        "winner": "AWAY_TEAM",
-        "venue": null,
-        "referee": "Jarred Gillett",
-        "stage": "REGULAR_SEASON",
-        "group": null,
-        "matchday": 7,
-        "league": "PL",
-        "leagueName": "Premier League",
-        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
-      },
-      {
         "id": 564713,
         "homeId": 90,
         "awayId": 81,
@@ -12887,6 +13437,38 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 565825,
+        "homeId": 5,
+        "awayId": 721,
+        "home": "Bayern",
+        "away": "RB Leipzig",
+        "homeCrest": "https://crests.football-data.org/5.png",
+        "awayCrest": "https://crests.football-data.org/721.png",
+        "date": "2026-10-17T16:30:00Z",
+        "status": "FINISHED",
+        "timeframe": "past",
+        "score": "6-1",
+        "halfTime": "3-0",
+        "fullHome": 6,
+        "fullAway": 1,
+        "halfHome": 3,
+        "halfAway": 0,
+        "winner": "HOME_TEAM",
+        "venue": null,
+        "referee": "Tobias Stieler",
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 6,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
         "homeForm": null,
         "awayForm": null,
         "homeGoalAvg": null,
@@ -12990,31 +13572,63 @@
         "headToHead": null
       },
       {
-        "id": 560602,
-        "homeId": 63,
-        "awayId": 322,
-        "home": "Fulham",
-        "away": "Hull City",
-        "homeCrest": "https://crests.football-data.org/63.png",
-        "awayCrest": "https://crests.football-data.org/322.png",
-        "date": "2026-10-17T14:00:00Z",
+        "id": 565821,
+        "homeId": 28,
+        "awayId": 4,
+        "home": "Union Berlin",
+        "away": "Dortmund",
+        "homeCrest": "https://crests.football-data.org/28.png",
+        "awayCrest": "https://crests.football-data.org/4.png",
+        "date": "2026-10-17T13:30:00Z",
+        "status": "FINISHED",
+        "timeframe": "past",
+        "score": "0-0",
+        "halfTime": "0-0",
+        "fullHome": 0,
+        "fullAway": 0,
+        "halfHome": 0,
+        "halfAway": 0,
+        "winner": "DRAW",
+        "venue": null,
+        "referee": "Daniel Schlager",
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 6,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 565822,
+        "homeId": 7,
+        "awayId": 10,
+        "home": "HSV",
+        "away": "Stuttgart",
+        "homeCrest": "https://crests.football-data.org/7.png",
+        "awayCrest": "https://crests.football-data.org/10.png",
+        "date": "2026-10-17T13:30:00Z",
         "status": "FINISHED",
         "timeframe": "past",
         "score": "1-0",
-        "halfTime": "1-0",
+        "halfTime": "0-0",
         "fullHome": 1,
         "fullAway": 0,
-        "halfHome": 1,
+        "halfHome": 0,
         "halfAway": 0,
         "winner": "HOME_TEAM",
         "venue": null,
-        "referee": "Chris Kavanagh",
+        "referee": "Robert Hartmann",
         "stage": "REGULAR_SEASON",
         "group": null,
-        "matchday": 7,
-        "league": "PL",
-        "leagueName": "Premier League",
-        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "matchday": 6,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
         "homeForm": null,
         "awayForm": null,
         "homeGoalAvg": null,
@@ -13022,31 +13636,63 @@
         "headToHead": null
       },
       {
-        "id": 560610,
-        "homeId": 65,
-        "awayId": 349,
-        "home": "Man City",
-        "away": "Ipswich Town",
-        "homeCrest": "https://crests.football-data.org/65.png",
-        "awayCrest": "https://crests.football-data.org/349.png",
-        "date": "2026-10-17T14:00:00Z",
+        "id": 565823,
+        "homeId": 12,
+        "awayId": 29,
+        "home": "Bremen",
+        "away": "SC Paderborn",
+        "homeCrest": "https://crests.football-data.org/12.png",
+        "awayCrest": "https://crests.football-data.org/29.png",
+        "date": "2026-10-17T13:30:00Z",
         "status": "FINISHED",
         "timeframe": "past",
-        "score": "3-2",
-        "halfTime": "2-1",
-        "fullHome": 3,
+        "score": "2-2",
+        "halfTime": "0-2",
+        "fullHome": 2,
         "fullAway": 2,
-        "halfHome": 2,
+        "halfHome": 0,
+        "halfAway": 2,
+        "winner": "DRAW",
+        "venue": null,
+        "referee": "Robert Schröder",
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 6,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 565824,
+        "homeId": 719,
+        "awayId": 16,
+        "home": "Elversberg",
+        "away": "Augsburg",
+        "homeCrest": "https://crests.football-data.org/719.png",
+        "awayCrest": "https://crests.football-data.org/16.png",
+        "date": "2026-10-17T13:30:00Z",
+        "status": "FINISHED",
+        "timeframe": "past",
+        "score": "4-3",
+        "halfTime": "3-1",
+        "fullHome": 4,
+        "fullAway": 3,
+        "halfHome": 3,
         "halfAway": 1,
         "winner": "HOME_TEAM",
         "venue": null,
-        "referee": "Farai Hallam",
+        "referee": "Florian Exner",
         "stage": "REGULAR_SEASON",
         "group": null,
-        "matchday": 7,
-        "league": "PL",
-        "leagueName": "Premier League",
-        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "matchday": 6,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
         "homeForm": null,
         "awayForm": null,
         "homeGoalAvg": null,
@@ -13054,31 +13700,31 @@
         "headToHead": null
       },
       {
-        "id": 560611,
-        "homeId": 402,
-        "awayId": 64,
-        "home": "Brentford",
-        "away": "Liverpool",
-        "homeCrest": "https://crests.football-data.org/402.png",
-        "awayCrest": "https://crests.football-data.org/64.png",
-        "date": "2026-10-17T14:00:00Z",
+        "id": 565829,
+        "homeId": 6,
+        "awayId": 15,
+        "home": "Schalke",
+        "away": "Mainz",
+        "homeCrest": "https://crests.football-data.org/6.png",
+        "awayCrest": "https://crests.football-data.org/15.png",
+        "date": "2026-10-17T13:30:00Z",
         "status": "FINISHED",
         "timeframe": "past",
-        "score": "1-2",
-        "halfTime": "1-0",
-        "fullHome": 1,
-        "fullAway": 2,
-        "halfHome": 1,
-        "halfAway": 0,
+        "score": "0-1",
+        "halfTime": "0-1",
+        "fullHome": 0,
+        "fullAway": 1,
+        "halfHome": 0,
+        "halfAway": 1,
         "winner": "AWAY_TEAM",
         "venue": null,
-        "referee": "John Brooks",
+        "referee": "Richard Hempel",
         "stage": "REGULAR_SEASON",
         "group": null,
-        "matchday": 7,
-        "league": "PL",
-        "leagueName": "Premier League",
-        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "matchday": 6,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
         "homeForm": null,
         "awayForm": null,
         "homeGoalAvg": null,
@@ -13143,38 +13789,6 @@
         "league": "PD",
         "leagueName": "La Liga",
         "leagueFlag": "🇪🇸",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
-      },
-      {
-        "id": 560603,
-        "homeId": 62,
-        "awayId": 61,
-        "home": "Everton",
-        "away": "Chelsea",
-        "homeCrest": "https://crests.football-data.org/62.png",
-        "awayCrest": "https://crests.football-data.org/61.png",
-        "date": "2026-10-17T11:30:00Z",
-        "status": "FINISHED",
-        "timeframe": "past",
-        "score": "0-2",
-        "halfTime": "0-0",
-        "fullHome": 0,
-        "fullAway": 2,
-        "halfHome": 0,
-        "halfAway": 0,
-        "winner": "AWAY_TEAM",
-        "venue": null,
-        "referee": "Paul Tierney",
-        "stage": "REGULAR_SEASON",
-        "group": null,
-        "matchday": 7,
-        "league": "PL",
-        "leagueName": "Premier League",
-        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
         "homeForm": null,
         "awayForm": null,
         "homeGoalAvg": null,
@@ -13271,6 +13885,38 @@
         "league": "FL1",
         "leagueName": "Ligue 1",
         "leagueFlag": "🇫🇷",
+        "homeForm": null,
+        "awayForm": null,
+        "homeGoalAvg": null,
+        "awayGoalAvg": null,
+        "headToHead": null
+      },
+      {
+        "id": 565828,
+        "homeId": 19,
+        "awayId": 1,
+        "home": "Frankfurt",
+        "away": "1. FC Köln",
+        "homeCrest": "https://crests.football-data.org/19.png",
+        "awayCrest": "https://crests.football-data.org/1.png",
+        "date": "2026-10-16T18:30:00Z",
+        "status": "FINISHED",
+        "timeframe": "past",
+        "score": "1-0",
+        "halfTime": "0-0",
+        "fullHome": 1,
+        "fullAway": 0,
+        "halfHome": 0,
+        "halfAway": 0,
+        "winner": "HOME_TEAM",
+        "venue": null,
+        "referee": "Benjamin Brand",
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "matchday": 6,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
         "homeForm": null,
         "awayForm": null,
         "homeGoalAvg": null,
@@ -13854,38 +14500,6 @@
         "headToHead": null
       },
       {
-        "id": 560597,
-        "homeId": 1076,
-        "awayId": 67,
-        "home": "Coventry City",
-        "away": "Newcastle",
-        "homeCrest": "https://crests.football-data.org/1076.png",
-        "awayCrest": "https://crests.football-data.org/67.png",
-        "date": "2026-10-12T19:00:00Z",
-        "status": "FINISHED",
-        "timeframe": "past",
-        "score": "4-1",
-        "halfTime": "1-0",
-        "fullHome": 4,
-        "fullAway": 1,
-        "halfHome": 1,
-        "halfAway": 0,
-        "winner": "HOME_TEAM",
-        "venue": null,
-        "referee": "John Brooks",
-        "stage": "REGULAR_SEASON",
-        "group": null,
-        "matchday": 6,
-        "league": "PL",
-        "leagueName": "Premier League",
-        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
-      },
-      {
         "id": 564704,
         "homeId": 88,
         "awayId": 559,
@@ -14142,31 +14756,31 @@
         "headToHead": null
       },
       {
-        "id": 560598,
-        "homeId": 64,
-        "awayId": 65,
-        "home": "Liverpool",
-        "away": "Man City",
-        "homeCrest": "https://crests.football-data.org/64.png",
-        "awayCrest": "https://crests.football-data.org/65.png",
+        "id": 565816,
+        "homeId": 17,
+        "awayId": 6,
+        "home": "Freiburg",
+        "away": "Schalke",
+        "homeCrest": "https://crests.football-data.org/17.png",
+        "awayCrest": "https://crests.football-data.org/6.png",
         "date": "2026-10-11T15:30:00Z",
         "status": "FINISHED",
         "timeframe": "past",
-        "score": "0-3",
-        "halfTime": "0-0",
-        "fullHome": 0,
-        "fullAway": 3,
-        "halfHome": 0,
-        "halfAway": 0,
-        "winner": "AWAY_TEAM",
+        "score": "2-1",
+        "halfTime": "1-1",
+        "fullHome": 2,
+        "fullAway": 1,
+        "halfHome": 1,
+        "halfAway": 1,
+        "winner": "HOME_TEAM",
         "venue": null,
-        "referee": "Chris Kavanagh",
+        "referee": "Martin Petersen",
         "stage": "REGULAR_SEASON",
         "group": null,
-        "matchday": 6,
-        "league": "PL",
-        "leagueName": "Premier League",
-        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "matchday": 5,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
         "homeForm": null,
         "awayForm": null,
         "homeGoalAvg": null,
@@ -14238,63 +14852,31 @@
         "headToHead": null
       },
       {
-        "id": 560594,
-        "homeId": 322,
-        "awayId": 62,
-        "home": "Hull City",
-        "away": "Everton",
-        "homeCrest": "https://crests.football-data.org/322.png",
-        "awayCrest": "https://crests.football-data.org/62.png",
-        "date": "2026-10-11T13:00:00Z",
+        "id": 565814,
+        "homeId": 1,
+        "awayId": 18,
+        "home": "1. FC Köln",
+        "away": "M'gladbach",
+        "homeCrest": "https://crests.football-data.org/1.png",
+        "awayCrest": "https://crests.football-data.org/18.png",
+        "date": "2026-10-11T13:30:00Z",
         "status": "FINISHED",
         "timeframe": "past",
-        "score": "2-2",
-        "halfTime": "0-0",
+        "score": "2-1",
+        "halfTime": "1-1",
         "fullHome": 2,
-        "fullAway": 2,
-        "halfHome": 0,
-        "halfAway": 0,
-        "winner": "DRAW",
-        "venue": null,
-        "referee": "Michael Salisbury",
-        "stage": "REGULAR_SEASON",
-        "group": null,
-        "matchday": 6,
-        "league": "PL",
-        "leagueName": "Premier League",
-        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-        "homeForm": null,
-        "awayForm": null,
-        "homeGoalAvg": null,
-        "awayGoalAvg": null,
-        "headToHead": null
-      },
-      {
-        "id": 560596,
-        "homeId": 354,
-        "awayId": 351,
-        "home": "Crystal Palace",
-        "away": "Nottingham",
-        "homeCrest": "https://crests.football-data.org/354.png",
-        "awayCrest": "https://crests.football-data.org/351.png",
-        "date": "2026-10-11T13:00:00Z",
-        "status": "FINISHED",
-        "timeframe": "past",
-        "score": "3-1",
-        "halfTime": "2-1",
-        "fullHome": 3,
         "fullAway": 1,
-        "halfHome": 2,
+        "halfHome": 1,
         "halfAway": 1,
         "winner": "HOME_TEAM",
         "venue": null,
-        "referee": "Peter Bankes",
+        "referee": "Florian Badstübner",
         "stage": "REGULAR_SEASON",
         "group": null,
-        "matchday": 6,
-        "league": "PL",
-        "leagueName": "Premier League",
-        "leagueFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "matchday": 5,
+        "league": "BL1",
+        "leagueName": "Bundesliga",
+        "leagueFlag": "🇩🇪",
         "homeForm": null,
         "awayForm": null,
         "homeGoalAvg": null,
